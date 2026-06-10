@@ -1,0 +1,230 @@
+{
+  "generated_at": "2026-04-06T07:47:38.028452",
+  "sem_label": "S14",
+  "diagnostic": "Semaine de taper complet avant semi-test Joinville (J-6). ATL=65.0, TSB=-19.4 — niveau de fatigue attendu avant une compétition. Efficacité aérobie 2.21 vs meilleur 2.019 (ratio 1.095) — légère régression temporaire normale en phase taper. FC nocturne baseline stabilisée à 57 bpm. Aucune séance réalisée cette semaine conformément au plan taper. Dernière sortie longue 23km @ 5:27/km avec dérive FC excellente +0.09 bpm/km.",
+  "points_vigilance": [
+    {
+      "msg": "TSB=-19.4 avec ATL=65.0 — fatigue élevée mais acceptable J-6 avant semi",
+      "severity": "info"
+    },
+    {
+      "msg": "Taper complet respecté — aucune séance cette semaine",
+      "severity": "info"
+    },
+    {
+      "msg": "Semi J-6 dimanche 12/04 — arriver frais mais pas reposé à 100%",
+      "severity": "info"
+    },
+    {
+      "msg": "S15 post-semi = bloc peak marathon critique — SL 22km non négociable",
+      "severity": "warning"
+    }
+  ],
+  "forme_globale": "FATIGUE",
+  "commentaire_forme": "TSB=-19.4 reflète la charge d'entraînement accumulée — normal avant compétition. Efficacité aérobie temporairement dégradée mais Z2 stable 5:12/km maintenue.",
+  "programme_s1": [
+    {
+      "date": "2026-04-14",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — Seuil 5×6'",
+      "duree": "45min",
+      "zone": "Z4 (161-172 bpm)",
+      "rpe": "7",
+      "structure": "12' EF → 4×6' Z4 (r=2') → 8' RC — D+ : 137 m [Whey Raptor pré-séance]",
+      "dist_cible": 10.5,
+      "dist_cible_m": null,
+      "modification": "Réduit de 5×6' à 4×6' selon TSB=-19.4 post-semi. Maintien du type seuil obligatoire pour bloc peak marathon S15."
+    },
+    {
+      "date": "2026-04-16",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "Tempo court",
+      "duree": "45min",
+      "zone": "Z3 (146-160 bpm)",
+      "rpe": "4",
+      "structure": "15' EF → 20' tempo → 10' RC — D+ : 82 m [Whey Raptor pré-séance]",
+      "dist_cible": 11.0,
+      "dist_cible_m": null,
+      "modification": "Réduit durée tempo 25'→20' pour récupération post-semi. Distance ajustée à 11km."
+    },
+    {
+      "date": "2026-04-17",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF + 6×20''",
+      "duree": "35min",
+      "zone": "Z2 (131-145 bpm)",
+      "rpe": "2",
+      "structure": "30' EF → 6×20'' strides (r=60'') → 5' RC — D+ : 55 m [Whey Raptor pré-séance]",
+      "dist_cible": 6.5,
+      "dist_cible_m": null,
+      "modification": null
+    },
+    {
+      "date": "2026-04-18",
+      "jour": "Samedi",
+      "sport": "Vélo",
+      "type": "Z2",
+      "duree": "45min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "45' Z2 continu, cadence 85-95 rpm [Café Raptor pré-séance]",
+      "dist_cible": null,
+      "dist_cible_m": null,
+      "modification": "Réduit 60'→45' pour récupération post-semi avant bloc peak marathon."
+    },
+    {
+      "date": "2026-04-18",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Technique + éducatifs",
+      "duree": "25min",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "200 facile → 8×50 éducatifs → 3×150 facile → 100 brasse [Café Raptor pré-séance]",
+      "dist_cible": null,
+      "dist_cible_m": 1300,
+      "modification": "Réduit 1500→1300m pour récupération. Double journée vélo+natation — charge cumulée surveillée."
+    },
+    {
+      "date": "2026-04-19",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "Endurance facile",
+      "duree": "20min",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "700m continu facile crawl",
+      "dist_cible": null,
+      "dist_cible_m": 700,
+      "modification": "Ajout natation récupération avant SL critique."
+    },
+    {
+      "date": "2026-04-19",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "Sortie longue allégée",
+      "duree": "110min",
+      "zone": "Z2 (131-145 bpm)",
+      "rpe": "4",
+      "structure": "110' Z2 plage 5:13-5:38/km → 5' RC — D+ : 275 m [Whey Raptor + nutrition 30g/h après 75min]",
+      "dist_cible": 22.0,
+      "dist_cible_m": null,
+      "modification": "SL 22km NON NÉGOCIABLE — bloc peak marathon S15. Double journée natation+SL — charge cumulée critique."
+    }
+  ],
+  "programme_s2": [
+    {
+      "date": "2026-04-21",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — Seuil long 4×8'",
+      "duree": "60min",
+      "zone": "Z4 (161-172 bpm)",
+      "rpe": "6",
+      "structure": "12' EF → 4×8' Z4 (r=2'30) → 8' RC — D+ : 126 m [Whey Raptor pré-séance]",
+      "dist_cible": 12.0,
+      "dist_cible_m": null,
+      "modification": null
+    },
+    {
+      "date": "2026-04-23",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "Tempo \"cruise\" 2×20'",
+      "duree": "60min",
+      "zone": "Z3 (146-160 bpm)",
+      "rpe": "5",
+      "structure": "15' EF → 2×20' tempo (r=3') → 10' RC — D+ : 75 m [Whey Raptor pré-séance]",
+      "dist_cible": 11.0,
+      "dist_cible_m": null,
+      "modification": null
+    },
+    {
+      "date": "2026-04-24",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF + 6×20''",
+      "duree": "40min",
+      "zone": "Z2 (131-145 bpm)",
+      "rpe": "2",
+      "structure": "30' EF → 6×20'' strides (r=60'') → 10' RC — D+ : 50 m [Whey Raptor pré-séance]",
+      "dist_cible": 8.0,
+      "dist_cible_m": null,
+      "modification": null
+    },
+    {
+      "date": "2026-04-26",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "Sortie longue structurée",
+      "duree": "130min",
+      "zone": "Z2-Z3 (131-160 bpm)",
+      "rpe": "5",
+      "structure": "120' Z2 plage 5:12-5:37/km → 10' Z3 → 5' RC — D+ : 252 m [Whey Raptor + nutrition 30-45g/h après 75min]",
+      "dist_cible": 24.0,
+      "dist_cible_m": null,
+      "modification": "Durée ajustée 110'→130' pour 24km à allure Z2 mesurée. Ajout finish Z3 pour spécificité marathon."
+    }
+  ],
+  "sub_proposes": {
+    "semi": {
+      "sub_cible": "1:46:53",
+      "allure_cible": "5:04/km",
+      "probabilite_pct": 65,
+      "note": "Basé sur Z2 mesurée 5:12/km × coefficient Riegel 0.96. TSB=-19.4 acceptable J-6."
+    },
+    "marathon": {
+      "sub_cible": "3:22:32",
+      "allure_cible": "4:48/km",
+      "probabilite_pct": 52,
+      "note": "Z2 5:12/km × 0.91 = 4:44/km +4s fatigue. Résultat semi sera référence Riegel."
+    },
+    "im703": {
+      "sub_cible": "5:45:00",
+      "allure_cible": null,
+      "probabilite_pct": 55,
+      "note": "Données vélo/natation insuffisantes — estimation qualitative maintenue."
+    },
+    "imfull": {
+      "sub_cible": "11:30:00",
+      "allure_cible": null,
+      "probabilite_pct": 42,
+      "note": "Estimation basée uniquement sur partie course — vélo/natation à développer."
+    }
+  },
+  "zones_proposees": null,
+  "zones_confiance_haute": true,
+  "zones_commentaire": "Z2 plage mesurée sur 2 séances stables. Centre 5:18/km mais utiliser la plage complète selon terrain/fatigue.",
+  "pending_updates": null,
+  "zone_calib": {
+    "auto_update": true,
+    "proposed_z2_pace_s": 318,
+    "proposed_z2_pace_str": "5:18",
+    "proposed_z2_pace_range": "5:13–5:38/km",
+    "calibrating_sessions": [
+      {
+        "date": "2026-03-08",
+        "hr_avg": 142,
+        "pace_avg_s": 307,
+        "n_splits": 18
+      },
+      {
+        "date": "2026-03-29",
+        "hr_avg": 143,
+        "pace_avg_s": 330,
+        "n_splits": 18
+      }
+    ],
+    "reason": "Basé sur 2 séances Z2 stables"
+  },
+  "files_written": [
+    "/root/polar/programme/semaine_15.json",
+    "/root/polar/programme/semaine_16.json",
+    "/root/polar/races.json"
+  ],
+  "validated": true,
+  "validated_at": "2026-04-06T07:56:38.335287"
+}

@@ -1,0 +1,63 @@
+{
+  "sections": [
+    {
+      "name": "🌅 Routine du matin",
+      "tasks": [
+        "Lavage Nez",
+        "Faire un jus de citron",
+        "Douche froide",
+        "Lit fait",
+        "Levé du soleil",
+        "Exercice de mobilité",
+        "Pompe progressif"
+      ]
+    },
+    {
+      "name": "☀️ Routine de la journée",
+      "tasks": [
+        "Ecoute info",
+        "Marche digestive (midi)",
+        "Marche digestive (soir)",
+        "Coucher de soleil"
+      ]
+    },
+    {
+      "name": "🌙 Routine soir",
+      "tasks": [
+        "Arrêt écrans -21h30",
+        "Méditation",
+        "Lire 5 pages",
+        "7-8h de sommeil",
+        "Avancé sport",
+        "Avancé dans les projets",
+        "No Flap",
+        "No porn",
+        "No alcool"
+      ]
+    }
+  ],
+  "log": {
+    "2026-04-02": {
+      "No Flap": "Non fait",
+      "No porn": "Non fait",
+      "No alcool": "Fait",
+      "Avancé dans les projets": "Fait",
+      "Avancé sport": "Fait",
+      "7-8h de sommeil": "Fait",
+      "Lire 5 pages": "Non fait",
+      "Méditation": "Fait",
+      "Arrêt écrans -21h30": "Fait",
+      "Coucher de soleil": "Fait",
+      "Marche digestive (soir)": "Fait",
+      "Marche digestive (midi)": "Non fait",
+      "Ecoute info": "Non fait",
+      "Pompe progressif": "Fait",
+      "Exercice de mobilité": "Fait",
+      "Levé du soleil": "Fait",
+      "Lit fait": "Fait",
+      "Douche froide": "Fait",
+      "Faire un jus de citron": "Fait",
+      "Lavage Nez": "Fait"
+    }
+  }
+}

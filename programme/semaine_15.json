@@ -1,0 +1,84 @@
+{
+  "semaine": "Semaine 15",
+  "seances": [
+    {
+      "date": "2026-04-14",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — Seuil 5×6'",
+      "duree": "45min",
+      "zone": "Z1-Z2 (0-145)",
+      "rpe": "3",
+      "structure": "45' EF continu — D+ : 137 m",
+      "dist_cible": 11.0,
+      "dist_cible_m": null,
+      "modification": "Post-semi : suppression qualité Z4, EF Z1-Z2 uniquement (J+3 récup obligatoire)"
+    },
+    {
+      "date": "2026-04-16",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "Tempo court",
+      "duree": "50min",
+      "zone": "Z2-Z3 (131-160)",
+      "rpe": "4",
+      "structure": "15' EF → 20' tempo Z3 bas → 15' RC — D+ : 82 m",
+      "dist_cible": 12.0,
+      "dist_cible_m": null,
+      "modification": "Post-semi : tempo limité à Z3 bas, pas de Z4 (J+5 récup partielle)"
+    },
+    {
+      "date": "2026-04-17",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF + 6×20''",
+      "duree": "35min",
+      "zone": "Z2 (131-145)",
+      "rpe": "2",
+      "structure": "35' EF continu → 6×20'' Z3 léger (r=60'') — D+ : 55 m",
+      "dist_cible": 6.5,
+      "dist_cible_m": null,
+      "modification": "Post-semi : accélérations Z3 léger uniquement, pas de Z4"
+    },
+    {
+      "date": "2026-04-18",
+      "jour": "Samedi",
+      "sport": "Vélo",
+      "type": "Z2",
+      "duree": "60min",
+      "zone": "Z2",
+      "rpe": "3",
+      "structure": "Vélo Z2",
+      "dist_cible": null,
+      "dist_cible_m": null,
+      "modification": null
+    },
+    {
+      "date": "2026-04-18",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Technique + éducatifs",
+      "duree": "30min",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "4×50 facile (crawl/dos) → 10×50 éducatifs → 3×200 facile + 1×50 facile → 150m brasse",
+      "dist_cible": null,
+      "dist_cible_m": 1500,
+      "modification": null
+    },
+    {
+      "date": "2026-04-19",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "Sortie longue allégée",
+      "duree": "70min",
+      "zone": "Z2 (131-145)",
+      "rpe": "3",
+      "structure": "80–90' Z2 → RC — D+ : 275 m",
+      "dist_cible": 22.0,
+      "dist_cible_m": null,
+      "modification": null
+    }
+  ],
+  "coach_updated_at": "2026-04-12 20:33"
+}

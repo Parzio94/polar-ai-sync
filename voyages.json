@@ -1,0 +1,2498 @@
+{
+  "voyages": [
+    {
+      "id": "236b880e",
+      "nom": "Week-end avec les Chauves stylé",
+      "type": "train",
+      "statut": "planifie",
+      "date_debut": "2026-04-30",
+      "date_fin": "2026-05-04",
+      "couleur": "#3b82f6",
+      "notes_generales": "",
+      "etapes": [],
+      "elements": [
+        {
+          "id": "ecae9adc",
+          "type": "transport",
+          "date": "2026-04-30",
+          "moment": "midi",
+          "heure": "12:39",
+          "mode": "train",
+          "ville_depart": "Gare,  Luxembourg",
+          "ville_arrivee": "Gare de l'Est,  Rue du 8 Mai 1945",
+          "prix_reel": 46.2,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 49.6037237,
+            "lng": 6.1276729
+          },
+          "coords": {
+            "lat": 48.8762027,
+            "lng": 2.3579127
+          },
+          "distance_km": 285.3,
+          "heure_fin": "15:17"
+        },
+        {
+          "id": "fb51f6a8",
+          "type": "transport",
+          "date": "2026-04-30",
+          "moment": "aprem",
+          "heure": null,
+          "mode": "train",
+          "ville_depart": "Paris Gare de l'Est,  Place du 11 Novembre 1918",
+          "ville_arrivee": "Gare Montparnasse,  Avenue du Maine",
+          "prix_reel": 2.55,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords_depart": {
+            "lat": 48.8770979,
+            "lng": 2.3594905
+          },
+          "coords": {
+            "lat": 48.8409432,
+            "lng": 2.3217085
+          },
+          "distance_km": 4.9,
+          "heure_fin": null
+        },
+        {
+          "id": "e6ac6eb7",
+          "type": "transport",
+          "date": "2026-04-30",
+          "moment": "aprem",
+          "heure": "15:42",
+          "mode": "train",
+          "ville_depart": "Gare Montparnasse,  Allée de la 2e Division Blindée",
+          "ville_arrivee": "Richebourg,  Mantes-la-Jolie",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 48.8400624,
+            "lng": 2.3191085
+          },
+          "coords": {
+            "lat": 48.822196,
+            "lng": 1.6364939
+          },
+          "distance_km": 50.0
+        },
+        {
+          "id": "d66c1341",
+          "type": "hotel",
+          "date": "2026-04-30",
+          "moment": "soir",
+          "heure": null,
+          "nom": "Herbergement Tacoignières",
+          "ville": "Tacoignières,  Mantes-la-Jolie",
+          "type_evenement": "checkin",
+          "prix_reel": 142.6,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords": {
+            "lat": 48.8350942,
+            "lng": 1.6737953
+          },
+          "heure_fin": null
+        },
+        {
+          "id": "9aafe209",
+          "type": "hotel",
+          "date": "2026-05-03",
+          "moment": "matin",
+          "heure": "11:00",
+          "nom": "Herbergement Tacoignières",
+          "ville": "Tacoignières,  Mantes-la-Jolie",
+          "type_evenement": "checkout",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 48.8350942,
+            "lng": 1.6737953
+          },
+          "heure_fin": null
+        },
+        {
+          "id": "ca9a9a98",
+          "type": "hotel",
+          "date": "2026-05-03",
+          "moment": "soir",
+          "heure": "17:41",
+          "nom": "Maison ! ",
+          "ville": "2,  Villa des Roses",
+          "type_evenement": "checkin",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 48.835344,
+            "lng": 2.503027
+          },
+          "heure_fin": null
+        },
+        {
+          "id": "53d8b931",
+          "type": "transport",
+          "date": "2026-05-04",
+          "moment": "matin",
+          "heure": "08:21",
+          "mode": "train",
+          "ville_depart": "Paris Gare de l'Est,  Place du 11 Novembre 1918",
+          "ville_arrivee": "Gare,  Luxembourg",
+          "prix_reel": 41.0,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 48.8770979,
+            "lng": 2.3594905
+          },
+          "coords": {
+            "lat": 49.6037237,
+            "lng": 6.1276729
+          },
+          "distance_km": 285.2,
+          "heure_fin": "10:33"
+        },
+        {
+          "id": "4bb39f66",
+          "type": "activite",
+          "date": "2026-05-01",
+          "moment": "matin",
+          "heure": "11:01",
+          "heure_fin": null,
+          "nom": "REGUL",
+          "ville": "",
+          "prix_reel": 129,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": null
+        }
+      ]
+    },
+    {
+      "id": "64547f02",
+      "nom": "La rochelle !",
+      "type": "velo",
+      "statut": "planifie",
+      "date_debut": "2026-05-22",
+      "date_fin": "2026-05-25",
+      "couleur": "#e6af37",
+      "notes_generales": "",
+      "etapes": [],
+      "elements": [
+        {
+          "id": "6f194c99",
+          "type": "transport",
+          "date": "2026-05-22",
+          "moment": "matin",
+          "heure": "07:44",
+          "heure_fin": "10:24",
+          "mode": "train",
+          "ville_depart": "Luxembourg,  Parvis de la Gare",
+          "ville_arrivee": "Paris Gare de l'Est,  Place du 11 Novembre 1918",
+          "prix_reel": 138.2,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 49.5999681,
+            "lng": 6.1342493
+          },
+          "coords": {
+            "lat": 48.8770979,
+            "lng": 2.3594905
+          },
+          "distance_km": 285.6
+        },
+        {
+          "id": "57f8b7a8",
+          "type": "transport",
+          "date": "2026-05-22",
+          "moment": "matin",
+          "heure": "12:12",
+          "heure_fin": "15:03",
+          "mode": "train",
+          "ville_depart": "Gare Montparnasse,  Allée de la 2e Division Blindée",
+          "ville_arrivee": "Gare,  La Rochelle",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 48.8400624,
+            "lng": 2.3191085
+          },
+          "coords": {
+            "lat": 46.1531454,
+            "lng": -1.146014
+          },
+          "distance_km": 396.2
+        },
+        {
+          "id": "40f64c65",
+          "type": "hotel",
+          "date": "2026-05-22",
+          "moment": "soir",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Chez le  frerot ",
+          "ville": "L'Houmeau,  La Rochelle",
+          "type_evenement": "checkin",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords": {
+            "lat": 46.1906042,
+            "lng": -1.1870102
+          }
+        },
+        {
+          "id": "c51d1bc3",
+          "type": "transport",
+          "date": "2026-05-25",
+          "moment": "matin",
+          "heure": "10:49",
+          "heure_fin": "13:44",
+          "mode": "train",
+          "ville_depart": "Gare,  La Rochelle",
+          "ville_arrivee": "Gare Montparnasse,  Avenue du Maine",
+          "prix_reel": 79,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 46.1531454,
+            "lng": -1.146014
+          },
+          "coords": {
+            "lat": 48.8409432,
+            "lng": 2.3217085
+          },
+          "distance_km": 396.4
+        },
+        {
+          "id": "aa9525c7",
+          "type": "nourriture",
+          "date": "2026-05-25",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "A LA MAISON",
+          "ville": "2,  Villa des Roses",
+          "prix_min": 0,
+          "prix_reel": null,
+          "coords": {
+            "lat": 48.835344,
+            "lng": 2.503027
+          }
+        },
+        {
+          "id": "45ebddc9",
+          "type": "transport",
+          "date": "2026-05-25",
+          "moment": "aprem",
+          "heure": "17:40",
+          "heure_fin": "19:04",
+          "mode": "train",
+          "ville_depart": "Paris Gare de l'Est,  Place du 11 Novembre 1918",
+          "ville_arrivee": "Gare,  Place Général de Gaulle",
+          "prix_reel": 59,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 48.8770979,
+            "lng": 2.3594905
+          },
+          "coords": {
+            "lat": 49.1103122,
+            "lng": 6.1775902
+          },
+          "distance_km": 279.7
+        },
+        {
+          "id": "3d64edef",
+          "type": "transport",
+          "date": "2026-05-25",
+          "moment": "soir",
+          "heure": "19:31",
+          "heure_fin": "20:10",
+          "mode": "train",
+          "ville_depart": "Gare,  Place Général de Gaulle",
+          "ville_arrivee": "Bettembourg,  Place de la Gare",
+          "prix_reel": 7,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 49.1103122,
+            "lng": 6.1775902
+          },
+          "coords": {
+            "lat": 49.5165388,
+            "lng": 6.1015534
+          },
+          "distance_km": 45.5
+        }
+      ]
+    },
+    {
+      "id": "abbcb7c5",
+      "nom": "Malaga 2026",
+      "type": "avion",
+      "statut": "planifie",
+      "date_debut": "2026-06-20",
+      "date_fin": "2026-06-28",
+      "couleur": "#e63946",
+      "notes_generales": "",
+      "etapes": [],
+      "elements": [
+        {
+          "id": "14d45bf8",
+          "type": "transport",
+          "date": "2026-06-20",
+          "moment": "aprem",
+          "heure": "14:10",
+          "heure_fin": "16:30",
+          "mode": "train",
+          "ville_depart": "Luxembourg,  Parvis de la Gare",
+          "ville_arrivee": "Paris Gare de l'Est,  Place du 11 Novembre 1918",
+          "prix_reel": 35,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 49.5999681,
+            "lng": 6.1342493
+          },
+          "coords": {
+            "lat": 48.8770979,
+            "lng": 2.3594905
+          },
+          "distance_km": 285.6
+        },
+        {
+          "id": "198992ca",
+          "type": "transport",
+          "date": "2026-06-28",
+          "moment": "aprem",
+          "heure": "16:16",
+          "heure_fin": "19:24",
+          "mode": "train",
+          "ville_depart": "Paris Gare de l'Est,  Place du 11 Novembre 1918",
+          "ville_arrivee": "Gare,  Luxembourg",
+          "prix_reel": 42.2,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 48.8770979,
+            "lng": 2.3594905
+          },
+          "coords": {
+            "lat": 49.6037237,
+            "lng": 6.1276729
+          },
+          "distance_km": 285.2
+        },
+        {
+          "id": "3f3f9545",
+          "type": "transport",
+          "date": "2026-06-28",
+          "moment": "matin",
+          "heure": "09:20",
+          "heure_fin": "11:50",
+          "mode": "avion",
+          "ville_depart": "Aeropuerto de Málaga - Costa del Sol,  Avenida del Comandante García Morato",
+          "ville_arrivee": "Aéroport de Paris-Orly,  Chemin des Édouets",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "CGSE9K",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 36.6785446,
+            "lng": -4.4999552
+          },
+          "coords": {
+            "lat": 48.7300596,
+            "lng": 2.3678313
+          },
+          "distance_km": 1451.3
+        },
+        {
+          "id": "c782d119",
+          "type": "hotel",
+          "date": "2026-06-20",
+          "moment": "soir",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Maison ! ",
+          "ville": "",
+          "type_evenement": "checkin",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords": null
+        },
+        {
+          "id": "ca18c1b4",
+          "type": "transport",
+          "date": "2026-06-21",
+          "moment": "matin",
+          "heure": "11:10",
+          "heure_fin": "13:40",
+          "mode": "avion",
+          "ville_depart": "Aéroport de Paris-Orly,  Chemin des Édouets",
+          "ville_arrivee": "Aeropuerto de Málaga - Costa del Sol,  Avenida del Comandante García Morato",
+          "prix_reel": 95.97,
+          "lien": "",
+          "ref_confirmation": "ZCMG2M",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 48.7300596,
+            "lng": 2.3678313
+          },
+          "coords": {
+            "lat": 36.6785446,
+            "lng": -4.4999552
+          },
+          "distance_km": 1451.3
+        }
+      ]
+    },
+    {
+      "id": "b6577d02",
+      "nom": "Italie 2026",
+      "type": "avion",
+      "statut": "planifie",
+      "date_debut": "2026-07-23",
+      "date_fin": "2026-07-31",
+      "couleur": "#3a884a",
+      "notes_generales": "",
+      "etapes": [
+        {
+          "id": "ebb71bff",
+          "nom": "florence",
+          "date_debut": "2026-07-23",
+          "date_fin": "2026-07-26",
+          "coords": {
+            "lat": 43.7697955,
+            "lng": 11.2556404
+          }
+        },
+        {
+          "id": "c312e50e",
+          "nom": "Rome",
+          "date_debut": "2026-07-26",
+          "date_fin": "2026-07-31",
+          "coords": {
+            "lat": 41.8933203,
+            "lng": 12.4829321
+          }
+        }
+      ],
+      "elements": [
+        {
+          "id": "a0cb338d",
+          "type": "transport",
+          "date": "2026-07-23",
+          "moment": "aprem",
+          "heure": "15:27",
+          "heure_fin": "18:30",
+          "mode": "train",
+          "ville_depart": "Gare Luxembourg",
+          "ville_arrivee": "Paris Gare de l'Est,  Place du 11 Novembre 1918",
+          "prix_reel": 35.1,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 49.6037237,
+            "lng": 6.1276729
+          },
+          "coords": {
+            "lat": 48.8770979,
+            "lng": 2.3594905
+          },
+          "distance_km": 285.2
+        },
+        {
+          "id": "92454d06",
+          "type": "transport",
+          "date": "2026-07-23",
+          "moment": "soir",
+          "heure": "21:35",
+          "heure_fin": "23:10",
+          "mode": "avion",
+          "ville_depart": "Aéroport de Paris-Orly,  Avenue Léon Jouhaux",
+          "ville_arrivee": "Aeroporto Firenze Amerigo Vespucci,  Via dei Cipressi",
+          "prix_reel": 58,
+          "lien": "https://www.kiwi.com/fr/trips/758420047/?source=t-email",
+          "ref_confirmation": "758420047",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 48.7300596,
+            "lng": 2.3678313
+          },
+          "coords": {
+            "lat": 43.8092763,
+            "lng": 11.1991073
+          },
+          "distance_km": 870.9
+        },
+        {
+          "id": "0d619a63",
+          "type": "transport",
+          "date": "2026-07-26",
+          "moment": "soir",
+          "heure": "19:45",
+          "heure_fin": "21:20",
+          "mode": "train",
+          "ville_depart": "Firenze Santa Maria Novella,  Piazza della Stazione",
+          "ville_arrivee": "Rome,  Galleria Termini",
+          "prix_reel": 19.31,
+          "lien": "https://www.thetrainline.com/fr/my-account/order-token#ZECsT46ZIVGD8focdq6CFuFGwGESSBIO7KQ1m0UP98PXkoPRtZZ04yG3L9sI3O1e",
+          "ref_confirmation": "FFPK3D",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 43.7775719,
+            "lng": 11.2474177
+          },
+          "coords": {
+            "lat": 41.9005815,
+            "lng": 12.5025272
+          },
+          "distance_km": 232.4
+        },
+        {
+          "id": "a0d51c34",
+          "type": "transport",
+          "date": "2026-07-31",
+          "moment": "midi",
+          "heure": "12:00",
+          "heure_fin": "14:50",
+          "mode": "avion",
+          "ville_depart": "Aeroporto di Roma-Fiumicino,  Via Leonardo da Vinci",
+          "ville_arrivee": "L'aéroport international de Thessalonique \"Makédonia\",  Θεσσαλονίκης - Περαίας",
+          "prix_reel": 98,
+          "lien": "https://www.kiwi.com/fr/trips/758906533/itinerary-details/",
+          "ref_confirmation": "758906533",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 41.8153911,
+            "lng": 12.2264848
+          },
+          "coords": {
+            "lat": 40.5198019,
+            "lng": 22.9740868
+          },
+          "distance_km": 910.5
+        },
+        {
+          "id": "ab4e942d",
+          "type": "transport",
+          "date": "2026-07-24",
+          "moment": "matin",
+          "heure": "08:10",
+          "heure_fin": "09:38",
+          "mode": "train",
+          "ville_depart": "Firenze Santa Maria Novella,  Piazza della Stazione",
+          "ville_arrivee": "53100,  Terzo di Camollia",
+          "prix_reel": 10.2,
+          "lien": "https://www.omio.fr/app/your-bookings/0c304cee-d12d-411c-9375-47e9ca9e953f?locale=fr",
+          "ref_confirmation": "2785528688",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 43.7775719,
+            "lng": 11.2474177
+          },
+          "coords": {
+            "lat": 43.3194908,
+            "lng": 11.3304942
+          },
+          "distance_km": 1300.1
+        },
+        {
+          "id": "68dc33fe",
+          "type": "transport",
+          "date": "2026-07-24",
+          "moment": "soir",
+          "heure": "21:40",
+          "heure_fin": "23:19",
+          "mode": "train",
+          "ville_depart": "53100,  Terzo di Camollia",
+          "ville_arrivee": "Firenze Santa Maria Novella,  Piazza della Stazione",
+          "prix_reel": 10.2,
+          "lien": "https://www.omio.fr/app/your-bookings/0c304cee-d12d-411c-9375-47e9ca9e953f?locale=fr",
+          "ref_confirmation": "2785528686",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 43.3194908,
+            "lng": 11.3304942
+          },
+          "coords": {
+            "lat": 43.7775719,
+            "lng": 11.2474177
+          },
+          "distance_km": 50.9
+        },
+        {
+          "id": "39f71ec1",
+          "type": "hotel",
+          "date": "2026-07-23",
+          "moment": "soir",
+          "heure": "23:45",
+          "heure_fin": null,
+          "nom": "Adre Majestic View ! Center of Florence !",
+          "ville": "4,  Via Ventisette Aprile",
+          "type_evenement": "checkin",
+          "prix_reel": 226.62,
+          "lien": "https://secure.booking.com/confirmation.fr.html?aid=1588656&label=qwa121jc-10CAMocTiUA0gNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCh72wzQbAAgHSAiQ0MWFhNjc2NC1iZDVlLTQzMzgtOTg3OS1jNWU1NmIzYjUzOTDYAgHgAgE&sid=2a55e0f8172f3953c4a0014c2cf28c31&hostname=www.booking.com&nflt=min_bathrooms%3D1&pfi=10966618981959&pre_pbb_price=244.62&pre_price=244.6152&rt_num_blocks=10&source=conf_brief&srpvid=c1134a3c9baf00bf&ua_created=0&bn=6618981959",
+          "ref_confirmation": "6618981959 / 1061",
+          "statut": "paye",
+          "coords": {
+            "lat": 43.7787793,
+            "lng": 11.2567741
+          }
+        },
+        {
+          "id": "51498de7",
+          "type": "hotel",
+          "date": "2026-07-26",
+          "moment": "matin",
+          "heure": "11:01",
+          "heure_fin": null,
+          "nom": "Adre Majestic View ! Center of Florence !",
+          "ville": "4,  Via Ventisette Aprile",
+          "type_evenement": "checkout",
+          "prix_reel": null,
+          "lien": "https://secure.booking.com/confirmation.fr.html?aid=1588656&label=qwa121jc-10CAMocTiUA0gNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCh72wzQbAAgHSAiQ0MWFhNjc2NC1iZDVlLTQzMzgtOTg3OS1jNWU1NmIzYjUzOTDYAgHgAgE&sid=2a55e0f8172f3953c4a0014c2cf28c31&hostname=www.booking.com&nflt=min_bathrooms%3D1&pfi=10966618981959&pre_pbb_price=244.62&pre_price=244.6152&rt_num_blocks=10&source=conf_brief&srpvid=c1134a3c9baf00bf&ua_created=0&bn=6618981959",
+          "ref_confirmation": "6618981959 / 1061",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.7787793,
+            "lng": 11.2567741
+          }
+        },
+        {
+          "id": "8e749906",
+          "type": "hotel",
+          "date": "2026-07-26",
+          "moment": "soir",
+          "heure": "22:00",
+          "heure_fin": null,
+          "nom": "ROMA Classica",
+          "ville": "31,  Via Carlo Cattaneo",
+          "type_evenement": "checkin",
+          "prix_reel": 241.51,
+          "lien": "https://secure.booking.com/confirmation.fr.html?aid=1588656&label=qwa121jc-10CAMocTiUA0gNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCh72wzQbAAgHSAiQ0MWFhNjc2NC1iZDVlLTQzMzgtOTg3OS1jNWU1NmIzYjUzOTDYAgHgAgE&sid=2a55e0f8172f3953c4a0014c2cf28c31&hostname=www.booking.com&is_bsd_shown=1&nflt=min_bathrooms%3D1&pfi=10695274488242&pre_pbb_price=290.45&pre_price=290.45&rt_num_blocks=2&source=conf_brief&srpvid=089241863a4d03ab&ua_created=0&bn=5274488242",
+          "ref_confirmation": "5274488242 / 7862",
+          "statut": "paye",
+          "coords": {
+            "lat": 41.8985618,
+            "lng": 12.5025621
+          }
+        },
+        {
+          "id": "55f4ae91",
+          "type": "hotel",
+          "date": "2026-07-31",
+          "moment": "matin",
+          "heure": "11:01",
+          "heure_fin": null,
+          "nom": "ROMA Classica",
+          "ville": "31,  Via Carlo Cattaneo",
+          "type_evenement": "checkin",
+          "prix_reel": null,
+          "lien": "https://secure.booking.com/confirmation.fr.html?aid=1588656&label=qwa121jc-10CAMocTiUA0gNWANoTYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCh72wzQbAAgHSAiQ0MWFhNjc2NC1iZDVlLTQzMzgtOTg3OS1jNWU1NmIzYjUzOTDYAgHgAgE&sid=2a55e0f8172f3953c4a0014c2cf28c31&hostname=www.booking.com&is_bsd_shown=1&nflt=min_bathrooms%3D1&pfi=10695274488242&pre_pbb_price=290.45&pre_price=290.45&rt_num_blocks=2&source=conf_brief&srpvid=089241863a4d03ab&ua_created=0&bn=5274488242",
+          "ref_confirmation": "5274488242 / 7862",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8985618,
+            "lng": 12.5025621
+          }
+        },
+        {
+          "id": "f0260847",
+          "type": "activite",
+          "date": "2026-07-25",
+          "moment": "aprem",
+          "heure": "14:15",
+          "heure_fin": null,
+          "nom": "Entrée dome pour ✅ Dôme (montée) ✅ Campanile ✅ Baptistère ✅ Musée du Duomo",
+          "ville": "2,  Piazza del Duomo",
+          "prix_reel": 30.0,
+          "lien": "https://tickets.duomo.firenze.it/en/store#/en/order_details/75005825",
+          "ref_confirmation": "87-TY9ZNH8",
+          "statut": "paye",
+          "coords": {
+            "lat": 43.7735746,
+            "lng": 11.256582
+          }
+        },
+        {
+          "id": "d2ba7b81",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "matin",
+          "heure": "10:00",
+          "heure_fin": null,
+          "nom": "Loggia della Mercanzia",
+          "ville": "Ristorante Al Mangia,  43",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.318832,
+            "lng": 11.3312532
+          }
+        },
+        {
+          "id": "b4c6a199",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "matin",
+          "heure": "10:00",
+          "heure_fin": null,
+          "nom": "Via di Città",
+          "ville": "Via di Città,  Contrada dell'Aquila",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.3166366,
+            "lng": 11.3302613
+          }
+        },
+        {
+          "id": "d4a67572",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "matin",
+          "heure": "11:00",
+          "heure_fin": null,
+          "nom": "Duomo di Siena + Biblioteca Piccolomini",
+          "ville": "Duomo di Siena,  Via dei Fusari",
+          "prix_reel": 15.0,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 43.3176275,
+            "lng": 11.3287837
+          }
+        },
+        {
+          "id": "68be8f5f",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "matin",
+          "heure": "11:00",
+          "heure_fin": null,
+          "nom": "Panorama depuis le Facciatone",
+          "ville": "Piazza del Duomo,  Contrada della Selva",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.3171968,
+            "lng": 11.3285564
+          }
+        },
+        {
+          "id": "da348dbe",
+          "type": "nourriture",
+          "date": "2026-07-24",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Osteria La Chiacchera / ou  Il Bandierino",
+          "ville": "Osteria La Chiacchera,  4",
+          "prix_min": 15.0,
+          "prix_reel": null,
+          "coords": {
+            "lat": 43.32012,
+            "lng": 11.3287944
+          }
+        },
+        {
+          "id": "5644aa56",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "aprem",
+          "heure": "14:00",
+          "heure_fin": null,
+          "nom": "Piazza del Campo",
+          "ville": "Il Campo,  Pispini",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.3184391,
+            "lng": 11.3315583
+          }
+        },
+        {
+          "id": "5011b928",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "aprem",
+          "heure": "14:00",
+          "heure_fin": null,
+          "nom": "Torre del Mangia",
+          "ville": "Torre del Mangia,  1",
+          "prix_reel": 10,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 43.3182864,
+            "lng": 11.3321952
+          }
+        },
+        {
+          "id": "d1df9d35",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "aprem",
+          "heure": "15:12",
+          "heure_fin": null,
+          "nom": " Balade ruelles médiévales",
+          "ville": "",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": null
+        },
+        {
+          "id": "70aa3cc6",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "aprem",
+          "heure": "19:00",
+          "heure_fin": null,
+          "nom": "Basilica Cateriniana San Domenico",
+          "ville": "Basilica Cateriniana di San Domenico,  Voltoni di San Domenico",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.3197987,
+            "lng": 11.326923
+          }
+        },
+        {
+          "id": "aa007e57",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "aprem",
+          "heure": "18:00",
+          "heure_fin": null,
+          "nom": "Pinacoteca Nazionale di Siena",
+          "ville": "Pinacoteca Nazionale di Siena,  29",
+          "prix_reel": 6.0,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 43.3156885,
+            "lng": 11.3304747
+          }
+        },
+        {
+          "id": "e01ef11f",
+          "type": "note",
+          "date": "2026-07-24",
+          "moment": "aprem",
+          "heure": null,
+          "heure_fin": null,
+          "titre": "Tour gastronomique de Sienne",
+          "contenu": "✅ Ricciarelli (biscuits d’amandes)\n✅ Panforte (dessert médiéval)\n✅ Vin Chianti Classico\n✅ Dégustation de pecorino toscan"
+        },
+        {
+          "id": "54eedc90",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "aprem",
+          "heure": "17:00",
+          "heure_fin": null,
+          "nom": "Mercato di Siena",
+          "ville": "Mercato delle Merci,  Viale Venticinque Aprile",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.3222249,
+            "lng": 11.3245212
+          }
+        },
+        {
+          "id": "4bd38f64",
+          "type": "nourriture",
+          "date": "2026-07-24",
+          "moment": "soir",
+          "heure": "20:00",
+          "heure_fin": null,
+          "nom": "La Prosciutteria Siena",
+          "ville": "La Prosciutteria Crudi e Bollicine,  89",
+          "prix_min": 20,
+          "prix_reel": null,
+          "coords": {
+            "lat": 43.3180529,
+            "lng": 11.3352933
+          }
+        },
+        {
+          "id": "0aeaee16",
+          "type": "activite",
+          "date": "2026-07-24",
+          "moment": "aprem",
+          "heure": "16:00",
+          "heure_fin": null,
+          "nom": "Fortezza Medicea + Jardin public",
+          "ville": "Fortezza Medicea,  Viale Vittorio Veneto",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.322266,
+            "lng": 11.3233872
+          }
+        },
+        {
+          "id": "70d4cf02",
+          "type": "activite",
+          "date": "2026-07-25",
+          "moment": "matin",
+          "heure": "09:30",
+          "heure_fin": null,
+          "nom": "Galerie des Uffizi",
+          "ville": "Galerie des Offices,  Via dei Castellani",
+          "prix_reel": 20.0,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 43.7683129,
+            "lng": 11.2558009
+          }
+        },
+        {
+          "id": "ada2b381",
+          "type": "activite",
+          "date": "2026-07-25",
+          "moment": "matin",
+          "heure": "10:55",
+          "heure_fin": null,
+          "nom": "Santa Croce",
+          "ville": "Santa Croce,  Via dei Bentaccordi",
+          "prix_reel": 8,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 43.7692594,
+            "lng": 11.2592579
+          }
+        },
+        {
+          "id": "338c1d09",
+          "type": "nourriture",
+          "date": "2026-07-25",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": " Gelato Vivoli",
+          "ville": "Vivoli Gelato,  7 R",
+          "prix_min": 4,
+          "prix_reel": null,
+          "coords": {
+            "lat": 43.769939,
+            "lng": 11.2601058
+          }
+        },
+        {
+          "id": "9b218068",
+          "type": "nourriture",
+          "date": "2026-07-25",
+          "moment": "midi",
+          "heure": "12:00",
+          "heure_fin": null,
+          "nom": "Panini ToscanI /  I’Girone de’Ghiotti",
+          "ville": "Panini Toscani,  34r",
+          "prix_min": 10.0,
+          "prix_reel": null,
+          "coords": {
+            "lat": 43.7733302,
+            "lng": 11.25764
+          }
+        },
+        {
+          "id": "53ed52f2",
+          "type": "activite",
+          "date": "2026-07-25",
+          "moment": "aprem",
+          "heure": "15:45",
+          "heure_fin": null,
+          "nom": "Ponte Vecchio + Oltrarno",
+          "ville": "Ponte Vecchio,  Piazza del Pesce",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.7680255,
+            "lng": 11.253158
+          }
+        },
+        {
+          "id": "e38642a5",
+          "type": "activite",
+          "date": "2026-07-25",
+          "moment": "aprem",
+          "heure": "18:00",
+          "heure_fin": null,
+          "nom": " Piazzale Michelangelo",
+          "ville": "Piazzale Michelangiolo,  San Niccolò",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.7628279,
+            "lng": 11.2649932
+          }
+        },
+        {
+          "id": "4105ba7c",
+          "type": "nourriture",
+          "date": "2026-07-25",
+          "moment": "soir",
+          "heure": null,
+          "heure_fin": null,
+          "nom": " Trattoria Mario  / Trattoria Zà Zà ",
+          "ville": "Trattoria Mario,  2r",
+          "prix_min": 18,
+          "prix_reel": null,
+          "coords": {
+            "lat": 43.7765666,
+            "lng": 11.2545454
+          }
+        },
+        {
+          "id": "7acd9c2e",
+          "type": "nourriture",
+          "date": "2026-07-26",
+          "moment": "aprem",
+          "heure": "19:00",
+          "heure_fin": null,
+          "nom": "I’Ghiottone / Sapori & Dintorni / Antica Pasticceria Sieni",
+          "ville": "Antica Pasticceria Gelateria Allori,  59b",
+          "prix_min": 10.0,
+          "prix_reel": null,
+          "coords": {
+            "lat": 43.7963912,
+            "lng": 11.2106404
+          }
+        },
+        {
+          "id": "5ea383c5",
+          "type": "activite",
+          "date": "2026-07-26",
+          "moment": "matin",
+          "heure": "09:30",
+          "heure_fin": null,
+          "nom": "Galerie de l’Académie",
+          "ville": "Galleria dell'Accademia,  58/60",
+          "prix_reel": 16.0,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 43.7769174,
+            "lng": 11.2587579
+          }
+        },
+        {
+          "id": "7ad83e78",
+          "type": "activite",
+          "date": "2026-07-26",
+          "moment": "matin",
+          "heure": "10:30",
+          "heure_fin": null,
+          "nom": "Palazzo Pitti",
+          "ville": "Palazzo Pitti,  Piazza dei Pitti",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.7652813,
+            "lng": 11.2502566
+          }
+        },
+        {
+          "id": "724af97a",
+          "type": "activite",
+          "date": "2026-07-26",
+          "moment": "matin",
+          "heure": "11:10",
+          "heure_fin": null,
+          "nom": "Palazzo Pitti + Jardins de Boboli",
+          "ville": "Palazzo Pitti,  Piazza dei Pitti",
+          "prix_reel": 20,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 43.7652813,
+            "lng": 11.2502566
+          }
+        },
+        {
+          "id": "af9543fb",
+          "type": "nourriture",
+          "date": "2026-07-26",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": " Osteria Santo Spirito / Gusta Pizza",
+          "ville": "Osteria Santo Spirito,  16 R",
+          "prix_min": 13.0,
+          "prix_reel": null,
+          "coords": {
+            "lat": 43.7665637,
+            "lng": 11.2468224
+          }
+        },
+        {
+          "id": "e73b1e9c",
+          "type": "nourriture",
+          "date": "2026-07-26",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Gelato La Carraia",
+          "ville": "la Carraia,  25r",
+          "prix_min": 4,
+          "prix_reel": null,
+          "coords": {
+            "lat": 43.7696233,
+            "lng": 11.2467117
+          }
+        },
+        {
+          "id": "23e37c8e",
+          "type": "activite",
+          "date": "2026-07-26",
+          "moment": "aprem",
+          "heure": "14:00",
+          "heure_fin": null,
+          "nom": " Mercato Centrale",
+          "ville": "Piazza del Mercato Centrale,  Quartiere 1",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.7766521,
+            "lng": 11.2541775
+          }
+        },
+        {
+          "id": "0f54c0d2",
+          "type": "activite",
+          "date": "2026-07-26",
+          "moment": "aprem",
+          "heure": "17:00",
+          "heure_fin": null,
+          "nom": "Petite balade autour Santa Maria Novella",
+          "ville": "Santa Maria Novella,  Piazza di Santa Maria Novella",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 43.7733602,
+            "lng": 11.2500762
+          }
+        },
+        {
+          "id": "0f87ad62",
+          "type": "activite",
+          "date": "2026-07-27",
+          "moment": "matin",
+          "heure": "09:15",
+          "heure_fin": null,
+          "nom": "Musées du Vatican + Chapelle Sixtine",
+          "ville": "Radio Vaticana,  Borgo Sant'Angelo",
+          "prix_reel": 25,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 41.9030508,
+            "lng": 12.4640006
+          }
+        },
+        {
+          "id": "9958c67b",
+          "type": "activite",
+          "date": "2026-07-27",
+          "moment": "matin",
+          "heure": "11:30",
+          "heure_fin": null,
+          "nom": "Basilique Saint‑Pierre",
+          "ville": "Oratoire Saint-Pierre à Borgo,  Place du Saint-Office",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.9006316,
+            "lng": 12.4562717
+          }
+        },
+        {
+          "id": "c6c45abf",
+          "type": "nourriture",
+          "date": "2026-07-27",
+          "moment": "midi",
+          "heure": "12:50",
+          "heure_fin": null,
+          "nom": "Pastasciutta",
+          "ville": "Pastasciutta,  5",
+          "prix_min": 10,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.9046605,
+            "lng": 12.4580774
+          }
+        },
+        {
+          "id": "b09f6b59",
+          "type": "activite",
+          "date": "2026-07-27",
+          "moment": "aprem",
+          "heure": "14:00",
+          "heure_fin": null,
+          "nom": "Castel Sant’Angelo",
+          "ville": "Château Saint-Ange,  Lungotevere Castello",
+          "prix_reel": 14,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 41.9031178,
+            "lng": 12.4663427
+          }
+        },
+        {
+          "id": "1b567f79",
+          "type": "activite",
+          "date": "2026-07-27",
+          "moment": "aprem",
+          "heure": "16:00",
+          "heure_fin": null,
+          "nom": "Ponte Sant’Angelo",
+          "ville": "Pont Saint-Ange,  Ponte",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.9019247,
+            "lng": 12.4664612
+          }
+        },
+        {
+          "id": "339343a5",
+          "type": "activite",
+          "date": "2026-07-27",
+          "moment": "aprem",
+          "heure": "17:00",
+          "heure_fin": null,
+          "nom": "Trastevere",
+          "ville": "Trastevere,  Municipio Roma I",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8911586,
+            "lng": 12.4668459
+          }
+        },
+        {
+          "id": "692087d6",
+          "type": "activite",
+          "date": "2026-07-27",
+          "moment": "aprem",
+          "heure": "18:25",
+          "heure_fin": null,
+          "nom": "Île Tibérine",
+          "ville": "Île Tibérine,  Ripa",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8904701,
+            "lng": 12.4777647
+          }
+        },
+        {
+          "id": "90a899dc",
+          "type": "activite",
+          "date": "2026-07-27",
+          "moment": "aprem",
+          "heure": "19:00",
+          "heure_fin": null,
+          "nom": "Janicule",
+          "ville": "Mur du Janicule,  Viale delle Mura Gianicolensi",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8869164,
+            "lng": 12.46126
+          }
+        },
+        {
+          "id": "435c6156",
+          "type": "nourriture",
+          "date": "2026-07-27",
+          "moment": "soir",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Tonnarello / La Tavernaccia",
+          "ville": "Tonnarello,  Via della Paglia",
+          "prix_min": 18,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.8889411,
+            "lng": 12.4679134
+          }
+        },
+        {
+          "id": "28a76dc3",
+          "type": "activite",
+          "date": "2026-07-28",
+          "moment": "matin",
+          "heure": "09:00",
+          "heure_fin": null,
+          "nom": "Le Colisée (Skip-the-line conseillé)",
+          "ville": "Colisée,  Celio",
+          "prix_reel": 20,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 41.8909421,
+            "lng": 12.491903
+          }
+        },
+        {
+          "id": "515c4a94",
+          "type": "activite",
+          "date": "2026-07-28",
+          "moment": "matin",
+          "heure": "10:30",
+          "heure_fin": null,
+          "nom": "Forum Romain + Mont Palatin",
+          "ville": "",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": null
+        },
+        {
+          "id": "b43e7e0f",
+          "type": "nourriture",
+          "date": "2026-07-28",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Alle Carrette / La Bottega del Caffè",
+          "ville": "Alle Carrette,  95",
+          "prix_min": 10,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.893964,
+            "lng": 12.4887171
+          }
+        },
+        {
+          "id": "779187f0",
+          "type": "activite",
+          "date": "2026-07-28",
+          "moment": "aprem",
+          "heure": "13:30",
+          "heure_fin": null,
+          "nom": "Colonne de Trajan + Vittoriano (extérieur)",
+          "ville": "Colonne de Trajan,  Foro Traiano",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8958088,
+            "lng": 12.4842733
+          }
+        },
+        {
+          "id": "8eaa3054",
+          "type": "activite",
+          "date": "2026-07-28",
+          "moment": "aprem",
+          "heure": "14:30",
+          "heure_fin": null,
+          "nom": "Fontaine de Trevi",
+          "ville": "Fontaine de Trevi,  Piazza di Trevi",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.9009778,
+            "lng": 12.4832848
+          }
+        },
+        {
+          "id": "c11fa582",
+          "type": "activite",
+          "date": "2026-07-28",
+          "moment": "aprem",
+          "heure": "15:00",
+          "heure_fin": null,
+          "nom": "Panthéon",
+          "ville": "Panthéon,  Piazza della Rotonda",
+          "prix_reel": 5,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 41.898616,
+            "lng": 12.4768334
+          }
+        },
+        {
+          "id": "b58fcdb3",
+          "type": "nourriture",
+          "date": "2026-07-28",
+          "moment": "aprem",
+          "heure": "16:00",
+          "heure_fin": null,
+          "nom": "Gelato Giolitti",
+          "ville": "Giolitti,  Via Giovanni Giolitti",
+          "prix_min": 5,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.8975523,
+            "lng": 12.5053554
+          }
+        },
+        {
+          "id": "02cd4b9d",
+          "type": "activite",
+          "date": "2026-07-28",
+          "moment": "aprem",
+          "heure": "17:00",
+          "heure_fin": null,
+          "nom": "Piazza Navona",
+          "ville": "Piazza Navona,  Parione",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8989282,
+            "lng": 12.4731178
+          }
+        },
+        {
+          "id": "b6989e15",
+          "type": "nourriture",
+          "date": "2026-07-28",
+          "moment": "soir",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Mimi e Coco / Fortunata",
+          "ville": "Mimì e Cocò,  Via del Governo Vecchio",
+          "prix_min": 15,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.898144,
+            "lng": 12.4712757
+          }
+        },
+        {
+          "id": "a00e0616",
+          "type": "activite",
+          "date": "2026-07-29",
+          "moment": "matin",
+          "heure": "09:30",
+          "heure_fin": null,
+          "nom": "Galerie Borghese",
+          "ville": "Galerie Borghèse,  5",
+          "prix_reel": 22,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 41.9141133,
+            "lng": 12.4921053
+          }
+        },
+        {
+          "id": "b6f26662",
+          "type": "activite",
+          "date": "2026-07-29",
+          "moment": "matin",
+          "heure": "11:00",
+          "heure_fin": null,
+          "nom": "Villa Borghese (Parc)",
+          "ville": "Villa Borghese,  Rome",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.9144111,
+            "lng": 12.4848439
+          }
+        },
+        {
+          "id": "ab4dc346",
+          "type": "nourriture",
+          "date": "2026-07-29",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Ginger Sapori / Caffè Doria",
+          "ville": "Ginger Sapori e Salute,  54",
+          "prix_min": 15,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.8983481,
+            "lng": 12.4757822
+          }
+        },
+        {
+          "id": "fce9d854",
+          "type": "activite",
+          "date": "2026-07-29",
+          "moment": "aprem",
+          "heure": "14:00",
+          "heure_fin": null,
+          "nom": "Piazza di Spagna + Via Condotti",
+          "ville": "Piazza di Spagna,  Campo Marzio",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.9057518,
+            "lng": 12.4821249
+          }
+        },
+        {
+          "id": "c1534c9d",
+          "type": "activite",
+          "date": "2026-07-29",
+          "moment": "aprem",
+          "heure": "15:00",
+          "heure_fin": null,
+          "nom": "Piazza del Popolo",
+          "ville": "Piazza del Popolo,  Campo Marzio",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.9107477,
+            "lng": 12.4763614
+          }
+        },
+        {
+          "id": "53da602b",
+          "type": "activite",
+          "date": "2026-07-29",
+          "moment": "aprem",
+          "heure": "16:30",
+          "heure_fin": null,
+          "nom": "Quartier Monti",
+          "ville": "Monti,  Municipio Roma I",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8919732,
+            "lng": 12.4956579
+          }
+        },
+        {
+          "id": "9563a030",
+          "type": "activite",
+          "date": "2026-07-29",
+          "moment": "aprem",
+          "heure": "19:00",
+          "heure_fin": null,
+          "nom": "Colisée de nuit (extérieur)",
+          "ville": "Colisée,  Celio",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8909421,
+            "lng": 12.491903
+          }
+        },
+        {
+          "id": "1f90b576",
+          "type": "activite",
+          "date": "2026-07-30",
+          "moment": "matin",
+          "heure": "10:00",
+          "heure_fin": null,
+          "nom": "Campo de’ Fiori (marché)",
+          "ville": "Campo de' Fiori,  Parione",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8955774,
+            "lng": 12.4721586
+          }
+        },
+        {
+          "id": "7b72000e",
+          "type": "activite",
+          "date": "2026-07-30",
+          "moment": "matin",
+          "heure": "11:00",
+          "heure_fin": null,
+          "nom": "Quartier Juif + Portico d’Ottavia",
+          "ville": "Portico d'Ottavia,  Largo 16 Ottobre 1943",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8925204,
+            "lng": 12.4785706
+          }
+        },
+        {
+          "id": "70843a5d",
+          "type": "activite",
+          "date": "2026-07-30",
+          "moment": "matin",
+          "heure": "11:30",
+          "heure_fin": null,
+          "nom": "Île Tibérine",
+          "ville": "Île Tibérine,  Ripa",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8904701,
+            "lng": 12.4777647
+          }
+        },
+        {
+          "id": "b9a43557",
+          "type": "nourriture",
+          "date": "2026-07-30",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": " Trapizzino",
+          "ville": "Trapizzino,  46",
+          "prix_min": 5,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.8914619,
+            "lng": 12.4699126
+          }
+        },
+        {
+          "id": "38600716",
+          "type": "nourriture",
+          "date": "2026-07-30",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Felice a Testaccio ",
+          "ville": "Felice a Testaccio,  29",
+          "prix_min": 17,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.8785014,
+            "lng": 12.4774658
+          }
+        },
+        {
+          "id": "b2bd2012",
+          "type": "nourriture",
+          "date": "2026-07-30",
+          "moment": "midi",
+          "heure": null,
+          "heure_fin": null,
+          "nom": " Mercato Testaccio",
+          "ville": "Nuovo Mercato Testaccio,  Via Beniamino Franklin",
+          "prix_min": 12,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.8776017,
+            "lng": 12.4735798
+          }
+        },
+        {
+          "id": "147a7764",
+          "type": "activite",
+          "date": "2026-07-30",
+          "moment": "aprem",
+          "heure": "13:30",
+          "heure_fin": null,
+          "nom": "Jardin des Orangers + Vue secrète du Trou de la Serrure",
+          "ville": "Giardino degli Aranci,  Ripa",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8849257,
+            "lng": 12.480451
+          }
+        },
+        {
+          "id": "3912aaea",
+          "type": "activite",
+          "date": "2026-07-30",
+          "moment": "aprem",
+          "heure": "14:00",
+          "heure_fin": null,
+          "nom": "Bocca della Verità",
+          "ville": "Bouche de la Vérité,  Piazza della Bocca della Verità",
+          "prix_reel": 5.0,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 41.8882567,
+            "lng": 12.4815441
+          }
+        },
+        {
+          "id": "fed1e530",
+          "type": "activite",
+          "date": "2026-07-30",
+          "moment": "aprem",
+          "heure": "14:30",
+          "heure_fin": null,
+          "nom": " Circo Maxime",
+          "ville": "Cirque Maxime,  Municipio Roma I",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8861584,
+            "lng": 12.4853087
+          }
+        },
+        {
+          "id": "52bcf8a8",
+          "type": "activite",
+          "date": "2026-07-30",
+          "moment": "aprem",
+          "heure": "15:00",
+          "heure_fin": null,
+          "nom": "Thermes de Caracalla",
+          "ville": "Thermes de Caracalla,  Via Antonina",
+          "prix_reel": 9,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "a_reserver",
+          "coords": {
+            "lat": 41.8788285,
+            "lng": 12.4924737
+          }
+        },
+        {
+          "id": "8322bf97",
+          "type": "nourriture",
+          "date": "2026-07-30",
+          "moment": "aprem",
+          "heure": "16:00",
+          "heure_fin": null,
+          "nom": "La Romana",
+          "ville": "La Romana,  48",
+          "prix_min": 4,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.8721832,
+            "lng": 12.4798723
+          }
+        },
+        {
+          "id": "0327e674",
+          "type": "activite",
+          "date": "2026-07-30",
+          "moment": "aprem",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Aventin & Tibre",
+          "ville": "Aventino,  Rome",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 41.8836945,
+            "lng": 12.4794173
+          }
+        },
+        {
+          "id": "ba7d691e",
+          "type": "nourriture",
+          "date": "2026-07-30",
+          "moment": "soir",
+          "heure": null,
+          "heure_fin": null,
+          "nom": "Pasta e Vino / Pizzeria Da Baffetto",
+          "ville": "Pasta e Vino Osteria,  12",
+          "prix_min": 10,
+          "prix_reel": null,
+          "coords": {
+            "lat": 41.8904233,
+            "lng": 12.4698318
+          }
+        }
+      ],
+      "villes_par_jour": {
+        "2026-07-23": "Paris",
+        "2026-07-24": "Sienna",
+        "2026-07-25": "Florence",
+        "2026-07-26": "Florence",
+        "2026-07-27": "Rome",
+        "2026-07-28": "Rome",
+        "2026-07-29": "Rome",
+        "2026-07-30": "Rome",
+        "2026-07-31": "Rome"
+      }
+    },
+    {
+      "id": "67bb0851",
+      "nom": "Grece Thésalonique Maman",
+      "type": "avion",
+      "statut": "planifie",
+      "date_debut": "2026-07-31",
+      "date_fin": "2026-08-09",
+      "couleur": "#062fd0",
+      "notes_generales": "",
+      "etapes": [],
+      "elements": [
+        {
+          "id": "dbee2293",
+          "type": "transport",
+          "date": "2026-07-31",
+          "moment": "midi",
+          "heure": "12:00",
+          "heure_fin": "14:50",
+          "mode": "avion",
+          "ville_depart": "Aeroporto di Roma-Fiumicino,  Via Leonardo da Vinci",
+          "ville_arrivee": "L'aéroport international de Thessalonique \"Makédonia\",  Θεσσαλονίκης - Περαίας",
+          "prix_reel": null,
+          "lien": "https://www.kiwi.com/fr/trips/758906533/itinerary-details/",
+          "ref_confirmation": "758906533",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 41.8153911,
+            "lng": 12.2264848
+          },
+          "coords": {
+            "lat": 40.5198019,
+            "lng": 22.9740868
+          },
+          "distance_km": 910.5
+        },
+        {
+          "id": "71b0aefe",
+          "type": "transport",
+          "date": "2026-08-09",
+          "moment": "matin",
+          "heure": "08:15",
+          "heure_fin": "10:20",
+          "mode": "avion",
+          "ville_depart": "L'aéroport international de Thessalonique \"Makédonia\",  Departures Level Drivethrough",
+          "ville_arrivee": "Aéroport de Paris-Charles-de-Gaulle,  Tremblay-en-France",
+          "prix_reel": 102.5,
+          "lien": "https://www.tripair.com/eng/ManageBookingmenu.html",
+          "ref_confirmation": "ZH9WMN",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 40.5198019,
+            "lng": 22.9740868
+          },
+          "coords": {
+            "lat": 49.0068908,
+            "lng": 2.571082
+          },
+          "distance_km": 1858.2
+        },
+        {
+          "id": "7485c97b",
+          "type": "transport",
+          "date": "2026-08-09",
+          "moment": "aprem",
+          "heure": "19:40",
+          "heure_fin": "22:34",
+          "mode": "train",
+          "ville_depart": "Paris Gare de l'Est,  Place du 11 Novembre 1918",
+          "ville_arrivee": "Gare,  Luxembourg",
+          "prix_reel": 48.6,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "paye",
+          "coords_depart": {
+            "lat": 48.8770979,
+            "lng": 2.3594905
+          },
+          "coords": {
+            "lat": 49.6037237,
+            "lng": 6.1276729
+          },
+          "distance_km": 285.2
+        }
+      ],
+      "villes_par_jour": {
+        "2026-07-31": "Thessalonique"
+      }
+    },
+    {
+      "id": "9ba99bb6",
+      "nom": "Luxembourg En Vélo 2026",
+      "type": "velo",
+      "statut": "planifie",
+      "date_debut": "2026-08-21",
+      "date_fin": "2026-08-24",
+      "couleur": "#e6b837",
+      "notes_generales": "",
+      "etapes": [],
+      "elements": [
+        {
+          "id": "871fbc7e",
+          "type": "hotel",
+          "date": "2026-08-21",
+          "moment": "soir",
+          "heure": "19:00",
+          "heure_fin": null,
+          "nom": "Pension Weber",
+          "ville": "pehna's Restaurant,  8",
+          "type_evenement": "checkin",
+          "prix_reel": 68,
+          "lien": "https://secure.booking.com/confirmation.fr.html?label=mkt123sc-3a9b4194-a19c-4f79-8275-0faa253495e7&sid=0f512f23f1b2086aae0e94e6d89435e0&aid=1588656&auth_key=VO4XxvcOP4b8IfjJ&source=mytrips",
+          "ref_confirmation": "5940752305",
+          "statut": "paye",
+          "coords": {
+            "lat": 49.6700106,
+            "lng": 6.4348405
+          }
+        },
+        {
+          "id": "c977b6b7",
+          "type": "hotel",
+          "date": "2026-08-22",
+          "moment": "matin",
+          "heure": "09:00",
+          "heure_fin": null,
+          "nom": "Pension Weber",
+          "ville": "pehna's Restaurant,  8",
+          "type_evenement": "checkout",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": null
+        },
+        {
+          "id": "03b0f6b2",
+          "type": "hotel",
+          "date": "2026-08-22",
+          "moment": "aprem",
+          "heure": "15:00",
+          "heure_fin": null,
+          "nom": "Konsdreffermillen B&B",
+          "ville": "Moulin de Consdorf,  Consdorf",
+          "type_evenement": "checkin",
+          "prix_reel": 105,
+          "lien": "https://secure.booking.com/confirmation.fr.html?label=mkt123sc-3a9b4194-a19c-4f79-8275-0faa253495e7&sid=0f512f23f1b2086aae0e94e6d89435e0&aid=1588656&auth_key=VuDgiIIeJZLjewh7&source=mytrips",
+          "ref_confirmation": "6935607587",
+          "statut": "paye",
+          "coords": {
+            "lat": 49.7802342,
+            "lng": 6.3246052
+          }
+        },
+        {
+          "id": "c5c8abf0",
+          "type": "hotel",
+          "date": "2026-08-23",
+          "moment": "matin",
+          "heure": "09:00",
+          "heure_fin": null,
+          "nom": "Konsdreffermillen B&B",
+          "ville": "Moulin de Consdorf,  Consdorf",
+          "type_evenement": "checkout",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.7802342,
+            "lng": 6.3246052
+          }
+        },
+        {
+          "id": "69052d68",
+          "type": "hotel",
+          "date": "2026-08-23",
+          "moment": "soir",
+          "heure": "19:00",
+          "heure_fin": null,
+          "nom": "Camping Kautenbach",
+          "ville": "Camping Kautenbach,  3",
+          "type_evenement": "checkin",
+          "prix_reel": 52.5,
+          "lien": "https://secure.booking.com/confirmation.fr.html?label=mkt123sc-3a9b4194-a19c-4f79-8275-0faa253495e7&sid=0f512f23f1b2086aae0e94e6d89435e0&aid=1588656&auth_key=0w7OHL8vcm8hMTE8&source=mytrips",
+          "ref_confirmation": "5964834724",
+          "statut": "paye",
+          "coords": {
+            "lat": 49.956304,
+            "lng": 6.0303999
+          }
+        },
+        {
+          "id": "074312cb",
+          "type": "hotel",
+          "date": "2026-08-24",
+          "moment": "matin",
+          "heure": "10:30",
+          "heure_fin": null,
+          "nom": "Camping Kautenbach",
+          "ville": "Camping Kautenbach,  3",
+          "type_evenement": "checkout",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.956304,
+            "lng": 6.0303999
+          }
+        },
+        {
+          "id": "4b1fe11a",
+          "type": "hotel",
+          "date": "2026-08-21",
+          "moment": "matin",
+          "heure": "08:00",
+          "heure_fin": null,
+          "nom": "MAISON",
+          "ville": "3,  Rue Fernand Mertens",
+          "type_evenement": "checkout",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.6174108,
+            "lng": 6.0970961
+          }
+        },
+        {
+          "id": "c3b49852",
+          "type": "activite",
+          "date": "2026-08-23",
+          "moment": "matin",
+          "heure": "10:00",
+          "heure_fin": null,
+          "nom": "Château de Larochette",
+          "ville": "Château de Larochette,  Montée du Château",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.7856057,
+            "lng": 6.2169406
+          }
+        },
+        {
+          "id": "1884de2b",
+          "type": "activite",
+          "date": "2026-08-21",
+          "moment": "matin",
+          "heure": "11:00",
+          "heure_fin": null,
+          "nom": "Schengen",
+          "ville": "Schengen,  Canton Remich",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.4992385,
+            "lng": 6.3335528
+          }
+        },
+        {
+          "id": "1188612f",
+          "type": "activite",
+          "date": "2026-08-21",
+          "moment": "matin",
+          "heure": "10:00",
+          "heure_fin": null,
+          "nom": "Abbaye de Neumünster (Grund)",
+          "ville": "Centre culturel de rencontre Abbaye de Neumünster,  Rue de Trèves",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.6103401,
+            "lng": 6.1365269
+          }
+        },
+        {
+          "id": "643e8046",
+          "type": "activite",
+          "date": "2026-08-21",
+          "moment": "matin",
+          "heure": "12:00",
+          "heure_fin": null,
+          "nom": "Haff Réimech – Réserve naturelle",
+          "ville": "Baggerweieren Haff Réimech,  Wintrange",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.4989353,
+            "lng": 6.3601311
+          }
+        },
+        {
+          "id": "22cef520",
+          "type": "activite",
+          "date": "2026-08-21",
+          "moment": "aprem",
+          "heure": "15:00",
+          "heure_fin": null,
+          "nom": "Caves Saint‑Martin",
+          "ville": "Rue de la Gare,  Remich",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.5462838,
+            "lng": 6.3614288
+          }
+        },
+        {
+          "id": "49026027",
+          "type": "activite",
+          "date": "2026-08-21",
+          "moment": "aprem",
+          "heure": "17:00",
+          "heure_fin": null,
+          "nom": "Caves Bernard‑Massard",
+          "ville": "Bernard Massard,  8",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.6763172,
+            "lng": 6.4418629
+          }
+        },
+        {
+          "id": "6113b3e0",
+          "type": "activite",
+          "date": "2026-08-22",
+          "moment": "matin",
+          "heure": "10:00",
+          "heure_fin": null,
+          "nom": "Confluence Moselle / Sûre – Wasserbillig",
+          "ville": "Wasserbillig,  Esplanade de la Moselle",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.7129031,
+            "lng": 6.4994052
+          }
+        },
+        {
+          "id": "52c87878",
+          "type": "activite",
+          "date": "2026-08-22",
+          "moment": "matin",
+          "heure": "12:00",
+          "heure_fin": null,
+          "nom": " Echternach – Centre historique",
+          "ville": "Place du Marché,  Echternach",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.8127823,
+            "lng": 6.4202872
+          }
+        },
+        {
+          "id": "324979a5",
+          "type": "activite",
+          "date": "2026-08-22",
+          "moment": "aprem",
+          "heure": "15:00",
+          "heure_fin": null,
+          "nom": "Rando W7 – Mullerthal",
+          "ville": "Mullerthal,  Waldbillig",
+          "prix_reel": null,
+          "lien": "https://www.alltrails.com/fr/randonnee/luxembourg/echternach/mullerthal-wanderung-w7",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.7902688,
+            "lng": 6.3071067
+          }
+        },
+        {
+          "id": "f791ce8d",
+          "type": "note",
+          "date": "2026-08-22",
+          "moment": "aprem",
+          "heure": null,
+          "heure_fin": null,
+          "titre": "Rando W7",
+          "contenu": "✅ À voir pendant la rando :\n\nSchiessentümpel ✅\nKallektuffquell (source de tuf)\nGorges rocheuses\nSite de Loschbour\nCascade iconique\nPont en pierre"
+        },
+        {
+          "id": "ba3d95b6",
+          "type": "activite",
+          "date": "2026-08-23",
+          "moment": "matin",
+          "heure": "12:00",
+          "heure_fin": null,
+          "nom": "Château de Bettendorf",
+          "ville": "12,  Rue du Château",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.8760492,
+            "lng": 6.220607
+          }
+        },
+        {
+          "id": "868d5263",
+          "type": "activite",
+          "date": "2026-08-23",
+          "moment": "midi",
+          "heure": "12:01",
+          "heure_fin": null,
+          "nom": "Château de Vianden",
+          "ville": "Château de Vianden,  Promenade B",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.9348804,
+            "lng": 6.2028042
+          }
+        },
+        {
+          "id": "f80e739a",
+          "type": "activite",
+          "date": "2026-08-23",
+          "moment": "aprem",
+          "heure": "17:00",
+          "heure_fin": null,
+          "nom": "Château de Brandenbourg",
+          "ville": "Chatêau de Brandenbourg,  Hënneschtgaass",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.9129476,
+            "lng": 6.1376122
+          }
+        },
+        {
+          "id": "59882ac6",
+          "type": "activite",
+          "date": "2026-08-23",
+          "moment": "aprem",
+          "heure": "18:00",
+          "heure_fin": null,
+          "nom": "Château de Bourscheid",
+          "ville": "Château de Bourscheid,  1",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.9055836,
+            "lng": 6.0795164
+          }
+        },
+        {
+          "id": "1ee6eb8a",
+          "type": "activite",
+          "date": "2026-08-24",
+          "moment": "matin",
+          "heure": "11:30",
+          "heure_fin": null,
+          "nom": "Wiltz",
+          "ville": "Wiltz,  Canton Wiltz",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.9666914,
+            "lng": 5.9321021
+          }
+        },
+        {
+          "id": "3ddc7c32",
+          "type": "activite",
+          "date": "2026-08-24",
+          "moment": "matin",
+          "heure": "12:00",
+          "heure_fin": null,
+          "nom": "Esch‑sur‑Sûre",
+          "ville": "Esch-sur-Sûre,  Canton Wiltz",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.9112543,
+            "lng": 5.9351159
+          }
+        },
+        {
+          "id": "5d9d4e18",
+          "type": "activite",
+          "date": "2026-08-24",
+          "moment": "aprem",
+          "heure": "15:00",
+          "heure_fin": null,
+          "nom": "Belvédère de Burfelt",
+          "ville": "Burfelt,  Insenborn",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.9006821,
+            "lng": 5.8589187
+          }
+        },
+        {
+          "id": "26d962ae",
+          "type": "activite",
+          "date": "2026-08-24",
+          "moment": "aprem",
+          "heure": "16:00",
+          "heure_fin": null,
+          "nom": "Château d’Useldange",
+          "ville": "Château d'Useldange,  Rue de l'Église",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.7682026,
+            "lng": 5.9802135
+          }
+        },
+        {
+          "id": "11f7facb",
+          "type": "activite",
+          "date": "2026-08-24",
+          "moment": "aprem",
+          "heure": "17:00",
+          "heure_fin": null,
+          "nom": "Château d’Ansembourg",
+          "ville": "Nouveau Château d'Ansembourg,  10",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.7006927,
+            "lng": 6.0467478
+          }
+        },
+        {
+          "id": "a2b64e19",
+          "type": "hotel",
+          "date": "2026-08-24",
+          "moment": "soir",
+          "heure": "19:00",
+          "heure_fin": null,
+          "nom": "Maison ! ",
+          "ville": "3,  Rue Fernand Mertens",
+          "type_evenement": "checkout",
+          "prix_reel": null,
+          "lien": "",
+          "ref_confirmation": "",
+          "statut": "aucun",
+          "coords": {
+            "lat": 49.6174109,
+            "lng": 6.0970961
+          }
+        }
+      ]
+    }
+  ]
+}

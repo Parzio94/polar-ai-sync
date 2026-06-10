@@ -1,0 +1,57 @@
+{
+  "week_key": "2026-05-18",
+  "sem_label": null,
+  "generated_at": "2026-05-25T07:10:01.978402+00:00",
+  "stats": {
+    "nb_running": 0,
+    "nb_swimming": 0,
+    "nb_cycling": 0,
+    "nb_nights": 2,
+    "km_running": 0
+  },
+  "exercises": [],
+  "sleep": [
+    {
+      "date": "2026-05-18",
+      "score": 78,
+      "duration": "8h 00min",
+      "total_min": 480,
+      "cycles": 5,
+      "phases": {
+        "light_min": 279,
+        "deep_min": 79,
+        "rem_min": 86,
+        "interruptions_min": 36
+      },
+      "hr_avg": 58,
+      "hr_min": 50,
+      "breathing_avg": 13.1,
+      "hrv_sdnn": null,
+      "recharge_status": 3,
+      "recharge_score": null,
+      "sleep_start_time": "2026-05-17T23:28:22+02:00",
+      "sleep_end_time": "2026-05-18T07:28:03+02:00"
+    },
+    {
+      "date": "2026-05-19",
+      "score": 75,
+      "duration": "6h 46min 30s",
+      "total_min": 406,
+      "cycles": 5,
+      "phases": {
+        "light_min": 258,
+        "deep_min": 46,
+        "rem_min": 83,
+        "interruptions_min": 19
+      },
+      "hr_avg": 57,
+      "hr_min": 52,
+      "breathing_avg": 12.4,
+      "hrv_sdnn": null,
+      "recharge_status": 3,
+      "recharge_score": null,
+      "sleep_start_time": "2026-05-19T00:41:41+02:00",
+      "sleep_end_time": "2026-05-19T07:28:11+02:00"
+    }
+  ]
+}

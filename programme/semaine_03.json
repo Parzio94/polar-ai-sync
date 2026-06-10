@@ -1,0 +1,77 @@
+{
+  "semaine": "Semaine 3 — 15/06 au 21/06/2026",
+  "seances": [
+    {
+      "date": "2026-06-15",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos"
+    },
+    {
+      "date": "2026-06-16",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "EF douce — 28'",
+      "duree": "28min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "28' EF Z1-Z2 (120-135 bpm)\nAllure très facile — pas de tempo, pas de côtes\nSi douleur persiste : réduire à 15' ou annuler",
+      "dist_cible": 5.0
+    },
+    {
+      "date": "2026-06-17",
+      "jour": "Mercredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos — récup EF mardi"
+    },
+    {
+      "date": "2026-06-18",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF douce — 32'",
+      "duree": "32min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "32' EF Z1-Z2 (120-135 bpm)\nMontée progressive par rapport à mardi\nÉcouter le corps",
+      "dist_cible": 6.0
+    },
+    {
+      "date": "2026-06-19",
+      "jour": "Vendredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos"
+    },
+    {
+      "date": "2026-06-20",
+      "jour": "Samedi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Voyage Luxembourg→Paris puis nuit Paris\nPas de séance — voyage"
+    },
+    {
+      "date": "2026-06-21",
+      "jour": "Dimanche",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Vol Paris→Malaga 11h10→13h40\nInstallation — repos avant le camp"
+    }
+  ]
+}

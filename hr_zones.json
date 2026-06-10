@@ -1,0 +1,57 @@
+[
+  {
+    "lbl": "Z1",
+    "zone": "Z1",
+    "min": 0,
+    "max": 130,
+    "col": "#94a3b8",
+    "pace": ">6:00",
+    "pace_min_s": 360,
+    "pace_max_s": 999,
+    "updated_at": "2026-04-26"
+  },
+  {
+    "lbl": "Z2",
+    "zone": "Z2",
+    "min": 131,
+    "max": 145,
+    "col": "#74b9ff",
+    "pace": "5:20-6:00",
+    "pace_min_s": 320,
+    "pace_max_s": 360,
+    "updated_at": "2026-04-26"
+  },
+  {
+    "lbl": "Z3",
+    "zone": "Z3",
+    "min": 146,
+    "max": 160,
+    "col": "#52b788",
+    "pace": "4:45-5:15",
+    "pace_min_s": 285,
+    "pace_max_s": 315,
+    "updated_at": "2026-04-26"
+  },
+  {
+    "lbl": "Z4",
+    "zone": "Z4",
+    "min": 161,
+    "max": 172,
+    "col": "#f59e0b",
+    "pace": "4:25-4:45",
+    "pace_min_s": 265,
+    "pace_max_s": 285,
+    "updated_at": "2026-04-26"
+  },
+  {
+    "lbl": "Z5",
+    "zone": "Z5",
+    "min": 173,
+    "max": 220,
+    "col": "#e63946",
+    "pace": "<4:25",
+    "pace_min_s": 0,
+    "pace_max_s": 265,
+    "updated_at": "2026-04-26"
+  }
+]

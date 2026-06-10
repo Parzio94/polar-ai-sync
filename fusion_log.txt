@@ -1,0 +1,100 @@
+[06:00:01] POLAR CONSOLIDATE — Consolidation hebdomadaire
+[06:00:01] ⚠️  POLAR_ACCESS_TOKEN manquant → API samples désactivée
+[06:00:01] 
+0 semaines à traiter (semaine courante exclue)
+[06:00:01] 
+✅ 0 semaine(s) consolidée(s)
+[06:00:01]   → Toutes déjà consolidées. Utilise --force pour re-générer.
+[06:00:01] POLAR CONSOLIDATE v2 — Consolidation hebdomadaire
+[06:00:01] ⚠️  POLAR_ACCESS_TOKEN manquant → API samples désactivée
+[06:00:01] 📦 Backup week_current → week_current_backup_20260309_060001.json
+[06:00:01] 
+1 semaines à traiter (semaine courante exclue)
+[06:00:01] 
+====================================================
+CONSOLIDATION : 2026-03-02
+[06:00:01]   📂 week_current.json : 4 exercices chargés
+[06:00:01]   🔄 Récupéré depuis week_current : 2026-03-03T07:45 RUNNING
+[06:00:01]   🔄 Récupéré depuis week_current : 2026-03-05T07:32 RUNNING
+[06:00:01]   🔄 Récupéré depuis week_current : 2026-03-06T07:47 RUNNING
+[06:00:01]   🔄 Récupéré depuis week_current : 2026-03-08T10:29 RUNNING
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-02
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-03
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-04
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-05
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-06
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-07
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-08
+[06:00:01] Données brutes : 4 exercices | 7 nuits
+[06:00:01]   [] 2026-03-03T07:45 PngrJEb6
+[06:00:01]     → Fetch samples API PngrJEb6
+[06:00:02]   [] 2026-03-05T07:32 5lwNl3wz
+[06:00:02]     → Fetch samples API 5lwNl3wz
+[06:00:02]   [] 2026-03-06T07:47 09zlqLDE
+[06:00:02]     → Fetch samples API 09zlqLDE
+[06:00:03]   [] 2026-03-08T10:29 0jqoBArX
+[06:00:03]     → Fetch samples API 0jqoBArX
+[06:00:03] ✅ week_2026-03-02.json | 🏃4(46.0km) 🏊0 🚴0 🌙7
+[06:00:03] 
+✅ 1 semaine(s) consolidée(s)
+[06:00:02] POLAR CONSOLIDATE v2 — Consolidation hebdomadaire
+[06:00:02] 📦 Backup week_current → week_current_backup_20260316_060002.json
+[06:00:02] 
+1 semaines à traiter (semaine courante exclue)
+[06:00:02] 
+====================================================
+CONSOLIDATION : 2026-03-09
+[06:00:02]   📂 week_current.json : 6 exercices chargés
+[06:00:02]   🔄 Récupéré depuis week_current : 2026-03-09T11:37 OTHER
+[06:00:02]   🔄 Récupéré depuis week_current : 2026-03-10T10:21 OTHER
+[06:00:02]   🔄 Récupéré depuis week_current : 2026-03-11T10:05 OTHER
+[06:00:02]   🔄 Récupéré depuis week_current : 2026-03-12T09:31 OTHER
+[06:00:02]   🔄 Récupéré depuis week_current : 2026-03-13T09:54 OTHER
+[06:00:02]   🔄 Récupéré depuis week_current : 2026-03-14T09:58 OTHER
+[06:00:02]   🔄 Nuit récupérée depuis week_current : 2026-03-09
+[06:00:02]   🔄 Nuit récupérée depuis week_current : 2026-03-10
+[06:00:02]   🔄 Nuit récupérée depuis week_current : 2026-03-11
+[06:00:02]   🔄 Nuit récupérée depuis week_current : 2026-03-12
+[06:00:02]   🔄 Nuit récupérée depuis week_current : 2026-03-13
+[06:00:02]   🔄 Nuit récupérée depuis week_current : 2026-03-14
+[06:00:02]   🔄 Nuit récupérée depuis week_current : 2026-03-15
+[06:00:02] Données brutes : 6 exercices | 7 nuits
+[06:00:02]   [] 2026-03-09T11:37 PxdL4nvA
+[06:00:02]   [] 2026-03-10T10:21 PaZdzez7
+[06:00:02]   [] 2026-03-11T10:05 0rve86VB
+[06:00:02]   [] 2026-03-12T09:31 5p7EKK2B
+[06:00:02]   [] 2026-03-13T09:54 PXDJ2q36
+[06:00:02]   [] 2026-03-14T09:58 09zlXn47
+[06:00:02] ✅ week_2026-03-09.json | 🏃0(0.0km) 🏊0 🚴0 🌙7
+[06:00:02] 
+✅ 1 semaine(s) consolidée(s)
+[06:00:02] Cache splits : 1 fichier(s) — rien a supprimer
+[06:00:01] POLAR CONSOLIDATE v2 — Consolidation hebdomadaire
+[06:00:01] 📦 Backup week_current → week_current_backup_20260323_060001.json
+[06:00:01] 
+1 semaines à traiter (semaine courante exclue)
+[06:00:01] 
+====================================================
+CONSOLIDATION : 2026-03-16
+[06:00:01]   📂 week_current.json : 4 exercices chargés
+[06:00:01]   🔄 Récupéré depuis week_current : 2026-03-17T07:22 RUNNING
+[06:00:01]   🔄 Récupéré depuis week_current : 2026-03-19T07:34 RUNNING
+[06:00:01]   🔄 Récupéré depuis week_current : 2026-03-20T07:52 RUNNING
+[06:00:01]   🔄 Récupéré depuis week_current : 2026-03-22T10:30 RUNNING
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-16
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-17
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-18
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-19
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-20
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-21
+[06:00:01]   🔄 Nuit récupérée depuis week_current : 2026-03-22
+[06:00:01] Données brutes : 4 exercices | 7 nuits
+[06:00:01]   [] 2026-03-17T07:22 y1BpOk3Q
+[06:00:01]   [] 2026-03-19T07:34 026JW41x
+[06:00:01]   [] 2026-03-20T07:52 0GaK2ORj
+[06:00:01]   [] 2026-03-22T10:30 PxdLZxl7
+[06:00:01]   ⚠ Nutrition non injectée : name 'start_str' is not defined
+[06:00:01] ✅ week_2026-03-16.json | 🏃4(42.1km) 🏊0 🚴0 🌙7
+[06:00:01] 
+✅ 1 semaine(s) consolidée(s)
+[06:00:01] Cache splits : 1 fichier(s) — rien a supprimer

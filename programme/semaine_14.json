@@ -1,0 +1,97 @@
+{
+  "semaine": "Semaine 14",
+  "seances": [
+    {
+      "date": "2026-04-06",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "Repos complet",
+      "duree": "0min",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet — récupération active uniquement",
+      "dist_cible": null,
+      "dist_cible_m": null,
+      "modification": "Vélo 2h supprimé — TSB=-29.1 critique, repos obligatoire avant semi J-6"
+    },
+    {
+      "date": "2026-04-07",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — AS21 3×8'",
+      "duree": "40min",
+      "zone": "Z4 (161-172)",
+      "rpe": "6",
+      "structure": "12' EF Z2 → 3×8' AS21 Z4 (r=3') → 8' RC — D+ : 25 m [Z4=4:41-5:01/km]",
+      "dist_cible": 7.0,
+      "dist_cible_m": null,
+      "modification": "Réduit de 4×10' à 3×8' et distance 8→7km — adaptation TSB=-29.1 + maintien qualité courte"
+    },
+    {
+      "date": "2026-04-08",
+      "jour": "Mercredi",
+      "sport": "Repos",
+      "type": "Repos complet",
+      "duree": "0min",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet",
+      "dist_cible": null,
+      "dist_cible_m": null,
+      "modification": null
+    },
+    {
+      "date": "2026-04-09",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF + strides",
+      "duree": "35min",
+      "zone": "Z2 (131-145)",
+      "rpe": "3",
+      "structure": "25' EF Z2 → 6×20'' strides (r=60'') → 5' RC — D+ : 75 m [Z2=5:13-5:38/km]",
+      "dist_cible": 6.0,
+      "dist_cible_m": null,
+      "modification": "Tempo 40' remplacé par EF+strides — TSB=-29.1 incompatible avec tempo soutenu J-3"
+    },
+    {
+      "date": "2026-04-10",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF + 4×20''",
+      "duree": "25min",
+      "zone": "Z2 (131-145)",
+      "rpe": "2",
+      "structure": "20' EF Z2 → 4×20'' (r=60'') → 5' RC — D+ : 25 m [Z2=5:13-5:38/km]",
+      "dist_cible": 4.0,
+      "dist_cible_m": null,
+      "modification": "Durée 30→25min et distance 5→4km — taper J-2, volume minimal"
+    },
+    {
+      "date": "2026-04-11",
+      "jour": "Samedi",
+      "sport": "Repos",
+      "type": "Repos complet",
+      "duree": "0min",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet — préparation semi J-1",
+      "dist_cible": null,
+      "dist_cible_m": null,
+      "modification": null
+    },
+    {
+      "date": "2026-04-12",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "SEMI-MARATHON",
+      "duree": "110min",
+      "zone": "Z3-Z4 (146-172)",
+      "rpe": "8",
+      "structure": "Whey Raptor pré-course → Objectif 1:46:53 @ 5:04/km → 30g glucides après 75min — D+ : 250 m",
+      "dist_cible": 21.1,
+      "dist_cible_m": null,
+      "modification": null
+    }
+  ],
+  "coach_updated_at": "2026-04-05 19:31"
+}

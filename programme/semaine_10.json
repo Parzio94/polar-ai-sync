@@ -1,0 +1,75 @@
+{
+  "semaine": "Semaine 10 — 03/08 au 09/08/2026",
+  "seances": [
+    {
+      "date": "2026-08-03",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷 Grèce avec maman — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-08-04",
+      "jour": "Mardi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷 Grèce avec maman — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-08-05",
+      "jour": "Mercredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷 Grèce avec maman — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-08-06",
+      "jour": "Jeudi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷 Grèce avec maman — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-08-07",
+      "jour": "Vendredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷 Grèce avec maman — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-08-08",
+      "jour": "Samedi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷 Grèce avec maman — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-08-09",
+      "jour": "Dimanche",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷→🇱🇺 Retour Thessalonique→Luxembourg — ZÉRO SÉANCE"
+    }
+  ]
+}

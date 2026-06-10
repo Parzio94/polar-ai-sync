@@ -1,0 +1,75 @@
+{
+  "semaine": "Semaine 9 — 27/07 au 02/08/2026",
+  "seances": [
+    {
+      "date": "2026-07-27",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇮🇹 Rome — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-07-28",
+      "jour": "Mardi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇮🇹 Rome — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-07-29",
+      "jour": "Mercredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇮🇹 Rome — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-07-30",
+      "jour": "Jeudi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇮🇹 Rome — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-07-31",
+      "jour": "Vendredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇮🇹→🇬🇷 Vol Rome→Thessalonique — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-08-01",
+      "jour": "Samedi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷 Grèce avec maman — ZÉRO SÉANCE"
+    },
+    {
+      "date": "2026-08-02",
+      "jour": "Dimanche",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "🇬🇷 Grèce avec maman — ZÉRO SÉANCE"
+    }
+  ]
+}

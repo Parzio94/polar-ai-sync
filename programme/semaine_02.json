@@ -1,0 +1,90 @@
+{
+  "semaine": "Semaine 2 — 08/06 au 14/06/2026",
+  "seances": [
+    {
+      "date": "2026-06-08",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos — J+23 marathon"
+    },
+    {
+      "date": "2026-06-09",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Test reprise CAP — EF très court",
+      "duree": "18min",
+      "zone": "Z1",
+      "rpe": "1",
+      "structure": "PREMIER TEST REPRISE CAP — J+24 marathon\n18' de marche-course Z1 (<128 bpm)\nSi douleur : s'arrêter immédiatement et revenir à du repos\nSi OK : noter les sensations pour adapter la suite\nAllure très lente — marche si besoin",
+      "dist_cible": 3.0
+    },
+    {
+      "date": "2026-06-10",
+      "jour": "Mercredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos — observer les sensations post-test\nSi douleurs : allonger la période de repos"
+    },
+    {
+      "date": "2026-06-11",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF très léger — si sensations OK",
+      "duree": "22min",
+      "zone": "Z1-Z2",
+      "rpe": "1",
+      "structure": "22' marche-course (120-130 bpm)\nSEULEMENT si le test mardi s'est bien passé\nSinon : repos complet\nÉcouter le corps — aucune pression",
+      "dist_cible": 4.0
+    },
+    {
+      "date": "2026-06-12",
+      "jour": "Vendredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos"
+    },
+    {
+      "date": "2026-06-13",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "🏊 Natation technique — 1200m",
+      "duree": "30min",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "4x50 facile | 8x50 éducatifs (catch-up/finger drag) | 2x200 continu | 200 retour\n1 200 m — progressive",
+      "dist_cible_m": 1200
+    },
+    {
+      "date": "2026-06-14",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "🏊 Natation endurance — 1200m",
+      "duree": "30min",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "200 EF | 2x400 continu (r=25'') | 200 retour\n1 200 m",
+      "dist_cible_m": 1200
+    },
+    {
+      "date": "2026-06-14",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "EF très léger post-nat — si OK",
+      "duree": "20min",
+      "zone": "Z1-Z2",
+      "rpe": "1",
+      "structure": "20' EF Z1 (120-130 bpm) — UNIQUEMENT si pas de douleur\nMarche-course — allure très basse\nSi sensations mauvaises : ne pas faire",
+      "dist_cible": 3.5
+    }
+  ]
+}

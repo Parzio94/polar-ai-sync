@@ -1,0 +1,10 @@
+{
+  "poids_kg": 72,
+  "taille_cm": 178,
+  "age_ans": 28,
+  "sexe": "M",
+  "bmr_override": null,
+  "objectif_prot_g_par_kg": 1.8,
+  "objectif_carb_base_g": 300,
+  "objectif_fat_base_g": 70
+}

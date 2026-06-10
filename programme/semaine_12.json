@@ -1,0 +1,92 @@
+{
+  "semaine": "Semaine 12 — 17/08 au 23/08/2026",
+  "seances": [
+    {
+      "date": "2026-08-17",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos"
+    },
+    {
+      "date": "2026-08-18",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo récup Z2 — 42'",
+      "duree": "42min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "42' Z2 récup",
+      "dist_cible": 19.0
+    },
+    {
+      "date": "2026-08-18",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — 5x2000m progressif",
+      "duree": "1h03",
+      "zone": "Z3-Z4",
+      "rpe": "6",
+      "structure": "12' EF\n5x2000m progressif :\n  Rép 1 : 81% → FC 158-160 bpm\n  Rép 2-3 : 83% → FC 161-164 bpm\n  Rép 4-5 : 85% → FC 164-166 bpm\nr=1'30 — FC sous 145 bpm\n10' RC",
+      "dist_cible": 12.0
+    },
+    {
+      "date": "2026-08-19",
+      "jour": "Mercredi",
+      "sport": "Velo",
+      "type": "Sortie Z2 + SS — 125'",
+      "duree": "2h05",
+      "zone": "Z2-Z3",
+      "rpe": "6",
+      "structure": "20' EF | 2x24' SS @ 84% FTP — r=7' | Z2 reste | 15' RC\nNUTRITION : 48g/h",
+      "dist_cible": 61.0
+    },
+    {
+      "date": "2026-08-20",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF — 30'",
+      "duree": "30min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "30' EF Z2 — économiser pour Luxembourg vélo",
+      "dist_cible": 5.5
+    },
+    {
+      "date": "2026-08-21",
+      "jour": "Vendredi",
+      "sport": "Velo",
+      "type": "🚴 Luxembourg En Vélo — J1",
+      "duree": "1h32",
+      "zone": "Z2",
+      "rpe": "4",
+      "structure": "Luxembourg cycling tour — J1 🚴\n92' Z2 (127-138 bpm) — découverte + mise en jambes\nNUTRITION : 44g/h",
+      "dist_cible": 45.0
+    },
+    {
+      "date": "2026-08-22",
+      "jour": "Samedi",
+      "sport": "Velo",
+      "type": "🚴 Luxembourg En Vélo — J2 (grande sortie)",
+      "duree": "2h35",
+      "zone": "Z2-Z3",
+      "rpe": "6",
+      "structure": "Luxembourg cycling tour — J2 🚴\n155' Z2 | 2x25' Z3 inclus — r=12'\nNUTRITION : 50g/h | Hydratation 600 ml/h",
+      "dist_cible": 75.0
+    },
+    {
+      "date": "2026-08-23",
+      "jour": "Dimanche",
+      "sport": "Velo",
+      "type": "🚴 Luxembourg En Vélo — J3",
+      "duree": "1h58",
+      "zone": "Z2",
+      "rpe": "5",
+      "structure": "Luxembourg cycling tour — J3\n118' Z2 — allure tranquille | NUTRITION : 44g/h",
+      "dist_cible": 57.0
+    }
+  ]
+}

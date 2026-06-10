@@ -1,0 +1,57 @@
+{
+  "semaine": "Semaine 1 — 01/06 au 07/06/2026",
+  "seances": [
+    {
+      "date": "2026-06-03",
+      "jour": "Mercredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "J+18 marathon — Repos complet\nPas de course, pas de vélo\nLe corps est encore en récupération profonde"
+    },
+    {
+      "date": "2026-06-04",
+      "jour": "Jeudi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos — J+19 marathon\nHydratation, sommeil, nutrition prioritaires"
+    },
+    {
+      "date": "2026-06-05",
+      "jour": "Vendredi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos — J+20 marathon"
+    },
+    {
+      "date": "2026-06-06",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "🏊 Premières séances nat — Technique douce 1000m",
+      "duree": "28min",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "Retour à l'eau — très doux\n200 EF très lent | 6x50 éducatifs (catch-up uniquement) | 4x100 facile | 100 retour\n1 000 m — écouter le corps\nPas d'intensité — juste retrouver la sensation de l'eau",
+      "dist_cible_m": 1000
+    },
+    {
+      "date": "2026-06-07",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "🏊 Nat endurance douce — 1000m",
+      "duree": "28min",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "200 EF | 2x300 continu très facile (r=30'') | 200 retour\n1 000 m — foncier aquatique\nAllure conversationnelle dans l'eau",
+      "dist_cible_m": 1000
+    }
+  ]
+}

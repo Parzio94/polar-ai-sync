@@ -1,0 +1,29 @@
+[
+  {
+    "food_id": "oeuf",
+    "food_name": "Oeufs Frais",
+    "stock_g": 850.0,
+    "added_date": "2026-03-25",
+    "qty_count": 12
+  },
+  {
+    "food_id": "mozzarella",
+    "food_name": "Mozzarella",
+    "stock_g": 250.0,
+    "added_date": "2026-03-25",
+    "qty_count": 2
+  },
+  {
+    "food_id": "brie",
+    "food_name": "Brie Français",
+    "stock_g": 200.0,
+    "added_date": "2026-03-25"
+  },
+  {
+    "food_id": "banane",
+    "food_name": "Banane RFA",
+    "stock_g": 700.0,
+    "added_date": "2026-03-25",
+    "qty_count": 6
+  }
+]

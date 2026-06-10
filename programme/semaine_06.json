@@ -1,0 +1,125 @@
+{
+  "semaine": "Semaine 6 — 06/07 au 12/07/2026",
+  "seances": [
+    {
+      "date": "2026-07-06",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos"
+    },
+    {
+      "date": "2026-07-07",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo récup Z2 — 42'",
+      "duree": "42min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "42' Z2 récup — cadence souple",
+      "dist_cible": 19.0
+    },
+    {
+      "date": "2026-07-07",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité légère — Tempo 2x12'",
+      "duree": "50min",
+      "zone": "Z3",
+      "rpe": "5",
+      "structure": "12' EF | 2x12' Z3 (147-153 bpm) — r=3' | 12' RC\nPremière qualité — FC cible 147-153 bpm\nNe pas dépasser 155 bpm — progressif\n4x20'' strides en fin",
+      "dist_cible": 9.0
+    },
+    {
+      "date": "2026-07-08",
+      "jour": "Mercredi",
+      "sport": "Velo",
+      "type": "Sortie Z2 — 90'",
+      "duree": "1h30",
+      "zone": "Z2",
+      "rpe": "4",
+      "structure": "90' Z2 (127-138 bpm) | Cadence 85-90 rpm\nNUTRITION : 42g/h",
+      "dist_cible": 44.0
+    },
+    {
+      "date": "2026-07-09",
+      "jour": "Jeudi",
+      "sport": "Velo",
+      "type": "Force vélo — 65'",
+      "duree": "1h05",
+      "zone": "Z2-Z3",
+      "rpe": "4",
+      "structure": "10' EF | 5x5' basse cadence (60 rpm) @ Z2 — r=3' + 2x5' cadence 100 rpm | 10' RC",
+      "dist_cible": 31.0
+    },
+    {
+      "date": "2026-07-09",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF — 30'",
+      "duree": "30min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "30' EF Z2 facile",
+      "dist_cible": 5.5
+    },
+    {
+      "date": "2026-07-10",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "Tempo — 2x15'",
+      "duree": "53min",
+      "zone": "Z3",
+      "rpe": "5",
+      "structure": "12' EF | 2x15' Z3 (148-156 bpm) — r=3' | 12' RC\nFC cible : 148-156 bpm — régulier",
+      "dist_cible": 10.0
+    },
+    {
+      "date": "2026-07-11",
+      "jour": "Samedi",
+      "sport": "Velo",
+      "type": "Sortie longue Z2 — 120'",
+      "duree": "2h",
+      "zone": "Z2",
+      "rpe": "5",
+      "structure": "120' Z2 (127-140 bpm) | 2x18' Z3 inclus — r=10'\nNUTRITION : 45g/h | Cadence 85-92 rpm",
+      "dist_cible": 59.0
+    },
+    {
+      "date": "2026-07-11",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "🏊 Natation technique — 1700m",
+      "duree": "40min",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "4x50 facile | 10x50 éducatifs | 3x250 continu | 450 retour — 1 700 m",
+      "dist_cible_m": 1700
+    },
+    {
+      "date": "2026-07-12",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "🏊 Natation endurance — 1700m",
+      "duree": "40min",
+      "zone": "-",
+      "rpe": "4",
+      "structure": "200 EF | 3x400 continu (r=22'') | 300 retour — 1 700 m",
+      "dist_cible_m": 1700
+    },
+    {
+      "date": "2026-07-12",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "Sortie longue Z2 — 75'",
+      "duree": "1h15",
+      "zone": "Z2",
+      "rpe": "5",
+      "structure": "75' Z2 (127-140 bpm) — foncier\nAllure conversationnelle",
+      "dist_cible": 14.0
+    }
+  ]
+}

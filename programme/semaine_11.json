@@ -1,0 +1,125 @@
+{
+  "semaine": "Semaine 11 — 10/08 au 16/08/2026",
+  "seances": [
+    {
+      "date": "2026-08-10",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos — récup voyage retour Grèce\nJ-21 plan Ironman — reprise ultra-progressive"
+    },
+    {
+      "date": "2026-08-11",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "EF reprise — post-vacances",
+      "duree": "35min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "35' EF Z2 (120-133 bpm) — reprise très douce\n18 jours sans séance — ne pas forcer\nMarche-course si besoin — écouter le corps",
+      "dist_cible": 6.5
+    },
+    {
+      "date": "2026-08-11",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo reprise Z2 — 48'",
+      "duree": "48min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "48' Z2 — reprendre les jambes vélo\nCadence souple — jamais > Z2\nSensations premières",
+      "dist_cible": 22.0
+    },
+    {
+      "date": "2026-08-12",
+      "jour": "Mercredi",
+      "sport": "Velo",
+      "type": "Sortie Z2 + SS reprise — 115'",
+      "duree": "1h55",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "20' EF | 2x20' SS @ 81% FTP — r=6' | Z2 reste | 15' RC\nReprise progressive des blocs — intensité réduite\nNUTRITION : 43g/h",
+      "dist_cible": 56.0
+    },
+    {
+      "date": "2026-08-13",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF — 33'",
+      "duree": "33min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "33' EF Z2 facile",
+      "dist_cible": 6.0
+    },
+    {
+      "date": "2026-08-14",
+      "jour": "Vendredi",
+      "sport": "Velo",
+      "type": "Force légère — 60'",
+      "duree": "1h",
+      "zone": "Z2-Z3",
+      "rpe": "3",
+      "structure": "10' EF | 4x6' basse cadence (60 rpm) @ Z2 — r=3' + 2x5' cadence 100 rpm | 10' RC",
+      "dist_cible": 28.0
+    },
+    {
+      "date": "2026-08-14",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "Tempo très léger — 2x12'",
+      "duree": "47min",
+      "zone": "Z3",
+      "rpe": "4",
+      "structure": "12' EF | 2x12' Z3 (147-153 bpm) — r=3' | 12' RC\nPost-vacances — très contrôlé\nFC cible : 147-153 bpm max",
+      "dist_cible": 8.5
+    },
+    {
+      "date": "2026-08-15",
+      "jour": "Samedi",
+      "sport": "Velo",
+      "type": "Sortie longue Z2 — 140'",
+      "duree": "2h20",
+      "zone": "Z2",
+      "rpe": "6",
+      "structure": "140' Z2 (127-140 bpm) | 2x22' Z3 inclus — r=10'\nNUTRITION : 47g/h | Cadence 85-92 rpm\nReprise du long samedi — signal important",
+      "dist_cible": 68.0
+    },
+    {
+      "date": "2026-08-15",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "🏊 Natation technique — 1600m",
+      "duree": "38min",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "4x50 facile | 10x50 éducatifs | 3x250 continu | 350 retour — 1 600 m",
+      "dist_cible_m": 1600
+    },
+    {
+      "date": "2026-08-16",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "🏊 Natation endurance — 1600m",
+      "duree": "38min",
+      "zone": "-",
+      "rpe": "4",
+      "structure": "200 EF | 2x600 continu (r=25'') | 200 retour — 1 600 m",
+      "dist_cible_m": 1600
+    },
+    {
+      "date": "2026-08-16",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "Sortie longue Z2 — 78'",
+      "duree": "1h18",
+      "zone": "Z2",
+      "rpe": "5",
+      "structure": "78' Z2 (127-140 bpm) — foncier solide\nAllure conversationnelle",
+      "dist_cible": 14.5
+    }
+  ]
+}

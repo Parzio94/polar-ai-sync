@@ -1,0 +1,33 @@
+[
+  {
+    "id": "im703",
+    "label": "IM 70.3 Aix",
+    "date": "2027-05-16",
+    "objectif": "Sub 8:14:22",
+    "couleur": "#006d77",
+    "sub_cible": "8:14:22",
+    "allure_cible": null,
+    "probabilite_pct": 67,
+    "coach_note": "",
+    "updated_at": "2026-04-26"
+  },
+  {
+    "id": "imfull",
+    "label": "IM Full Vitoria",
+    "date": "2027-07-11",
+    "objectif": "Sub 16:59:39",
+    "couleur": "#ff0000",
+    "sub_cible": "16:59:39",
+    "allure_cible": null,
+    "probabilite_pct": 60,
+    "coach_note": "",
+    "updated_at": "2026-04-26"
+  },
+  {
+    "id": "triathlon_nancy_0531",
+    "label": "Triathlon Nancy",
+    "date": "2026-05-31",
+    "objectif": "Sub 1h27",
+    "couleur": "#6b15c1"
+  }
+]

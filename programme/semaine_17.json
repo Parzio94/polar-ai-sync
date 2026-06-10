@@ -1,0 +1,55 @@
+{
+  "semaine": "S17",
+  "semaine_num": 17,
+  "seances": [
+    {
+      "date": "2026-04-28",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — Seuil 3×8'",
+      "duree": "75min",
+      "zone": "Z3",
+      "rpe": "5",
+      "structure": "12' EF → 3×8' Z4 (r=2') → 8' RC — D+ : 183 m",
+      "dist_cible": 13.0,
+      "dist_cible_m": null
+    },
+    {
+      "date": "2026-04-30",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "Tempo léger",
+      "duree": "65min",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "15' EF → 20' tempo → 10–15' RC — D+ : 110 m",
+      "dist_cible": 11.0,
+      "dist_cible_m": null
+    },
+    {
+      "date": "2026-05-01",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF + 6×20''",
+      "duree": "45min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "30' EF → 6×20'' (r=60'') → 10' RC — D+ : 73 m",
+      "dist_cible": 7.5,
+      "dist_cible_m": null
+    },
+    {
+      "date": "2026-05-03",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "Sortie longue courte",
+      "duree": "140min",
+      "zone": "Z2",
+      "rpe": "4",
+      "structure": "70–75' Z2 → RC — D+ : 367 m",
+      "dist_cible": 29.0,
+      "dist_cible_m": null
+    }
+  ],
+  "coach_updated_at": "2026-04-26 19:12"
+}

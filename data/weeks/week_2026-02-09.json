@@ -1,0 +1,36 @@
+{
+  "week_key": "2026-02-09",
+  "generated_at": "2026-02-28T11:40:24.453700",
+  "source": "manuel_restauration",
+  "exercises": [
+    {
+      "date": "2026-02-10",
+      "sport": "RUNNING",
+      "distance_m": 10610,
+      "start-time": "2026-02-10T07:30:00",
+      "duration": "PT57M11S"
+    },
+    {
+      "date": "2026-02-12",
+      "sport": "RUNNING",
+      "distance_m": 8600,
+      "start-time": "2026-02-12T07:30:00",
+      "duration": "PT49M41S"
+    },
+    {
+      "date": "2026-02-13",
+      "sport": "RUNNING",
+      "distance_m": 5620,
+      "start-time": "2026-02-13T07:30:00",
+      "duration": "PT32M3S"
+    },
+    {
+      "date": "2026-02-15",
+      "sport": "RUNNING",
+      "distance_m": 14170,
+      "start-time": "2026-02-15T07:30:00",
+      "duration": "PT1H19M19S"
+    }
+  ],
+  "sem_label": "S6"
+}

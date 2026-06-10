@@ -1,0 +1,36 @@
+{
+  "semaine": "Semaine 19",
+  "seances": [
+    {
+      "date": "2026-05-12",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Activation AM",
+      "duree": "35–40",
+      "zone": "Z3 (148–156)",
+      "rpe": "3",
+      "structure": "15’ EF → 2×4’ @ AM (r=3’) → 3–4×12’’ strides"
+    },
+    {
+      "date": "2026-05-15",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "Activation veille course",
+      "duree": "12–18",
+      "zone": "Z1 (120–138)",
+      "rpe": "1",
+      "structure": "12–18’ EF → 3×10–12’’ progressives (r=60’’)"
+    },
+    {
+      "date": "2026-05-16",
+      "jour": "Samedi",
+      "sport": "Course",
+      "type": "MARATHON",
+      "duree": "—",
+      "zone": "Z3→Z4",
+      "rpe": "9",
+      "structure": "42,195 km — stratégie course",
+      "dist_cible": 42.195
+    }
+  ]
+}

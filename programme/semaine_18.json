@@ -1,0 +1,35 @@
+{
+  "semaine": "Semaine 18",
+  "seances": [
+    {
+      "date": "2026-05-07",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF + strides",
+      "duree": "30–35",
+      "zone": "Z1–Z2 (130–145)",
+      "rpe": "2",
+      "structure": "30–35’ EF → 4×15’’ progressives (r=60’’)"
+    },
+    {
+      "date": "2026-05-09",
+      "jour": "Samedi",
+      "sport": "Course",
+      "type": "Allure Marathon",
+      "duree": "45–50",
+      "zone": "Z3 (150–157)",
+      "rpe": "4",
+      "structure": "15’ EF → 2×8’ @ AM (r=3’) → 10’ RC"
+    },
+    {
+      "date": "2026-05-10",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "EF récupération",
+      "duree": "25–30",
+      "zone": "Z1–Z2 (125–140)",
+      "rpe": "2",
+      "structure": "25–30’ EF très facile ou repos"
+    }
+  ]
+}

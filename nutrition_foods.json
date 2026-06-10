@@ -1,0 +1,377 @@
+[
+  {
+    "id": "poulet_filet",
+    "name": "Filet poitrine poulet",
+    "portion_g": 200,
+    "kcal": 330,
+    "prot_g": 62,
+    "carb_g": 0,
+    "fat_g": 8,
+    "condiment": false
+  },
+  {
+    "id": "boeuf",
+    "name": "Bœuf",
+    "portion_g": 200,
+    "kcal": 420,
+    "prot_g": 50,
+    "carb_g": 0,
+    "fat_g": 24,
+    "condiment": false
+  },
+  {
+    "id": "porc",
+    "name": "Porc",
+    "portion_g": 200,
+    "kcal": 380,
+    "prot_g": 52,
+    "carb_g": 0,
+    "fat_g": 20,
+    "condiment": false
+  },
+  {
+    "id": "saumon_fume",
+    "name": "Saumon fumé",
+    "portion_g": 75,
+    "kcal": 131,
+    "prot_g": 15,
+    "carb_g": 0,
+    "fat_g": 8,
+    "condiment": false
+  },
+  {
+    "id": "oeuf",
+    "name": "Œuf entier",
+    "portion_g": 60,
+    "kcal": 86,
+    "prot_g": 7,
+    "carb_g": 0,
+    "fat_g": 6,
+    "condiment": false
+  },
+  {
+    "id": "fromage_chevre",
+    "name": "Fromage de chèvre",
+    "portion_g": 50,
+    "kcal": 130,
+    "prot_g": 9,
+    "carb_g": 0,
+    "fat_g": 10,
+    "condiment": false
+  },
+  {
+    "id": "skyr",
+    "name": "Yaourt Skyr",
+    "portion_g": 100,
+    "kcal": 60,
+    "prot_g": 10,
+    "carb_g": 4,
+    "fat_g": 0,
+    "condiment": false
+  },
+  {
+    "id": "pates_cuites",
+    "name": "Pâtes cuites",
+    "portion_g": 250,
+    "kcal": 350,
+    "prot_g": 13,
+    "carb_g": 67,
+    "fat_g": 3,
+    "condiment": false
+  },
+  {
+    "id": "riz_cuit",
+    "name": "Riz thaï cuit",
+    "portion_g": 250,
+    "kcal": 325,
+    "prot_g": 6,
+    "carb_g": 70,
+    "fat_g": 1,
+    "condiment": false
+  },
+  {
+    "id": "pain",
+    "name": "Pain",
+    "portion_g": 100,
+    "kcal": 265,
+    "prot_g": 9,
+    "carb_g": 49,
+    "fat_g": 3,
+    "condiment": false
+  },
+  {
+    "id": "banane",
+    "name": "Banane",
+    "portion_g": 120,
+    "kcal": 107,
+    "prot_g": 1,
+    "carb_g": 27,
+    "fat_g": 0,
+    "condiment": false
+  },
+  {
+    "id": "chocolat_noir",
+    "name": "Chocolat noir 70%",
+    "portion_g": 30,
+    "kcal": 170,
+    "prot_g": 2,
+    "carb_g": 13,
+    "fat_g": 12,
+    "condiment": false
+  },
+  {
+    "id": "avocat",
+    "name": "Avocat",
+    "portion_g": 200,
+    "kcal": 320,
+    "prot_g": 4,
+    "carb_g": 4,
+    "fat_g": 30,
+    "condiment": false
+  },
+  {
+    "id": "tomate",
+    "name": "Tomate",
+    "portion_g": 200,
+    "kcal": 36,
+    "prot_g": 2,
+    "carb_g": 8,
+    "fat_g": 0,
+    "condiment": false
+  },
+  {
+    "id": "fraises",
+    "name": "Fraises",
+    "portion_g": 150,
+    "kcal": 48,
+    "prot_g": 1,
+    "carb_g": 11,
+    "fat_g": 0,
+    "condiment": false
+  },
+  {
+    "id": "grenailles",
+    "name": "Grenailles rôties",
+    "portion_g": 200,
+    "kcal": 160,
+    "prot_g": 3,
+    "carb_g": 33,
+    "fat_g": 2,
+    "condiment": false
+  },
+  {
+    "id": "miel",
+    "name": "Miel",
+    "portion_g": 15,
+    "kcal": 45,
+    "prot_g": 0,
+    "carb_g": 12,
+    "fat_g": 0,
+    "condiment": false
+  },
+  {
+    "id": "sauce_soja",
+    "name": "Sauce soja sucrée",
+    "portion_g": 30,
+    "kcal": 35,
+    "prot_g": 1,
+    "carb_g": 7,
+    "fat_g": 0,
+    "condiment": true
+  },
+  {
+    "id": "moutarde_miel",
+    "name": "Moutarde miel",
+    "portion_g": 30,
+    "kcal": 60,
+    "prot_g": 1,
+    "carb_g": 8,
+    "fat_g": 3,
+    "condiment": true
+  },
+  {
+    "id": "sauce_tomate",
+    "name": "Sauce tomate",
+    "portion_g": 50,
+    "kcal": 35,
+    "prot_g": 1,
+    "carb_g": 7,
+    "fat_g": 0,
+    "condiment": true
+  },
+  {
+    "id": "creme_fraiche",
+    "name": "Crème fraîche",
+    "portion_g": 30,
+    "kcal": 90,
+    "prot_g": 1,
+    "carb_g": 1,
+    "fat_g": 9,
+    "condiment": true
+  },
+  {
+    "id": "camembert",
+    "name": "Camembert",
+    "portion_g": 100,
+    "kcal": 299,
+    "prot_g": 19.8,
+    "carb_g": 0.5,
+    "fat_g": 24.7,
+    "condiment": false,
+    "category": "laitage"
+  },
+  {
+    "id": "brie",
+    "name": "Brie",
+    "portion_g": 100,
+    "kcal": 334,
+    "prot_g": 20.7,
+    "carb_g": 0.5,
+    "fat_g": 27.7,
+    "condiment": false,
+    "category": "laitage"
+  },
+  {
+    "id": "comte",
+    "name": "Comté",
+    "portion_g": 100,
+    "kcal": 413,
+    "prot_g": 29.2,
+    "carb_g": 0.4,
+    "fat_g": 32.4,
+    "condiment": false,
+    "category": "laitage"
+  },
+  {
+    "id": "emmental",
+    "name": "Emmental",
+    "portion_g": 100,
+    "kcal": 370,
+    "prot_g": 28.5,
+    "carb_g": 0.5,
+    "fat_g": 28.0,
+    "condiment": false,
+    "category": "laitage"
+  },
+  {
+    "id": "filet_mignon_porc",
+    "name": "Filet mignon de porc",
+    "portion_g": 100,
+    "kcal": 143,
+    "prot_g": 21.5,
+    "carb_g": 0.0,
+    "fat_g": 6.0,
+    "condiment": false,
+    "category": "proteine"
+  },
+  {
+    "id": "saucisse_porc",
+    "name": "Saucisse / Chipolata",
+    "portion_g": 100,
+    "kcal": 301,
+    "prot_g": 12.5,
+    "carb_g": 2.0,
+    "fat_g": 27.0,
+    "condiment": false,
+    "category": "proteine"
+  },
+  {
+    "id": "lardons",
+    "name": "Lardons fumés",
+    "portion_g": 100,
+    "kcal": 336,
+    "prot_g": 14.0,
+    "carb_g": 1.0,
+    "fat_g": 30.0,
+    "condiment": false,
+    "category": "proteine"
+  },
+  {
+    "id": "jambon_blanc",
+    "name": "Jambon blanc",
+    "portion_g": 100,
+    "kcal": 107,
+    "prot_g": 17.5,
+    "carb_g": 1.0,
+    "fat_g": 3.5,
+    "condiment": false,
+    "category": "proteine"
+  },
+  {
+    "id": "thon",
+    "name": "Thon en boîte",
+    "portion_g": 100,
+    "kcal": 116,
+    "prot_g": 25.5,
+    "carb_g": 0.0,
+    "fat_g": 1.0,
+    "condiment": false,
+    "category": "poisson"
+  },
+  {
+    "id": "crevette",
+    "name": "Crevettes",
+    "portion_g": 100,
+    "kcal": 85,
+    "prot_g": 18.0,
+    "carb_g": 0.0,
+    "fat_g": 1.0,
+    "condiment": false,
+    "category": "poisson"
+  },
+  {
+    "id": "rumsteak",
+    "name": "Rumsteak",
+    "portion_g": 100,
+    "kcal": 160,
+    "prot_g": 28.0,
+    "carb_g": 0.0,
+    "fat_g": 5.0,
+    "condiment": false,
+    "category": "proteine"
+  },
+  {
+    "id": "porc_echine",
+    "name": "Porc (échine)",
+    "portion_g": 100,
+    "kcal": 271,
+    "prot_g": 17.0,
+    "carb_g": 0.0,
+    "fat_g": 22.0,
+    "condiment": false,
+    "category": "proteine"
+  },
+  {
+    "id": "yaourt_grec",
+    "name": "Yaourt grec",
+    "portion_g": 100,
+    "kcal": 97,
+    "prot_g": 9.0,
+    "carb_g": 4.0,
+    "fat_g": 5.0,
+    "condiment": false,
+    "category": "laitage"
+  },
+  {
+    "id": "banana_bread",
+    "name": "Banana bread",
+    "portion_g": 100,
+    "kcal": 290,
+    "prot_g": 4.0,
+    "carb_g": 45.0,
+    "fat_g": 10.0,
+    "condiment": false,
+    "category": "autre"
+  },
+  {
+    "id": "pain_complet",
+    "name": "Pain complet",
+    "portion_g": 100,
+    "kcal": 247,
+    "prot_g": 9.0,
+    "carb_g": 45.0,
+    "fat_g": 3.5,
+    "condiment": false,
+    "category": "feculent"
+  }
+]

@@ -1,0 +1,416 @@
+{
+  "autres_produits": {
+    "assurance_vie": {
+      "id": "assurance_vie",
+      "name": "Assurance Vie",
+      "rendement": 4.1126,
+      "solde": 5000,
+      "type": "assurance_vie"
+    },
+    "ccb": {
+      "id": "ccb",
+      "name": "CCB Malakoff",
+      "solde": 10804.78,
+      "taux_actuel": 5,
+      "type": "epargne_salariale"
+    },
+    "per": {
+      "id": "per",
+      "name": "PER",
+      "rendement": 6,
+      "solde": 2397,
+      "type": "per"
+    }
+  },
+  "crypto": {
+    "bitcoin": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "pru": 90939.19,
+      "qte": 0.011009,
+      "symbol": "BTC"
+    },
+    "ethereum": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "id": "ethereum",
+      "name": "Ethereum",
+      "pru": 2953.07,
+      "qte": 0.169583,
+      "symbol": "ETH"
+    },
+    "solana": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "id": "solana",
+      "name": "Solana",
+      "pru": 140.51,
+      "qte": 5.340625,
+      "symbol": "SOL"
+    }
+  },
+  "cto": {
+    "005930.KS": {
+      "achats": [],
+      "currency": "KRW",
+      "dividende_annuel": 0,
+      "name": "Samsung",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "005930.KS"
+    },
+    "AMD": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "AMD",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "AMD"
+    },
+    "BLK": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "BlackRock",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "BLK"
+    },
+    "CVX": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "Chevron",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "CVX"
+    },
+    "IGLN.L": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "pru": 0,
+      "qte": 0
+    },
+    "ISLN.L": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "pru": 0,
+      "qte": 0
+    },
+    "MA": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "Mastercard",
+      "pru": 424.8,
+      "qte": 5.885,
+      "symbol": "MA"
+    },
+    "MSFT": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "Microsoft",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "MSFT"
+    },
+    "NVDA": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "NVIDIA",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "NVDA"
+    },
+    "ORCL": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "Oracle",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "ORCL"
+    },
+    "V": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "Visa",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "V"
+    },
+    "XOM": {
+      "achats": [],
+      "currency": "USD",
+      "dividende_annuel": 0,
+      "name": "ExxonMobil",
+      "pru": 126.32,
+      "qte": 9.9,
+      "symbol": "XOM"
+    }
+  },
+  "liquidites": {
+    "montant": 6036.22
+  },
+  "liquidites_bricks": {
+    "montant": 360
+  },
+  "livrets": {
+    "ldds": {
+      "historique_taux": [
+        {
+          "date_effet": "2024-01-01",
+          "taux": 1.5
+        }
+      ],
+      "id": "ldds",
+      "name": "LDDS LCL",
+      "solde": 13262,
+      "taux_actuel": 1.5
+    },
+    "livret_a": {
+      "historique_taux": [
+        {
+          "date_effet": "2024-01-01",
+          "taux": 1.5
+        }
+      ],
+      "id": "livret_a",
+      "name": "Livret A LCL",
+      "solde": 24646,
+      "taux_actuel": 1.5
+    },
+    "livret_jeune": {
+      "historique_taux": [
+        {
+          "date_effet": "2024-01-01",
+          "taux": 1.5
+        },
+        {
+          "date_fin": "2026-04-22",
+          "taux": 1.5
+        }
+      ],
+      "id": "livret_jeune",
+      "name": "Livret Jeune LCL",
+      "solde": 1773,
+      "taux_actuel": 2
+    },
+    "tr_livret": {
+      "historique_taux": [
+        {
+          "date_effet": "2024-01-01",
+          "taux": 2
+        },
+        {
+          "date_fin": "2026-04-22",
+          "taux": 2
+        }
+      ],
+      "id": "tr_livret",
+      "name": "TR Livret",
+      "solde": 20643,
+      "taux_actuel": 1.372
+    }
+  },
+  "pea": {
+    "AIR.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Airbus",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "AIR.PA",
+      "type": "action"
+    },
+    "BNP.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "BNP Paribas",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "BNP.PA",
+      "type": "action"
+    },
+    "ESE.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "BNP Paribas Easy S&P 500",
+      "pru": 29.51,
+      "qte": 289,
+      "symbol": "ESE.PA",
+      "type": "etf"
+    },
+    "EWLD.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Amundi MSCI World Swap",
+      "pru": 36.38,
+      "qte": 34,
+      "symbol": "CACC.PA",
+      "type": "etf"
+    },
+    "HO.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Thales",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "HO.PA",
+      "type": "action"
+    },
+    "MC.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "LVMH",
+      "pru": 622.86,
+      "qte": 1,
+      "symbol": "MC.PA",
+      "type": "action"
+    },
+    "PAEEM.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Amundi PEA Emergent",
+      "pru": 30.1,
+      "qte": 166,
+      "symbol": "PAEEM.PA",
+      "type": "etf"
+    },
+    "PANQ.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Amundi PEA Nasdaq-100",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "PANQ.PA",
+      "type": "etf"
+    },
+    "SAF.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Safran",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "SAF.PA",
+      "type": "action"
+    },
+    "SGO.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Saint-Gobain",
+      "pru": 84.01,
+      "qte": 3,
+      "symbol": "SGO.PA",
+      "type": "action"
+    },
+    "SOI.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Soitec",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "SOI.PA",
+      "type": "action"
+    },
+    "SU.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Schneider Electric",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "SU.PA",
+      "type": "action"
+    },
+    "TTE.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "TotalEnergies",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "TTE.PA",
+      "type": "action"
+    },
+    "VU.PA": {
+      "achats": [],
+      "dividende_annuel": 0,
+      "name": "Vusion",
+      "pru": 0,
+      "qte": 0,
+      "symbol": "VU.PA",
+      "type": "action"
+    }
+  },
+  "scpi": {
+    "brick_1777118027356": {
+      "date_achat": "2025-11-27",
+      "date_fin": "2026-11-27",
+      "id": "brick_1777118027356",
+      "nom": "Villa Ramatuelle Boulevard Patch",
+      "rendement": 9,
+      "valeur": 20
+    },
+    "brick_1777118056559": {
+      "date_achat": "2025-12-31",
+      "date_fin": "2026-12-31",
+      "id": "brick_1777118056559",
+      "nom": "Immeuble Place de la Liberté Toulon",
+      "rendement": 9,
+      "valeur": 400
+    },
+    "brick_1777118083371": {
+      "date_achat": "2026-01-12",
+      "date_fin": "2027-01-12",
+      "id": "brick_1777118083371",
+      "nom": "Lotissement Tiefenbach Colmar",
+      "rendement": 10,
+      "valeur": 140
+    },
+    "brick_1777118143498": {
+      "date_achat": "2026-04-01",
+      "date_fin": "2027-10-01",
+      "id": "brick_1777118143498",
+      "nom": "Hôtel The Originals City Carquefou",
+      "rendement": 8,
+      "valeur": 70
+    },
+    "brick_1777118188906": {
+      "date_achat": "2026-04-04",
+      "date_fin": "2027-10-04",
+      "id": "brick_1777118188906",
+      "nom": "Division Montée d'Eoures Marseille",
+      "rendement": 9,
+      "valeur": 70
+    },
+    "brick_1777118222483": {
+      "date_achat": "2026-04-05",
+      "date_fin": "2029-05-05",
+      "id": "brick_1777118222483",
+      "nom": "Fitness Park Tudela 🇪🇸",
+      "rendement": 9,
+      "valeur": 140
+    },
+    "brick_1777119559641": {
+      "date_achat": "2026-04-02",
+      "date_fin": "2026-05-02",
+      "id": "brick_1777119559641",
+      "nom": "Entrepôt Bailleul",
+      "rendement": 9,
+      "valeur": 340
+    },
+    "brick_1778487842185": {
+      "date_achat": "2026-05-11",
+      "date_fin": "2027-05-11",
+      "id": "brick_1778487842185",
+      "nom": "Tuba Club Marseille",
+      "rendement": 9,
+      "valeur": 570
+    }
+  }
+}

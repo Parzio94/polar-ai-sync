@@ -1,0 +1,216 @@
+{
+  "generated_at": "2026-03-30T05:51:02.759254",
+  "sem_label": "S12",
+  "diagnostic": "Semaine de 49.9km course avec 3 séances qualité bien exécutées. Excellent AS21 du 24/03 : 12km en 1h03'20 à FC=148 avec splits très stables (4:49-5:37). Tempo du 26/03 moins régulier : kilomètres 9-11 impactés par dénivelé (D+=44.8m au km9). Sortie longue dimanche parfaitement maîtrisée : 18km en 1h38'41 à FC=143, 89% Z2 avec excellente stabilité cardiovasculaire. Efficacité aérobie moyenne à 2.308 vs meilleur 2.019.",
+  "points_vigilance": [
+    "Charge ATL élevée à 50.6 avec TSB=-11.6 indiquant fatigue accumulée",
+    "Mauvaise nuit du 25/03 (score=63) corrélée à la séance la moins efficace du 27/03 (2.364)",
+    "Vélo du 28/03 écourté à 17min au lieu de 2h prévues",
+    "FC nocturne stable autour de 55.6 bpm, pas de surmenage"
+  ],
+  "forme_globale": "NORMAL",
+  "commentaire_forme": "TSB=-11.6 dans la zone neutre acceptable. Efficacité aérobie à 2.308 légèrement dégradée mais cohérente avec la charge d'entraînement élevée en approche semi.",
+  "programme_s1": [
+    {
+      "date": "2026-03-31",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — VO₂ 12×1'30''",
+      "duree": "70min",
+      "zone": "Z3-Z4",
+      "rpe": "7",
+      "structure": "12' EF → 12×1'30'' Z5‑ (r=1') → 10' RC — D+ : 32 m",
+      "dist_cible": 11.0,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — forme permet séance VO2 avant taper semi J-12"
+    },
+    {
+      "date": "2026-04-02",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "Tempo progressif",
+      "duree": "60min",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "15' EF → 30–35' tempo (fin légèrement plus soutenue) → 15' RC — D+ : 97 m",
+      "dist_cible": 10.0,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — dernière séance tempo avant affûtage"
+    },
+    {
+      "date": "2026-04-03",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF + 6×20''",
+      "duree": "50min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "30' EF → 6×20'' (r=60'') → 10' RC — D+ : 32 m",
+      "dist_cible": 7.0,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — activation légère pré-semi"
+    },
+    {
+      "date": "2026-04-04",
+      "jour": "Samedi",
+      "sport": "Vélo",
+      "type": "Z2",
+      "duree": "120min",
+      "zone": "Z2",
+      "rpe": "3",
+      "structure": "Vélo Z2",
+      "dist_cible": null,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — séance vélo de base prévue"
+    },
+    {
+      "date": "2026-04-04",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Technique + éducatifs",
+      "duree": "30min",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "4×50 facile (crawl/dos) → 12×50 éducatifs → 3×200 facile + 1×100 facile → 200m brasse",
+      "dist_cible": null,
+      "dist_cible_m": 1700,
+      "modification": "Maintenu conforme au programme — progression +100m vs semaine précédente"
+    },
+    {
+      "date": "2026-04-05",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "Nage facile",
+      "duree": "25min",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "Nage continue 600–800 m",
+      "dist_cible": null,
+      "dist_cible_m": 800,
+      "modification": "Maintenu conforme au programme — récupération active pré-semi"
+    },
+    {
+      "date": "2026-04-05",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "Sortie longue structurée",
+      "duree": "115min",
+      "zone": "Z2-Z3",
+      "rpe": "4",
+      "structure": "120–130' Z2 → 10' Z3 bas → RC — D+ : 325 m",
+      "dist_cible": 23.0,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — dernière sortie longue avant taper semi"
+    }
+  ],
+  "programme_s2": [
+    {
+      "date": "2026-04-07",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — AS21 4×10'",
+      "duree": "45min",
+      "zone": "Z2",
+      "rpe": "3",
+      "structure": "12' EF → 4×10' AS21 (r=3') → 8' RC — D+ : 25 m",
+      "dist_cible": 8.0,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — taper léger J-5 avant semi"
+    },
+    {
+      "date": "2026-04-09",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "Tempo continu",
+      "duree": "40min",
+      "zone": "Z3-Z4",
+      "rpe": "6",
+      "structure": "15' EF → 35–40' tempo → 15' RC — D+ : 75 m",
+      "dist_cible": 6.8,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — dernière activation J-3"
+    },
+    {
+      "date": "2026-04-10",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF + 6×20''",
+      "duree": "30min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "30' EF → 6×20'' (r=60'') → 10' RC — D+ : 25 m",
+      "dist_cible": 5.0,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — activation finale J-2"
+    },
+    {
+      "date": "2026-04-12",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "SEMI-MARATHON",
+      "duree": null,
+      "zone": "Z3-Z4",
+      "rpe": "7",
+      "structure": "Course — D+ : 250 m",
+      "dist_cible": 21.1,
+      "dist_cible_m": null,
+      "modification": "Maintenu conforme au programme — objectif course fixé"
+    }
+  ],
+  "sub_proposes": {
+    "semi": {
+      "sub_cible": "1:49:00",
+      "allure_cible": "5:10/km",
+      "probabilite_pct": 65,
+      "note": "basé sur Z2 stable 5:19/km et AS21 excellents du 24/03"
+    },
+    "marathon": {
+      "sub_cible": "3:25:00",
+      "allure_cible": "4:52/km",
+      "probabilite_pct": 45,
+      "note": "maintien objectif initial, forme confirmée par sortie longue 18km"
+    },
+    "im703": {
+      "sub_cible": "5:45:00",
+      "allure_cible": null,
+      "probabilite_pct": 55,
+      "note": "données vélo/natation insuffisantes"
+    },
+    "imfull": {
+      "sub_cible": "11:30:00",
+      "allure_cible": null,
+      "probabilite_pct": 42,
+      "note": ""
+    }
+  },
+  "zones_proposees": null,
+  "zones_confiance_haute": false,
+  "zones_commentaire": "",
+  "pending_updates": null,
+  "zone_calib": {
+    "auto_update": true,
+    "proposed_z2_pace_s": 318,
+    "proposed_z2_pace_str": "5:18",
+    "calibrating_sessions": [
+      {
+        "date": "2026-03-08",
+        "hr_avg": 142,
+        "pace_avg_s": 307,
+        "n_splits": 18
+      },
+      {
+        "date": "2026-03-29",
+        "hr_avg": 143,
+        "pace_avg_s": 330,
+        "n_splits": 18
+      }
+    ],
+    "reason": "Basé sur 2 séances Z2 stables",
+    "validated": true
+  },
+  "files_written": [
+    "/root/polar/programme/semaine_13.json",
+    "/root/polar/programme/semaine_14.json",
+    "/root/polar/races.json"
+  ]
+}
