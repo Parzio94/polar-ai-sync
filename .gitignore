@@ -1,9 +1,0 @@
-*.log
-*.bak
-.env
-tokens.json
-documents/
-logs/
-__pycache__/
-polar-app.service
-venv/
