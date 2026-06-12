@@ -19,7 +19,7 @@
       "duree": "42min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "42' Z2 récup — cadence souple",
+      "structure": "42' Z2 récup — cadence souple 90-95 rpm",
       "dist_cible": 19.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "50min",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "12' EF | 2x12' Z3 (147-153 bpm) — r=3' | 12' RC\nPremière qualité — FC cible 147-153 bpm\nNe pas dépasser 155 bpm — progressif\n4x20'' strides en fin",
+      "structure": "12' EF | 2x12' Z3 (147-153 bpm) — r=3' | 12' RC\nFC cible : 147-153 bpm — ne pas dépasser 155 bpm\n4x20'' strides en fin\nTerrain plat ou très légèrement ondulé",
       "dist_cible": 9.0
     },
     {
@@ -41,18 +41,18 @@
       "duree": "1h30",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "90' Z2 (127-138 bpm) | Cadence 85-90 rpm\nNUTRITION : 42g/h",
+      "structure": "90' Z2 (127-138 bpm) | Cadence 88-93 rpm\nNUTRITION : 42g/h",
       "dist_cible": 44.0
     },
     {
       "date": "2026-07-09",
       "jour": "Jeudi",
       "sport": "Velo",
-      "type": "Force vélo — 65'",
+      "type": "Vélo cadence mixte — 65'",
       "duree": "1h05",
       "zone": "Z2-Z3",
-      "rpe": "4",
-      "structure": "10' EF | 5x5' basse cadence (60 rpm) @ Z2 — r=3' + 2x5' cadence 100 rpm | 10' RC",
+      "rpe": "3",
+      "structure": "10' EF\nSI genou symptôme-free depuis 1 semaine :\n  4x5' basse cadence (65 rpm) @ Z2 — r=3' + 2x5' cadence 100 rpm\nSINON :\n  6x8' cadence haute 92-97 rpm @ Z2 — r=2'\nToujours écouter le genou",
       "dist_cible": 31.0
     },
     {
@@ -63,7 +63,7 @@
       "duree": "30min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "30' EF Z2 facile",
+      "structure": "30' EF Z2 facile — plat",
       "dist_cible": 5.5
     },
     {
@@ -74,7 +74,7 @@
       "duree": "53min",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "12' EF | 2x15' Z3 (148-156 bpm) — r=3' | 12' RC\nFC cible : 148-156 bpm — régulier",
+      "structure": "12' EF | 2x15' Z3 (148-156 bpm) — r=3' | 12' RC\nFC cible : 148-156 bpm — terrain plat",
       "dist_cible": 10.0
     },
     {
@@ -85,7 +85,7 @@
       "duree": "2h",
       "zone": "Z2",
       "rpe": "5",
-      "structure": "120' Z2 (127-140 bpm) | 2x18' Z3 inclus — r=10'\nNUTRITION : 45g/h | Cadence 85-92 rpm",
+      "structure": "120' Z2 (127-140 bpm) | 2x18' Z3 inclus — r=10'\nNUTRITION : 45g/h | Cadence 88-93 rpm",
       "dist_cible": 59.0
     },
     {
@@ -114,11 +114,11 @@
       "date": "2026-07-12",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "Sortie longue Z2 — 75'",
+      "type": "Sortie longue Z2 — 75' (plat/vallonné doux)",
       "duree": "1h15",
       "zone": "Z2",
       "rpe": "5",
-      "structure": "75' Z2 (127-140 bpm) — foncier\nAllure conversationnelle",
+      "structure": "75' Z2 (127-140 bpm) — foncier\nAllure conversationnelle\nGenou : éviter les descentes raides — terrain plat/légèrement vallonné",
       "dist_cible": 14.0
     }
   ]

@@ -15,66 +15,66 @@
       "date": "2026-06-30",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "🚴 PREMIER VÉLO — reprise douce Z2",
+      "type": "🚴 PREMIER VÉLO — cadence haute UNIQUEMENT",
       "duree": "55min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "RETOUR VÉLO après 7 semaines !\n55' Z2 très facile (120-133 bpm)\nCadence très souple 82-87 rpm — ne pas forcer\nÉcouter les sensations — jambes potentiellement très rouillées\nPas d'intensité — juste tourner les jambes",
+      "structure": "RETOUR VÉLO après 7 semaines !\n55' Z2 très facile (120-133 bpm)\nPROTOCOLE GENOU :\n  · Cadence HAUTE : 90-95 rpm minimum — réduit la pression sur le genou\n  · Selle légèrement plus haute qu'habitude (1-2 cm)\n  · ZÉRO force — ZÉRO basse cadence pendant 2 semaines\n  · Plateau facile — résistance minimale\nÉcouter les sensations du genou",
       "dist_cible": 25.0
     },
     {
       "date": "2026-06-30",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "EF légère post-Malaga",
+      "type": "EF légère post-Malaga — plat",
       "duree": "32min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "32' EF Z2 (120-133 bpm) — reprise douce\nPost-camp Malaga — observer les sensations",
+      "structure": "32' EF Z2 (120-133 bpm) — terrain plat\nPost-camp Malaga — observer les sensations genou",
       "dist_cible": 6.0
     },
     {
       "date": "2026-07-01",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Sortie Z2 — 80'",
+      "type": "Sortie Z2 — 80' (cadence haute)",
       "duree": "1h20",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "80' Z2 (127-138 bpm) — progression vélo\nCadence 83-90 rpm | NUTRITION : 40g/h si besoin",
+      "structure": "80' Z2 (127-138 bpm)\nCadence 90-95 rpm — pas de basse cadence\nNUTRITION : 40g/h si besoin",
       "dist_cible": 39.0
     },
     {
       "date": "2026-07-02",
       "jour": "Jeudi",
       "sport": "Velo",
-      "type": "Vélo force légère — 55'",
+      "type": "Vélo cadence haute — 55' (pas de force)",
       "duree": "55min",
-      "zone": "Z2-Z3",
+      "zone": "Z2",
       "rpe": "3",
-      "structure": "10' EF | 4x5' basse cadence (62 rpm) @ Z2 — r=3' | 15' RC\nRéactivation musculaire — très progressif",
+      "structure": "10' EF | 4x8' cadence HAUTE 95-100 rpm @ Z2 — r=3' | 15' RC\nPROTOCOLE GENOU : PAS de basse cadence avant 2 semaines sans douleur\nBasse cadence = forte pression genou → contre-indiqué\nCadence haute = cardio sans pression articulaire",
       "dist_cible": 26.0
     },
     {
       "date": "2026-07-02",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF — 30'",
+      "type": "EF — 30' plat",
       "duree": "30min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "30' EF Z2 facile",
+      "structure": "30' EF Z2 facile — terrain plat",
       "dist_cible": 5.5
     },
     {
       "date": "2026-07-03",
       "jour": "Vendredi",
       "sport": "Course",
-      "type": "EF + strides — 35'",
+      "type": "EF + strides — 35' plat",
       "duree": "35min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "30' EF Z2 | 4x20'' strides en fin\nFoncier progressif",
+      "structure": "30' EF Z2 | 4x20'' strides en fin\nFoncier progressif — terrain plat",
       "dist_cible": 6.5
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h40",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "100' Z2 (127-138 bpm) — première vraie longue vélo\nZ2 pur — pas de blocs encore\nNUTRITION : 40g/h | Cadence 83-90 rpm",
+      "structure": "100' Z2 (127-138 bpm) — première vraie longue vélo\nZ2 pur — cadence 90-95 rpm — pas de blocs\nNUTRITION : 40g/h | Selle position genou OK",
       "dist_cible": 49.0
     },
     {
@@ -114,11 +114,11 @@
       "date": "2026-07-05",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "Sortie longue Z2 — 62'",
+      "type": "Sortie longue Z2 — 62' (plat/vallonné doux)",
       "duree": "1h02",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "62' Z2 (127-138 bpm) — foncier CAP\nAllure conversationnelle",
+      "structure": "62' Z2 (127-138 bpm) — foncier CAP\nAllure conversationnelle\nPROTOCOLE GENOU : plat ou légèrement vallonné\nÉviter les descentes raides — pentes douces uniquement",
       "dist_cible": 11.5
     }
   ]

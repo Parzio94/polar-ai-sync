@@ -9,28 +9,28 @@
       "duree": "-",
       "zone": "-",
       "rpe": "1",
-      "structure": "Repos — récup voyage retour Grèce\nJ-21 plan Ironman — reprise ultra-progressive"
+      "structure": "Repos — récup voyage retour Grèce\nJ-21 plan Ironman — reprise ultra-progressive\n\nSTRATÉGIE 3 SEMAINES :\nSem 1 (10-16) : RPE max 5/10 — reconstruire les automatismes\nSem 2 (17-23) : Luxembourg vélo → boost cardiovasculaire clé\nSem 3 (24-30) : Volume -20% — arriver FRAIS le 31 août"
     },
     {
       "date": "2026-08-11",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "EF reprise — post-vacances",
+      "type": "EF reprise — post-vacances plat",
       "duree": "35min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "35' EF Z2 (120-133 bpm) — reprise très douce\n18 jours sans séance — ne pas forcer\nMarche-course si besoin — écouter le corps",
+      "structure": "35' EF Z2 (120-133 bpm) — reprise très douce\n18 jours sans séance — ne pas forcer\nTerrain plat — surveiller le genou\nMarche-course si besoin",
       "dist_cible": 6.5
     },
     {
       "date": "2026-08-11",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Vélo reprise Z2 — 48'",
+      "type": "Vélo reprise Z2 — 48' (cadence haute)",
       "duree": "48min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "48' Z2 — reprendre les jambes vélo\nCadence souple — jamais > Z2\nSensations premières",
+      "structure": "48' Z2 — reprendre les jambes vélo\nCadence 90-95 rpm — jamais > Z2\nGenou : cadence haute encore obligatoire",
       "dist_cible": 22.0
     },
     {
@@ -41,29 +41,29 @@
       "duree": "1h55",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "20' EF | 2x20' SS @ 81% FTP — r=6' | Z2 reste | 15' RC\nReprise progressive des blocs — intensité réduite\nNUTRITION : 43g/h",
+      "structure": "20' EF | 2x20' SS @ 81% FTP — r=6' | Z2 reste | 15' RC\nReprise progressive — intensité réduite\nNUTRITION : 43g/h",
       "dist_cible": 56.0
     },
     {
       "date": "2026-08-13",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF — 33'",
+      "type": "EF — 33' plat",
       "duree": "33min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "33' EF Z2 facile",
+      "structure": "33' EF Z2 facile — terrain plat",
       "dist_cible": 6.0
     },
     {
       "date": "2026-08-14",
       "jour": "Vendredi",
       "sport": "Velo",
-      "type": "Force légère — 60'",
+      "type": "Force légère — 60' (si asymptomatique)",
       "duree": "1h",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "10' EF | 4x6' basse cadence (60 rpm) @ Z2 — r=3' + 2x5' cadence 100 rpm | 10' RC",
+      "structure": "10' EF\nSI genou asymptomatique :\n  4x6' basse cadence (60 rpm) @ Z2 — r=3' + 2x5' cadence 100 rpm\nSINON : cadence haute 92-97 rpm uniquement",
       "dist_cible": 28.0
     },
     {
@@ -74,7 +74,7 @@
       "duree": "47min",
       "zone": "Z3",
       "rpe": "4",
-      "structure": "12' EF | 2x12' Z3 (147-153 bpm) — r=3' | 12' RC\nPost-vacances — très contrôlé\nFC cible : 147-153 bpm max",
+      "structure": "12' EF | 2x12' Z3 (147-153 bpm) — r=3' | 12' RC\nPost-vacances — très contrôlé\nFC cible : 147-153 bpm max — terrain plat",
       "dist_cible": 8.5
     },
     {
@@ -85,7 +85,7 @@
       "duree": "2h20",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "140' Z2 (127-140 bpm) | 2x22' Z3 inclus — r=10'\nNUTRITION : 47g/h | Cadence 85-92 rpm\nReprise du long samedi — signal important",
+      "structure": "140' Z2 (127-140 bpm) | 2x22' Z3 inclus — r=10'\nNUTRITION : 47g/h | Cadence 85-92 rpm",
       "dist_cible": 68.0
     },
     {
@@ -114,11 +114,11 @@
       "date": "2026-08-16",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "Sortie longue Z2 — 78'",
+      "type": "Sortie longue Z2 — 78' (plat/vallonné)",
       "duree": "1h18",
       "zone": "Z2",
       "rpe": "5",
-      "structure": "78' Z2 (127-140 bpm) — foncier solide\nAllure conversationnelle",
+      "structure": "78' Z2 (127-140 bpm) — foncier solide\nAllure conversationnelle\nGenou : terrain plat ou légèrement vallonné",
       "dist_cible": 14.5
     }
   ]

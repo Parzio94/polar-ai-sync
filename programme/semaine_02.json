@@ -15,11 +15,11 @@
       "date": "2026-06-09",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Test reprise CAP — EF très court",
+      "type": "Test reprise CAP — Marche-course PLAT STRICT",
       "duree": "18min",
       "zone": "Z1",
       "rpe": "1",
-      "structure": "PREMIER TEST REPRISE CAP — J+24 marathon\n18' de marche-course Z1 (<128 bpm)\nSi douleur : s'arrêter immédiatement et revenir à du repos\nSi OK : noter les sensations pour adapter la suite\nAllure très lente — marche si besoin",
+      "structure": "PREMIER TEST REPRISE CAP — J+24 marathon\nPROTOCOLE GENOU :\n  · TERRAIN PLAT UNIQUEMENT — zéro côte, zéro escalier, zéro trottoir en pente\n  · Marche-course : 1 min course / 1 min marche — alterner\n  · FC < 128 bpm — allure très lente\n  · Si douleur > 3/10 : ARRÊT IMMÉDIAT — retour repos complet\n  · Si OK : noter la douleur /10 avant, pendant, après\nPAS de trail, PAS de pente, PAS de dénivelé",
       "dist_cible": 3.0
     },
     {
@@ -30,17 +30,17 @@
       "duree": "-",
       "zone": "-",
       "rpe": "1",
-      "structure": "Repos — observer les sensations post-test\nSi douleurs : allonger la période de repos"
+      "structure": "Repos — observer les sensations post-test\nSi douleurs : allonger la période de repos\nGenou : noter douleur au repos, à la montée des escaliers"
     },
     {
       "date": "2026-06-11",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF très léger — si sensations OK",
+      "type": "EF très léger — PLAT STRICT (si test mardi OK)",
       "duree": "22min",
       "zone": "Z1-Z2",
       "rpe": "1",
-      "structure": "22' marche-course (120-130 bpm)\nSEULEMENT si le test mardi s'est bien passé\nSinon : repos complet\nÉcouter le corps — aucune pression",
+      "structure": "22' marche-course (120-130 bpm)\nSEULEMENT si mardi s'est passé sans douleur > 2/10\nSinon : repos complet sans exception\nPROTOCOLE GENOU :\n  · Terrain plat strict — zéro dénivelé\n  · Marche-course si besoin\n  · Surveiller douleur tendon rotulien/quadricipital",
       "dist_cible": 4.0
     },
     {
@@ -79,11 +79,11 @@
       "date": "2026-06-14",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "EF très léger post-nat — si OK",
+      "type": "EF très léger post-nat — PLAT STRICT (si OK)",
       "duree": "20min",
       "zone": "Z1-Z2",
       "rpe": "1",
-      "structure": "20' EF Z1 (120-130 bpm) — UNIQUEMENT si pas de douleur\nMarche-course — allure très basse\nSi sensations mauvaises : ne pas faire",
+      "structure": "20' EF Z1 (120-130 bpm) — UNIQUEMENT si pas de douleur\nTerrain plat strict — marche-course\nSi sensations mauvaises : ne pas faire",
       "dist_cible": 3.5
     }
   ]

@@ -19,7 +19,7 @@
       "duree": "42min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "42' Z2 récup",
+      "structure": "42' Z2 récup — cadence 90-95 rpm",
       "dist_cible": 19.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "1h03",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "12' EF\n5x2000m progressif :\n  Rép 1 : 81% → FC 158-160 bpm\n  Rép 2-3 : 83% → FC 161-164 bpm\n  Rép 4-5 : 85% → FC 164-166 bpm\nr=1'30 — FC sous 145 bpm\n10' RC",
+      "structure": "12' EF\n5x2000m progressif :\n  Rép 1 : 81% → FC 158-160 bpm\n  Rép 2-3 : 83% → FC 161-164 bpm\n  Rép 4-5 : 85% → FC 164-166 bpm\nr=1'30 — FC sous 145 bpm\n10' RC — terrain plat",
       "dist_cible": 12.0
     },
     {

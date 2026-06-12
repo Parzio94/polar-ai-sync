@@ -15,11 +15,11 @@
       "date": "2026-06-16",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "EF douce — 28'",
+      "type": "EF douce — 28' PLAT STRICT",
       "duree": "28min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "28' EF Z1-Z2 (120-135 bpm)\nAllure très facile — pas de tempo, pas de côtes\nSi douleur persiste : réduire à 15' ou annuler",
+      "structure": "28' EF Z1-Z2 (120-135 bpm) — TERRAIN PLAT UNIQUEMENT\nPROTOCOLE GENOU :\n  · Zéro côte, zéro escalier, zéro pente\n  · Si douleur > 2/10 : réduire à 15' ou annuler\n  · Si OK : noter la douleur et l'évolution",
       "dist_cible": 5.0
     },
     {
@@ -36,11 +36,11 @@
       "date": "2026-06-18",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF douce — 32'",
+      "type": "EF douce — 32' PLAT STRICT",
       "duree": "32min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "32' EF Z1-Z2 (120-135 bpm)\nMontée progressive par rapport à mardi\nÉcouter le corps",
+      "structure": "32' EF Z1-Z2 (120-135 bpm) — TERRAIN PLAT UNIQUEMENT\nMontée progressive par rapport à mardi\nPROTOCOLE GENOU : zéro dénivelé — surveiller douleur\nSi mardi a bien passé → tenir 32' | Si inconfort → 20' max",
       "dist_cible": 6.0
     },
     {
@@ -61,7 +61,7 @@
       "duree": "-",
       "zone": "-",
       "rpe": "1",
-      "structure": "Voyage Luxembourg→Paris puis nuit Paris\nPas de séance — voyage"
+      "structure": "Voyage Luxembourg→Paris puis nuit Paris\nPas de séance — voyage\n\n⚠️ DÉCISION MALAGA — À PRENDRE AUJOURD'HUI :\nScénario A : CAP 30' sans douleur cette semaine\n  → Plan normal — DESCENTES À PIED obligatoires\nScénario B : CAP possible mais inconfort\n  → 2-3 montées max/jour — descentes à pied — priorité natation\nScénario C : Douleur encore présente\n  → ZÉRO course à Malaga — natation uniquement 2x/jour"
     },
     {
       "date": "2026-06-21",

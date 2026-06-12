@@ -5,11 +5,11 @@
       "date": "2026-06-22",
       "jour": "Lundi",
       "sport": "Course",
-      "type": "🏔️ MALAGA J1 — CAP côte : découverte légère",
+      "type": "🏔️ MALAGA J1 — Montées uniquement (descentes à pied)",
       "duree": "45min",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "CAMP MALAGA — Jour 1 : Très progressif\n10' EF | 3x [Montée 200m D+ @ Z2-Z3 (138-155 bpm) — descente récup Z1] | 15' RC\nFOCUS : écouter le corps — première vraie sortie sérieuse depuis le marathon\nCourir tôt le matin (avant 8h) — chaleur Malaga\nDescentes très lentes — protéger les tendons\nD+ cumulé : ~600m",
+      "structure": "CAMP MALAGA — Jour 1 : Très progressif\n10' EF plat | 3x MONTÉE 200m D+ @ Z2-Z3 (138-155 bpm)\n⚠️ RÈGLE ABSOLUE GENOU : DESCENTES À PIED — jamais en courant\nLes descentes = contraction excentrique quadriceps = aggravation tendinopathie\nMarcher les descentes : 3-4 min de marche active\nCourir tôt (avant 8h) — chaleur Malaga\nSi douleur > 3/10 en montée : STOP — passer scénario C\nD+ cumulé : ~600m",
       "dist_cible": 8.0
     },
     {
@@ -20,18 +20,18 @@
       "duree": "28min",
       "zone": "-",
       "rpe": "3",
-      "structure": "Mer Méditerranée — après-midi (chaleur réduite)\n500-700m EF en eau libre\nSighting obligatoire — récupération musculaire",
+      "structure": "Mer Méditerranée — après-midi\n500-700m EF en eau libre\nSighting obligatoire — récupération musculaire",
       "dist_cible_m": 600
     },
     {
       "date": "2026-06-23",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "🏔️ MALAGA J2 — CAP côte : progression",
+      "type": "🏔️ MALAGA J2 — Montées + descentes à pied",
       "duree": "52min",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "CAMP MALAGA — Jour 2 : Build progressif\n10' EF | 4x [Montée 200m D+ @ Z3 (147-160 bpm) — r=3' descente] | 12' RC\nSi J1 bien passé → tenir cette intensité\nSi sensations difficiles → réduire à 3 montées\nD+ cumulé : ~800m",
+      "structure": "CAMP MALAGA — Jour 2 : Build progressif\n10' EF plat | 4x MONTÉE 200m D+ @ Z3 (147-160 bpm)\n⚠️ DESCENTES À PIED — toujours — sans exception\nDurée descente : 3-4 min de marche active\nSi J1 bien passé → 4 montées | Sinon → 3 montées\nD+ cumulé : ~800m",
       "dist_cible": 10.0
     },
     {
@@ -42,18 +42,18 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "3",
-      "structure": "700-800m | 200 EF | 4x75 allure (r=15'') | 300 retour\nSighting + rythme",
+      "structure": "700-800m | 200 EF | 4x75 allure (r=15'') | 300 retour",
       "dist_cible_m": 750
     },
     {
       "date": "2026-06-24",
       "jour": "Mercredi",
       "sport": "Course",
-      "type": "🏔️ MALAGA J3 — CAP côte : séance du camp",
+      "type": "🏔️ MALAGA J3 — Séance principale (descentes à pied)",
       "duree": "1h02",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "CAMP MALAGA — Jour 3 : Séance principale\n10' EF | 5x [Montée 200m D+ @ Z3 (150-162 bpm) — r=3' descente] | 12' RC\nADAPTÉ : 5 montées max (pas 9 comme prévu initialement)\nPartir tôt (6h) — gel à mi-séance — boire AVANT d'avoir soif\nDescentes LENTES — récup active\nD+ cumulé : ~1 000m",
+      "structure": "CAMP MALAGA — Jour 3 : Séance principale\n10' EF plat | 5x MONTÉE 200m D+ @ Z3 (150-162 bpm)\n⚠️ DESCENTES À PIED — absolument — règle la plus importante du camp\nCourir les descentes = risque de rechute 2-3 semaines\nPartir tôt (6h) — gel à mi-séance — boire AVANT d'avoir soif\nD+ cumulé : ~1 000m",
       "dist_cible": 12.0
     },
     {
@@ -64,7 +64,7 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "3",
-      "structure": "700-900m EF — récupération après la séance principale\nEau de mer = récup muscles et tendons\nPas d'intensité",
+      "structure": "700-900m EF — récupération après séance principale\nEau de mer = récup muscles et tendons\nPas d'intensité",
       "dist_cible_m": 800
     },
     {
@@ -75,7 +75,7 @@
       "duree": "-",
       "zone": "-",
       "rpe": "1",
-      "structure": "🏔️ MALAGA J4 — Repos / Tourisme\nJournée de récupération active — marche, plage\nPas de séance structurée — le corps a besoin de récupérer"
+      "structure": "🏔️ MALAGA J4 — Repos / Tourisme\nJournée de récupération active — marche, plage\nPas de séance structurée"
     },
     {
       "date": "2026-06-25",
@@ -92,11 +92,11 @@
       "date": "2026-06-26",
       "jour": "Vendredi",
       "sport": "Course",
-      "type": "🏔️ MALAGA J5 — CAP côte : deuxième session",
+      "type": "🏔️ MALAGA J5 — Montées (descentes à pied)",
       "duree": "55min",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "CAMP MALAGA — Jour 5 : Deuxième session qualitative\n10' EF | 4x [Montée 200m D+ @ Z3 (148-162 bpm) — r=3' descente] | 12' RC\nTenir l'intensité malgré fatigue cumulée du camp\nSi sensations difficiles → 3 montées seulement\nD+ cumulé : ~800m",
+      "structure": "CAMP MALAGA — Jour 5 : Deuxième session\n10' EF plat | 4x MONTÉE 200m D+ @ Z3 (148-162 bpm)\n⚠️ DESCENTES À PIED — règle non négociable\nFatigue cumulée → surveiller encore plus le genou\nSi sensations difficiles → 3 montées seulement\nD+ cumulé : ~800m",
       "dist_cible": 10.0
     },
     {
@@ -114,11 +114,11 @@
       "date": "2026-06-27",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "🏔️ MALAGA J6 — CAP côte : sortie finale",
+      "type": "🏔️ MALAGA J6 — Finale (descentes à pied)",
       "duree": "42min",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "CAMP MALAGA — Jour 6 : Finale légère\n10' EF | 3x [Montée 200m D+ @ Z2-Z3 (138-155 bpm) — descente récup] | 12' RC\nSortie de clôture — fierté du camp accompli 💪\nD+ cumulé : ~600m",
+      "structure": "CAMP MALAGA — Jour 6 : Finale légère\n10' EF plat | 3x MONTÉE 200m D+ @ Z2-Z3 (138-155 bpm)\n⚠️ DESCENTES À PIED — jusqu'au bout\nSortie de clôture — fierté du camp accompli 💪\nD+ cumulé : ~600m",
       "dist_cible": 8.0
     },
     {

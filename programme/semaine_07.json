@@ -19,7 +19,7 @@
       "duree": "42min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "42' Z2 récup",
+      "structure": "42' Z2 récup — cadence 90-95 rpm",
       "dist_cible": 19.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "1h",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "12' EF\n4x2000m progressif :\n  Rép 1-2 : 83-84% FCmax → FC 161-164 bpm\n  Rép 3-4 : 85% FCmax → FC 164-166 bpm\nr=1'30 — FC sous 145 bpm\n10' RC",
+      "structure": "12' EF\n4x2000m progressif :\n  Rép 1-2 : 83-84% FCmax → FC 161-164 bpm\n  Rép 3-4 : 85% FCmax → FC 164-166 bpm\nr=1'30 — FC sous 145 bpm\n10' RC\nTerrain plat",
       "dist_cible": 11.5
     },
     {
@@ -48,11 +48,11 @@
       "date": "2026-07-16",
       "jour": "Jeudi",
       "sport": "Velo",
-      "type": "Force vélo — 70'",
+      "type": "Force vélo — 70' (si asymptomatique)",
       "duree": "1h10",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "10' EF | 5x6' basse cadence (58 rpm) @ Z2-Z3 — r=3' + 2x5' cadence 100 rpm | 10' RC",
+      "structure": "10' EF\nSI symptôme-free depuis 2 semaines → programme normal :\n  5x6' basse cadence (60 rpm) @ Z2-Z3 — r=3' + 2x5' cadence 100 rpm\nSI encore sensible → cadence haute uniquement :\n  6x8' cadence 92-97 rpm @ Z2 — r=2'",
       "dist_cible": 33.0
     },
     {
@@ -63,7 +63,7 @@
       "duree": "32min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "32' EF Z2 facile",
+      "structure": "32' EF Z2 facile — plat",
       "dist_cible": 6.0
     },
     {
@@ -74,7 +74,7 @@
       "duree": "56min",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "12' EF | 2x18' Z3 (150-158 bpm) — r=3' | 12' RC\nFC cible : 150-158 bpm",
+      "structure": "12' EF | 2x18' Z3 (150-158 bpm) — r=3' | 12' RC\nFC cible : 150-158 bpm — terrain plat",
       "dist_cible": 10.5
     },
     {
@@ -85,7 +85,7 @@
       "duree": "2h20",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "140' Z2 (127-140 bpm) — PIC avant les vacances\n2x22' Z3 inclus — r=10'\nNUTRITION : 48g/h | Cadence 85-93 rpm",
+      "structure": "140' Z2 (127-140 bpm) — PIC avant vacances\n2x22' Z3 inclus — r=10'\nNUTRITION : 48g/h | Cadence 85-93 rpm",
       "dist_cible": 68.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "42min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs | 3x300 continu | 300 retour — 1 800 m\nDernière nat structurée avant vacances",
+      "structure": "4x50 facile | 10x50 éducatifs | 3x300 continu | 300 retour — 1 800 m",
       "dist_cible_m": 1800
     },
     {
@@ -118,7 +118,7 @@
       "duree": "1h22",
       "zone": "Z2",
       "rpe": "5",
-      "structure": "82' Z2 (127-140 bpm) — pic avant Italie\nAllure conversationnelle",
+      "structure": "82' Z2 (127-140 bpm) — pic avant Italie\nAllure conversationnelle\nGenou : toujours terrain plat/légèrement vallonné — descentes douces",
       "dist_cible": 15.5
     }
   ]
