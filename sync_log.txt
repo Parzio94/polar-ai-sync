@@ -70719,3 +70719,107 @@
 [2026-06-13 18:00:05] DAILY | =============================================
 [2026-06-13 18:00:05] DAILY | SYNC QUOTIDIENNE TERMINÉE
 [2026-06-13 18:00:05] DAILY | =============================================
+[2026-06-14 07:10:01] DAILY | =============================================
+[2026-06-14 07:10:01] DAILY | POLAR DAILY SYNC — Collecte donnees
+[2026-06-14 07:10:01] DAILY | =============================================
+[2026-06-14 07:10:01] DAILY | Token chargé: eb03f705...
+[2026-06-14 07:10:01] DAILY | User ID depuis tokens.json: 63113319
+[2026-06-14 07:10:01] DAILY | Fetch exercises 2026-05-31 → 2026-06-14
+[2026-06-14 07:10:01] DAILY | 2 séance(s) trouvée(s)
+[2026-06-14 07:10:01] DAILY |   [RUNNING] 2026-05-15 3.0km (id=PEj13mkd)
+[2026-06-14 07:10:01] DAILY |     Récupération des samples...
+[2026-06-14 07:10:02] DAILY |     samples: 8 type(s) via ?samples=true
+[2026-06-14 07:10:02] DAILY |     km 1: 5:27/km | FC=128 | cad=158 | pwr=257W
+[2026-06-14 07:10:02] DAILY |     km 2: 5:38/km | FC=139 | cad=164 | pwr=279W
+[2026-06-14 07:10:02] DAILY |     km 3: 6:08/km | FC=140 | cad=162 | pwr=266W
+[2026-06-14 07:10:02] DAILY |     samples_5s: 208 pts | 0 bloc(s) qualité détecté(s)
+[2026-06-14 07:10:02] DAILY |     Cache splits sauvegardé: PEj13mkd.json
+[2026-06-14 07:10:02] DAILY |   [RUNNING] 2026-05-16 42.1km (id=PdZ3ozjn)
+[2026-06-14 07:10:02] DAILY |     Récupération des samples...
+[2026-06-14 07:10:03] DAILY |     samples: 8 type(s) via ?samples=true
+[2026-06-14 07:10:03] DAILY |     km 1: 5:01/km | FC=155 | cad=160 | pwr=305W
+[2026-06-14 07:10:03] DAILY |     km 2: 4:41/km | FC=157 | cad=166 | pwr=292W
+[2026-06-14 07:10:03] DAILY |     km 3: 4:49/km | FC=157 | cad=168 | pwr=306W
+[2026-06-14 07:10:03] DAILY |     km 4: 4:47/km | FC=156 | cad=168 | pwr=304W
+[2026-06-14 07:10:03] DAILY |     km 5: 5:36/km | FC=157 | cad=170 | pwr=263W
+[2026-06-14 07:10:03] DAILY |     km 6: 5:02/km | FC=156 | cad=168 | pwr=302W
+[2026-06-14 07:10:03] DAILY |     km 7: 5:03/km | FC=159 | cad=168 | pwr=295W
+[2026-06-14 07:10:03] DAILY |     km 8: 5:09/km | FC=159 | cad=168 | pwr=289W
+[2026-06-14 07:10:03] DAILY |     km 9: 5:09/km | FC=160 | cad=168 | pwr=314W
+[2026-06-14 07:10:03] DAILY |     km 10: 4:51/km | FC=159 | cad=168 | pwr=292W
+[2026-06-14 07:10:03] DAILY |     km 11: 4:48/km | FC=159 | cad=168 | pwr=308W
+[2026-06-14 07:10:03] DAILY |     km 12: 5:05/km | FC=157 | cad=168 | pwr=288W
+[2026-06-14 07:10:03] DAILY |     km 13: 4:52/km | FC=157 | cad=168 | pwr=285W
+[2026-06-14 07:10:03] DAILY |     km 14: 5:04/km | FC=156 | cad=168 | pwr=259W
+[2026-06-14 07:10:03] DAILY |     km 15: 5:12/km | FC=158 | cad=168 | pwr=265W
+[2026-06-14 07:10:03] DAILY |     km 16: 5:02/km | FC=160 | cad=168 | pwr=280W
+[2026-06-14 07:10:03] DAILY |     km 17: 4:52/km | FC=157 | cad=168 | pwr=291W
+[2026-06-14 07:10:03] DAILY |     km 18: 4:59/km | FC=159 | cad=168 | pwr=316W
+[2026-06-14 07:10:03] DAILY |     km 19: 4:58/km | FC=159 | cad=168 | pwr=307W
+[2026-06-14 07:10:03] DAILY |     km 20: 4:57/km | FC=159 | cad=168 | pwr=305W
+[2026-06-14 07:10:03] DAILY |     km 21: 5:24/km | FC=154 | cad=160 | pwr=243W
+[2026-06-14 07:10:03] DAILY |     km 22: 4:49/km | FC=156 | cad=168 | pwr=315W
+[2026-06-14 07:10:03] DAILY |     km 23: 4:59/km | FC=157 | cad=168 | pwr=286W
+[2026-06-14 07:10:03] DAILY |     km 24: 4:58/km | FC=156 | cad=168 | pwr=282W
+[2026-06-14 07:10:03] DAILY |     km 25: 5:56/km | FC=149 | cad=160 | pwr=261W
+[2026-06-14 07:10:03] DAILY |     km 26: 7:29/km | FC=133 | cad=144 | pwr=176W
+[2026-06-14 07:10:03] DAILY |     km 27: 7:25/km | FC=133 | cad=142 | pwr=195W
+[2026-06-14 07:10:03] DAILY |     km 28: 6:17/km | FC=139 | cad=166 | pwr=244W
+[2026-06-14 07:10:03] DAILY |     km 29: 7:58/km | FC=127 | cad=128 | pwr=166W
+[2026-06-14 07:10:03] DAILY |     km 30: 6:19/km | FC=53 | cad=158 | pwr=189W
+[2026-06-14 07:10:03] DAILY |     km 31: 8:21/km | FC=2 | cad=122 | pwr=176W
+[2026-06-14 07:10:03] DAILY |     km 32: 6:44/km | FC=113 | cad=162 | pwr=235W
+[2026-06-14 07:10:03] DAILY |     km 33: 5:16/km | FC=153 | cad=168 | pwr=277W
+[2026-06-14 07:10:03] DAILY |     km 34: 4:47/km | FC=160 | cad=168 | pwr=284W
+[2026-06-14 07:10:03] DAILY |     km 35: 5:18/km | FC=156 | cad=168 | pwr=258W
+[2026-06-14 07:10:03] DAILY |     km 36: 5:01/km | FC=166 | cad=170 | pwr=316W
+[2026-06-14 07:10:03] DAILY |     km 37: 5:17/km | FC=163 | cad=166 | pwr=276W
+[2026-06-14 07:10:03] DAILY |     km 38: 5:38/km | FC=157 | cad=170 | pwr=270W
+[2026-06-14 07:10:03] DAILY |     km 39: 5:39/km | FC=158 | cad=172 | pwr=245W
+[2026-06-14 07:10:03] DAILY |     km 40: 5:04/km | FC=164 | cad=172 | pwr=299W
+[2026-06-14 07:10:03] DAILY |     km 41: 5:28/km | FC=165 | cad=174 | pwr=294W
+[2026-06-14 07:10:03] DAILY |     km 42: 8:08/km | FC=142 | cad=138 | pwr=180W
+[2026-06-14 07:10:03] DAILY |     samples_5s: 2792 pts | 33 bloc(s) qualité détecté(s)
+[2026-06-14 07:10:03] DAILY |       rep 65s @ 4:54/km FC=154bpm (pic=159)
+[2026-06-14 07:10:03] DAILY |       rep 175s @ 4:50/km FC=158bpm (pic=162)
+[2026-06-14 07:10:03] DAILY |       rep 805s @ 4:45/km FC=157bpm (pic=164)
+[2026-06-14 07:10:03] DAILY |       rep 65s @ 5:19/km FC=160bpm (pic=161)
+[2026-06-14 07:10:03] DAILY |       rep 225s @ 4:48/km FC=158bpm (pic=164)
+[2026-06-14 07:10:03] DAILY |       rep 60s @ 5:13/km FC=160bpm (pic=163)
+[2026-06-14 07:10:03] DAILY |       rep 285s @ 5:08/km FC=160bpm (pic=165)
+[2026-06-14 07:10:03] DAILY |       rep 105s @ 5:40/km FC=161bpm (pic=165)
+[2026-06-14 07:10:03] DAILY |       rep 45s @ 4:53/km FC=157bpm (pic=160)
+[2026-06-14 07:10:03] DAILY |       rep 400s @ 5:23/km FC=162bpm (pic=167)
+[2026-06-14 07:10:03] DAILY |       rep 490s @ 4:53/km FC=159bpm (pic=168)
+[2026-06-14 07:10:03] DAILY |       rep 90s @ 5:25/km FC=159bpm (pic=161)
+[2026-06-14 07:10:03] DAILY |       rep 215s @ 5:03/km FC=158bpm (pic=163)
+[2026-06-14 07:10:03] DAILY |       rep 45s @ 5:42/km FC=159bpm (pic=161)
+[2026-06-14 07:10:03] DAILY |       rep 85s @ 5:04/km FC=159bpm (pic=162)
+[2026-06-14 07:10:03] DAILY |       rep 110s @ 5:57/km FC=161bpm (pic=165)
+[2026-06-14 07:10:03] DAILY |       rep 120s @ 5:12/km FC=163bpm (pic=167)
+[2026-06-14 07:10:03] DAILY |       rep 165s @ 5:22/km FC=160bpm (pic=163)
+[2026-06-14 07:10:03] DAILY |       rep 165s @ 4:47/km FC=156bpm (pic=160)
+[2026-06-14 07:10:03] DAILY |       rep 395s @ 4:56/km FC=160bpm (pic=166)
+[2026-06-14 07:10:03] DAILY |       rep 410s @ 4:57/km FC=159bpm (pic=162)
+[2026-06-14 07:10:03] DAILY |       rep 110s @ 5:02/km FC=160bpm (pic=163)
+[2026-06-14 07:10:03] DAILY |       rep 70s @ 5:41/km FC=160bpm (pic=162)
+[2026-06-14 07:10:03] DAILY |       rep 280s @ 4:45/km FC=157bpm (pic=161)
+[2026-06-14 07:10:03] DAILY |       rep 95s @ 4:51/km FC=159bpm (pic=161)
+[2026-06-14 07:10:03] DAILY |       rep 50s @ 5:22/km FC=159bpm (pic=161)
+[2026-06-14 07:10:03] DAILY |       rep 105s @ 4:53/km FC=157bpm (pic=159)
+[2026-06-14 07:10:03] DAILY |       rep 110s @ 5:15/km FC=161bpm (pic=165)
+[2026-06-14 07:10:03] DAILY |       rep 120s @ 5:29/km FC=161bpm (pic=163)
+[2026-06-14 07:10:03] DAILY |       rep 45s @ 5:31/km FC=160bpm (pic=163)
+[2026-06-14 07:10:03] DAILY |       rep 550s @ 5:33/km FC=166bpm (pic=172)
+[2026-06-14 07:10:03] DAILY |       rep 110s @ 5:40/km FC=161bpm (pic=163)
+[2026-06-14 07:10:03] DAILY |       rep 810s @ 5:36/km FC=165bpm (pic=170)
+[2026-06-14 07:10:03] DAILY |     Cache splits sauvegardé: PdZ3ozjn.json
+[2026-06-14 07:10:04] DAILY | Sleep: 0 nuit(s)
+[2026-06-14 07:10:04] DAILY | Nightly recharge: 0 entrée(s)
+[2026-06-14 07:10:04] DAILY | fetch_daily_activity: 404 Client Error:  for url: https://www.polaraccesslink.com/v3/users/63113319/activity-summary/transaction-list (normal si pas d'activité)
+[2026-06-14 07:10:04] DAILY | Total: 2 séances dont 2 running
+[2026-06-14 07:10:04] DAILY | week_current.json mis à jour → 0 séances semaine 2026-06-08 (Semaine 2 — 08/06 au 14/06/2026)
+[2026-06-14 07:10:04] DAILY | week_current.json validé ✓
+[2026-06-14 07:10:04] DAILY | =============================================
+[2026-06-14 07:10:04] DAILY | SYNC QUOTIDIENNE TERMINÉE
+[2026-06-14 07:10:04] DAILY | =============================================
