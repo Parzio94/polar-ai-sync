@@ -71495,3 +71495,19 @@
 [2026-06-27 07:10:02] DAILY | =============================================
 [2026-06-27 07:10:02] DAILY | SYNC QUOTIDIENNE TERMINÉE
 [2026-06-27 07:10:02] DAILY | =============================================
+[2026-06-27 18:00:01] DAILY | =============================================
+[2026-06-27 18:00:01] DAILY | POLAR DAILY SYNC — Collecte donnees
+[2026-06-27 18:00:01] DAILY | =============================================
+[2026-06-27 18:00:01] DAILY | Token chargé: eb03f705...
+[2026-06-27 18:00:01] DAILY | User ID depuis tokens.json: 63113319
+[2026-06-27 18:00:01] DAILY | Fetch exercises 2026-06-13 → 2026-06-27
+[2026-06-27 18:00:02] DAILY | Aucune séance dans la période
+[2026-06-27 18:00:03] DAILY | Sleep: 0 nuit(s)
+[2026-06-27 18:00:03] DAILY | Nightly recharge: 0 entrée(s)
+[2026-06-27 18:00:04] DAILY | fetch_daily_activity: 404 Client Error:  for url: https://www.polaraccesslink.com/v3/users/63113319/activity-summary/transaction-list (normal si pas d'activité)
+[2026-06-27 18:00:04] DAILY | Total: 0 séances dont 0 running
+[2026-06-27 18:00:04] DAILY | week_current.json mis à jour → 0 séances semaine 2026-06-22 (Semaine 4 — 22/06 au 28/06/2026)
+[2026-06-27 18:00:04] DAILY | week_current.json validé ✓
+[2026-06-27 18:00:04] DAILY | =============================================
+[2026-06-27 18:00:04] DAILY | SYNC QUOTIDIENNE TERMINÉE
+[2026-06-27 18:00:04] DAILY | =============================================
