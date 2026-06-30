@@ -4,89 +4,89 @@
     {
       "date": "2026-07-13",
       "jour": "Lundi",
+      "sport": "Velo",
+      "type": "Trajet vélo boulot — 20km",
+      "duree": "45min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "20km trajet domicile-travail — cadence haute, allure tranquille\nCadence 90-95 rpm — zéro force",
+      "dist_cible": 20.0
+    },
+    {
+      "date": "2026-07-14",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo récup Z2 — 55'",
+      "duree": "55min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "55' Z2 récup — cadence 90-95 rpm",
+      "dist_cible": 26.0
+    },
+    {
+      "date": "2026-07-14",
+      "jour": "Mardi",
       "sport": "Repos",
       "type": "OFF / Repos",
       "duree": "-",
       "zone": "-",
       "rpe": "1",
-      "structure": "Repos"
-    },
-    {
-      "date": "2026-07-14",
-      "jour": "Mardi",
-      "sport": "Velo",
-      "type": "Vélo récup Z2 — 42'",
-      "duree": "42min",
-      "zone": "Z2",
-      "rpe": "2",
-      "structure": "42' Z2 récup — cadence 90-95 rpm",
-      "dist_cible": 19.0
-    },
-    {
-      "date": "2026-07-14",
-      "jour": "Mardi",
-      "sport": "Course",
-      "type": "Qualité — 4x2000m",
-      "duree": "1h",
-      "zone": "Z3-Z4",
-      "rpe": "6",
-      "structure": "12' EF\n4x2000m progressif :\n  Rép 1-2 : 83-84% FCmax → FC 161-164 bpm\n  Rép 3-4 : 85% FCmax → FC 164-166 bpm\nr=1'30 — FC sous 145 bpm\n10' RC\nTerrain plat",
-      "dist_cible": 11.5
+      "structure": "RDV KINÉ DEMAIN — repos course, observer les sensations\nNoter tout pour la consultation"
     },
     {
       "date": "2026-07-15",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Sortie Z2 + blocs — 105'",
-      "duree": "1h45",
-      "zone": "Z2-Z3",
+      "type": "Sortie Z2 — 120'",
+      "duree": "2h",
+      "zone": "Z2",
       "rpe": "5",
-      "structure": "105' Z2 | 2x18' SS @ 83% FTP — r=7'\nNUTRITION : 47g/h",
-      "dist_cible": 51.0
+      "structure": "120' Z2 (127-138 bpm) | Cadence 88-93 rpm\nNUTRITION : 46g/h",
+      "dist_cible": 58.0
     },
     {
       "date": "2026-07-16",
       "jour": "Jeudi",
       "sport": "Velo",
-      "type": "Force vélo — 70' (si asymptomatique)",
-      "duree": "1h10",
-      "zone": "Z2-Z3",
-      "rpe": "4",
-      "structure": "10' EF\nSI symptôme-free depuis 2 semaines → programme normal :\n  5x6' basse cadence (60 rpm) @ Z2-Z3 — r=3' + 2x5' cadence 100 rpm\nSI encore sensible → cadence haute uniquement :\n  6x8' cadence 92-97 rpm @ Z2 — r=2'",
-      "dist_cible": 33.0
+      "type": "Vélo léger — 45' (jour du RDV kiné)",
+      "duree": "45min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "🩺 RDV KINÉ AUJOURD'HUI 16/07\n45' Z2 facile, cadence haute\nLe protocole de la suite sera ajusté selon le diagnostic",
+      "dist_cible": 22.0
     },
     {
       "date": "2026-07-16",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF — 32'",
-      "duree": "32min",
-      "zone": "Z2",
-      "rpe": "2",
-      "structure": "32' EF Z2 facile — plat",
-      "dist_cible": 6.0
+      "type": "EF — 20' (à ajuster selon avis kiné)",
+      "duree": "20min",
+      "zone": "Z1-Z2",
+      "rpe": "1",
+      "structure": "20' EF Z1-Z2 — terrain plat\nÀ AJUSTER selon diagnostic et consignes du kiné reçues le matin même",
+      "dist_cible": 3.0
     },
     {
       "date": "2026-07-17",
       "jour": "Vendredi",
       "sport": "Course",
-      "type": "Tempo — 2x18'",
-      "duree": "56min",
-      "zone": "Z3",
-      "rpe": "5",
-      "structure": "12' EF | 2x18' Z3 (150-158 bpm) — r=3' | 12' RC\nFC cible : 150-158 bpm — terrain plat",
-      "dist_cible": 10.5
+      "type": "EF — 25' (intensité selon avis kiné)",
+      "duree": "25min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "25' EF Z1-Z2 par défaut — terrain plat\nSI kiné valide : tempo léger 2x8' Z3 max possible\nSINON : rester en EF pur",
+      "dist_cible": 4.5
     },
     {
       "date": "2026-07-18",
       "jour": "Samedi",
       "sport": "Velo",
-      "type": "Sortie longue Z2 — 140' (PIC pré-vacances)",
-      "duree": "2h20",
+      "type": "Sortie longue Z2 — 155' (PIC pré-vacances)",
+      "duree": "2h35",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "140' Z2 (127-140 bpm) — PIC avant vacances\n2x22' Z3 inclus — r=10'\nNUTRITION : 48g/h | Cadence 85-93 rpm",
-      "dist_cible": 68.0
+      "structure": "155' Z2 (127-140 bpm) — PIC avant vacances\nNUTRITION : 50g/h | Cadence 85-93 rpm",
+      "dist_cible": 75.0
     },
     {
       "date": "2026-07-18",
@@ -114,12 +114,12 @@
       "date": "2026-07-19",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "Sortie longue Z2 — 82' (PIC pré-vacances)",
-      "duree": "1h22",
+      "type": "Sortie longue — 35' à 55' selon avis kiné",
+      "duree": "35min",
       "zone": "Z2",
-      "rpe": "5",
-      "structure": "82' Z2 (127-140 bpm) — pic avant Italie\nAllure conversationnelle\nGenou : toujours terrain plat/légèrement vallonné — descentes douces",
-      "dist_cible": 15.5
+      "rpe": "3",
+      "structure": "Par défaut : 35' Z2 plat, allure conversationnelle\nSI feu vert kiné + zéro symptôme : étendre jusqu'à 55'\nReprise progressive — pas le retour direct au volume initial (82')",
+      "dist_cible": 6.0
     }
   ]
 }

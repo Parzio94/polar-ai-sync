@@ -4,12 +4,13 @@
     {
       "date": "2026-06-29",
       "jour": "Lundi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
-      "zone": "-",
-      "rpe": "1",
-      "structure": "Repos — récup camp Malaga + voyage retour"
+      "sport": "Velo",
+      "type": "Trajet vélo boulot — 20km",
+      "duree": "45min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "20km trajet domicile-travail — cadence haute, allure tranquille\nCadence 90-95 rpm — zéro force",
+      "dist_cible": 20.0
     },
     {
       "date": "2026-06-30",
@@ -19,74 +20,73 @@
       "duree": "55min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "RETOUR VÉLO après 7 semaines !\n55' Z2 très facile (120-133 bpm)\nPROTOCOLE GENOU :\n  · Cadence HAUTE : 90-95 rpm minimum — réduit la pression sur le genou\n  · Selle légèrement plus haute qu'habitude (1-2 cm)\n  · ZÉRO force — ZÉRO basse cadence pendant 2 semaines\n  · Plateau facile — résistance minimale\nÉcouter les sensations du genou",
+      "structure": "RETOUR VÉLO après 7 semaines !\n55' Z2 très facile (120-133 bpm)\nCadence HAUTE 90-95 rpm minimum\nÉcouter les sensations du genou",
       "dist_cible": 25.0
     },
     {
       "date": "2026-06-30",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "EF légère post-Malaga — plat",
-      "duree": "32min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "32' EF Z2 (120-133 bpm) — terrain plat\nPost-camp Malaga — observer les sensations genou",
-      "dist_cible": 6.0
+      "type": "EF très légère test — marche-course PLAT",
+      "duree": "18min",
+      "zone": "Z1",
+      "rpe": "1",
+      "structure": "Seule sortie course test de la semaine\nMarche-course 2min/1min, terrain plat strict, FC < 128 bpm\nSi douleur bandelette/rotule > 2/10 : ARRÊT\nRenfo fessier le soir obligatoire",
+      "dist_cible": 2.5
     },
     {
       "date": "2026-07-01",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Sortie Z2 — 80' (cadence haute)",
-      "duree": "1h20",
+      "type": "Sortie Z2 — 100' (cadence haute)",
+      "duree": "1h40",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "80' Z2 (127-138 bpm)\nCadence 90-95 rpm — pas de basse cadence\nNUTRITION : 40g/h si besoin",
-      "dist_cible": 39.0
+      "structure": "100' Z2 (127-138 bpm)\nCadence 90-95 rpm\nNUTRITION : 42g/h",
+      "dist_cible": 49.0
     },
     {
       "date": "2026-07-02",
       "jour": "Jeudi",
       "sport": "Velo",
-      "type": "Vélo cadence haute — 55' (pas de force)",
-      "duree": "55min",
+      "type": "Vélo cadence haute — 70'",
+      "duree": "1h10",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "10' EF | 4x8' cadence HAUTE 95-100 rpm @ Z2 — r=3' | 15' RC\nPROTOCOLE GENOU : PAS de basse cadence avant 2 semaines sans douleur\nBasse cadence = forte pression genou → contre-indiqué\nCadence haute = cardio sans pression articulaire",
-      "dist_cible": 26.0
+      "structure": "10' EF | 5x9' cadence HAUTE 95-100 rpm @ Z2 — r=3' | 15' RC",
+      "dist_cible": 34.0
     },
     {
       "date": "2026-07-02",
       "jour": "Jeudi",
-      "sport": "Course",
-      "type": "EF — 30' plat",
-      "duree": "30min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "30' EF Z2 facile — terrain plat",
-      "dist_cible": 5.5
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos course — vélo le matin suffit\nÉtirements + renfo fessier"
     },
     {
       "date": "2026-07-03",
       "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF + strides — 35' plat",
-      "duree": "35min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "30' EF Z2 | 4x20'' strides en fin\nFoncier progressif — terrain plat",
-      "dist_cible": 6.5
+      "sport": "Velo",
+      "type": "Vélo Z2 — 75'",
+      "duree": "1h15",
+      "zone": "Z2",
+      "rpe": "3",
+      "structure": "75' Z2 (127-138 bpm) — cadence 90-95 rpm\nPas de course aujourd'hui",
+      "dist_cible": 36.0
     },
     {
       "date": "2026-07-04",
       "jour": "Samedi",
       "sport": "Velo",
-      "type": "Sortie longue Z2 — 100'",
-      "duree": "1h40",
+      "type": "Sortie longue Z2 — 140'",
+      "duree": "2h20",
       "zone": "Z2",
-      "rpe": "4",
-      "structure": "100' Z2 (127-138 bpm) — première vraie longue vélo\nZ2 pur — cadence 90-95 rpm — pas de blocs\nNUTRITION : 40g/h | Selle position genou OK",
-      "dist_cible": 49.0
+      "rpe": "5",
+      "structure": "140' Z2 (127-138 bpm) — sortie longue compensatoire\nCadence 90-95 rpm | NUTRITION : 48g/h",
+      "dist_cible": 68.0
     },
     {
       "date": "2026-07-04",
@@ -113,13 +113,12 @@
     {
       "date": "2026-07-05",
       "jour": "Dimanche",
-      "sport": "Course",
-      "type": "Sortie longue Z2 — 62' (plat/vallonné doux)",
-      "duree": "1h02",
-      "zone": "Z2",
-      "rpe": "4",
-      "structure": "62' Z2 (127-138 bpm) — foncier CAP\nAllure conversationnelle\nPROTOCOLE GENOU : plat ou légèrement vallonné\nÉviter les descentes raides — pentes douces uniquement",
-      "dist_cible": 11.5
+      "sport": "Repos",
+      "type": "OFF / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Pas de sortie longue course cette semaine\nNatation du jour suffit comme volume\nÉtirements + renfo fessier"
     }
   ]
 }

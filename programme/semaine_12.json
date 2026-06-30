@@ -4,12 +4,13 @@
     {
       "date": "2026-08-17",
       "jour": "Lundi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
-      "zone": "-",
-      "rpe": "1",
-      "structure": "Repos"
+      "sport": "Velo",
+      "type": "Trajet vélo boulot — 20km",
+      "duree": "45min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "20km trajet domicile-travail — cadence haute, allure tranquille\nCadence 90-95 rpm — zéro force",
+      "dist_cible": 20.0
     },
     {
       "date": "2026-08-18",
@@ -26,12 +27,12 @@
       "date": "2026-08-18",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 5x2000m progressif",
-      "duree": "1h03",
-      "zone": "Z3-Z4",
-      "rpe": "6",
-      "structure": "12' EF\n5x2000m progressif :\n  Rép 1 : 81% → FC 158-160 bpm\n  Rép 2-3 : 83% → FC 161-164 bpm\n  Rép 4-5 : 85% → FC 164-166 bpm\nr=1'30 — FC sous 145 bpm\n10' RC — terrain plat",
-      "dist_cible": 12.0
+      "type": "Qualité légère — 3x1500m progressif",
+      "duree": "45min",
+      "zone": "Z3",
+      "rpe": "8",
+      "structure": "Reprise très progressive de l'intensité — volume réduit vs initial (5x2000m)\nÀ faire seulement si 2 semaines sans symptôme",
+      "dist_cible": 9.0
     },
     {
       "date": "2026-08-19",
@@ -48,12 +49,12 @@
       "date": "2026-08-20",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF — 30'",
-      "duree": "30min",
-      "zone": "Z2",
+      "type": "EF — 28'",
+      "duree": "28min",
+      "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "30' EF Z2 — économiser pour Luxembourg vélo",
-      "dist_cible": 5.5
+      "structure": "28' EF — légèrement réduit vs initial (30')",
+      "dist_cible": 5.0
     },
     {
       "date": "2026-08-21",

@@ -4,23 +4,24 @@
     {
       "date": "2026-08-24",
       "jour": "Lundi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
-      "zone": "-",
-      "rpe": "1",
-      "structure": "Retour Luxembourg En Vélo — repos\nDernier grand repos avant semaine finale"
+      "sport": "Velo",
+      "type": "Trajet vélo boulot — 20km",
+      "duree": "45min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "20km trajet domicile-travail — cadence haute, allure tranquille\nCadence 90-95 rpm — zéro force",
+      "dist_cible": 20.0
     },
     {
       "date": "2026-08-25",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Activation qualité courte",
-      "duree": "48min",
-      "zone": "Z2-Z3",
-      "rpe": "4",
-      "structure": "12' EF | 15' Z3 (148-154 bpm) | 15' Z2 | 6' RC\nActivation fraîche post-Luxembourg — terrain plat",
-      "dist_cible": 9.0
+      "type": "Activation qualité courte — réduite",
+      "duree": "40min",
+      "zone": "Z3",
+      "rpe": "6",
+      "structure": "Activation légère réduite vs initial (48')\nÀ ajuster selon les 6 semaines précédentes",
+      "dist_cible": 7.5
     },
     {
       "date": "2026-08-25",
@@ -48,23 +49,23 @@
       "date": "2026-08-27",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF — 30' plat",
-      "duree": "30min",
-      "zone": "Z2",
+      "type": "EF — 28' plat",
+      "duree": "28min",
+      "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "30' EF Z2 facile — terrain plat",
-      "dist_cible": 5.5
+      "structure": "28' EF — légèrement réduit",
+      "dist_cible": 5.0
     },
     {
       "date": "2026-08-28",
       "jour": "Vendredi",
       "sport": "Course",
-      "type": "EF + strides — activation finale",
-      "duree": "37min",
+      "type": "EF + strides légers — activation finale",
+      "duree": "32min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "30' EF Z2 | 4x20'' strides (r=40'')\nDernière sortie CAP avant le plan IM\nLundi 31 août : l'aventure Ironman commence 💪",
-      "dist_cible": 7.0
+      "structure": "32' EF avec strides courts si totalement asymptomatique\nSinon EF pur sans strides",
+      "dist_cible": 6.0
     },
     {
       "date": "2026-08-29",
@@ -103,12 +104,12 @@
       "date": "2026-08-30",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "🏁 Dernière sortie pré-plan IM — 72'",
-      "duree": "1h12",
+      "type": "🏁 Dernière sortie pré-plan IM — 60'",
+      "duree": "1h",
       "zone": "Z2",
-      "rpe": "5",
-      "structure": "72' Z2 (127-138 bpm) — dernière longue CAP\nDemain lundi 31 août : Semaine 1 du plan Ironman\nTu as construit le socle malgré les galères — bravo 💪",
-      "dist_cible": 13.5
+      "rpe": "4",
+      "structure": "60' Z2 — réduit vs initial (72') par prudence\nDernière sortie avant le début du plan Ironman le 31/08",
+      "dist_cible": 11.0
     }
   ]
 }
