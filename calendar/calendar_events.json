@@ -981,6 +981,20 @@
     "created_at": "2026-06-08T15:49:38.759664"
   },
   {
+    "fp": "5f63e850-48e",
+    "title": "Rdv chez le médecin- 91 Rue Adolphe Fischer, 1521 Luxembourg",
+    "date": "2026-07-03",
+    "end_date": "2026-07-03",
+    "all_day": false,
+    "start_time": "12:15",
+    "end_time": "13:00",
+    "color": "#e63946",
+    "type": "autre",
+    "recur": "none",
+    "recur_id": null,
+    "created_at": "2026-06-30T13:26:46.857217"
+  },
+  {
     "fp": "556db5920d7f",
     "title": "✈️ Italie 2026",
     "date": "2026-07-23",
