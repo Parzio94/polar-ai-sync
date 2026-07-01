@@ -1,0 +1,19 @@
+{
+  "ym": "2026-06",
+  "generated_at": "2026-07-01T08:00:01.396897",
+  "interets": {
+    "livrets": 73.94,
+    "autres_produits": 74.14,
+    "scpi": 10.63,
+    "total": 158.72
+  },
+  "patrimoine": {
+    "livrets": 60324.0,
+    "pea": 21673.02,
+    "cto": 3750.52,
+    "crypto": 2252.35,
+    "scpi": 1770.0,
+    "autres_produits": 18201.78,
+    "total": 107971.67
+  }
+}
