@@ -109,14 +109,15 @@
 │   │   ├── week_2026-06-08.json
 │   │   ├── week_2026-06-15.json
 │   │   ├── week_2026-06-22.json
+│   │   ├── week_2026-06-29.json
 │   │   ├── week_current.json
-│   │   ├── week_current_backup_20260518_071001.json
 │   │   ├── week_current_backup_20260525_071001.json
 │   │   ├── week_current_backup_20260601_071001.json
 │   │   ├── week_current_backup_20260608_071001.json
 │   │   ├── week_current_backup_20260615_071001.json
 │   │   ├── week_current_backup_20260622_071001.json
-│   │   └── week_current_backup_20260629_071002.json
+│   │   ├── week_current_backup_20260629_071002.json
+│   │   └── week_current_backup_20260706_071001.json
 │   ├── y1BpOk3Q_splits.json
 │   ├── yJmQA3Vr_splits.json
 │   ├── yMLev2Ld_splits.json
@@ -259,4 +260,4 @@
 ├── voyages.json
 └── xlsx_to_programme.py
 
-18 directories, 242 files
+18 directories, 243 files
