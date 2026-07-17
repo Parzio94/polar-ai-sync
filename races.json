@@ -22,5 +22,12 @@
     "probabilite_pct": 60,
     "coach_note": "",
     "updated_at": "2026-04-26"
+  },
+  {
+    "id": "triathlon_nancy_0920",
+    "label": "Triathlon Nancy",
+    "date": "2026-09-20",
+    "objectif": "Sub 2h30",
+    "couleur": "#6723cd"
   }
 ]
