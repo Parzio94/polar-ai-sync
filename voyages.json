@@ -1161,10 +1161,10 @@
           "heure_fin": null,
           "nom": "Palazzo Pitti + Jardins de Boboli",
           "ville": "Palazzo Pitti,  Piazza dei Pitti",
-          "prix_reel": 20,
+          "prix_reel": 2.0,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 43.7652813,
             "lng": 11.2502566
