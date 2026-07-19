@@ -1259,8 +1259,8 @@
         {
           "id": "9958c67b",
           "type": "activite",
-          "date": "2026-07-28",
-          "moment": "aprem",
+          "date": "2026-07-27",
+          "moment": "matin",
           "heure": "11:30",
           "heure_fin": null,
           "nom": "Basilique Saint‑Pierre",
@@ -1293,16 +1293,16 @@
         {
           "id": "b09f6b59",
           "type": "activite",
-          "date": "2026-07-27",
+          "date": "2026-07-28",
           "moment": "aprem",
-          "heure": "14:00",
+          "heure": "17:30",
           "heure_fin": null,
           "nom": "Castel Sant’Angelo",
           "ville": "Château Saint-Ange,  Lungotevere Castello",
-          "prix_reel": 14,
+          "prix_reel": 2.0,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 41.9031178,
             "lng": 12.4663427
