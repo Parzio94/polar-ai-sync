@@ -1243,14 +1243,14 @@
           "type": "activite",
           "date": "2026-07-27",
           "moment": "matin",
-          "heure": "09:15",
+          "heure": "10:30",
           "heure_fin": null,
           "nom": "Musées du Vatican + Chapelle Sixtine",
           "ville": "Radio Vaticana,  Borgo Sant'Angelo",
-          "prix_reel": 25,
+          "prix_reel": 57.0,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 41.9030508,
             "lng": 12.4640006
