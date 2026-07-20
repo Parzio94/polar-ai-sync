@@ -989,10 +989,10 @@
           "heure_fin": null,
           "nom": "Galerie des Uffizi",
           "ville": "Galerie des Offices,  Via dei Castellani",
-          "prix_reel": 20.0,
+          "prix_reel": 2.0,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 43.7683129,
             "lng": 11.2558009
