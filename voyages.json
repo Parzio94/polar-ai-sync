@@ -1399,16 +1399,16 @@
         {
           "id": "28a76dc3",
           "type": "activite",
-          "date": "2026-07-28",
+          "date": "2026-07-27",
           "moment": "matin",
-          "heure": "09:00",
+          "heure": "09:45",
           "heure_fin": null,
           "nom": "Le Colisée (Skip-the-line conseillé)",
           "ville": "Colisée,  Celio",
-          "prix_reel": 20,
+          "prix_reel": 2.0,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 41.8909421,
             "lng": 12.491903
