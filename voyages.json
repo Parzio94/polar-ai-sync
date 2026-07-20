@@ -788,10 +788,10 @@
           "heure_fin": null,
           "nom": "Duomo di Siena + Biblioteca Piccolomini",
           "ville": "Duomo di Siena,  Via dei Fusari",
-          "prix_reel": 15.0,
+          "prix_reel": 12.0,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 43.3176275,
             "lng": 11.3287837
@@ -858,10 +858,10 @@
           "heure_fin": null,
           "nom": "Torre del Mangia",
           "ville": "Torre del Mangia,  1",
-          "prix_reel": 10,
+          "prix_reel": null,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 43.3182864,
             "lng": 11.3321952
