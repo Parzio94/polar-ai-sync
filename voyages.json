@@ -1432,7 +1432,7 @@
         {
           "id": "b43e7e0f",
           "type": "nourriture",
-          "date": "2026-07-28",
+          "date": "2026-07-29",
           "moment": "midi",
           "heure": null,
           "heure_fin": null,
@@ -1558,10 +1558,10 @@
           "heure_fin": null,
           "nom": "Galerie Borghese",
           "ville": "Galerie Borghèse,  5",
-          "prix_reel": 4.0,
+          "prix_reel": 6.0,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 41.9141133,
             "lng": 12.4921053
@@ -1588,7 +1588,7 @@
         {
           "id": "ab4dc346",
           "type": "nourriture",
-          "date": "2026-07-29",
+          "date": "2026-07-28",
           "moment": "midi",
           "heure": null,
           "heure_fin": null,
