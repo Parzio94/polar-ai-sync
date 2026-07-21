@@ -1802,10 +1802,10 @@
           "heure_fin": null,
           "nom": "Bocca della Verità",
           "ville": "Bouche de la Vérité,  Piazza della Bocca della Verità",
-          "prix_reel": 5.0,
+          "prix_reel": null,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "aucun",
           "coords": {
             "lat": 41.8882567,
             "lng": 12.4815441
