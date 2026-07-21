@@ -1490,10 +1490,10 @@
           "heure_fin": null,
           "nom": "Panthéon",
           "ville": "Panthéon,  Piazza della Rotonda",
-          "prix_reel": 5,
+          "prix_reel": 9.6,
           "lien": "",
           "ref_confirmation": "",
-          "statut": "a_reserver",
+          "statut": "paye",
           "coords": {
             "lat": 41.898616,
             "lng": 12.4768334
