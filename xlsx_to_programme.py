@@ -10,6 +10,18 @@ Le site se met à jour automatiquement au prochain rechargement.
 import json, sys, shutil
 from pathlib import Path
 from datetime import datetime, timedelta
+import re
+
+RE_SEMAINE = re.compile(r'^\s*(?:Semaine\s+(\d+)|S0?(\d+)\b)', re.IGNORECASE)
+
+def is_ligne_titre_semaine(date):
+    """Retourne le numero de semaine (int) si la cellule est un titre, sinon None."""
+    if not isinstance(date, str):
+        return None
+    m = RE_SEMAINE.match(date.strip())
+    if not m:
+        return None
+    return int(m.group(1) or m.group(2))
 
 try:
     import openpyxl
@@ -62,14 +74,11 @@ def parse_excel(path):
         dist_nata_m    = row[10] if len(row) > 10 else None   # col K
 
         # ── Ligne de titre "Semaine N" ──────────────────────
-        if isinstance(date, str) and date.strip().startswith("Semaine"):
-            current_sem = date.strip()
+        num_sem = is_ligne_titre_semaine(date)
+        if num_sem is not None:
+            current_sem = f"Semaine {num_sem}"
             if current_sem not in semaines:
-                try:
-                    num = int(current_sem.split()[-1])
-                except ValueError:
-                    num = len(semaines) + 1
-                semaines[current_sem] = {"num": num, "seances": []}
+                semaines[current_sem] = {"num": num_sem, "seances": []}
             continue
 
         # ── Ligne de séance valide ───────────────────────────
