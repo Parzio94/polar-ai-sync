@@ -332,5 +332,4 @@ if __name__ == "__main__":
     if "--dry-run" in sys.argv or "--test" in sys.argv:
         print("\n[DRY RUN — pas d'envoi]")
     else:
-        send_whatsapp(msg)
         send_ntfy(msg)
