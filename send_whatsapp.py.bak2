@@ -31,8 +31,9 @@ if _env.exists():
             k, _, v = line.partition("=")
             os.environ.setdefault(k.strip(), v.strip())
 
-PHONE   = os.environ.get("WHATSAPP_PHONE", "")
-API_KEY = os.environ.get("CALLMEBOT_APIKEY", "")
+PHONE      = os.environ.get("WHATSAPP_PHONE", "")
+API_KEY    = os.environ.get("CALLMEBOT_APIKEY", "")
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
 
 # ── Timezone ──────────────────────────────────────────────────
 try:
@@ -299,6 +300,29 @@ def send_whatsapp(message):
         return False
 
 # ── Main ──────────────────────────────────────────────────────
+def send_ntfy(message):
+    if not NTFY_TOPIC:
+        print("❌ NTFY_TOPIC manquant dans .env")
+        return False
+    try:
+        req = urllib.request.Request(
+            f"https://ntfy.sh/{NTFY_TOPIC}",
+            data=message.encode("utf-8"),
+            method="POST",
+            headers={"Title": f"Programme du {DATE_FR}".encode("utf-8")},
+        )
+        with urllib.request.urlopen(req, timeout=15) as r:
+            if r.status == 200:
+                print("✅ Notification ntfy envoyée")
+                return True
+            else:
+                print(f"⚠️  ntfy statut {r.status}")
+                return False
+    except Exception as e:
+        print(f"❌ Erreur ntfy : {e}")
+        return False
+
+
 if __name__ == "__main__":
     msg = build_message()
     print("=" * 50)
@@ -309,3 +333,4 @@ if __name__ == "__main__":
         print("\n[DRY RUN — pas d'envoi]")
     else:
         send_whatsapp(msg)
+        send_ntfy(msg)
