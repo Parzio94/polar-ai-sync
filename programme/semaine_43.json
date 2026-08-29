@@ -1,0 +1,115 @@
+{
+  "semaine": "Semaine 43",
+  "seances": [
+    {
+      "date": "2027-06-21",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF — arrivée Sables d'Olonne",
+      "duree": "-",
+      "zone": "",
+      "rpe": "",
+      "structure": ""
+    },
+    {
+      "date": "2027-06-22",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Activation + vérif vélo",
+      "duree": "43min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "43' Z2 très facile — activation/vérification matériel",
+      "dist_cible": 19.0
+    },
+    {
+      "date": "2027-06-22",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "EF + strides",
+      "duree": "17min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "EF + strides",
+      "dist_cible": 3.0
+    },
+    {
+      "date": "2027-06-23",
+      "jour": "Mercredi",
+      "sport": "Velo",
+      "type": "Check matériel + activation",
+      "duree": "37min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "37' Z2 très facile — activation/vérification matériel",
+      "dist_cible": 17.0
+    },
+    {
+      "date": "2027-06-23",
+      "jour": "Mercredi",
+      "sport": "Natation",
+      "type": "Activation natation — 1 session",
+      "duree": "58min",
+      "zone": "Z1-Z2",
+      "rpe": "3",
+      "structure": "Volume : 2400m — activation/récup",
+      "dist_cible_m": 2900
+    },
+    {
+      "date": "2027-06-24",
+      "jour": "Jeudi",
+      "sport": "Velo",
+      "type": "Activation très légère",
+      "duree": "27min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "27' Z2 très facile — activation/vérification matériel",
+      "dist_cible": 12.0
+    },
+    {
+      "date": "2027-06-24",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF + visualisation",
+      "duree": "10min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "EF + visualisation",
+      "dist_cible": 1.5
+    },
+    {
+      "date": "2027-06-25",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF très facile",
+      "duree": "12min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "EF très facile",
+      "dist_cible": 2.0
+    },
+    {
+      "date": "2027-06-26",
+      "jour": "Samedi",
+      "sport": "Velo",
+      "type": "Activation finale — dépôt T1",
+      "duree": "17min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "17' Z2 très facile — activation/vérification matériel",
+      "dist_cible": 8.0
+    },
+    {
+      "date": "2027-06-27",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "COMPETITION — IRONMAN LES SABLES D'OLONNE",
+      "duree": "-",
+      "zone": "Z2",
+      "rpe": "3",
+      "structure": "Jour J — Ironman Les Sables d'Olonne\nNatation 3.8 km + Vélo 180 km + Marathon 42.2 km",
+      "dist_cible": 42.195,
+      "dist_cible_m": 3800
+    }
+  ]
+}

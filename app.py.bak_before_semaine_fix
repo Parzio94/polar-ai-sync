@@ -1,4 +1,3 @@
-import re
 """
 app.py — Dashboard Polar Coach IA v6
 Pages : Accueil | Planning | Historique | Analyse | Condition
@@ -5094,15 +5093,12 @@ def api_upload_programme():
             date_val, jour, discipline, seance, duree, zones, rpe, structure, dist_course_km, dist_velo_km, dist_nat_m = cols
 
             # Ligne titre "Semaine N"
-            num_sem = None
-            if isinstance(date_val, str):
-                _m = re.match(r'^\s*(?:Semaine\s+(\d+)|S0?(\d+)\b)', date_val.strip(), re.IGNORECASE)
-                if _m:
-                    num_sem = int(_m.group(1) or _m.group(2))
-            if num_sem is not None:
-                current_sem = f"Semaine {num_sem}"
+            if isinstance(date_val, str) and date_val.strip().startswith("Semaine"):
+                current_sem = date_val.strip()
                 if current_sem not in semaines:
-                    semaines[current_sem] = {"num": num_sem, "seances": []}
+                    try:    num = int(current_sem.split()[-1])
+                    except: num = len(semaines) + 1
+                    semaines[current_sem] = {"num": num, "seances": []}
                 continue
 
             # Ligne séance valide (date est un datetime)

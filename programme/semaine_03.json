@@ -1,77 +1,126 @@
 {
-  "semaine": "Semaine 3 — 15/06 au 21/06/2026",
+  "semaine": "Semaine 3",
   "seances": [
     {
-      "date": "2026-06-15",
+      "date": "2026-09-14",
       "jour": "Lundi",
       "sport": "Repos",
-      "type": "OFF / Repos",
+      "type": "OFF",
       "duree": "-",
       "zone": "-",
       "rpe": "1",
-      "structure": "Repos"
+      "structure": "Repos complet"
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-09-15",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "EF douce — 28' PLAT STRICT",
-      "duree": "28min",
-      "zone": "Z1-Z2",
+      "type": "Tempo léger",
+      "duree": "5min",
+      "zone": "Z3",
+      "rpe": "4",
+      "structure": "12' EF | 8' Z3 bas | 10' Z3 | 10' RC\n4x20'' strides",
+      "dist_cible": 1.0
+    },
+    {
+      "date": "2026-09-15",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo récupération Z2",
+      "duree": "45min",
+      "zone": "Z2",
       "rpe": "2",
-      "structure": "28' EF Z1-Z2 (120-135 bpm) — TERRAIN PLAT UNIQUEMENT\nPROTOCOLE GENOU :\n  · Zéro côte, zéro escalier, zéro pente\n  · Si douleur > 2/10 : réduire à 15' ou annuler\n  · Si OK : noter la douleur et l'évolution",
-      "dist_cible": 5.0
+      "structure": "24' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
+      "dist_cible": 20.1
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-09-16",
       "jour": "Mercredi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
-      "zone": "-",
-      "rpe": "1",
-      "structure": "Repos — récup EF mardi"
+      "sport": "Velo",
+      "type": "Vélo clé — 2x9' @ 82% FTP — r=5'",
+      "duree": "1h39",
+      "zone": "Z3",
+      "rpe": "5",
+      "structure": "20' EF Z2 | 2x9' @ 82% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
+      "dist_cible": 49.3
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-09-17",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF douce — 32' PLAT STRICT",
-      "duree": "32min",
+      "type": "EF + strides",
+      "duree": "3min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "32' EF Z1-Z2 (120-135 bpm) — TERRAIN PLAT UNIQUEMENT\nMontée progressive par rapport à mardi\nPROTOCOLE GENOU : zéro dénivelé — surveiller douleur\nSi mardi a bien passé → tenir 32' | Si inconfort → 20' max",
-      "dist_cible": 6.0
+      "structure": "26' EF Z2 | 4x20'' strides\nJamais > Z2",
+      "dist_cible": 0.6
     },
     {
-      "date": "2026-06-19",
+      "date": "2026-09-18",
       "jour": "Vendredi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
-      "zone": "-",
-      "rpe": "1",
-      "structure": "Repos"
+      "sport": "Course",
+      "type": "EF Z2 — court",
+      "duree": "3min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "23' EF Z2 — COURT\n4x20'' strides en fin",
+      "dist_cible": 0.5
     },
     {
-      "date": "2026-06-20",
+      "date": "2026-09-18",
+      "jour": "Vendredi",
+      "sport": "Velo",
+      "type": "Force spécifique",
+      "duree": "1h05",
+      "zone": "Z2-Z3",
+      "rpe": "3",
+      "structure": "10' EF | 4x3' basse cadence (55-62 rpm) @ Z2 — r=3' | 10' RC\nFC : 131-155 bpm",
+      "dist_cible": 31.4
+    },
+    {
+      "date": "2026-09-19",
       "jour": "Samedi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
-      "zone": "-",
-      "rpe": "1",
-      "structure": "Voyage Luxembourg→Paris puis nuit Paris\nPas de séance — voyage\n\n⚠️ DÉCISION MALAGA — À PRENDRE AUJOURD'HUI :\nScénario A : CAP 30' sans douleur cette semaine\n  → Plan normal — DESCENTES À PIED obligatoires\nScénario B : CAP possible mais inconfort\n  → 2-3 montées max/jour — descentes à pied — priorité natation\nScénario C : Douleur encore présente\n  → ZÉRO course à Malaga — natation uniquement 2x/jour"
+      "sport": "Velo",
+      "type": "Vélo activation légère pré-course",
+      "duree": "1h05",
+      "zone": "Z2-Z3",
+      "rpe": "4",
+      "structure": "35' Z2 très facile — activation pré-course",
+      "dist_cible": 31.4
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-09-19",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Natation technique pré-course",
+      "duree": "1h13",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n5x100 pull buoy | 200 retour\nVolume : 1400m",
+      "dist_cible_m": 1950
+    },
+    {
+      "date": "2026-09-19",
+      "jour": "Samedi",
+      "sport": "Course",
+      "type": "SORTIE LONGUE Z2 — 23' (4.1 km)",
+      "duree": "23min",
+      "zone": "Z2",
+      "rpe": "5",
+      "structure": "Z2 49' — allure conversationnelle\nFC : 127-138 bpm",
+      "dist_cible": 4.1
+    },
+    {
+      "date": "2026-09-20",
       "jour": "Dimanche",
-      "sport": "Repos",
-      "type": "OFF / Repos",
+      "sport": "Course",
+      "type": "COMPETITION — Triathlon M (nat+vélo+course)",
       "duree": "-",
       "zone": "-",
-      "rpe": "1",
-      "structure": "Vol Paris→Malaga 11h10→13h40\nInstallation — repos avant le camp"
+      "rpe": "4",
+      "structure": "Format M : 1.5km nat + 40km vélo + 10km course",
+      "dist_cible": 10.0,
+      "dist_cible_m": 1500
     }
   ]
 }

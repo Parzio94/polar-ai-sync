@@ -16,6 +16,7 @@
 ├── app.py
 ├── app.py.backup_20260327
 ├── app.py.bak_before_fixes
+├── app.py.bak_before_semaine_fix
 ├── app.py.bak_eq
 ├── cal.js
 ├── calendar
@@ -254,7 +255,31 @@
 │   ├── semaine_16.json
 │   ├── semaine_17.json
 │   ├── semaine_18.json
-│   └── semaine_19.json
+│   ├── semaine_19.json
+│   ├── semaine_20.json
+│   ├── semaine_21.json
+│   ├── semaine_22.json
+│   ├── semaine_23.json
+│   ├── semaine_24.json
+│   ├── semaine_25.json
+│   ├── semaine_26.json
+│   ├── semaine_27.json
+│   ├── semaine_28.json
+│   ├── semaine_29.json
+│   ├── semaine_30.json
+│   ├── semaine_31.json
+│   ├── semaine_32.json
+│   ├── semaine_33.json
+│   ├── semaine_34.json
+│   ├── semaine_35.json
+│   ├── semaine_36.json
+│   ├── semaine_37.json
+│   ├── semaine_38.json
+│   ├── semaine_39.json
+│   ├── semaine_40.json
+│   ├── semaine_41.json
+│   ├── semaine_42.json
+│   └── semaine_43.json
 ├── races.json
 ├── reauth.py
 ├── send_whatsapp.py
@@ -270,4 +295,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-18 directories, 253 files
+18 directories, 278 files

@@ -1,89 +1,136 @@
 {
-  "semaine": "Semaine 8 — 20/07 au 26/07/2026",
+  "semaine": "Semaine 8",
   "seances": [
     {
-      "date": "2026-07-20",
+      "date": "2026-10-19",
       "jour": "Lundi",
-      "sport": "Velo",
-      "type": "Trajet vélo boulot — 20km",
-      "duree": "45min",
-      "zone": "Z2",
-      "rpe": "2",
-      "structure": "20km trajet domicile-travail — cadence haute, allure tranquille\nCadence 90-95 rpm — zéro force",
-      "dist_cible": 20.0
+      "sport": "Repos",
+      "type": "OFF",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet"
     },
     {
-      "date": "2026-07-21",
-      "jour": "Mardi",
-      "sport": "Velo",
-      "type": "Vélo Z2 — 70'",
-      "duree": "1h10",
-      "zone": "Z2",
-      "rpe": "3",
-      "structure": "70' Z2 — cadence haute 90-95 rpm",
-      "dist_cible": 34.0
-    },
-    {
-      "date": "2026-07-21",
+      "date": "2026-10-20",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "EF — 22' (selon évolution post rdv kiné)",
-      "duree": "22min",
-      "zone": "Z1-Z2",
-      "rpe": "1",
-      "structure": "22' EF — réduit vs initial (28'), à ajuster selon retour kiné de la semaine précédente",
-      "dist_cible": 4.0
+      "type": "Tempo — 19' continu Z3",
+      "duree": "39min",
+      "zone": "Z3",
+      "rpe": "7",
+      "structure": "10' EF Z2\n19' Z3 continu — allure seuil contrôlée\n10' RC Z1\nEffort soutenu mais maîtrisé, pas de surge",
+      "dist_cible": 6.6
     },
     {
-      "date": "2026-07-22",
+      "date": "2026-10-20",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo récupération Z2",
+      "duree": "56min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "40' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
+      "dist_cible": 24.9
+    },
+    {
+      "date": "2026-10-21",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Sortie Z2 — 80'",
-      "duree": "1h20",
-      "zone": "Z2",
-      "rpe": "3",
-      "structure": "80' Z2 — légèrement augmenté vs initial (65')",
-      "dist_cible": 39.0
+      "type": "Vélo clé — 3x17' @ 87% FTP — r=5'",
+      "duree": "2h07",
+      "zone": "Z3",
+      "rpe": "7",
+      "structure": "20' EF Z2 | 3x17' @ 87% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
+      "dist_cible": 63.4
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-10-22",
       "jour": "Jeudi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "24min",
       "zone": "-",
-      "rpe": "1",
-      "structure": "🇮🇹 Voyage Luxembourg→Florence — ZÉRO SÉANCE"
+      "rpe": "4",
+      "structure": "200 EF | 3x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1050m",
+      "dist_cible_m": 1250
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-10-22",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF Z2 + accélérations",
+      "duree": "46min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "51' EF Z2 (127-138 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
+      "dist_cible": 8.0
+    },
+    {
+      "date": "2026-10-23",
       "jour": "Vendredi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
-      "zone": "-",
-      "rpe": "1",
-      "structure": "🇮🇹 Florence (excursion Sienne) — ZÉRO SÉANCE"
+      "sport": "Course",
+      "type": "EF Z2 — court",
+      "duree": "20min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "22' EF Z2 — COURT\n4x20'' strides en fin",
+      "dist_cible": 3.6
     },
     {
-      "date": "2026-07-25",
+      "date": "2026-10-23",
+      "jour": "Vendredi",
+      "sport": "Velo",
+      "type": "Force spécifique",
+      "duree": "1h34",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "10' EF | 6x8' basse cadence (55-62 rpm) @ Z2 — r=3' | 10' RC\nFC : 131-155 bpm",
+      "dist_cible": 44.0
+    },
+    {
+      "date": "2026-10-24",
       "jour": "Samedi",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
+      "sport": "Natation",
+      "type": "Natation technique",
+      "duree": "1h04",
       "zone": "-",
-      "rpe": "1",
-      "structure": "🇮🇹 Florence — ZÉRO SÉANCE"
+      "rpe": "3",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n16x100 pull buoy | 200 retour\nVolume : 2500m",
+      "dist_cible_m": 3450
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-10-24",
+      "jour": "Samedi",
+      "sport": "Course",
+      "type": "SORTIE LONGUE Z2 — 60' (10.8 km)",
+      "duree": "1h",
+      "zone": "Z2",
+      "rpe": "5",
+      "structure": "Z2 67' stable (127-138 bpm)\nAllure conversationnelle — cadence 170-175 spm",
+      "dist_cible": 10.8
+    },
+    {
+      "date": "2026-10-25",
       "jour": "Dimanche",
-      "sport": "Repos",
-      "type": "OFF / Repos",
-      "duree": "-",
+      "sport": "Velo",
+      "type": "Sortie longue — 179' (81.5 km)",
+      "duree": "2h59",
+      "zone": "Z2-Z3",
+      "rpe": "6",
+      "structure": "122' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
+      "dist_cible": 81.5
+    },
+    {
+      "date": "2026-10-25",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "37min",
       "zone": "-",
-      "rpe": "1",
-      "structure": "🇮🇹 Florence→Rome — ZÉRO SÉANCE"
+      "rpe": "4",
+      "structure": "200 EF | 4x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1450m",
+      "dist_cible_m": 2000
     }
   ]
 }

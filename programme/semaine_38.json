@@ -1,0 +1,125 @@
+{
+  "semaine": "Semaine 38",
+  "seances": [
+    {
+      "date": "2027-05-17",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF",
+      "duree": "-",
+      "zone": "",
+      "rpe": "",
+      "structure": ""
+    },
+    {
+      "date": "2027-05-18",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "EF Z2 léger",
+      "duree": "48min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "EF Z2 léger",
+      "dist_cible": 9.0
+    },
+    {
+      "date": "2027-05-18",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo récupération Z2",
+      "duree": "1h13",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "82' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
+      "dist_cible": 46.6
+    },
+    {
+      "date": "2027-05-20",
+      "jour": "Jeudi",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "20min",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "200 EF | 2x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 700m",
+      "dist_cible_m": 850
+    },
+    {
+      "date": "2027-05-20",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "EF + strides",
+      "duree": "48min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "EF + strides",
+      "dist_cible": 9.0
+    },
+    {
+      "date": "2027-05-21",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF Z2 — court",
+      "duree": "42min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "EF Z2 — court",
+      "dist_cible": 8.1
+    },
+    {
+      "date": "2027-05-21",
+      "jour": "Vendredi",
+      "sport": "Velo",
+      "type": "Force spécifique légère",
+      "duree": "1h14",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "10' EF | 5x12' basse cadence (55-62 rpm) @ Z2 — r=3' | 10' RC\nFC : 131-155 bpm",
+      "dist_cible": 46.6
+    },
+    {
+      "date": "2027-05-22",
+      "jour": "Samedi",
+      "sport": "Velo",
+      "type": "Vélo léger — 160'",
+      "duree": "2h22",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "160' Z2",
+      "dist_cible": 93.2
+    },
+    {
+      "date": "2027-05-22",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Natation technique",
+      "duree": "57min",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n9x100 pull buoy | 200 retour\nVolume : 1800m",
+      "dist_cible_m": 2450
+    },
+    {
+      "date": "2027-05-23",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "34min",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "200 EF | 3x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1100m",
+      "dist_cible_m": 1500
+    },
+    {
+      "date": "2027-05-23",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "EF léger",
+      "duree": "42min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "EF léger",
+      "dist_cible": 8.1
+    }
+  ]
+}

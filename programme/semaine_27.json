@@ -1,0 +1,75 @@
+{
+  "semaine": "Semaine 27",
+  "seances": [
+    {
+      "date": "2027-03-01",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "Voyage / Installation",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Voyage aller — repos complet"
+    },
+    {
+      "date": "2027-03-02",
+      "jour": "Mardi",
+      "sport": "Ski",
+      "type": "Ski alpin",
+      "duree": "6h",
+      "zone": "Aérobie",
+      "rpe": "5",
+      "structure": "Journée ski alpin\nProprioception, gainage, cardio, force\nRécupération mentale — pas de triathlon"
+    },
+    {
+      "date": "2027-03-03",
+      "jour": "Mercredi",
+      "sport": "Ski",
+      "type": "Ski alpin",
+      "duree": "6h",
+      "zone": "Aérobie",
+      "rpe": "5",
+      "structure": "Journée ski alpin\nProprioception, gainage, cardio, force\nRécupération mentale — pas de triathlon"
+    },
+    {
+      "date": "2027-03-04",
+      "jour": "Jeudi",
+      "sport": "Ski",
+      "type": "Ski alpin",
+      "duree": "6h",
+      "zone": "Aérobie",
+      "rpe": "5",
+      "structure": "Journée ski alpin\nProprioception, gainage, cardio, force\nRécupération mentale — pas de triathlon"
+    },
+    {
+      "date": "2027-03-05",
+      "jour": "Vendredi",
+      "sport": "Ski",
+      "type": "Ski alpin",
+      "duree": "6h",
+      "zone": "Aérobie",
+      "rpe": "5",
+      "structure": "Journée ski alpin\nProprioception, gainage, cardio, force\nRécupération mentale — pas de triathlon"
+    },
+    {
+      "date": "2027-03-06",
+      "jour": "Samedi",
+      "sport": "Ski",
+      "type": "Ski alpin",
+      "duree": "6h",
+      "zone": "Aérobie",
+      "rpe": "5",
+      "structure": "Journée ski alpin\nProprioception, gainage, cardio, force\nRécupération mentale — pas de triathlon"
+    },
+    {
+      "date": "2027-03-07",
+      "jour": "Dimanche",
+      "sport": "Repos",
+      "type": "Retour / Repos",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Voyage retour — repos\nJambes chargées — reprise douce"
+    }
+  ]
+}

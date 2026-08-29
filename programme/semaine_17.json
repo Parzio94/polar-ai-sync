@@ -1,55 +1,91 @@
 {
-  "semaine": "S17",
-  "semaine_num": 17,
+  "semaine": "Semaine 17",
   "seances": [
     {
-      "date": "2026-04-28",
-      "jour": "Mardi",
-      "sport": "Course",
-      "type": "Qualité — Seuil 3×8'",
-      "duree": "75min",
-      "zone": "Z3",
-      "rpe": "5",
-      "structure": "12' EF → 3×8' Z4 (r=2') → 8' RC — D+ : 183 m",
-      "dist_cible": 13.0,
-      "dist_cible_m": null
+      "date": "2026-12-21",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF — Paris",
+      "duree": "—",
+      "zone": "",
+      "rpe": "",
+      "structure": "Repos complet"
     },
     {
-      "date": "2026-04-30",
+      "date": "2026-12-22",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo clé — 2x18' @ 84% FTP — r=5'",
+      "duree": "1h42",
+      "zone": "Z3",
+      "rpe": "6",
+      "structure": "20' EF Z2 | 2x18' @ 84% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
+      "dist_cible": 49.6
+    },
+    {
+      "date": "2026-12-22",
+      "jour": "Mardi",
+      "sport": "Natation",
+      "type": "Natation technique",
+      "duree": "48min",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n8x100 pull buoy | 200 retour\nVolume : 1800m",
+      "dist_cible_m": 2150
+    },
+    {
+      "date": "2026-12-23",
+      "jour": "Mercredi",
+      "sport": "Velo",
+      "type": "Vélo Z2 — Paris",
+      "duree": "1h23",
+      "zone": "Z2",
+      "rpe": "3",
+      "structure": "50' Z2 — parcours Paris, terrain plat\nCadence souple 85-90 rpm",
+      "dist_cible": 36.3
+    },
+    {
+      "date": "2026-12-24",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "Tempo léger",
-      "duree": "65min",
-      "zone": "Z2-Z3",
+      "type": "Tempo — Paris",
+      "duree": "58min",
+      "zone": "Z3",
       "rpe": "5",
-      "structure": "15' EF → 20' tempo → 10–15' RC — D+ : 110 m",
-      "dist_cible": 11.0,
-      "dist_cible_m": null
+      "structure": "12' EF | 15' Z3 (147-153 bpm) | 12' RC\n4x20'' strides",
+      "dist_cible": 10.3
     },
     {
-      "date": "2026-05-01",
+      "date": "2026-12-25",
       "jour": "Vendredi",
       "sport": "Course",
-      "type": "EF + 6×20''",
-      "duree": "45min",
+      "type": "EF Z2 — veille Noël / Paris",
+      "duree": "43min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "30' EF → 6×20'' (r=60'') → 10' RC — D+ : 73 m",
-      "dist_cible": 7.5,
-      "dist_cible_m": null
+      "structure": "33' EF Z2 facile — parcours Paris",
+      "dist_cible": 7.5
     },
     {
-      "date": "2026-05-03",
+      "date": "2026-12-26",
+      "jour": "Samedi",
+      "sport": "Repos",
+      "type": "OFF — Paris",
+      "duree": "—",
+      "zone": "",
+      "rpe": "",
+      "structure": "Repos complet"
+    },
+    {
+      "date": "2026-12-27",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "Sortie longue courte",
-      "duree": "140min",
+      "type": "SORTIE LONGUE Z2 — 116' (21.2 km)",
+      "duree": "1h56",
       "zone": "Z2",
-      "rpe": "4",
-      "structure": "70–75' Z2 → RC — D+ : 367 m",
-      "dist_cible": 29.0,
-      "dist_cible_m": null
+      "rpe": "5",
+      "structure": "90' Z2 stable (127-138 bpm) — parcours Paris\nGel à 60'",
+      "dist_cible": 21.2
     }
-  ],
-  "coach_updated_at": "2026-04-26 19:12"
+  ]
 }

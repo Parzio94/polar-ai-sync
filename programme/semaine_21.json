@@ -1,0 +1,125 @@
+{
+  "semaine": "Semaine 21",
+  "seances": [
+    {
+      "date": "2027-01-18",
+      "jour": "Lundi",
+      "sport": "Repos",
+      "type": "OFF",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet"
+    },
+    {
+      "date": "2027-01-19",
+      "jour": "Mardi",
+      "sport": "Course",
+      "type": "Qualité — 4x2000m progressif",
+      "duree": "1h10",
+      "zone": "Z3-Z4",
+      "rpe": "7",
+      "structure": "12' EF\n4x2000m progressif\n  km1@86% — km2@90% (175 bpm)\nr=1'30\n10' RC",
+      "dist_cible": 13.8
+    },
+    {
+      "date": "2027-01-19",
+      "jour": "Mardi",
+      "sport": "Velo",
+      "type": "Vélo récupération Z2",
+      "duree": "53min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "41' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
+      "dist_cible": 23.8
+    },
+    {
+      "date": "2027-01-20",
+      "jour": "Mercredi",
+      "sport": "Velo",
+      "type": "Vélo clé — 2x32' @ 88% FTP — r=5'",
+      "duree": "2h07",
+      "zone": "Z3",
+      "rpe": "7",
+      "structure": "20' EF Z2 | 2x32' @ 88% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
+      "dist_cible": 63.6
+    },
+    {
+      "date": "2027-01-21",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "Brick run — 15'",
+      "duree": "16min",
+      "zone": "Z2-Z3",
+      "rpe": "4",
+      "structure": "Transition directe après vélo — 15' @ Z2-Z3\nAdaptation transition vélo→CAP",
+      "dist_cible": 3.0
+    },
+    {
+      "date": "2027-01-22",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF Z2 — court",
+      "duree": "42min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "29' EF Z2 — COURT\n4x20'' strides en fin",
+      "dist_cible": 7.6
+    },
+    {
+      "date": "2027-01-22",
+      "jour": "Vendredi",
+      "sport": "Velo",
+      "type": "Force spécifique",
+      "duree": "1h38",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "10' EF | 5x11' basse cadence (55-62 rpm) @ Z2 — r=3' | 10' RC\nFC : 131-155 bpm",
+      "dist_cible": 45.0
+    },
+    {
+      "date": "2027-01-23",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Natation technique",
+      "duree": "1h27",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n24x100 pull buoy | 200 retour\nVolume : 3300m",
+      "dist_cible_m": 4550
+    },
+    {
+      "date": "2027-01-23",
+      "jour": "Samedi",
+      "sport": "Course",
+      "type": "SORTIE LONGUE Z2 — 138' (25.2 km)",
+      "duree": "2h18",
+      "zone": "Z2",
+      "rpe": "6",
+      "structure": "113' Z2 (127-140 bpm) | 8' Z3 bas (141-148 bpm) | 2' RC\nFC < 141 bpm sur 85% du temps\nNutrition : gel à 60' et 65'",
+      "dist_cible": 25.2
+    },
+    {
+      "date": "2027-01-24",
+      "jour": "Dimanche",
+      "sport": "Velo",
+      "type": "Sortie longue — 281' (128.7 km)",
+      "duree": "4h41",
+      "zone": "Z2-Z3",
+      "rpe": "6",
+      "structure": "230' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
+      "dist_cible": 128.7
+    },
+    {
+      "date": "2027-01-24",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "54min",
+      "zone": "-",
+      "rpe": "4",
+      "structure": "200 EF | 5x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1650m",
+      "dist_cible_m": 2750
+    }
+  ]
+}
