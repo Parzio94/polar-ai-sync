@@ -31,10 +31,8 @@ if _env.exists():
             k, _, v = line.partition("=")
             os.environ.setdefault(k.strip(), v.strip())
 
-PHONE          = os.environ.get("WHATSAPP_PHONE", "")
-EVOLUTION_URL  = os.environ.get("EVOLUTION_URL", "http://localhost:8080")
-EVOLUTION_KEY  = os.environ.get("EVOLUTION_APIKEY", "")
-EVOLUTION_INST = os.environ.get("EVOLUTION_INSTANCE", "polar2")
+PHONE   = os.environ.get("WHATSAPP_PHONE", "")
+API_KEY = os.environ.get("CALLMEBOT_APIKEY", "")
 
 # ── Timezone ──────────────────────────────────────────────────
 try:
@@ -276,33 +274,25 @@ def build_message():
 
 # ── Envoi ─────────────────────────────────────────────────────
 def send_whatsapp(message):
-    if not PHONE or not EVOLUTION_KEY:
-        print("❌ WHATSAPP_PHONE ou EVOLUTION_APIKEY manquant dans .env")
+    if not PHONE or not API_KEY:
+        print("❌ WHATSAPP_PHONE ou CALLMEBOT_APIKEY manquant dans .env")
         print("   Ajoutez ces lignes dans /root/polar/.env :")
-        print("   WHATSAPP_PHONE=33XXXXXXXXX  (sans +, format international)")
-        print("   EVOLUTION_APIKEY=XXXXXX")
+        print("   WHATSAPP_PHONE=+352XXXXXXXX")
+        print("   CALLMEBOT_APIKEY=XXXXXX")
         return False
 
-    url = f"{EVOLUTION_URL}/message/sendText/{EVOLUTION_INST}"
-    payload = json.dumps({"number": PHONE, "text": message}).encode("utf-8")
+    encoded = urllib.parse.quote(message)
+    url = f"https://api.callmebot.com/whatsapp.php?phone={PHONE}&text={encoded}&apikey={API_KEY}"
 
     try:
-        req = urllib.request.Request(
-            url,
-            data=payload,
-            method="POST",
-            headers={
-                "Content-Type": "application/json",
-                "apikey": EVOLUTION_KEY,
-            },
-        )
+        req = urllib.request.Request(url, headers={"User-Agent":"CoachIA/1.0"})
         with urllib.request.urlopen(req, timeout=15) as r:
-            resp = json.loads(r.read().decode("utf-8", errors="replace"))
-            if resp.get("key") or resp.get("status") in ("PENDING", "SENT"):
+            resp = r.read().decode("utf-8", errors="replace")
+            if "Message sent" in resp or "queued" in resp.lower():
                 print(f"✅ Message envoyé à {PHONE}")
                 return True
             else:
-                print(f"⚠️  Réponse Evolution API inattendue : {resp}")
+                print(f"⚠️  Réponse CallMeBot : {resp[:200]}")
                 return False
     except Exception as e:
         print(f"❌ Erreur envoi : {e}")
