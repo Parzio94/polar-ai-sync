@@ -280,6 +280,7 @@
 │   ├── semaine_41.json
 │   ├── semaine_42.json
 │   └── semaine_43.json
+├── qrcode.png
 ├── races.json
 ├── reauth.py
 ├── send_whatsapp.py
@@ -295,4 +296,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-18 directories, 278 files
+18 directories, 279 files
