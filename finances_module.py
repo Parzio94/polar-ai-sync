@@ -548,14 +548,26 @@ function setPeriod(period){
 
 var _depensesCache=null;
 var _pieChartInstance=null;
-function getSalaireVie(){
+function getSalaireVieDefaut(){
   return (D.settings&&D.settings.salaire_vie)?n(D.settings.salaire_vie):0;
 }
-function setSalaireVie(v){
+function getSalaireVie(mois){
+  var parMois=(D.settings&&D.settings.salaire_vie_par_mois)||{};
+  if(mois&&parMois[mois]!==undefined&&parMois[mois]!==null&&parMois[mois]!==""){
+    return n(parMois[mois]);
+  }
+  return getSalaireVieDefaut();
+}
+function setSalaireVie(v,mois){
   if(!D.settings)D.settings={};
-  D.settings.salaire_vie=n(v);
+  if(mois){
+    if(!D.settings.salaire_vie_par_mois)D.settings.salaire_vie_par_mois={};
+    D.settings.salaire_vie_par_mois[mois]=n(v);
+  }else{
+    D.settings.salaire_vie=n(v);
+  }
   saveAll();
-  renderDepenses();
+  renderDepensesContent();
 }
 var _depensesSelectedMonth=null;
 function selectDepensesMonth(m){
@@ -625,7 +637,7 @@ function renderDepensesContent(){
   // d.par_categorie / d.total_depenses reflètent uniquement les lignes NON masquées (le calcul).
   var d={operations:dRaw.operations||[],total_mouvements_internes:dRaw.total_mouvements_internes,
          total_depenses:adj.total_depenses,par_categorie:adj.par_categorie};
-  var salaire=getSalaireVie();
+  var salaire=getSalaireVie(curMonth);
   var dca=salaire-d.total_depenses;
 
   var h="";
@@ -639,7 +651,7 @@ function renderDepensesContent(){
   h+='<a href="/depenses-upload" class="btn btn-primary" style="text-decoration:none;display:inline-block">+ Importer un CSV</a>';
   h+='</div>';
   h+='<div style="display:flex;align-items:center;gap:8px"><label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Salaire VIE mensuel (net)</label>';
-  h+='<input type="number" id="salaire-vie-input" class="inline-input" style="width:110px" value="'+salaire+'" onchange="setSalaireVie(this.value)"/></div>';
+  h+='<input type="number" id="salaire-vie-input" class="inline-input" style="width:110px" value="'+salaire+'" onchange="setSalaireVie(this.value,'+"'"+curMonth+"'"+')"/></div>';
   h+='</div>';
 
   h+='<div class="kpis" style="display:flex">';
@@ -780,7 +792,7 @@ async function autoSnapshot(){
   D[year].perf_snapshot[pm]=Math.round(intLivrets+pvPortfolio+pvCrypto);
   saveAll();
 }
-Promise.all([loadInvData(),typeof loadQuotes==="function"?loadQuotes():Promise.resolve()]).then(autoSnapshot);
+Promise.all([loadInvData(),(typeof loadQuotes==="function"&&typeof PEA_TITRES!=="undefined")?loadQuotes():Promise.resolve()]).then(autoSnapshot).catch(function(e){console.warn("autoSnapshot skipped:",e);});
 // Pré-remplir Performance depuis daily_pv
 fetch('/data/pv_current.json').then(function(r){return r.json();})
 .then(function(pv){
