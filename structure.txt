@@ -218,6 +218,7 @@
 ├── logs
 │   ├── daily.log
 │   ├── daily_pv.log
+│   ├── notif.log
 │   ├── snapshot.log
 │   └── whatsapp.log
 ├── monthly_snapshot.py
@@ -297,4 +298,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-18 directories, 280 files
+18 directories, 281 files
