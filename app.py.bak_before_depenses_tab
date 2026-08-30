@@ -10638,25 +10638,5 @@ def api_upload_depenses():
     except Exception as e:
         return jsonify({"ok": False, "error": str(e)})
 
-@app.route("/api/depenses")
-def api_depenses():
-    """Retourne la liste des mois disponibles + leurs données agrégées."""
-    import json as _j
-    dep_dir = POLAR / "depenses"
-    result = {}
-    if dep_dir.exists():
-        for f in sorted(dep_dir.glob("mois_*.json")):
-            try:
-                d = _j.loads(f.read_text(encoding="utf-8"))
-                result[d["mois"]] = {
-                    "total_depenses": d.get("total_depenses", 0),
-                    "total_revenus": d.get("total_revenus", 0),
-                    "total_mouvements_internes": d.get("total_mouvements_internes", 0),
-                    "par_categorie": d.get("par_categorie", {}),
-                }
-            except Exception:
-                pass
-    return jsonify(result)
-
 if __name__=="__main__":
     app.run(host="0.0.0.0",port=5000,debug=False)

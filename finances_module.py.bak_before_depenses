@@ -511,15 +511,6 @@ function renderInvTab(){if(typeof renderMonthTab==="function")renderMonthTab("in
 function setPeriod(period){
   currentPeriod=period;currentMonth=null;localStorage.setItem("fin_period",period);
   document.querySelectorAll(".period-tab").forEach(function(b){b.classList.toggle("active",b.dataset.period===period);});
-  if(period==="depenses"){
-    document.getElementById("view-monthly").style.display="none";
-    document.getElementById("view-annual").style.display="none";
-    document.getElementById("kpis").style.display="none";
-    document.getElementById("view-depenses").style.display="block";
-    renderDepenses();
-    return;
-  }
-  document.getElementById("view-depenses").style.display="none";
   document.getElementById("view-monthly").style.display="none";
   document.getElementById("view-annual").style.display="block";
   document.getElementById("kpis").style.display="flex";
@@ -528,72 +519,6 @@ function setPeriod(period){
   if(period===currentYear&&_TODAY&&months().indexOf(_TODAY)>=0){
     setTimeout(function(){openMonth(_TODAY);},80);
   }
-}
-
-var _depensesCache=null;
-var _pieChartInstance=null;
-function getSalaireVie(){
-  return (D.settings&&D.settings.salaire_vie)?n(D.settings.salaire_vie):0;
-}
-function setSalaireVie(v){
-  if(!D.settings)D.settings={};
-  D.settings.salaire_vie=n(v);
-  saveAll();
-  renderDepenses();
-}
-function renderDepenses(){
-  var container=document.getElementById("view-depenses");
-  container.innerHTML='<div style="padding:16px 20px;color:#6b7280;font-size:.8rem">Chargement des d\u00e9penses\u2026</div>';
-  fetch("/api/depenses").then(function(r){return r.json();}).then(function(data){
-    _depensesCache=data;
-    var months=Object.keys(data).sort().reverse();
-    var curMonth=months[0]||_curMonthYM;
-    var d=data[curMonth]||{total_depenses:0,par_categorie:{}};
-    var salaire=getSalaireVie();
-    var dca=salaire-d.total_depenses;
-
-    var h="";
-    h+='<div style="padding:12px 20px 0"><label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Salaire VIE mensuel (net)</label>';
-    h+='<input type="number" id="salaire-vie-input" class="inline-input" style="width:120px;margin-left:10px" value="'+salaire+'" onchange="setSalaireVie(this.value)"/></div>';
-
-    h+='<div class="kpis" style="display:flex">';
-    h+='<div class="kpi-card"><div class="kpi-label">Salaire VIE</div><div class="kpi-value blue">'+euros(salaire)+'</div></div>';
-    h+='<div class="kpi-card"><div class="kpi-label">D\u00e9penses '+fmtM(curMonth)+'</div><div class="kpi-value red">'+euros(d.total_depenses)+'</div></div>';
-    h+='<div class="kpi-card"><div class="kpi-label">DCA estim\u00e9 disponible</div><div class="kpi-value '+(dca>=0?"green":"red")+'">'+euros(dca)+'</div><div class="kpi-sub">'+euros(salaire)+' salaire \u2212 '+euros(d.total_depenses)+' d\u00e9penses</div></div>';
-    h+='</div>';
-
-    h+='<div class="section"><div class="section-head"><h3>R\u00e9partition '+fmtM(curMonth)+'</h3></div>';
-    h+='<div style="padding:16px"><div style="position:relative;height:260px"><canvas id="depensesPie"></canvas></div>';
-    h+='<div id="depensesLegend" style="display:flex;flex-wrap:wrap;gap:10px;font-size:.7rem;color:#6b7280;margin-top:12px;justify-content:center"></div></div></div>';
-
-    container.innerHTML=h;
-
-    var cats=Object.keys(d.par_categorie);
-    var vals=cats.map(function(c){return d.par_categorie[c];});
-    var palette=["#2a78d6","#eb6834","#1baf7a","#eda100","#e87ba4","#008300","#6250d6","#e34948"];
-    var colors=cats.map(function(_,i){return palette[i%palette.length];});
-    var total=vals.reduce(function(a,b){return a+b;},0);
-
-    if(_pieChartInstance){_pieChartInstance.destroy();}
-    var ctx=document.getElementById("depensesPie");
-    if(ctx&&cats.length){
-      _pieChartInstance=new Chart(ctx,{
-        type:"doughnut",
-        data:{labels:cats,datasets:[{data:vals,backgroundColor:colors,borderColor:"#fff",borderWidth:2}]},
-        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}
-      });
-      var legendHtml="";
-      cats.forEach(function(c,i){
-        var pct=total>0?Math.round(vals[i]/total*100):0;
-        legendHtml+='<span style="display:flex;align-items:center;gap:4px"><span style="width:10px;height:10px;border-radius:2px;background:'+colors[i]+'"></span>'+c+" "+pct+"%</span>";
-      });
-      document.getElementById("depensesLegend").innerHTML=legendHtml;
-    }else{
-      document.getElementById("depensesLegend").innerHTML='<span>Aucune donn\u00e9e pour ce mois</span>';
-    }
-  }).catch(function(e){
-    container.innerHTML='<div style="padding:16px 20px;color:#e63946;font-size:.8rem">Erreur de chargement : '+e+'</div>';
-  });
 }
 
 function openModal(sec){modalCtx=sec;document.getElementById("modal-title").textContent=(sec==="revenus"?"Ajouter un revenu":"Ajouter une d\\u00e9pense");document.getElementById("modal-input").value="";document.getElementById("modal").style.display="flex";setTimeout(function(){document.getElementById("modal-input").focus();},50);}
@@ -678,7 +603,6 @@ setPeriod(localStorage.getItem("fin_period")||"2025");
     return ("<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1.0'>"
         "<title>Finances</title><style>"+CSS+"</style>"
-        "<script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js'></script>"
         "<style>"+inv_css+"</style>"
         "</head><body>"
         "<div id='app'>"
@@ -688,12 +612,10 @@ setPeriod(localStorage.getItem("fin_period")||"2025");
         "<button class='period-tab' data-period='2024' onclick='setPeriod(\"2024\")'>2024</button>"
         "<button class='period-tab' data-period='2025' onclick='setPeriod(\"2025\")'>2025</button>"
         "<button class='period-tab' data-period='vie' onclick='setPeriod(\"vie\")'>VIE</button>"
-        "<button class='period-tab' data-period='depenses' onclick='setPeriod(\"depenses\")'>D\u00e9penses</button>"
         "</div>"
         "<div class='kpis' id='kpis' style='display:flex'></div>"
         "<div id='view-annual'></div>"
         "<div id='view-monthly' style='display:none'></div>"
-        "<div id='view-depenses' style='display:none'></div>"
         "</div>"
         "<div class='modal-overlay' id='modal' onclick='if(event.target===this)closeModal()'>"
         "<div class='modal-box'><h3 id='modal-title'>Ajouter</h3>"

@@ -17,6 +17,7 @@
 ├── app.py
 ├── app.py.backup_20260327
 ├── app.py.bak_before_depenses
+├── app.py.bak_before_depenses_tab
 ├── app.py.bak_before_fixes
 ├── app.py.bak_before_semaine_fix
 ├── app.py.bak_eq
@@ -204,6 +205,7 @@
 ├── finances_excel.py
 ├── finances_investments_ui.py
 ├── finances_module.py
+├── finances_module.py.bak_before_depenses
 ├── fix_cal_width.py
 ├── fusion_log.txt
 ├── habits_log.20260404_12.bak
@@ -304,4 +306,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 286 files
+19 directories, 288 files
