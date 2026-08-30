@@ -795,7 +795,9 @@ fetch('/data/pv_current.json').then(function(r){return r.json();})
     if(document.getElementById('view-annual').children.length)renderAnnual();
   }
 }).catch(function(){});
-setPeriod(localStorage.getItem("fin_period")||"2025");
+var _savedPeriod=localStorage.getItem("fin_period");
+if(_savedPeriod==="2024"||_savedPeriod==="2025"){_savedPeriod="vie";}
+setPeriod(_savedPeriod||"vie");
 """
     JS=JS.replace("_DATA_",dj).replace("_VIE_",vmj).replace("_AN24_",an24j).replace("_AN25_",an25j).replace("_AN26_",an26j)
     return ("<!DOCTYPE html><html lang='fr'><head><meta charset='UTF-8'>"
