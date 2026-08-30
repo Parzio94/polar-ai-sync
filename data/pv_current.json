@@ -1,15 +1,15 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "pv_jour": {
-    "pea": 158,
-    "cto": 45,
-    "crypto": -45,
-    "total": 158
+    "pea": 0,
+    "cto": 0,
+    "crypto": 676,
+    "total": 676
   },
   "pv_mois": {
     "pea": 645,
     "cto": 101,
-    "crypto": 364,
-    "total": 1110
+    "crypto": 1040,
+    "total": 1786
   }
 }
