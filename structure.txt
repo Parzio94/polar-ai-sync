@@ -16,6 +16,7 @@
 ├── api_cost.json
 ├── app.py
 ├── app.py.backup_20260327
+├── app.py.bak_before_cache_quotes
 ├── app.py.bak_before_depenses
 ├── app.py.bak_before_depenses_tab
 ├── app.py.bak_before_fixes
@@ -46,6 +47,7 @@
 │   ├── PxdLZxl7_splits.json
 │   ├── PxdrWZvd_splits.json
 │   ├── pv_current.json
+│   ├── quotes_cache.json
 │   ├── splits
 │   │   ├── 026JW41x.json
 │   │   ├── 026jD3w3.json
@@ -292,6 +294,7 @@
 │   └── semaine_43.json
 ├── races.json
 ├── reauth.py
+├── refresh_quotes.py
 ├── send_notif.py
 ├── send_whatsapp.py.bak
 ├── send_whatsapp.py.bak2
@@ -307,4 +310,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 289 files
+19 directories, 292 files

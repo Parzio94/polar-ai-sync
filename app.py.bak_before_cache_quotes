@@ -10427,36 +10427,57 @@ def api_finances_investments():
 
 @app.route("/api/finances/quotes")
 def api_finances_quotes():
-    """Sert les cours boursiers depuis le cache rafraîchi par cron (refresh_quotes.py).
-    Ne fait plus d'appel réseau direct — évite la lenteur au chargement de la page."""
-    import json as _json2
     symbols = request.args.get("symbols","")
-    cache_file = POLAR / "data" / "quotes_cache.json"
-    if not cache_file.exists():
+    if not symbols:
         return jsonify({})
     try:
-        cache = _json2.loads(cache_file.read_text(encoding="utf-8"))
-        quotes = cache.get("quotes", {})
-        if not symbols:
-            return jsonify(quotes)
+        import urllib.request as _ur, json as _json2
         syms = symbols.split(",")
-        result = {s: quotes.get(s) for s in syms}
-        result["__eurusd"] = quotes.get("__eurusd", 1.0)
-        result["__eurgbp"] = quotes.get("__eurgbp", 1.15)
+        result = {}
+        # Récupérer EUR/USD et EUR/GBP
+        eurusd = 1.0
+        eurgbp = 1.15
+        try:
+            url_fx = "https://query1.finance.yahoo.com/v8/finance/chart/EURUSD=X?interval=1d&range=1d"
+            req_fx = _ur.Request(url_fx, headers={"User-Agent":"Mozilla/5.0"})
+            with _ur.urlopen(req_fx, timeout=5) as r_fx:
+                d_fx = _json2.loads(r_fx.read())
+            eurusd = d_fx["chart"]["result"][0]["meta"].get("regularMarketPrice", 1.0)
+        except: pass
+        try:
+            url_gbp = "https://query1.finance.yahoo.com/v8/finance/chart/EURGBP=X?interval=1d&range=1d"
+            req_gbp = _ur.Request(url_gbp, headers={"User-Agent":"Mozilla/5.0"})
+            with _ur.urlopen(req_gbp, timeout=5) as r_gbp:
+                d_gbp = _json2.loads(r_gbp.read())
+            eurgbp = d_gbp["chart"]["result"][0]["meta"].get("regularMarketPrice", 1.15)
+        except: pass
+        for sym in syms[:30]:
+            try:
+                url = f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}?interval=1d&range=1d"
+                req = _ur.Request(url, headers={"User-Agent":"Mozilla/5.0"})
+                with _ur.urlopen(req, timeout=5) as r:
+                    d = _json2.loads(r.read())
+                price = d["chart"]["result"][0]["meta"].get("regularMarketPrice")
+                result[sym] = price
+            except:
+                result[sym] = None
+        result["__eurusd"] = eurusd
+        result["__eurgbp"] = eurgbp
         return jsonify(result)
     except Exception as e:
         return jsonify({"error": str(e)})
 
 @app.route("/api/finances/crypto")
 def api_finances_crypto():
-    """Sert les cours crypto depuis le cache rafraîchi par cron (refresh_quotes.py)."""
-    import json as _json
-    cache_file = POLAR / "data" / "quotes_cache.json"
-    if not cache_file.exists():
+    ids = request.args.get("ids","")
+    if not ids:
         return jsonify({})
     try:
-        cache = _json.loads(cache_file.read_text(encoding="utf-8"))
-        return jsonify(cache.get("crypto", {}))
+        import urllib.request as _ur, json as _json
+        url = f"https://api.coingecko.com/api/v3/simple/price?ids={ids}&vs_currencies=eur"
+        req = _ur.Request(url, headers={"User-Agent":"Mozilla/5.0"})
+        with _ur.urlopen(req, timeout=8) as r:
+            return jsonify(_json.loads(r.read()))
     except Exception as e:
         return jsonify({"error": str(e)})
 
