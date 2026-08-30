@@ -1,6 +1,7 @@
 /root/polar
 ├── Marathon_programme.xlsx
 ├── __pycache__
+│   ├── app.cpython-312.pyc
 │   ├── coach_weekly.cpython-312.pyc
 │   ├── csv_to_depenses.cpython-312.pyc
 │   ├── finances_excel.cpython-312.pyc
@@ -306,4 +307,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 288 files
+19 directories, 289 files

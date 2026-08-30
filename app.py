@@ -10653,6 +10653,7 @@ def api_depenses():
                     "total_revenus": d.get("total_revenus", 0),
                     "total_mouvements_internes": d.get("total_mouvements_internes", 0),
                     "par_categorie": d.get("par_categorie", {}),
+                    "operations": d.get("operations", []),
                 }
             except Exception:
                 pass
