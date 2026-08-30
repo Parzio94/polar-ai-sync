@@ -543,8 +543,8 @@ function setPeriod(period){
   document.getElementById("view-annual").style.display="block";
   document.getElementById("kpis").style.display="flex";
   renderKPIs();renderAnnual();
-  if(_TODAY&&months().indexOf(_TODAY)>=0){
-    setTimeout(function(){openMonth(_TODAY);},80);
+  if(_curMonthYM&&months().indexOf(_curMonthYM)>=0){
+    setTimeout(function(){openMonth(_curMonthYM);},80);
   }
 }
 
