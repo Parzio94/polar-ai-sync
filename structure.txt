@@ -138,6 +138,9 @@
 │   ├── yNogQBXZ_splits.json
 │   └── ymr96oOR_splits.json
 ├── depenses
+│   ├── mois_2025-12.json
+│   ├── mois_2026-01.json
+│   ├── mois_2026-02.json
 │   ├── mois_2026-07.json
 │   └── mois_2026-08.json
 ├── documents
@@ -312,4 +315,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 294 files
+19 directories, 297 files
