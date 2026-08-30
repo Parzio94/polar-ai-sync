@@ -138,6 +138,7 @@
 │   ├── yNogQBXZ_splits.json
 │   └── ymr96oOR_splits.json
 ├── depenses
+│   ├── mois_2026-07.json
 │   └── mois_2026-08.json
 ├── documents
 │   ├── Autre
@@ -230,6 +231,7 @@
 │   ├── daily.log
 │   ├── daily_pv.log
 │   ├── notif.log
+│   ├── quotes.log
 │   ├── snapshot.log
 │   └── whatsapp.log
 ├── monthly_snapshot.py
@@ -310,4 +312,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 292 files
+19 directories, 294 files
