@@ -633,7 +633,9 @@ function renderDepensesContent(){
   months.forEach(function(m){
     h+='<option value="'+m+'"'+(m===curMonth?" selected":"")+'>'+fmtM(m)+'</option>';
   });
-  h+='</select></div>';
+  h+='</select>';
+  h+='<a href="/depenses-upload" class="btn btn-primary" style="text-decoration:none;display:inline-block">+ Importer un CSV</a>';
+  h+='</div>';
   h+='<div style="display:flex;align-items:center;gap:8px"><label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Salaire VIE mensuel (net)</label>';
   h+='<input type="number" id="salaire-vie-input" class="inline-input" style="width:110px" value="'+salaire+'" onchange="setSalaireVie(this.value)"/></div>';
   h+='</div>';
