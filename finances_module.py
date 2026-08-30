@@ -541,59 +541,125 @@ function setSalaireVie(v){
   saveAll();
   renderDepenses();
 }
+var _depensesSelectedMonth=null;
+function selectDepensesMonth(m){
+  _depensesSelectedMonth=m;
+  renderDepensesContent();
+}
+function toggleCatGroup(catId){
+  var el=document.getElementById("catgroup-"+catId);
+  var arrow=document.getElementById("catarrow-"+catId);
+  if(!el)return;
+  var hidden=el.style.display==="none";
+  el.style.display=hidden?"block":"none";
+  if(arrow)arrow.textContent=hidden?"\u25be":"\u25b8";
+}
 function renderDepenses(){
   var container=document.getElementById("view-depenses");
   container.innerHTML='<div style="padding:16px 20px;color:#6b7280;font-size:.8rem">Chargement des d\u00e9penses\u2026</div>';
   fetch("/api/depenses").then(function(r){return r.json();}).then(function(data){
     _depensesCache=data;
     var months=Object.keys(data).sort().reverse();
-    var curMonth=months[0]||_curMonthYM;
-    var d=data[curMonth]||{total_depenses:0,par_categorie:{}};
-    var salaire=getSalaireVie();
-    var dca=salaire-d.total_depenses;
-
-    var h="";
-    h+='<div style="padding:12px 20px 0"><label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Salaire VIE mensuel (net)</label>';
-    h+='<input type="number" id="salaire-vie-input" class="inline-input" style="width:120px;margin-left:10px" value="'+salaire+'" onchange="setSalaireVie(this.value)"/></div>';
-
-    h+='<div class="kpis" style="display:flex">';
-    h+='<div class="kpi-card"><div class="kpi-label">Salaire VIE</div><div class="kpi-value blue">'+euros(salaire)+'</div></div>';
-    h+='<div class="kpi-card"><div class="kpi-label">D\u00e9penses '+fmtM(curMonth)+'</div><div class="kpi-value red">'+euros(d.total_depenses)+'</div></div>';
-    h+='<div class="kpi-card"><div class="kpi-label">DCA estim\u00e9 disponible</div><div class="kpi-value '+(dca>=0?"green":"red")+'">'+euros(dca)+'</div><div class="kpi-sub">'+euros(salaire)+' salaire \u2212 '+euros(d.total_depenses)+' d\u00e9penses</div></div>';
-    h+='</div>';
-
-    h+='<div class="section"><div class="section-head"><h3>R\u00e9partition '+fmtM(curMonth)+'</h3></div>';
-    h+='<div style="padding:16px"><div style="position:relative;height:260px"><canvas id="depensesPie"></canvas></div>';
-    h+='<div id="depensesLegend" style="display:flex;flex-wrap:wrap;gap:10px;font-size:.7rem;color:#6b7280;margin-top:12px;justify-content:center"></div></div></div>';
-
-    container.innerHTML=h;
-
-    var cats=Object.keys(d.par_categorie);
-    var vals=cats.map(function(c){return d.par_categorie[c];});
-    var palette=["#2a78d6","#eb6834","#1baf7a","#eda100","#e87ba4","#008300","#6250d6","#e34948"];
-    var colors=cats.map(function(_,i){return palette[i%palette.length];});
-    var total=vals.reduce(function(a,b){return a+b;},0);
-
-    if(_pieChartInstance){_pieChartInstance.destroy();}
-    var ctx=document.getElementById("depensesPie");
-    if(ctx&&cats.length){
-      _pieChartInstance=new Chart(ctx,{
-        type:"doughnut",
-        data:{labels:cats,datasets:[{data:vals,backgroundColor:colors,borderColor:"#fff",borderWidth:2}]},
-        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}
-      });
-      var legendHtml="";
-      cats.forEach(function(c,i){
-        var pct=total>0?Math.round(vals[i]/total*100):0;
-        legendHtml+='<span style="display:flex;align-items:center;gap:4px"><span style="width:10px;height:10px;border-radius:2px;background:'+colors[i]+'"></span>'+c+" "+pct+"%</span>";
-      });
-      document.getElementById("depensesLegend").innerHTML=legendHtml;
-    }else{
-      document.getElementById("depensesLegend").innerHTML='<span>Aucune donn\u00e9e pour ce mois</span>';
+    if(!_depensesSelectedMonth||months.indexOf(_depensesSelectedMonth)<0){
+      _depensesSelectedMonth=months[0]||_curMonthYM;
     }
+    container.innerHTML='<div id="depenses-inner"></div>';
+    renderDepensesContent();
   }).catch(function(e){
     container.innerHTML='<div style="padding:16px 20px;color:#e63946;font-size:.8rem">Erreur de chargement : '+e+'</div>';
   });
+}
+function renderDepensesContent(){
+  var inner=document.getElementById("depenses-inner");
+  if(!inner||!_depensesCache)return;
+  var data=_depensesCache;
+  var months=Object.keys(data).sort().reverse();
+  var curMonth=_depensesSelectedMonth||months[0];
+  var d=data[curMonth]||{total_depenses:0,par_categorie:{},operations:[]};
+  var salaire=getSalaireVie();
+  var dca=salaire-d.total_depenses;
+
+  var h="";
+  h+='<div class="monthly-header"><div style="display:flex;align-items:center;gap:10px">';
+  h+='<label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Mois</label>';
+  h+='<select id="depenses-month-select" onchange="selectDepensesMonth(this.value)" style="border:1px solid #e8e4dc;border-radius:8px;padding:7px 10px;font-size:.78rem;font-weight:700">';
+  months.forEach(function(m){
+    h+='<option value="'+m+'"'+(m===curMonth?" selected":"")+'>'+fmtM(m)+'</option>';
+  });
+  h+='</select></div>';
+  h+='<div style="display:flex;align-items:center;gap:8px"><label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Salaire VIE mensuel (net)</label>';
+  h+='<input type="number" id="salaire-vie-input" class="inline-input" style="width:110px" value="'+salaire+'" onchange="setSalaireVie(this.value)"/></div>';
+  h+='</div>';
+
+  h+='<div class="kpis" style="display:flex">';
+  h+='<div class="kpi-card"><div class="kpi-label">Salaire VIE</div><div class="kpi-value blue">'+euros(salaire)+'</div></div>';
+  h+='<div class="kpi-card"><div class="kpi-label">D\u00e9penses '+fmtM(curMonth)+'</div><div class="kpi-value red">'+euros(d.total_depenses)+'</div></div>';
+  h+='<div class="kpi-card"><div class="kpi-label">DCA estim\u00e9 disponible</div><div class="kpi-value '+(dca>=0?"green":"red")+'">'+euros(dca)+'</div><div class="kpi-sub">'+euros(salaire)+' salaire \u2212 '+euros(d.total_depenses)+' d\u00e9penses</div></div>';
+  h+='</div>';
+
+  h+='<div class="section"><div class="section-head"><h3>R\u00e9partition '+fmtM(curMonth)+'</h3></div>';
+  h+='<div style="padding:16px"><div style="position:relative;height:260px"><canvas id="depensesPie"></canvas></div>';
+  h+='<div id="depensesLegend" style="display:flex;flex-wrap:wrap;gap:10px;font-size:.7rem;color:#6b7280;margin-top:12px;justify-content:center"></div></div></div>';
+
+  var opsByCat={};
+  (d.operations||[]).forEach(function(op){
+    var cat=op.category_parent||"Autre";
+    if(!opsByCat[cat])opsByCat[cat]=[];
+    opsByCat[cat].push(op);
+  });
+  var catsSorted=Object.keys(d.par_categorie||{});
+
+  h+='<div class="section"><div class="section-head"><h3>D\u00e9tail des op\u00e9rations '+fmtM(curMonth)+'</h3></div><div style="padding:8px 0">';
+  catsSorted.forEach(function(cat,idx){
+    var ops=(opsByCat[cat]||[]).slice().sort(function(a,b){return a.date<b.date?1:-1;});
+    var catTotal=d.par_categorie[cat]||0;
+    var catId="c"+idx;
+    h+='<div style="border-bottom:1px solid #f0ede8">';
+    h+='<div onclick="toggleCatGroup(&quot;'+catId+'&quot;)" style="display:flex;align-items:center;justify-content:space-between;padding:10px 16px;cursor:pointer;background:#fafaf8">';
+    h+='<div style="display:flex;align-items:center;gap:8px"><span id="catarrow-'+catId+'" style="font-size:.7rem;color:#6b7280">\u25be</span><span style="font-weight:700;font-size:.78rem">'+cat+'</span><span style="font-size:.68rem;color:#6b7280">('+ops.length+')</span></div>';
+    h+='<span style="font-weight:800;color:#e63946;font-size:.8rem">'+euros(catTotal)+'</span>';
+    h+='</div>';
+    h+='<div id="catgroup-'+catId+'" style="display:block">';
+    ops.forEach(function(op){
+      var isNeg=op.amount<0;
+      h+='<div style="display:flex;align-items:center;justify-content:space-between;padding:7px 16px 7px 32px;border-top:1px solid #f7f5f0">';
+      h+='<div style="min-width:0"><div style="font-size:.75rem;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+op.label+'</div>';
+      h+='<div style="font-size:.65rem;color:#9ca3af">'+op.date+' \u00b7 '+(op.account_label||"")+'</div></div>';
+      h+='<div style="font-size:.78rem;font-weight:700;white-space:nowrap;margin-left:10px" class="'+(isNeg?"cell-neg":"cell-pos")+'">'+euros(op.amount,true)+'</div>';
+      h+='</div>';
+    });
+    h+='</div></div>';
+  });
+  if(d.total_mouvements_internes){
+    h+='<div style="padding:10px 16px;background:#f7f5f0;font-size:.7rem;color:#9ca3af;text-align:center">Mouvements internes (virements/d\u00e9bits diff\u00e9r\u00e9s, hors calcul) : '+euros(d.total_mouvements_internes)+'</div>';
+  }
+  h+='</div></div>';
+
+  inner.innerHTML=h;
+
+  var cats=Object.keys(d.par_categorie||{});
+  var vals=cats.map(function(c){return d.par_categorie[c];});
+  var palette=["#2a78d6","#eb6834","#1baf7a","#eda100","#e87ba4","#008300","#6250d6","#e34948"];
+  var colors=cats.map(function(_,i){return palette[i%palette.length];});
+  var total=vals.reduce(function(a,b){return a+b;},0);
+
+  if(_pieChartInstance){_pieChartInstance.destroy();}
+  var ctx=document.getElementById("depensesPie");
+  if(ctx&&cats.length){
+    _pieChartInstance=new Chart(ctx,{
+      type:"doughnut",
+      data:{labels:cats,datasets:[{data:vals,backgroundColor:colors,borderColor:"#fff",borderWidth:2}]},
+      options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}
+    });
+    var legendHtml="";
+    cats.forEach(function(c,i){
+      var pct=total>0?Math.round(vals[i]/total*100):0;
+      legendHtml+='<span style="display:flex;align-items:center;gap:4px"><span style="width:10px;height:10px;border-radius:2px;background:'+colors[i]+'"></span>'+c+" "+pct+"%</span>";
+    });
+    document.getElementById("depensesLegend").innerHTML=legendHtml;
+  }else if(document.getElementById("depensesLegend")){
+    document.getElementById("depensesLegend").innerHTML='<span>Aucune donn\u00e9e pour ce mois</span>';
+  }
 }
 
 function openModal(sec){modalCtx=sec;document.getElementById("modal-title").textContent=(sec==="revenus"?"Ajouter un revenu":"Ajouter une d\\u00e9pense");document.getElementById("modal-input").value="";document.getElementById("modal").style.display="flex";setTimeout(function(){document.getElementById("modal-input").focus();},50);}
