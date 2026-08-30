@@ -77,6 +77,12 @@ function euros(v,sign){
   if(sign)return (v>=0?"+":"-")+r;
   return (v<0?"-":"")+r;
 }
+function eurosDec(v,sign){
+  if(v===undefined||v===null)return "\\u2014";
+  var r=Math.abs(v).toLocaleString("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2})+"\\u20ac";
+  if(sign)return (v>=0?"+":"-")+r;
+  return (v<0?"-":"")+r;
+}
 function pct(v){return isNaN(v)||!isFinite(v)?"":v.toFixed(1)+"%";}
 function months(){return currentPeriod==="vie"?VIE_MONTHS:(AN_MONTHS[currentPeriod]||[]);}
 function pd(){return D[currentPeriod]||{};}
@@ -605,6 +611,8 @@ function renderDepensesContent(){
   var curMonth=_depensesSelectedMonth||months[0];
   var dRaw=data[curMonth]||{total_depenses:0,par_categorie:{},operations:[]};
   var adj=computeAdjusted(dRaw);
+  // d.operations garde TOUTES les opérations (y compris masquées) pour l'affichage.
+  // d.par_categorie / d.total_depenses reflètent uniquement les lignes NON masquées (le calcul).
   var d={operations:dRaw.operations||[],total_mouvements_internes:dRaw.total_mouvements_internes,
          total_depenses:adj.total_depenses,par_categorie:adj.par_categorie};
   var salaire=getSalaireVie();
@@ -623,9 +631,9 @@ function renderDepensesContent(){
   h+='</div>';
 
   h+='<div class="kpis" style="display:flex">';
-  h+='<div class="kpi-card"><div class="kpi-label">Salaire VIE</div><div class="kpi-value blue">'+euros(salaire)+'</div></div>';
-  h+='<div class="kpi-card"><div class="kpi-label">D\u00e9penses '+fmtM(curMonth)+'</div><div class="kpi-value red">'+euros(d.total_depenses)+'</div></div>';
-  h+='<div class="kpi-card"><div class="kpi-label">DCA estim\u00e9 disponible</div><div class="kpi-value '+(dca>=0?"green":"red")+'">'+euros(dca)+'</div><div class="kpi-sub">'+euros(salaire)+' salaire \u2212 '+euros(d.total_depenses)+' d\u00e9penses</div></div>';
+  h+='<div class="kpi-card"><div class="kpi-label">Salaire VIE</div><div class="kpi-value blue">'+eurosDec(salaire)+'</div></div>';
+  h+='<div class="kpi-card"><div class="kpi-label">D\u00e9penses '+fmtM(curMonth)+'</div><div class="kpi-value red">'+eurosDec(d.total_depenses)+'</div></div>';
+  h+='<div class="kpi-card"><div class="kpi-label">DCA estim\u00e9 disponible</div><div class="kpi-value '+(dca>=0?"green":"red")+'">'+eurosDec(dca)+'</div><div class="kpi-sub">'+eurosDec(salaire)+' salaire \u2212 '+eurosDec(d.total_depenses)+' d\u00e9penses</div></div>';
   h+='</div>';
 
   h+='<div class="section"><div class="section-head"><h3>R\u00e9partition '+fmtM(curMonth)+'</h3></div>';
@@ -634,21 +642,23 @@ function renderDepensesContent(){
 
   var opsByCat={};
   (d.operations||[]).forEach(function(op){
+    if(op.amount>=0)return;
     var cat=op.category_parent||"Autre";
     if(!opsByCat[cat])opsByCat[cat]=[];
     opsByCat[cat].push(op);
   });
-  var catsSorted=Object.keys(d.par_categorie||{});
+  var catsSorted=Object.keys(opsByCat);
 
   h+='<div class="section"><div class="section-head"><h3>D\u00e9tail des op\u00e9rations '+fmtM(curMonth)+'</h3></div><div style="padding:8px 0">';
   catsSorted.forEach(function(cat,idx){
     var ops=(opsByCat[cat]||[]).slice().sort(function(a,b){return a.date<b.date?1:-1;});
     var catTotal=d.par_categorie[cat]||0;
+    var catTotalBrut=ops.reduce(function(s,op){return s+Math.abs(op.amount);},0);
     var catId="c"+idx;
     h+='<div style="border-bottom:1px solid #f0ede8">';
     h+='<div onclick="toggleCatGroup(&quot;'+catId+'&quot;)" style="display:flex;align-items:center;justify-content:space-between;padding:10px 16px;cursor:pointer;background:#fafaf8">';
     h+='<div style="display:flex;align-items:center;gap:8px"><span id="catarrow-'+catId+'" style="font-size:.7rem;color:#6b7280">\u25be</span><span style="font-weight:700;font-size:.78rem">'+cat+'</span><span style="font-size:.68rem;color:#6b7280">('+ops.length+')</span></div>';
-    h+='<span style="font-weight:800;color:#e63946;font-size:.8rem">'+euros(catTotal)+'</span>';
+    h+='<span style="font-weight:800;color:#e63946;font-size:.8rem">'+eurosDec(catTotalBrut)+'</span>';
     h+='</div>';
     h+='<div id="catgroup-'+catId+'" style="display:block">';
     ops.forEach(function(op){
@@ -660,13 +670,13 @@ function renderDepensesContent(){
       h+='<input type="checkbox"'+checked+' onchange="toggleOpMasquee(&quot;'+op.fingerprint+'&quot;)" style="flex-shrink:0"/>';
       h+='<div style="min-width:0"><div style="font-size:.75rem;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+displayLabel+'</div>';
       h+='<div style="font-size:.65rem;color:#9ca3af">'+op.date+' \u00b7 '+(op.account_label||"")+'</div></div></div>';
-      h+='<div style="font-size:.78rem;font-weight:700;white-space:nowrap;margin-left:10px" class="'+(isNeg?"cell-neg":"cell-pos")+'">'+euros(op.amount,true)+'</div>';
+      h+='<div style="font-size:.78rem;font-weight:700;white-space:nowrap;margin-left:10px" class="'+(isNeg?"cell-neg":"cell-pos")+'">'+eurosDec(op.amount,true)+'</div>';
       h+='</div>';
     });
     h+='</div></div>';
   });
   if(d.total_mouvements_internes){
-    h+='<div style="padding:10px 16px;background:#f7f5f0;font-size:.7rem;color:#9ca3af;text-align:center">Mouvements internes (virements/d\u00e9bits diff\u00e9r\u00e9s, hors calcul) : '+euros(d.total_mouvements_internes)+'</div>';
+    h+='<div style="padding:10px 16px;background:#f7f5f0;font-size:.7rem;color:#9ca3af;text-align:center">Mouvements internes (virements/d\u00e9bits diff\u00e9r\u00e9s, hors calcul) : '+eurosDec(d.total_mouvements_internes)+'</div>';
   }
   h+='</div></div>';
 
