@@ -2,6 +2,7 @@
 ├── Marathon_programme.xlsx
 ├── __pycache__
 │   ├── coach_weekly.cpython-312.pyc
+│   ├── csv_to_depenses.cpython-312.pyc
 │   ├── finances_excel.cpython-312.pyc
 │   ├── finances_investments_ui.cpython-312.pyc
 │   ├── finances_module.cpython-312.pyc
@@ -15,6 +16,7 @@
 ├── api_cost.json
 ├── app.py
 ├── app.py.backup_20260327
+├── app.py.bak_before_depenses
 ├── app.py.bak_before_fixes
 ├── app.py.bak_before_semaine_fix
 ├── app.py.bak_eq
@@ -302,4 +304,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 284 files
+19 directories, 286 files
