@@ -215,10 +215,6 @@ function renderMonthly(){
   h+='<h2>'+fmtM(m)+'</h2>';
   if(next)h+='<button class="btn btn-gray" onclick="openMonth(\\''+next+'\\')">'+fmtMc(next)+' \\u203a</button>';
   h+='</div><div></div></div>';
-  h+='<div class="month-tabs">';
-  h+='<button class="month-tab active" id="mtab-rd" onclick="renderMonthTab(\\'rd\\')">Revenus &amp; D\\u00e9penses</button>';
-  h+='<button class="month-tab" id="mtab-inv" onclick="renderMonthTab(\\'inv\\')">Investissements</button>';
-  h+='</div>';
   h+='<div id="month-tab-content"></div>';
   document.getElementById("view-monthly").innerHTML=h;
   currentMonthTab="rd";
