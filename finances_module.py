@@ -70,6 +70,8 @@ var _invLoaded=false;
 
 function fmtM(ym){var p=ym.split("-");return MOIS[parseInt(p[1])-1]+" "+p[0].slice(2);}
 function fmtMc(ym){return MOIS[parseInt(ym.split("-")[1])-1];}
+var MOIS_COMPLET=["Janvier","F\u00e9vrier","Mars","Avril","Mai","Juin","Juillet","Ao\u00fbt","Septembre","Octobre","Novembre","D\u00e9cembre"];
+function fmtMFull(ym){var p=ym.split("-");return MOIS_COMPLET[parseInt(p[1])-1]+" "+p[0];}
 function n(v){return parseFloat(v)||0;}
 function euros(v,sign){
   if(v===undefined||v===null)return "\\u2014";
@@ -631,7 +633,7 @@ function renderDepensesContent(){
   h+='<label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Mois</label>';
   h+='<select id="depenses-month-select" onchange="selectDepensesMonth(this.value)" style="border:1px solid #e8e4dc;border-radius:8px;padding:7px 10px;font-size:.78rem;font-weight:700">';
   months.forEach(function(m){
-    h+='<option value="'+m+'"'+(m===curMonth?" selected":"")+'>'+fmtM(m)+'</option>';
+    h+='<option value="'+m+'"'+(m===curMonth?" selected":"")+'>'+fmtMFull(m)+'</option>';
   });
   h+='</select>';
   h+='<a href="/depenses-upload" class="btn btn-primary" style="text-decoration:none;display:inline-block">+ Importer un CSV</a>';
