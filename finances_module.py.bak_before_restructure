@@ -517,33 +517,21 @@ function renderInvTab(){if(typeof renderMonthTab==="function")renderMonthTab("in
 function setPeriod(period){
   currentPeriod=period;currentMonth=null;localStorage.setItem("fin_period",period);
   document.querySelectorAll(".period-tab").forEach(function(b){b.classList.toggle("active",b.dataset.period===period);});
-  document.getElementById("view-depenses").style.display="none";
-  document.getElementById("view-investissements").style.display="none";
-  document.getElementById("view-monthly").style.display="none";
-  document.getElementById("view-annual").style.display="none";
-  document.getElementById("kpis").style.display="none";
   if(period==="depenses"){
+    document.getElementById("view-monthly").style.display="none";
+    document.getElementById("view-annual").style.display="none";
+    document.getElementById("kpis").style.display="none";
     document.getElementById("view-depenses").style.display="block";
     renderDepenses();
     return;
   }
-  if(period==="investissements"){
-    currentPeriod="vie";
-    var _el=document.getElementById("view-investissements");
-    _el.innerHTML='<div style="padding:20px;text-align:center;color:#9ca3af">Chargement...</div>';
-    Promise.all([typeof loadInvestments==="function"?loadInvestments():Promise.resolve(),
-                 typeof loadQuotes==="function"?loadQuotes():Promise.resolve()])
-    .then(function(){
-      if(typeof renderInvestments==="function"){_el.innerHTML=renderInvestments();}
-    });
-    document.getElementById("view-investissements").style.display="block";
-    return;
-  }
-  // period === "vie" (Général) : KPI + tableau annuel détaillé (mois par mois)
+  document.getElementById("view-depenses").style.display="none";
+  document.getElementById("view-monthly").style.display="none";
   document.getElementById("view-annual").style.display="block";
   document.getElementById("kpis").style.display="flex";
   renderKPIs();renderAnnual();
-  if(_TODAY&&months().indexOf(_TODAY)>=0){
+  // Aller direct au mois actuel si la période est l'année courante
+  if(period===currentYear&&_TODAY&&months().indexOf(_TODAY)>=0){
     setTimeout(function(){openMonth(_TODAY);},80);
   }
 }
@@ -808,15 +796,15 @@ setPeriod(localStorage.getItem("fin_period")||"2025");
         "<header class='app-header'><div><h1>&#128176; Finances</h1><p>Revenus &middot; D&eacute;penses &middot; Investissements</p></div>"
         "</header>"
         "<div class='period-tabs'>"
-        "<button class='period-tab' data-period='vie' onclick='setPeriod(\"vie\")'>G\u00e9n\u00e9ral</button>"
+        "<button class='period-tab' data-period='2024' onclick='setPeriod(\"2024\")'>2024</button>"
+        "<button class='period-tab' data-period='2025' onclick='setPeriod(\"2025\")'>2025</button>"
+        "<button class='period-tab' data-period='vie' onclick='setPeriod(\"vie\")'>VIE</button>"
         "<button class='period-tab' data-period='depenses' onclick='setPeriod(\"depenses\")'>D\u00e9penses</button>"
-        "<button class='period-tab' data-period='investissements' onclick='setPeriod(\"investissements\")'>Investissements</button>"
         "</div>"
         "<div class='kpis' id='kpis' style='display:flex'></div>"
         "<div id='view-annual'></div>"
         "<div id='view-monthly' style='display:none'></div>"
         "<div id='view-depenses' style='display:none'></div>"
-        "<div id='view-investissements' style='display:none'></div>"
         "</div>"
         "<div class='modal-overlay' id='modal' onclick='if(event.target===this)closeModal()'>"
         "<div class='modal-box'><h3 id='modal-title'>Ajouter</h3>"

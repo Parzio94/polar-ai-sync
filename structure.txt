@@ -206,6 +206,7 @@
 ├── finances_investments_ui.py
 ├── finances_module.py
 ├── finances_module.py.bak_before_depenses
+├── finances_module.py.bak_before_restructure
 ├── fix_cal_width.py
 ├── fusion_log.txt
 ├── habits_log.20260404_12.bak
@@ -306,4 +307,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 288 files
+19 directories, 289 files
