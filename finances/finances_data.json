@@ -1037,10 +1037,10 @@
   "settings": {
     "salaire_vie": 3677,
     "depenses_masquees": [
-      "511e0c5e166c9f43",
       "0cf5be10ec199530",
       "dfb62febac727ba8",
-      "2d900ee9e9ba39ec"
+      "2d900ee9e9ba39ec",
+      "511e0c5e166c9f43"
     ]
   }
 }
