@@ -650,12 +650,12 @@ function renderDepensesContent(){
   h+='</select>';
   h+='<a href="/depenses-upload" class="btn btn-primary" style="text-decoration:none;display:inline-block">+ Importer un CSV</a>';
   h+='</div>';
-  h+='<div style="display:flex;align-items:center;gap:8px"><label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Salaire VIE mensuel (net)</label>';
-  h+='<input type="number" id="salaire-vie-input" class="inline-input" style="width:110px" value="'+salaire+'" onchange="setSalaireVie(this.value,'+"'"+curMonth+"'"+')"/></div>';
+  h+='<div style="display:flex;align-items:center;gap:8px"><label style="font-size:.7rem;font-weight:700;color:#4a4a6a">Salaire VIE par d\u00e9faut (net)</label>';
+  h+='<input type="number" id="salaire-vie-input" class="inline-input" style="width:110px" value="'+getSalaireVieDefaut()+'" onchange="setSalaireVie(this.value)"/></div>';
   h+='</div>';
 
   h+='<div class="kpis" style="display:flex">';
-  h+='<div class="kpi-card"><div class="kpi-label">Salaire VIE</div><div class="kpi-value blue">'+eurosDec(salaire)+'</div></div>';
+  h+='<div class="kpi-card"><div class="kpi-label">Salaire '+fmtM(curMonth)+'</div><input type="number" id="salaire-mois-input" class="kpi-value blue" style="border:1px solid #e8e4dc;border-radius:6px;width:100%;background:transparent" value="'+salaire+'" onchange="setSalaireVie(this.value,&quot;'+curMonth+'&quot;)"/></div>';
   h+='<div class="kpi-card"><div class="kpi-label">D\u00e9penses '+fmtM(curMonth)+'</div><div class="kpi-value red">'+eurosDec(d.total_depenses)+'</div></div>';
   h+='<div class="kpi-card"><div class="kpi-label">DCA estim\u00e9 disponible</div><div class="kpi-value '+(dca>=0?"green":"red")+'">'+eurosDec(dca)+'</div><div class="kpi-sub">'+eurosDec(salaire)+' salaire \u2212 '+eurosDec(d.total_depenses)+' d\u00e9penses</div></div>';
   h+='</div>';
