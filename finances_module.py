@@ -569,13 +569,44 @@ function renderDepenses(){
     container.innerHTML='<div style="padding:16px 20px;color:#e63946;font-size:.8rem">Erreur de chargement : '+e+'</div>';
   });
 }
+function getDepensesMasquees(){
+  return (D.settings&&D.settings.depenses_masquees)?D.settings.depenses_masquees:[];
+}
+function isOpMasquee(fp){
+  return getDepensesMasquees().indexOf(fp)>=0;
+}
+function toggleOpMasquee(fp){
+  if(!D.settings)D.settings={};
+  if(!D.settings.depenses_masquees)D.settings.depenses_masquees=[];
+  var idx=D.settings.depenses_masquees.indexOf(fp);
+  if(idx>=0){D.settings.depenses_masquees.splice(idx,1);}
+  else{D.settings.depenses_masquees.push(fp);}
+  saveAll();
+  renderDepensesContent();
+}
+function computeAdjusted(d){
+  var masquees=getDepensesMasquees();
+  var byCat={};
+  var total=0;
+  (d.operations||[]).forEach(function(op){
+    if(masquees.indexOf(op.fingerprint)>=0)return;
+    if(op.amount>=0)return;
+    var cat=op.category_parent||"Autre";
+    byCat[cat]=(byCat[cat]||0)+Math.abs(op.amount);
+    total+=Math.abs(op.amount);
+  });
+  return {par_categorie:byCat,total_depenses:Math.round(total*100)/100};
+}
 function renderDepensesContent(){
   var inner=document.getElementById("depenses-inner");
   if(!inner||!_depensesCache)return;
   var data=_depensesCache;
   var months=Object.keys(data).sort().reverse();
   var curMonth=_depensesSelectedMonth||months[0];
-  var d=data[curMonth]||{total_depenses:0,par_categorie:{},operations:[]};
+  var dRaw=data[curMonth]||{total_depenses:0,par_categorie:{},operations:[]};
+  var adj=computeAdjusted(dRaw);
+  var d={operations:dRaw.operations||[],total_mouvements_internes:dRaw.total_mouvements_internes,
+         total_depenses:adj.total_depenses,par_categorie:adj.par_categorie};
   var salaire=getSalaireVie();
   var dca=salaire-d.total_depenses;
 
@@ -622,9 +653,13 @@ function renderDepensesContent(){
     h+='<div id="catgroup-'+catId+'" style="display:block">';
     ops.forEach(function(op){
       var isNeg=op.amount<0;
-      h+='<div style="display:flex;align-items:center;justify-content:space-between;padding:7px 16px 7px 32px;border-top:1px solid #f7f5f0">';
-      h+='<div style="min-width:0"><div style="font-size:.75rem;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+op.label+'</div>';
-      h+='<div style="font-size:.65rem;color:#9ca3af">'+op.date+' \u00b7 '+(op.account_label||"")+'</div></div>';
+      var checked=isOpMasquee(op.fingerprint)?"":" checked";
+      var displayLabel=op.suggested_label||op.label;
+      h+='<div style="display:flex;align-items:center;justify-content:space-between;padding:7px 16px 7px 16px;border-top:1px solid #f7f5f0">';
+      h+='<div style="display:flex;align-items:center;gap:8px;min-width:0;flex:1">';
+      h+='<input type="checkbox"'+checked+' onchange="toggleOpMasquee(&quot;'+op.fingerprint+'&quot;)" style="flex-shrink:0"/>';
+      h+='<div style="min-width:0"><div style="font-size:.75rem;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+displayLabel+'</div>';
+      h+='<div style="font-size:.65rem;color:#9ca3af">'+op.date+' \u00b7 '+(op.account_label||"")+'</div></div></div>';
       h+='<div style="font-size:.78rem;font-weight:700;white-space:nowrap;margin-left:10px" class="'+(isNeg?"cell-neg":"cell-pos")+'">'+euros(op.amount,true)+'</div>';
       h+='</div>';
     });
