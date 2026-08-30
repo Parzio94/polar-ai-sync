@@ -24,6 +24,7 @@
 ├── calendar_events.json
 ├── coach_weekly.py
 ├── cron_daily.log
+├── csv_to_depenses.py
 ├── daily_pv.py
 ├── data
 │   ├── 09zjnYG8_splits.json
@@ -131,6 +132,8 @@
 │   ├── yMLev2Ld_splits.json
 │   ├── yNogQBXZ_splits.json
 │   └── ymr96oOR_splits.json
+├── depenses
+│   └── mois_2026-08.json
 ├── documents
 │   ├── Autre
 │   ├── Banque
@@ -180,6 +183,7 @@
 │   └── Sante
 │       └── Scan2026-02-26_105746.pdf
 ├── equipment.json
+├── export-operations-30-08-2026_10-51-44.csv
 ├── finances
 │   ├── finances_data.json
 │   ├── finances_investments.json
@@ -298,4 +302,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-18 directories, 281 files
+19 directories, 284 files
