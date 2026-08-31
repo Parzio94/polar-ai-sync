@@ -1202,6 +1202,20 @@
     "created_at": "2026-04-25T20:10:32.892387"
   },
   {
+    "fp": "a587ca3d-2fd",
+    "title": "Rdv medicale",
+    "date": "2026-09-01",
+    "end_date": "2026-09-01",
+    "all_day": false,
+    "start_time": "13:30",
+    "end_time": "14:00",
+    "color": "#e63946",
+    "type": "autre",
+    "recur": "none",
+    "recur_id": null,
+    "created_at": "2026-08-31T16:21:56.831615"
+  },
+  {
     "fp": "fb177f35-556",
     "title": "Billet train Lux=>Paris",
     "date": "2026-09-05",
