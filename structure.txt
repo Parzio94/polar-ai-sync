@@ -124,14 +124,15 @@
 │   │   ├── week_2026-08-03.json
 │   │   ├── week_2026-08-10.json
 │   │   ├── week_2026-08-17.json
+│   │   ├── week_2026-08-24.json
 │   │   ├── week_current.json
-│   │   ├── week_current_backup_20260713_071001.json
 │   │   ├── week_current_backup_20260720_071001.json
 │   │   ├── week_current_backup_20260727_071001.json
 │   │   ├── week_current_backup_20260803_071001.json
 │   │   ├── week_current_backup_20260810_071002.json
 │   │   ├── week_current_backup_20260817_071002.json
-│   │   └── week_current_backup_20260824_071002.json
+│   │   ├── week_current_backup_20260824_071002.json
+│   │   └── week_current_backup_20260831_071001.json
 │   ├── y1BpOk3Q_splits.json
 │   ├── yJmQA3Vr_splits.json
 │   ├── yMLev2Ld_splits.json
@@ -319,4 +320,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 301 files
+19 directories, 302 files
