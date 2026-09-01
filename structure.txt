@@ -8,6 +8,7 @@
 │   ├── finances_module.cpython-312.pyc
 │   ├── polar_consolidate.cpython-312.pyc
 │   ├── polar_daily.cpython-312.pyc
+│   ├── send_notif.cpython-312.pyc
 │   └── send_whatsapp.cpython-312.pyc
 ├── analysis_S12.json
 ├── analysis_S13.json
@@ -307,6 +308,7 @@
 ├── reauth.py
 ├── refresh_quotes.py
 ├── send_notif.py
+├── send_notif.py.bak_reorder
 ├── send_whatsapp.py.bak
 ├── send_whatsapp.py.bak2
 ├── static_docs.js
@@ -321,4 +323,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 303 files
+19 directories, 305 files

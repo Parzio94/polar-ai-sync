@@ -245,6 +245,10 @@ def build_message():
     parts = [f"🌅 Bonjour Mattéo ! *{JOUR_NOM} {DATE_FR}*"]
     if next_race:
         parts.append(next_race)
+    if debit:
+        parts.append(debit)
+    if pv:
+        parts.append(pv)
     parts.append("")
 
     if seances:
@@ -254,13 +258,6 @@ def build_message():
             parts.append(fmt_seance(s))
     else:
         parts.append("🌿 _Pas de séance prévue aujourd'hui — récupération !_")
-
-    if debit or pv:
-        parts.append("")
-        if debit:
-            parts.append(debit)
-        if pv:
-            parts.append(pv)
 
     if voyage:
         parts.append("")
