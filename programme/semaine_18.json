@@ -19,8 +19,8 @@
       "duree": "41min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "10' EF\n5x1000m @ 88% — r=90''\n10' RC",
-      "dist_cible": 7.3
+      "structure": "10' EF\n\n1km 80% (155 fc)\n1'15 Repos\n1km 87% (170 fc)\n\nx5 avec 1'40 de repos entre intervalle\n\n10' EF",
+      "dist_cible": 7.5
     },
     {
       "date": "2026-12-30",
@@ -30,19 +30,19 @@
       "duree": "41min",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "12' EF | 3x10' Z3 (147-153 bpm) — r=2' | 10' RC",
-      "dist_cible": 7.4
+      "structure": "5' EF\n14' SV1\n1' Repos\n10' SV1 +\n1' Repos\n5' Allure Marathon\n5' EF",
+      "dist_cible": 7.5
     },
     {
       "date": "2026-12-31",
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + côtes — 6x30''",
-      "duree": "26min",
+      "duree": "39min",
       "zone": "Z2",
       "rpe": "4",
       "structure": "15' EF | 6x30'' côtes (r=90'' trot) | 15' RC",
-      "dist_cible": 4.8
+      "dist_cible": 6.5
     },
     {
       "date": "2027-01-01",
@@ -53,18 +53,18 @@
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "30' EF Z2 — jambes fraîches avant samedi",
-      "dist_cible": 4.7
+      "dist_cible": 5.5
     },
     {
       "date": "2027-01-02",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 86' (15.6 km)",
-      "duree": "1h26",
+      "type": "SORTIE LONGUE Z2 — 80' (13.0 km)",
+      "duree": "1h20",
       "zone": "Z2",
       "rpe": "6",
       "structure": "99' Z2 (127-138 bpm) — allure conversationnelle\nGel à 45' et 90'\nSemaine à gros volume CAP — bloc spécifique",
-      "dist_cible": 15.6
+      "dist_cible": 13.0
     },
     {
       "date": "2027-01-03",

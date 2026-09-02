@@ -52,7 +52,7 @@
       "duree": "58min",
       "zone": "Z1-Z2",
       "rpe": "3",
-      "structure": "Volume : 2400m — activation/récup",
+      "structure": "Volume : 2900m — activation/récup",
       "dist_cible_m": 2900
     },
     {
@@ -108,7 +108,7 @@
       "zone": "Z2",
       "rpe": "3",
       "structure": "Jour J — Ironman Les Sables d'Olonne\nNatation 3.8 km + Vélo 180 km + Marathon 42.2 km",
-      "dist_cible": 42.195,
+      "dist_cible": 42.0,
       "dist_cible_m": 3800
     }
   ]

@@ -19,8 +19,8 @@
       "duree": "46min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "10' EF + 2x strides\n3x [9' @ 86-87% (168-170 bpm) — r=1'30]\n5' @ 86-87% soutenu\n10' RC Z1",
-      "dist_cible": 12.8
+      "structure": "10' EF\n\n9' 86% (167 fc)\n1'30 Repos\n5' 87% (169 fc)\n\nx3 avec 3'30 de repos entre intervalle\n\n10' EF",
+      "dist_cible": 13.0
     },
     {
       "date": "2027-02-02",
@@ -53,18 +53,29 @@
       "zone": "Z2-Z3",
       "rpe": "4",
       "structure": "Transition directe après vélo — 20' @ Z2-Z3\nAdaptation transition vélo→CAP",
-      "dist_cible": 4.7
+      "dist_cible": 4.5
+    },
+    {
+      "date": "2027-02-04",
+      "jour": "Jeudi",
+      "sport": "Natation",
+      "type": "Natation récupération",
+      "duree": "1h12",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "200 EF | 16x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 1800m",
+      "dist_cible_m": 1800
     },
     {
       "date": "2027-02-05",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "38min",
+      "duree": "1h39",
       "zone": "Z2",
       "rpe": "2",
       "structure": "29' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 6.9
+      "dist_cible": 18.0
     },
     {
       "date": "2027-02-05",
@@ -85,19 +96,19 @@
       "duree": "1h29",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n25x100 pull buoy | 200 retour\nVolume : 3400m",
-      "dist_cible_m": 4700
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n22x100 pull buoy + 50m | 200 retour\nVolume : 3150m",
+      "dist_cible_m": 3150
     },
     {
       "date": "2027-02-06",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 151' (27.4 km)",
-      "duree": "2h31",
+      "type": "SORTIE LONGUE Z2 — 100' (16.5 km)",
+      "duree": "1h40",
       "zone": "Z2",
       "rpe": "6",
       "structure": "115' Z2 (127-140 bpm) | 8' Z3 bas (141-148 bpm) | 2' RC\nFC < 141 bpm sur 85% du temps\nNutrition : gel à 60' et 67'",
-      "dist_cible": 27.4
+      "dist_cible": 16.5
     },
     {
       "date": "2027-02-07",
@@ -118,8 +129,8 @@
       "duree": "44min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 5x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1700m",
-      "dist_cible_m": 2350
+      "structure": "200 EF | 5x300m soutenu (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 2100m",
+      "dist_cible_m": 2100
     }
   ]
 }

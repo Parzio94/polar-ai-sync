@@ -30,7 +30,7 @@
       "duree": "48min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n8x100 pull buoy | 200 retour\nVolume : 1800m",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n12x100 pull buoy + 50m | 200 retour\nVolume : 2150m",
       "dist_cible_m": 2150
     },
     {
@@ -52,19 +52,19 @@
       "duree": "58min",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "12' EF | 15' Z3 (147-153 bpm) | 12' RC\n4x20'' strides",
-      "dist_cible": 10.3
+      "structure": "7' EF\n20' SV1\n2' Repos\n13' SV1 +\n2' Repos\n7' Allure Marathon\n7' EF",
+      "dist_cible": 10.5
     },
     {
       "date": "2026-12-25",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — veille Noël / Paris",
-      "duree": "43min",
+      "duree": "1h09",
       "zone": "Z2",
       "rpe": "2",
       "structure": "33' EF Z2 facile — parcours Paris",
-      "dist_cible": 7.5
+      "dist_cible": 11.5
     },
     {
       "date": "2026-12-26",
@@ -80,12 +80,12 @@
       "date": "2026-12-27",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 116' (21.2 km)",
-      "duree": "1h56",
+      "type": "SORTIE LONGUE Z2 — 87' (14.0 km)",
+      "duree": "1h27",
       "zone": "Z2",
       "rpe": "5",
       "structure": "90' Z2 stable (127-138 bpm) — parcours Paris\nGel à 60'",
-      "dist_cible": 21.2
+      "dist_cible": 14.0
     }
   ]
 }

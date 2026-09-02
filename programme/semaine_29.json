@@ -19,8 +19,8 @@
       "duree": "57min",
       "zone": "Z3-Z4",
       "rpe": "2",
-      "structure": "10' EF\n4x9' progressif — allure croissante\nr=1'30\n10' RC",
-      "dist_cible": 10.3
+      "structure": "10' EF\n\n9' 78% (151 fc) — progressif\n1'30 Repos\n9' 82% (159 fc) — progressif\n1'30 Repos\n9' 86% (167 fc) — progressif\n1'30 Repos\n9' 90% (175 fc) — progressif\n\n10' EF",
+      "dist_cible": 13.5
     },
     {
       "date": "2027-03-16",
@@ -52,7 +52,7 @@
       "duree": "18min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 2x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 800m",
+      "structure": "200 EF | 1x300m soutenu (r=20'') + 250m | 200 retour\nAllure constante + sighting\nVolume : 950m",
       "dist_cible_m": 950
     },
     {
@@ -64,7 +64,7 @@
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "26' EF Z2 | 4x20'' strides\nJamais > Z2",
-      "dist_cible": 7.5
+      "dist_cible": 8.0
     },
     {
       "date": "2027-03-19",
@@ -96,19 +96,19 @@
       "duree": "1h02",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n15x100 pull buoy | 200 retour\nVolume : 2400m",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n24x100 pull buoy + 50m | 200 retour\nVolume : 3350m",
       "dist_cible_m": 3350
     },
     {
       "date": "2027-03-20",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 177' (32.0 km)",
-      "duree": "2h57",
+      "type": "SORTIE LONGUE Z2 — 117' (17.5 km)",
+      "duree": "1h57",
       "zone": "Z2",
       "rpe": "5",
       "structure": "Z2 128' — allure conversationnelle\nFC : 127-138 bpm",
-      "dist_cible": 32.0
+      "dist_cible": 17.5
     },
     {
       "date": "2027-03-21",
@@ -129,7 +129,7 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 3x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1200m",
+      "structure": "200 EF | 4x300m soutenu (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1650m",
       "dist_cible_m": 1650
     }
   ]

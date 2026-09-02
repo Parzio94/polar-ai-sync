@@ -19,8 +19,8 @@
       "duree": "36min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "12' EF\n4x2000m @ 85% — allure régulière\nr=1'30\n10' RC",
-      "dist_cible": 7.1
+      "structure": "10' EF\n\n400m 80% (155 fc)\n400m 87% (171 fc)\n300m 80% (155 fc)\n300m 90% (175 fc)\n200m 80% (155 fc)\n200m 92% (180 fc)\n100m 80% (155 fc)\n100m 95% (184 fc)\n\nx5 avec 3' de repos entre intervalle\n\n10' EF",
+      "dist_cible": 7.0
     },
     {
       "date": "2026-09-22",
@@ -52,7 +52,7 @@
       "duree": "18min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 2x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 800m",
+      "structure": "200 EF | 1x300m soutenu (r=20'') + 250m | 200 retour\nAllure constante + sighting\nVolume : 950m",
       "dist_cible_m": 950
     },
     {
@@ -64,7 +64,7 @@
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "51' EF Z2 (127-138 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
-      "dist_cible": 5.3
+      "dist_cible": 4.5
     },
     {
       "date": "2026-09-25",
@@ -75,7 +75,7 @@
       "zone": "Z2",
       "rpe": "2",
       "structure": "20' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 2.2
+      "dist_cible": 1.5
     },
     {
       "date": "2026-09-25",
@@ -96,19 +96,19 @@
       "duree": "51min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n11x100 pull buoy | 200 retour\nVolume : 2000m",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n18x100 pull buoy + 50m | 200 retour\nVolume : 2750m",
       "dist_cible_m": 2750
     },
     {
       "date": "2026-09-26",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 33' (5.9 km)",
-      "duree": "33min",
+      "type": "SORTIE LONGUE Z2 — 48' (7.5 km)",
+      "duree": "48min",
       "zone": "Z2",
       "rpe": "5",
       "structure": "Z2 54' stable (127-138 bpm)\nAllure conversationnelle — cadence 170-175 spm",
-      "dist_cible": 5.9
+      "dist_cible": 7.5
     },
     {
       "date": "2026-09-27",
@@ -129,7 +129,7 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 3x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1200m",
+      "structure": "200 EF | 4x300m soutenu (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1650m",
       "dist_cible_m": 1650
     }
   ]

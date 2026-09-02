@@ -20,7 +20,7 @@
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "EF Z2 léger",
-      "dist_cible": 9.0
+      "dist_cible": 6.0
     },
     {
       "date": "2027-05-18",
@@ -41,7 +41,7 @@
       "duree": "20min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF | 2x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 700m",
+      "structure": "200 EF | 1x300m soutenu (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 850m",
       "dist_cible_m": 850
     },
     {
@@ -64,7 +64,7 @@
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "EF Z2 — court",
-      "dist_cible": 8.1
+      "dist_cible": 8.0
     },
     {
       "date": "2027-05-21",
@@ -96,7 +96,7 @@
       "duree": "57min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n9x100 pull buoy | 200 retour\nVolume : 1800m",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n15x100 pull buoy + 50m | 200 retour\nVolume : 2450m",
       "dist_cible_m": 2450
     },
     {
@@ -107,7 +107,7 @@
       "duree": "34min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF | 3x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1100m",
+      "structure": "200 EF | 3x300m soutenu (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 1500m",
       "dist_cible_m": 1500
     },
     {
@@ -115,11 +115,11 @@
       "jour": "Dimanche",
       "sport": "Course",
       "type": "EF léger",
-      "duree": "42min",
+      "duree": "1h06",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "EF léger",
-      "dist_cible": 8.1
+      "dist_cible": 11.0
     }
   ]
 }

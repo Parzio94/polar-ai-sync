@@ -19,8 +19,8 @@
       "duree": "1h07",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "10' EF Z2\n47' Z3 continu — allure seuil contrôlée\n10' RC Z1\nEffort soutenu mais maîtrisé, pas de surge",
-      "dist_cible": 13.1
+      "structure": "8' EF\n23' SV1\n2' Repos\n16' SV1 +\n2' Repos\n8' Allure Marathon\n8' EF",
+      "dist_cible": 13.0
     },
     {
       "date": "2027-01-12",
@@ -53,18 +53,29 @@
       "zone": "Z2-Z3",
       "rpe": "4",
       "structure": "Transition directe après vélo — 20' @ Z2-Z3\nAdaptation transition vélo→CAP",
-      "dist_cible": 5.1
+      "dist_cible": 5.0
+    },
+    {
+      "date": "2027-01-14",
+      "jour": "Jeudi",
+      "sport": "Natation",
+      "type": "Natation récupération",
+      "duree": "1h08",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "200 EF | 15x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 1700m",
+      "dist_cible_m": 1700
     },
     {
       "date": "2027-01-15",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "29min",
+      "duree": "1h",
       "zone": "Z2",
       "rpe": "2",
       "structure": "26' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 5.1
+      "dist_cible": 10.5
     },
     {
       "date": "2027-01-15",
@@ -85,19 +96,19 @@
       "duree": "1h25",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n26x100 pull buoy | 200 retour\nVolume : 3300m",
-      "dist_cible_m": 4550
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n22x100 pull buoy | 200 retour\nVolume : 3100m",
+      "dist_cible_m": 3100
     },
     {
       "date": "2027-01-16",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 121' (22.0 km)",
-      "duree": "2h01",
+      "type": "SORTIE LONGUE Z2 — 101' (16.5 km)",
+      "duree": "1h41",
       "zone": "Z2",
       "rpe": "6",
       "structure": "SORTIE LONGUE Z2 — 109' (19.8 km)",
-      "dist_cible": 22.0
+      "dist_cible": 16.5
     },
     {
       "date": "2027-01-17",
@@ -118,8 +129,8 @@
       "duree": "43min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 5x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1650m",
-      "dist_cible_m": 2300
+      "structure": "200 EF | 5x300m soutenu (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 2050m",
+      "dist_cible_m": 2050
     }
   ]
 }

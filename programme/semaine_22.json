@@ -19,8 +19,8 @@
       "duree": "30min",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "10' EF Z2\n10' Z3 continu — allure seuil contrôlée\n10' RC Z1\nEffort soutenu mais maîtrisé, pas de surge",
-      "dist_cible": 8.3
+      "structure": "3' EF\n10' SV1\n1' Repos\n7' SV1 +\n1' Repos\n3' Allure Marathon\n3' EF",
+      "dist_cible": 8.5
     },
     {
       "date": "2027-01-26",
@@ -47,24 +47,35 @@
     {
       "date": "2027-01-28",
       "jour": "Jeudi",
+      "sport": "Natation",
+      "type": "Natation récupération",
+      "duree": "1h12",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "200 EF | 16x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 1800m",
+      "dist_cible_m": 1800
+    },
+    {
+      "date": "2027-01-28",
+      "jour": "Jeudi",
       "sport": "Course",
       "type": "Brick 15'",
-      "duree": "12min",
+      "duree": "28min",
       "zone": "Z2-Z3",
       "rpe": "4",
       "structure": "15' Z2-Z3 — léger",
-      "dist_cible": 2.3
+      "dist_cible": 5.0
     },
     {
       "date": "2027-01-29",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2",
-      "duree": "34min",
+      "duree": "42min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "30' EF Z2 — court et facile",
-      "dist_cible": 6.1
+      "dist_cible": 7.0
     },
     {
       "date": "2027-01-29",
@@ -81,23 +92,23 @@
       "date": "2027-01-30",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 87' (16.5 km)",
-      "duree": "1h27",
+      "type": "SORTIE LONGUE Z2 — 89' (14.5 km)",
+      "duree": "1h29",
       "zone": "Z2",
       "rpe": "6",
       "structure": "Z2 stable 100' (127-140 bpm)\nGel à 60' | Pas de vélo ni nat (Paris)",
-      "dist_cible": 16.5
+      "dist_cible": 14.5
     },
     {
-      "date": "2027-01-31",
-      "jour": "Dimanche",
-      "sport": "Course",
-      "type": "EF récup — anniversaire 🎉",
-      "duree": "41min",
-      "zone": "Z1-Z2",
+      "date": "2027-01-30",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Natation technique",
+      "duree": "1h27",
+      "zone": "-",
       "rpe": "3",
-      "structure": "42' EF (120-133 bpm)\nRécup longue + anniversaire",
-      "dist_cible": 7.4
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n24x100 pull buoy | 200 retour\nVolume : 3300m",
+      "dist_cible_m": 3300
     },
     {
       "date": "2027-01-31",

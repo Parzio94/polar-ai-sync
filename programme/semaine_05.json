@@ -19,7 +19,7 @@
       "duree": "47min",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "10' EF Z2\n27' Z3 continu — allure seuil contrôlée\n10' RC Z1\nEffort soutenu mais maîtrisé, pas de surge",
+      "structure": "5' EF\n16' SV1\n2' Repos\n11' SV1 +\n2' Repos\n5' Allure Marathon\n5' EF",
       "dist_cible": 10.0
     },
     {
@@ -53,18 +53,18 @@
       "zone": "Z3",
       "rpe": "5",
       "structure": "25' Z1-Z2 très facile",
-      "dist_cible": 3.2
+      "dist_cible": 2.0
     },
     {
       "date": "2026-10-02",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "17min",
+      "duree": "12min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "26' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 2.9
+      "dist_cible": 2.0
     },
     {
       "date": "2026-10-02",
@@ -96,19 +96,19 @@
       "duree": "1h54",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n13x100 pull buoy | 200 retour\nVolume : 2200m",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n21x100 pull buoy + 50m | 200 retour\nVolume : 3050m",
       "dist_cible_m": 3050
     },
     {
       "date": "2026-10-03",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 38' (6.9 km)",
-      "duree": "38min",
+      "type": "SORTIE LONGUE Z2 — 55' (8.5 km)",
+      "duree": "55min",
       "zone": "Z2",
       "rpe": "5",
       "structure": "Z2 59' stable (127-138 bpm)\nAllure conversationnelle — cadence 170-175 spm",
-      "dist_cible": 6.9
+      "dist_cible": 8.5
     },
     {
       "date": "2026-10-04",
@@ -120,6 +120,17 @@
       "rpe": "6",
       "structure": "97' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
       "dist_cible": 61.8
+    },
+    {
+      "date": "2026-10-04",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "29min",
+      "zone": "-",
+      "rpe": "4",
+      "structure": "200 EF | 2x300m soutenu (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1050m",
+      "dist_cible_m": 1050
     }
   ]
 }

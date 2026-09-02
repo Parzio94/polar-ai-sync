@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Tempo léger — activation",
-      "duree": "55min",
+      "duree": "47min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "Tempo léger — activation",
-      "dist_cible": 10.6
+      "structure": "10' EF\n\n0.9km 80% (155 fc)\n1'15 Repos\n0.9km 87% (170 fc)\n\nx5 avec 1'40 de repos entre intervalle\n\n10' EF",
+      "dist_cible": 9.0
     },
     {
       "date": "2027-04-27",
@@ -52,7 +52,7 @@
       "duree": "22min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF | 2x350m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 800m",
+      "structure": "200 EF | 1x350m soutenu (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 950m",
       "dist_cible_m": 950
     },
     {
@@ -60,22 +60,22 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides",
-      "duree": "53min",
+      "duree": "1h12",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "EF + strides",
-      "dist_cible": 10.0
+      "dist_cible": 12.0
     },
     {
       "date": "2027-04-30",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "51min",
+      "duree": "1h06",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "EF Z2 — court",
-      "dist_cible": 9.4
+      "dist_cible": 11.0
     },
     {
       "date": "2027-04-30",
@@ -91,13 +91,24 @@
     {
       "date": "2027-05-01",
       "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Nat — activation avant course",
+      "duree": "1h07",
+      "zone": "Z1-Z2",
+      "rpe": "3",
+      "structure": "Volume : 3500m — activation/récup",
+      "dist_cible_m": 3500
+    },
+    {
+      "date": "2027-05-01",
+      "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 133' (24.2 km)",
-      "duree": "2h13",
+      "type": "SORTIE LONGUE Z2 — 149' (27.0 km)",
+      "duree": "2h59",
       "zone": "Z2",
       "rpe": "5",
       "structure": "151' Z2 (127-138 bpm)\nAllure conversationnelle — taper avant course test\nGel à 60'",
-      "dist_cible": 24.2
+      "dist_cible": 27.0
     },
     {
       "date": "2027-05-02",
@@ -118,7 +129,7 @@
       "duree": "37min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF | 3x350m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1250m",
+      "structure": "200 EF | 3x350m soutenu (r=20'') + 250m | 200 retour\nAllure constante + sighting\nVolume : 1700m",
       "dist_cible_m": 1700
     }
   ]

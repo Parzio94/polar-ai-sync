@@ -19,8 +19,8 @@
       "duree": "1h18",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "10' EF Z2\n58' Z3 continu — allure seuil contrôlée\n10' RC Z1\nEffort soutenu mais maîtrisé, pas de surge",
-      "dist_cible": 16.9
+      "structure": "9' EF\n27' SV1\n3' Repos\n18' SV1 +\n3' Repos\n9' Allure Marathon\n9' EF",
+      "dist_cible": 17.0
     },
     {
       "date": "2026-12-15",
@@ -52,7 +52,7 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 4x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1350m",
+      "structure": "200 EF | 4x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1600m",
       "dist_cible_m": 1600
     },
     {
@@ -64,7 +64,7 @@
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "57' EF Z2 (127-138 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
-      "dist_cible": 9.1
+      "dist_cible": 8.5
     },
     {
       "date": "2026-12-18",
@@ -75,7 +75,7 @@
       "zone": "Z2",
       "rpe": "2",
       "structure": "23' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 3.8
+      "dist_cible": 3.5
     },
     {
       "date": "2026-12-18",
@@ -96,19 +96,19 @@
       "duree": "1h18",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n21x100 pull buoy | 200 retour\nVolume : 3000m",
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n32x100 pull buoy + 50m | 200 retour\nVolume : 4150m",
       "dist_cible_m": 4150
     },
     {
       "date": "2026-12-19",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 84' (15.2 km)",
-      "duree": "1h24",
+      "type": "SORTIE LONGUE Z2 — 100' (16.0 km)",
+      "duree": "1h40",
       "zone": "Z2",
       "rpe": "6",
       "structure": "Z2 92' stable (127-138 bpm)\nAllure conversationnelle — cadence 170-175 spm",
-      "dist_cible": 15.2
+      "dist_cible": 16.0
     },
     {
       "date": "2026-12-20",
@@ -129,7 +129,7 @@
       "duree": "44min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 5x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1650m",
+      "structure": "200 EF | 6x300m soutenu (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2300m",
       "dist_cible_m": 2300
     }
   ]
