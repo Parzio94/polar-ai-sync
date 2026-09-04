@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Tempo — 27' continu Z3",
-      "duree": "47min",
+      "duree": "28min",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "5' EF\n16' SV1\n2' Repos\n11' SV1 +\n2' Repos\n5' Allure Marathon\n5' EF",
-      "dist_cible": 10.0
+      "structure": "3' EF\n10' SV1\n1' Repos\n7' SV1 +\n1' Repos\n3' Allure Marathon\n3' EF",
+      "dist_cible": 6.0
     },
     {
       "date": "2026-09-29",
@@ -49,22 +49,22 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF Z2 léger",
-      "duree": "16min",
+      "duree": "32min",
       "zone": "Z3",
       "rpe": "5",
       "structure": "25' Z1-Z2 très facile",
-      "dist_cible": 2.0
+      "dist_cible": 4.0
     },
     {
       "date": "2026-10-02",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "12min",
+      "duree": "24min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "26' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 2.0
+      "dist_cible": 4.0
     },
     {
       "date": "2026-10-02",

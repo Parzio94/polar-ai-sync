@@ -47,17 +47,6 @@
     {
       "date": "2026-09-03",
       "jour": "Jeudi",
-      "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "23min",
-      "zone": "-",
-      "rpe": "3",
-      "structure": "200 EF | 7x300m soutenu (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 900m",
-      "dist_cible_m": 2500
-    },
-    {
-      "date": "2026-09-03",
-      "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides",
       "duree": "21min",
@@ -75,7 +64,7 @@
       "zone": "Z2",
       "rpe": "2",
       "structure": "26' EF Z2 | 4x20'' strides en fin",
-      "dist_cible": 3.0
+      "dist_cible": 6.0
     },
     {
       "date": "2026-09-04",
@@ -108,18 +97,18 @@
       "zone": "Z2",
       "rpe": "4",
       "structure": "55' Z2 (127-135 bpm) — allure conversationnelle\nPas de Z3 — foncier pur",
-      "dist_cible": 6.0
+      "dist_cible": 3.0
     },
     {
       "date": "2026-09-06",
       "jour": "Dimanche",
-      "sport": "Velo",
-      "type": "Sortie longue — 141' (64.7 km)",
-      "duree": "2h21",
-      "zone": "Z2",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "40min",
+      "zone": "-",
       "rpe": "3",
-      "structure": "87' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
-      "dist_cible": 64.7
+      "structure": "200 EF | 7x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 2500m",
+      "dist_cible_m": 2500
     }
   ]
 }
