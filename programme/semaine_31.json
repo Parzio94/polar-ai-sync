@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Qualité — 2km/1km x4",
-      "duree": "1h31",
+      "duree": "47min",
       "zone": "Z3-Z4",
       "rpe": "7",
       "structure": "10' EF\n\n2km 85% (164 fc)\n1km 80% (155 fc)\n\nx4 sans récup\n\n10' EF",
-      "dist_cible": 12.5
+      "dist_cible": 6.5
     },
     {
       "date": "2027-03-30",
@@ -31,7 +31,7 @@
       "zone": "Z2",
       "rpe": "2",
       "structure": "44' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
-      "dist_cible": 22.3
+      "dist_cible": 13.8
     },
     {
       "date": "2027-03-31",
@@ -42,18 +42,18 @@
       "zone": "Z3",
       "rpe": "7",
       "structure": "20' EF Z2 | 2x52' @ 87% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
-      "dist_cible": 79.3
+      "dist_cible": 49.0
     },
     {
       "date": "2027-04-01",
       "jour": "Jeudi",
       "sport": "Course",
       "type": "Brick run — 30'",
-      "duree": "47min",
+      "duree": "25min",
       "zone": "Z2-Z3",
       "rpe": "4",
       "structure": "Transition directe après vélo — 30' @ Z2-Z3\nAdaptation transition vélo→CAP",
-      "dist_cible": 8.5
+      "dist_cible": 4.5
     },
     {
       "date": "2027-04-01",
@@ -63,19 +63,19 @@
       "duree": "1h18",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 17x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 1950m",
-      "dist_cible_m": 1950
+      "structure": "200 EF | 14x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 1650m",
+      "dist_cible_m": 1650
     },
     {
       "date": "2027-04-02",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "1h15",
+      "duree": "39min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "27' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 12.5
+      "dist_cible": 6.5
     },
     {
       "date": "2027-04-02",
@@ -86,7 +86,7 @@
       "zone": "Z2-Z3",
       "rpe": "5",
       "structure": "10' EF | 4x15' basse cadence (55-62 rpm) @ Z2 — r=3' | 10' RC\nFC : 131-155 bpm",
-      "dist_cible": 42.3
+      "dist_cible": 26.2
     },
     {
       "date": "2027-04-03",
@@ -96,30 +96,30 @@
       "duree": "1h37",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n26x100 pull buoy + 50m | 200 retour\nVolume : 3550m",
-      "dist_cible_m": 3550
+      "structure": "3x50 facile | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n22x100 pull buoy + 50m | 200 retour\nVolume : 3000m",
+      "dist_cible_m": 3000
     },
     {
       "date": "2027-04-03",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 122' (20.5 km)",
-      "duree": "2h02",
+      "type": "SORTIE LONGUE Z2 — 122' (17.0 km)",
+      "duree": "1h41",
       "zone": "Z2",
       "rpe": "6",
       "structure": "130' Z2 (127-140 bpm) | 8' Z3 bas (141-148 bpm) | 2' RC\nFC < 141 bpm sur 85% du temps\nNutrition : gel à 60' et 68'",
-      "dist_cible": 20.5
+      "dist_cible": 17.0
     },
     {
       "date": "2027-04-04",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Sortie longue — 351' (160.6 km)",
+      "type": "Sortie longue — 351' (99.3 km)",
       "duree": "5h51",
       "zone": "Z2-Z3",
       "rpe": "6",
       "structure": "307' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
-      "dist_cible": 160.6
+      "dist_cible": 99.3
     },
     {
       "date": "2027-04-04",
@@ -129,8 +129,8 @@
       "duree": "53min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 6x300m soutenu (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 2350m",
-      "dist_cible_m": 2350
+      "structure": "200 EF | 5x300m soutenu (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 2000m",
+      "dist_cible_m": 2000
     }
   ]
 }

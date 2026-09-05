@@ -63,8 +63,8 @@
       "duree": "1h16",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 17x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 1900m",
-      "dist_cible_m": 1900
+      "structure": "200 EF | 17x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 1850m",
+      "dist_cible_m": 1850
     },
     {
       "date": "2027-02-19",
@@ -96,8 +96,8 @@
       "duree": "1h34",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n25x100 pull buoy + 50m | 200 retour\nVolume : 3450m",
-      "dist_cible_m": 3450
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n25x100 pull buoy + 50m | 200 retour\nVolume : 3400m",
+      "dist_cible_m": 3400
     },
     {
       "date": "2027-02-20",
@@ -129,8 +129,8 @@
       "duree": "51min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 6x300m soutenu (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2300m",
-      "dist_cible_m": 2300
+      "structure": "200 EF | 6x300m soutenu (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2250m",
+      "dist_cible_m": 2250
     }
   ]
 }

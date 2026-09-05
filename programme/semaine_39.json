@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Tempo progressif — bloc IM",
-      "duree": "53min",
+      "duree": "1h10",
       "zone": "Z3",
       "rpe": "5",
       "structure": "10' EF\n2-4 strides\n10' 80% (155 fc)\n10' 85% (165 fc)\n10' 90% (175 fc)\n10' EF",
-      "dist_cible": 9.5
+      "dist_cible": 12.5
     },
     {
       "date": "2027-05-25",
@@ -49,11 +49,11 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "Brick run — 35'",
-      "duree": "34min",
+      "duree": "45min",
       "zone": "Z2-Z3",
       "rpe": "4",
       "structure": "Transition directe après vélo — 35' @ Z2-Z3\nAdaptation transition vélo→CAP",
-      "dist_cible": 7.5
+      "dist_cible": 10.0
     },
     {
       "date": "2027-05-27",
@@ -63,19 +63,19 @@
       "duree": "1h22",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 18x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 2050m",
-      "dist_cible_m": 2050
+      "structure": "200 EF | 16x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 1800m",
+      "dist_cible_m": 1800
     },
     {
       "date": "2027-05-28",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "42min",
+      "duree": "57min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "35' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 7.0
+      "dist_cible": 9.5
     },
     {
       "date": "2027-05-28",
@@ -96,19 +96,19 @@
       "duree": "1h39",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n27x100 pull buoy | 200 retour\nVolume : 3600m",
-      "dist_cible_m": 3600
+      "structure": "4x50 facile | 9x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n24x100 pull buoy | 200 retour\nVolume : 3150m",
+      "dist_cible_m": 3150
     },
     {
       "date": "2027-05-29",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 142' (19.0 km)",
-      "duree": "2h22",
+      "type": "SORTIE LONGUE Z2 — 142' (26.0 km)",
+      "duree": "3h14",
       "zone": "Z2",
       "rpe": "5",
       "structure": "168' Z2 (127-140 bpm) | 5' Z3 bas | 3' RC\nNutrition : gel à 60'",
-      "dist_cible": 19.0
+      "dist_cible": 26.0
     },
     {
       "date": "2027-05-30",
@@ -129,8 +129,8 @@
       "duree": "54min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 6x300m soutenu (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 2400m",
-      "dist_cible_m": 2400
+      "structure": "200 EF | 5x300m soutenu (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 2100m",
+      "dist_cible_m": 2100
     }
   ]
 }

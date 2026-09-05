@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "EF Z2 léger + strides",
-      "duree": "1h27",
+      "duree": "1h12",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "62' EF Z2 — jambes fraîches\n4x20'' strides",
-      "dist_cible": 14.5
+      "dist_cible": 12.0
     },
     {
       "date": "2027-05-04",
@@ -60,22 +60,22 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides",
-      "duree": "55min",
+      "duree": "46min",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "34' EF Z2 | 4x20'' strides\nTrès facile",
-      "dist_cible": 9.0
+      "dist_cible": 7.5
     },
     {
       "date": "2027-05-07",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "51min",
+      "duree": "42min",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "37' EF Z2\n4x20'' strides en fin",
-      "dist_cible": 8.5
+      "dist_cible": 7.0
     },
     {
       "date": "2027-05-07",
@@ -103,12 +103,12 @@
       "date": "2027-05-08",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 117' (30.0 km)",
-      "duree": "1h43",
+      "type": "SORTIE LONGUE Z2 — 117' (16.0 km)",
+      "duree": "55min",
       "zone": "Z2",
       "rpe": "6",
       "structure": "85' Z2 (127-138 bpm) — allure conversationnelle",
-      "dist_cible": 30.0
+      "dist_cible": 16.0
     },
     {
       "date": "2027-05-09",

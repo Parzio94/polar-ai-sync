@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Tempo — 11' continu Z3",
-      "duree": "1h01",
+      "duree": "50min",
       "zone": "Z3",
       "rpe": "7",
       "structure": "7' EF\n21' SV1\n2' Repos\n14' SV1 +\n2' Repos\n7' Allure Marathon\n7' EF",
-      "dist_cible": 14.5
+      "dist_cible": 12.0
     },
     {
       "date": "2027-04-06",
@@ -49,11 +49,11 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "Brick run — 30'",
-      "duree": "1h",
+      "duree": "49min",
       "zone": "Z2-Z3",
       "rpe": "4",
       "structure": "Transition directe après vélo — 30' @ Z2-Z3\nAdaptation transition vélo→CAP",
-      "dist_cible": 11.0
+      "dist_cible": 9.0
     },
     {
       "date": "2027-04-08",
@@ -63,19 +63,19 @@
       "duree": "28min",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 27x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 2950m",
-      "dist_cible_m": 2950
+      "structure": "200 EF | 24x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 2650m",
+      "dist_cible_m": 2650
     },
     {
       "date": "2027-04-09",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "1h08",
+      "duree": "54min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "32' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 12.5
+      "dist_cible": 10.0
     },
     {
       "date": "2027-04-09",
@@ -114,12 +114,12 @@
       "date": "2027-04-10",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 139' (20.5 km)",
-      "duree": "2h19",
+      "type": "SORTIE LONGUE Z2 — 139' (19.0 km)",
+      "duree": "2h09",
       "zone": "Z2",
       "rpe": "5",
       "structure": "144' Z2 (127-140 bpm) | 5' Z3 bas | 3' RC\nNutrition : gel à 60'",
-      "dist_cible": 20.5
+      "dist_cible": 19.0
     },
     {
       "date": "2027-04-11",
@@ -129,8 +129,8 @@
       "duree": "28min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF | 11x300m soutenu (r=20'') | 50m retour\nAllure constante + sighting\nVolume : 3550m",
-      "dist_cible_m": 3550
+      "structure": "200 EF | 10x300m soutenu (r=20'') | 50m retour\nAllure constante + sighting\nVolume : 3200m",
+      "dist_cible_m": 3200
     }
   ]
 }

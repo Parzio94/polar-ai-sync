@@ -52,8 +52,8 @@
       "duree": "24min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 2x300m soutenu (r=20'') + 250m | 200 retour\nAllure constante + sighting\nVolume : 1250m",
-      "dist_cible_m": 1250
+      "structure": "200 EF | 2x300m soutenu (r=20'') + 250m | 200 retour\nAllure constante + sighting\nVolume : 1300m",
+      "dist_cible_m": 1300
     },
     {
       "date": "2026-10-22",
@@ -96,8 +96,8 @@
       "duree": "1h04",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n25x100 pull buoy + 50m | 200 retour\nVolume : 3450m",
-      "dist_cible_m": 3450
+      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n26x100 pull buoy + 50m | 200 retour\nVolume : 3550m",
+      "dist_cible_m": 3550
     },
     {
       "date": "2026-10-24",
@@ -129,8 +129,8 @@
       "duree": "37min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 5x300m soutenu (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2000m",
-      "dist_cible_m": 2000
+      "structure": "200 EF | 5x300m soutenu (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2050m",
+      "dist_cible_m": 2050
     }
   ]
 }

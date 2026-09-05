@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Tempo — 27' continu Z3",
-      "duree": "47min",
+      "duree": "50min",
       "zone": "Z3",
       "rpe": "2",
       "structure": "5' EF\n16' SV1\n2' Repos\n11' SV1 +\n2' Repos\n5' Allure Marathon\n5' EF",
-      "dist_cible": 8.0
+      "dist_cible": 8.5
     },
     {
       "date": "2027-03-09",
@@ -52,30 +52,30 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 4x300m soutenu (r=20'') + 150m\nAllure constante + sighting\nVolume : 1550m",
-      "dist_cible_m": 1550
+      "structure": "200 EF | 4x300m soutenu (r=20'') + 150m\nAllure constante + sighting\nVolume : 1500m",
+      "dist_cible_m": 1500
     },
     {
       "date": "2027-03-11",
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides — weekend priorité",
-      "duree": "33min",
+      "duree": "36min",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "26' EF Z2 (127-138 bpm) — COURT\n4x20'' strides\nArriver FRAIS samedi",
-      "dist_cible": 5.5
+      "dist_cible": 6.0
     },
     {
       "date": "2027-03-12",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "48min",
+      "duree": "51min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "25' EF Z2 — COURT\n4x20'' strides en fin",
-      "dist_cible": 8.0
+      "dist_cible": 8.5
     },
     {
       "date": "2027-03-12",
@@ -96,19 +96,19 @@
       "duree": "1h09",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 8x50 éducatifs\nVolume : 3850m",
-      "dist_cible_m": 3850
+      "structure": "4x50 facile | 8x50 éducatifs\nVolume : 3700m",
+      "dist_cible_m": 3700
     },
     {
       "date": "2027-03-13",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 105' (14.5 km)",
-      "duree": "1h45",
+      "type": "SORTIE LONGUE Z2 — 105' (15.0 km)",
+      "duree": "1h49",
       "zone": "Z2",
       "rpe": "6",
       "structure": "100' Z2 (127-138 bpm)\nAllure conversationnelle — reprise, pas de surge Z3",
-      "dist_cible": 14.5
+      "dist_cible": 15.0
     },
     {
       "date": "2027-03-14",
@@ -129,8 +129,8 @@
       "duree": "41min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 6x300m soutenu (r=20'') + 200m\nAllure constante + sighting\nVolume : 2200m",
-      "dist_cible_m": 2200
+      "structure": "200 EF | 6x300m soutenu (r=20'') + 200m\nAllure constante + sighting\nVolume : 2100m",
+      "dist_cible_m": 2100
     }
   ]
 }

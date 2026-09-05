@@ -103,12 +103,12 @@
       "date": "2027-04-24",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 126' (24.0 km)",
-      "duree": "2h17",
+      "type": "SORTIE LONGUE Z2 — 126' (20.0 km)",
+      "duree": "1h54",
       "zone": "Z2",
       "rpe": "6",
       "structure": "SORTIE LONGUE Z2 — 154' (28.0 km)",
-      "dist_cible": 24.0
+      "dist_cible": 20.0
     },
     {
       "date": "2027-04-25",

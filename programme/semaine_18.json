@@ -67,6 +67,17 @@
       "dist_cible": 13.0
     },
     {
+      "date": "2027-01-02",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "1h30",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "200 EF | 8x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 3600m",
+      "dist_cible_m": 3600
+    },
+    {
       "date": "2027-01-03",
       "jour": "Dimanche",
       "sport": "Velo",

@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "EF + strides pré-course",
-      "duree": "57min",
+      "duree": "1h21",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "EF + strides pré-course",
-      "dist_cible": 9.5
+      "dist_cible": 13.5
     },
     {
       "date": "2027-05-12",
@@ -49,22 +49,22 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF très facile",
-      "duree": "33min",
+      "duree": "48min",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "EF très facile",
-      "dist_cible": 5.5
+      "dist_cible": 8.0
     },
     {
       "date": "2027-05-14",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF très léger — veille course",
-      "duree": "33min",
+      "duree": "48min",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "EF très léger — veille course",
-      "dist_cible": 5.5
+      "dist_cible": 8.0
     },
     {
       "date": "2027-05-14",
