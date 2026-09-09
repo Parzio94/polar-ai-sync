@@ -19,7 +19,7 @@
       "duree": "23min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "40' EF Z2 (127-135 bpm)\nPas de qualité — écouter les sensations\nBienvenue dans le plan Ironman 💪",
+      "structure": "40' EF Z2 (127-140 bpm)\nPas de qualité — écouter les sensations\nBienvenue dans le plan Ironman 💪",
       "dist_cible": 4.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "47min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "29' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
+      "structure": "29' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 21.2
     },
     {
@@ -41,7 +41,7 @@
       "duree": "2h08",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "20' EF Z2 | 2x22' @ 85% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
+      "structure": "20' EF Z2 | 2x22' @ 85% FTP — r=5' | 10' RC\nFC bloc cible : ~165 bpm (85% FC max) | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
       "dist_cible": 57.4
     },
     {
@@ -52,7 +52,7 @@
       "duree": "21min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "24' EF Z2 | 4x20'' strides\nTrès facile",
+      "structure": "24' EF Z2 (127-140 bpm) | 4x20'' strides\nTrès facile",
       "dist_cible": 3.5
     },
     {
@@ -60,10 +60,10 @@
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "16min",
+      "duree": "36min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "26' EF Z2 | 4x20'' strides en fin",
+      "structure": "26' EF Z2 (127-140 bpm) | 4x20'' strides en fin",
       "dist_cible": 6.0
     },
     {
@@ -85,18 +85,18 @@
       "duree": "1h07",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 9x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n16x100 pull buoy + 50m | 200 retour\nVolume : 2450m",
+      "structure": "4x50 facile (108-117 bpm) | 9x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n16x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 2450m",
       "dist_cible_m": 2450
     },
     {
       "date": "2026-09-05",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 39' (6.0 km)",
-      "duree": "39min",
+      "type": "SORTIE LONGUE Z2 — 20' (3.0 km)",
+      "duree": "20min",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "55' Z2 (127-135 bpm) — allure conversationnelle\nPas de Z3 — foncier pur",
+      "structure": "20' Z2 (127-140 bpm) — allure conversationnelle\nPas de Z3 — foncier pur",
       "dist_cible": 3.0
     },
     {
@@ -107,7 +107,7 @@
       "duree": "40min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF | 7x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 2350m",
+      "structure": "200 EF (110-126 bpm) | 7x300m soutenu (135-148 bpm) (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 2350m",
       "dist_cible_m": 2350
     }
   ]

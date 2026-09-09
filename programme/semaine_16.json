@@ -19,7 +19,7 @@
       "duree": "1h18",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "9' EF\n27' SV1\n3' Repos\n18' SV1 +\n3' Repos\n9' Allure Marathon\n9' EF",
+      "structure": "9' EF (127-140 bpm)\n27' SV1 (155-165 bpm)\n3' Repos\n18' SV1 (155-165 bpm) +\n3' Repos\n9' Allure Marathon (155-165 bpm)\n9' EF",
       "dist_cible": 17.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "56min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "43' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
+      "structure": "43' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 25.8
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h47",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "20' EF Z2 | 2x23' @ 88% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
+      "structure": "20' EF Z2 (127-140 bpm) | 2x23' @ 88% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~171 bpm (88% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 40g glucides/h si >90'\n10' RC (127-140 bpm)",
       "dist_cible": 54.3
     },
     {
@@ -52,7 +52,7 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 4x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1500m",
+      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1500m",
       "dist_cible_m": 1500
     },
     {
@@ -63,7 +63,7 @@
       "duree": "52min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "57' EF Z2 (127-138 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
+      "structure": "57' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
       "dist_cible": 8.5
     },
     {
@@ -74,7 +74,7 @@
       "duree": "21min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "23' EF Z2 — COURT\n4x20'' strides en fin",
+      "structure": "23' EF Z2 (127-140 bpm) — COURT\n4x20'' strides en fin",
       "dist_cible": 3.5
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h40",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "10' EF | 5x11' basse cadence (55-62 rpm) @ Z2 — r=3' | 10' RC\nFC : 131-155 bpm",
+      "structure": "10' EF (127-140 bpm) | 4x3' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
       "dist_cible": 47.3
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h18",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 9x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n30x100 pull buoy + 50m | 200 retour\nVolume : 3900m",
+      "structure": "4x50 facile (108-117 bpm) | 9x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n30x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3900m",
       "dist_cible_m": 3900
     },
     {
@@ -107,7 +107,7 @@
       "duree": "1h40",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "Z2 92' stable (127-138 bpm)\nAllure conversationnelle — cadence 170-175 spm",
+      "structure": "Z2 100' stable (127-140 bpm)\nAllure conversationnelle — cadence 170-175 spm",
       "dist_cible": 16.0
     },
     {
@@ -129,7 +129,7 @@
       "duree": "44min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 6x300m soutenu (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2150m",
+      "structure": "200 EF (110-126 bpm) | 6x300m soutenu (135-148 bpm) (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2150m",
       "dist_cible_m": 2150
     }
   ]

@@ -19,7 +19,7 @@
       "duree": "1h42",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "20' EF Z2 | 2x18' @ 84% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
+      "structure": "20' EF Z2 (127-140 bpm) | 2x18' @ 84% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~163 bpm (84% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 40g glucides/h si >90'\n10' RC (127-140 bpm)",
       "dist_cible": 49.6
     },
     {
@@ -30,7 +30,7 @@
       "duree": "48min",
       "zone": "-",
       "rpe": "3",
-      "structure": "13x50 facile | 33x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n40x100 pull buoy + 50m | 200 retour\nVolume : 7200m",
+      "structure": "13x50 facile (108-117 bpm) | 33x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n40x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 7200m",
       "dist_cible_m": 7200
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h23",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "50' Z2 — parcours Paris, terrain plat\nCadence souple 85-90 rpm",
+      "structure": "50' Z2 (127-140 bpm) — parcours Paris, terrain plat\nCadence souple 85-90 rpm",
       "dist_cible": 36.3
     },
     {
@@ -52,7 +52,7 @@
       "duree": "58min",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "7' EF\n20' SV1\n2' Repos\n13' SV1 +\n2' Repos\n7' Allure Marathon\n7' EF",
+      "structure": "7' EF (127-140 bpm)\n20' SV1 (155-165 bpm)\n2' Repos\n13' SV1 (155-165 bpm) +\n2' Repos\n7' Allure Marathon (155-165 bpm)\n7' EF",
       "dist_cible": 10.5
     },
     {
@@ -63,7 +63,7 @@
       "duree": "1h09",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "33' EF Z2 facile — parcours Paris",
+      "structure": "33' EF Z2 (127-140 bpm) facile — parcours Paris",
       "dist_cible": 11.5
     },
     {
@@ -84,7 +84,7 @@
       "duree": "1h27",
       "zone": "Z2",
       "rpe": "5",
-      "structure": "90' Z2 stable (127-138 bpm) — parcours Paris\nGel à 60'",
+      "structure": "90' Z2 stable (127-140 bpm) — parcours Paris\nGel à 60'",
       "dist_cible": 14.0
     }
   ]

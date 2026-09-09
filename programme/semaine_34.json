@@ -7,130 +7,131 @@
       "sport": "Repos",
       "type": "OFF",
       "duree": "-",
-      "zone": "",
-      "rpe": "",
-      "structure": ""
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet"
     },
     {
       "date": "2027-04-20",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — 54' continu Z3",
-      "duree": "1h09",
-      "zone": "Z3",
-      "rpe": "7",
-      "structure": "8' EF\n24' SV1\n2' Repos\n16' SV1 +\n2' Repos\n8' Allure Marathon\n8' EF",
-      "dist_cible": 12.5
+      "type": "Qualité — 4x1200m @ 87%",
+      "duree": "36min",
+      "zone": "Z3-Z4",
+      "rpe": "6",
+      "structure": "10' EF\n\n1200m 87% (169 fc)\n1'30 Repos\n\nx4 avec 1'30 de repos entre intervalle\n\n10' EF",
+      "dist_cible": 8.5
     },
     {
       "date": "2027-04-20",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Vélo récupération Z2",
-      "duree": "51min",
+      "type": "Vélo récup Z2",
+      "duree": "50min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "48' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
-      "dist_cible": 21.6
+      "structure": "50' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "dist_cible": 22.0
     },
     {
       "date": "2027-04-21",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x58' @ 87% FTP — r=5'",
-      "duree": "2h39",
+      "type": "Vélo clé — 2x24' @ 86% FTP — r=5'",
+      "duree": "1h30",
       "zone": "Z3",
       "rpe": "7",
-      "structure": "20' EF Z2 | 2x58' @ 87% FTP — r=5' | 10' RC\nFC blocs selon %FTP | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
-      "dist_cible": 76.9
-    },
-    {
-      "date": "2027-04-22",
-      "jour": "Jeudi",
-      "sport": "Course",
-      "type": "Brick run — 30min",
-      "duree": "28min",
-      "zone": "Z2-Z3",
-      "rpe": "4",
-      "structure": "Brick run — 30min",
-      "dist_cible": 6.0
+      "structure": "20' EF Z2 (127-140 bpm) | 2x24' @ 86% FTP — r=5'\nObjectif : maintenir le seuil (FTP), séance complète — pas un vrai taper\nFC bloc cible : ~167 bpm (86% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 40g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "dist_cible": 46.0
     },
     {
       "date": "2027-04-22",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation récupération",
-      "duree": "1h22",
+      "type": "Natation endurance",
+      "duree": "45min",
       "zone": "-",
-      "rpe": "2",
-      "structure": "200 EF | 18x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 2050m",
-      "dist_cible_m": 2050
+      "rpe": "3",
+      "structure": "200 EF (110-126 bpm) | 5x300m soutenu (135-148 bpm) (r=20'')\nAllure constante + sighting\nVolume : 2300m",
+      "dist_cible_m": 2300
+    },
+    {
+      "date": "2027-04-22",
+      "jour": "Jeudi",
+      "sport": "Course",
+      "type": "Brick run — 30'",
+      "duree": "30min",
+      "zone": "Z2-Z3",
+      "rpe": "4",
+      "structure": "Transition directe après vélo — 30' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "dist_cible": 5.0
     },
     {
       "date": "2027-04-23",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "1h12",
-      "zone": "Z1-Z2",
+      "duree": "28min",
+      "zone": "Z2",
       "rpe": "2",
-      "structure": "EF Z2 — court",
-      "dist_cible": 13.0
+      "structure": "24' EF Z2 (127-140 bpm) — COURT\n4x20'' strides en fin",
+      "dist_cible": 5.0
     },
     {
       "date": "2027-04-23",
       "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force spécifique",
-      "duree": "1h19",
+      "duree": "50min",
       "zone": "Z2-Z3",
-      "rpe": "5",
-      "structure": "10' EF | 5x11' basse cadence (55-62 rpm) @ Z2 — r=3' | 10' RC\nFC : 131-155 bpm",
-      "dist_cible": 40.6
+      "rpe": "3",
+      "structure": "10' EF (127-140 bpm) | 4x3' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
+      "dist_cible": 24.0
     },
     {
       "date": "2027-04-24",
       "jour": "Samedi",
       "sport": "Natation",
-      "type": "Natation technique",
-      "duree": "1h43",
+      "type": "Natation technique légère — shakeout",
+      "duree": "30min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n27x100 pull buoy | 200 retour\nVolume : 3600m",
-      "dist_cible_m": 3600
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs\n200 retour\nVolume : 1500m — shakeout pré-course",
+      "dist_cible_m": 1500
     },
     {
       "date": "2027-04-24",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 126' (20.0 km)",
-      "duree": "1h54",
-      "zone": "Z2",
-      "rpe": "6",
-      "structure": "SORTIE LONGUE Z2 — 154' (28.0 km)",
-      "dist_cible": 20.0
+      "type": "EF très léger — veille course",
+      "duree": "15min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "15' EF très facile (127-140 bpm) — jambes fraîches",
+      "dist_cible": 2.5
     },
     {
-      "date": "2027-04-25",
-      "jour": "Dimanche",
+      "date": "2027-04-24",
+      "jour": "Samedi",
       "sport": "Velo",
-      "type": "Sortie longue — 392' (179.8 km)",
-      "duree": "6h32",
-      "zone": "Z2",
-      "rpe": "6",
-      "structure": "393' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
-      "dist_cible": 179.8
+      "type": "Vérification matériel — dépôt parc à vélo",
+      "duree": "15min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "15' Z2 très facile — vérification matériel / dépôt sac T1-T2",
+      "dist_cible": 7.0
     },
     {
       "date": "2027-04-25",
       "jour": "Dimanche",
-      "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "56min",
-      "zone": "-",
+      "sport": "Course",
+      "type": "COMPETITION — Triathlon L La Canau",
+      "duree": "-",
+      "zone": "Z2",
       "rpe": "3",
-      "structure": "200 EF | 6x300m soutenu (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 2400m",
-      "dist_cible_m": 2400
+      "structure": "Jour J — Triathlon de Lacanau, format L (ce n'est pas l'objectif principal — course de préparation)\nNatation 1,9 km + Vélo 85 km + Course 21 km",
+      "dist_cible": 21.0,
+      "dist_cible_m": 1900
     }
   ]
 }

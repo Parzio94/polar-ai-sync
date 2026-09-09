@@ -30,7 +30,7 @@
       "duree": "41min",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "5' EF\n14' SV1\n1' Repos\n10' SV1 +\n1' Repos\n5' Allure Marathon\n5' EF",
+      "structure": "5' EF (127-140 bpm)\n14' SV1 (155-165 bpm)\n1' Repos\n10' SV1 (155-165 bpm) +\n1' Repos\n5' Allure Marathon (155-165 bpm)\n5' EF",
       "dist_cible": 7.5
     },
     {
@@ -41,7 +41,7 @@
       "duree": "39min",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "15' EF | 6x30'' côtes (r=90'' trot) | 15' RC",
+      "structure": "15' EF (127-140 bpm) | 6x30'' côtes (r=90'' trot) | 15' RC",
       "dist_cible": 6.5
     },
     {
@@ -52,7 +52,7 @@
       "duree": "28min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "30' EF Z2 — jambes fraîches avant samedi",
+      "structure": "30' EF Z2 (127-140 bpm) — jambes fraîches avant samedi",
       "dist_cible": 5.5
     },
     {
@@ -63,7 +63,7 @@
       "duree": "1h20",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "99' Z2 (127-138 bpm) — allure conversationnelle\nGel à 45' et 90'\nSemaine à gros volume CAP — bloc spécifique",
+      "structure": "80' Z2 (127-140 bpm) — allure conversationnelle\nGel à 45' et 90'\nSemaine à gros volume CAP — bloc spécifique",
       "dist_cible": 13.0
     },
     {
@@ -74,7 +74,7 @@
       "duree": "1h30",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 8x300m soutenu (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 3600m",
+      "structure": "200 EF (110-126 bpm) | 8x300m soutenu (135-148 bpm) (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 3600m",
       "dist_cible_m": 3600
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h40",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "60' Z2 très facile — jambes lourdes\nCadence souple 85-90 rpm",
+      "structure": "60' Z2 très facile (127-140 bpm) — jambes lourdes\nCadence souple 85-90 rpm",
       "dist_cible": 44.9
     }
   ]

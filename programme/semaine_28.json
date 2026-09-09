@@ -19,7 +19,7 @@
       "duree": "50min",
       "zone": "Z3",
       "rpe": "2",
-      "structure": "5' EF\n16' SV1\n2' Repos\n11' SV1 +\n2' Repos\n5' Allure Marathon\n5' EF",
+      "structure": "5' EF (127-140 bpm)\n16' SV1 (155-165 bpm)\n2' Repos\n11' SV1 (155-165 bpm) +\n2' Repos\n5' Allure Marathon (155-165 bpm)\n5' EF",
       "dist_cible": 8.5
     },
     {
@@ -30,7 +30,7 @@
       "duree": "51min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "40' Z2 très facile — récupération active\nCadence souple 85-90 rpm",
+      "structure": "40' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 22.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h14",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "50' Z2 très facile — pas de bloc FTP cette semaine\nCadence souple 85-90 rpm",
+      "structure": "50' Z2 très facile (127-140 bpm) — pas de bloc FTP cette semaine\nCadence souple 85-90 rpm",
       "dist_cible": 32.7
     },
     {
@@ -52,7 +52,7 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 4x300m soutenu (r=20'') + 150m\nAllure constante + sighting\nVolume : 1500m",
+      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') + 150m\nAllure constante + sighting\nVolume : 1500m",
       "dist_cible_m": 1500
     },
     {
@@ -63,7 +63,7 @@
       "duree": "36min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "26' EF Z2 (127-138 bpm) — COURT\n4x20'' strides\nArriver FRAIS samedi",
+      "structure": "26' EF Z2 (127-140 bpm) — COURT\n4x20'' strides\nArriver FRAIS samedi",
       "dist_cible": 6.0
     },
     {
@@ -74,7 +74,7 @@
       "duree": "51min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "25' EF Z2 — COURT\n4x20'' strides en fin",
+      "structure": "25' EF Z2 (127-140 bpm) — COURT\n4x20'' strides en fin",
       "dist_cible": 8.5
     },
     {
@@ -85,7 +85,7 @@
       "duree": "59min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "40' Z2 très facile — pas de travail de force cette semaine",
+      "structure": "40' Z2 très facile (127-140 bpm) — pas de travail de force cette semaine",
       "dist_cible": 26.7
     },
     {
@@ -96,18 +96,18 @@
       "duree": "1h09",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile | 8x50 éducatifs\nVolume : 3700m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs\nVolume : 3700m",
       "dist_cible_m": 3700
     },
     {
       "date": "2027-03-13",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 105' (15.0 km)",
+      "type": "SORTIE LONGUE Z2 — 90' (15.0 km)",
       "duree": "1h49",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "100' Z2 (127-138 bpm)\nAllure conversationnelle — reprise, pas de surge Z3",
+      "structure": "90' Z2 (127-140 bpm)\nAllure conversationnelle — reprise, pas de surge Z3",
       "dist_cible": 15.0
     },
     {
@@ -129,7 +129,7 @@
       "duree": "41min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF | 6x300m soutenu (r=20'') + 200m\nAllure constante + sighting\nVolume : 2100m",
+      "structure": "200 EF (110-126 bpm) | 6x300m soutenu (135-148 bpm) (r=20'') + 200m\nAllure constante + sighting\nVolume : 2100m",
       "dist_cible_m": 2100
     }
   ]
