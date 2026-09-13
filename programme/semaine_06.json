@@ -69,17 +69,6 @@
     {
       "date": "2026-10-09",
       "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "20min",
-      "zone": "Z2",
-      "rpe": "2",
-      "structure": "26' EF Z2 (127-140 bpm) — COURT\n4x20'' strides en fin",
-      "dist_cible": 3.0
-    },
-    {
-      "date": "2026-10-09",
-      "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force spécifique",
       "duree": "1h02",

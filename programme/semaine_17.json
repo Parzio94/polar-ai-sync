@@ -16,11 +16,11 @@
       "jour": "Mardi",
       "sport": "Velo",
       "type": "Vélo clé — 2x18' @ 84% FTP — r=5'",
-      "duree": "1h42",
+      "duree": "2h11",
       "zone": "Z3",
       "rpe": "6",
       "structure": "20' EF Z2 (127-140 bpm) | 2x18' @ 84% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~163 bpm (84% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 40g glucides/h si >90'\n10' RC (127-140 bpm)",
-      "dist_cible": 49.6
+      "dist_cible": 63.5
     },
     {
       "date": "2026-12-22",
@@ -38,11 +38,11 @@
       "jour": "Mercredi",
       "sport": "Velo",
       "type": "Vélo Z2 — Paris",
-      "duree": "1h23",
+      "duree": "1h46",
       "zone": "Z2",
       "rpe": "3",
       "structure": "50' Z2 (127-140 bpm) — parcours Paris, terrain plat\nCadence souple 85-90 rpm",
-      "dist_cible": 36.3
+      "dist_cible": 46.5
     },
     {
       "date": "2026-12-24",

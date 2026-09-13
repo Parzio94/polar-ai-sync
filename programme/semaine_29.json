@@ -27,22 +27,22 @@
       "jour": "Mardi",
       "sport": "Velo",
       "type": "Vélo récup reprise",
-      "duree": "55min",
+      "duree": "47min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "35' Z2 (127-140 bpm)",
-      "dist_cible": 23.0
+      "dist_cible": 19.5
     },
     {
       "date": "2027-03-17",
       "jour": "Mercredi",
       "sport": "Velo",
       "type": "Vélo clé — 2x13' @ 82% FTP — r=5'",
-      "duree": "1h36",
+      "duree": "1h21",
       "zone": "Z3",
       "rpe": "5",
       "structure": "20' EF Z2 (127-140 bpm) | 2x13' @ 82% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 40g glucides/h si >90'\n10' RC (127-140 bpm)",
-      "dist_cible": 48.0
+      "dist_cible": 40.7
     },
     {
       "date": "2027-03-18",
@@ -60,33 +60,33 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides",
-      "duree": "48min",
+      "duree": "1h02",
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "26' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
-      "dist_cible": 8.5
+      "dist_cible": 11.0
     },
     {
       "date": "2027-03-19",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "43min",
+      "duree": "29min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "23' EF Z2 (127-140 bpm) — COURT\n4x20'' strides en fin",
-      "dist_cible": 7.5
+      "dist_cible": 5.0
     },
     {
       "date": "2027-03-19",
       "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force spécifique",
-      "duree": "1h01",
+      "duree": "52min",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "10' EF (127-140 bpm) | 4x3' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
-      "dist_cible": 29.7
+      "structure": "10' EF (127-140 bpm) | 5x4' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
+      "dist_cible": 25.2
     },
     {
       "date": "2027-03-20",
@@ -114,12 +114,12 @@
       "date": "2027-03-21",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Sortie longue — 425' (194.5 km)",
-      "duree": "7h05",
+      "type": "Sortie longue — 425' (164.7 km)",
+      "duree": "6h",
       "zone": "Z2-Z3",
       "rpe": "4",
       "structure": "270' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
-      "dist_cible": 194.5
+      "dist_cible": 164.7
     },
     {
       "date": "2027-03-21",
