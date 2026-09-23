@@ -74347,3 +74347,19 @@
 [2026-09-22 18:00:03] DAILY | =============================================
 [2026-09-22 18:00:03] DAILY | SYNC QUOTIDIENNE TERMINÉE
 [2026-09-22 18:00:03] DAILY | =============================================
+[2026-09-23 07:10:02] DAILY | =============================================
+[2026-09-23 07:10:02] DAILY | POLAR DAILY SYNC — Collecte donnees
+[2026-09-23 07:10:02] DAILY | =============================================
+[2026-09-23 07:10:02] DAILY | Token chargé: eb03f705...
+[2026-09-23 07:10:02] DAILY | User ID depuis tokens.json: 63113319
+[2026-09-23 07:10:02] DAILY | Fetch exercises 2026-09-09 → 2026-09-23
+[2026-09-23 07:10:02] DAILY | fetch_exercises HTTP 0: 503 Server Error: Service Temporarily Unavailable for url: https://www.polaraccesslink.com/v3/exercises?from=2026-09-09&to=2026-09-23
+[2026-09-23 07:10:02] DAILY | fetch_sleep HTTP 0: 503 Server Error: Service Temporarily Unavailable for url: https://www.polaraccesslink.com/v3/users/sleep?from=2026-09-09&to=2026-09-23
+[2026-09-23 07:10:02] DAILY | fetch_nightly_recharge HTTP 0: 503 Server Error: Service Temporarily Unavailable for url: https://www.polaraccesslink.com/v3/users/nightly-recharge?from=2026-09-09&to=2026-09-23
+[2026-09-23 07:10:03] DAILY | fetch_daily_activity: 503 Server Error: Service Temporarily Unavailable for url: https://www.polaraccesslink.com/v3/users/63113319/activity-summary/transaction-list (normal si pas d'activité)
+[2026-09-23 07:10:03] DAILY | Total: 0 séances dont 0 running
+[2026-09-23 07:10:03] DAILY | week_current.json mis à jour → 0 séances semaine 2026-09-21 (S4)
+[2026-09-23 07:10:03] DAILY | week_current.json validé ✓
+[2026-09-23 07:10:03] DAILY | =============================================
+[2026-09-23 07:10:03] DAILY | SYNC QUOTIDIENNE TERMINÉE
+[2026-09-23 07:10:03] DAILY | =============================================
