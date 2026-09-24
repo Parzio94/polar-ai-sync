@@ -1312,6 +1312,19 @@
     "created_at": "2026-09-24T07:09:53.826550"
   },
   {
+    "fp": "a77ad66aaf5e",
+    "title": "🏁 IM Full Sable d’Olonnes — Sub 11h",
+    "date": "2027-06-27",
+    "end_date": "2027-06-27",
+    "all_day": true,
+    "start_time": "",
+    "end_time": "",
+    "color": "#ff0000",
+    "type": "race",
+    "race_id": "imfull",
+    "created_at": "2026-09-24T07:10:20.496656"
+  },
+  {
     "fp": "03f0695accc9",
     "title": "Ironman full Vitoria",
     "date": "2027-07-11",
@@ -1321,18 +1334,5 @@
     "end_time": "",
     "color": "#e63946",
     "created_at": "2026-03-12T16:53:49.301019"
-  },
-  {
-    "fp": "a77ad66aaf5e",
-    "title": "🏁 IM Full Vitoria — Sub 11:30:00",
-    "date": "2027-07-11",
-    "end_date": "2027-07-11",
-    "all_day": true,
-    "start_time": "",
-    "end_time": "",
-    "color": "#ff0000",
-    "type": "race",
-    "race_id": "imfull",
-    "created_at": "2026-04-19T19:26:15.419999"
   }
 ]
