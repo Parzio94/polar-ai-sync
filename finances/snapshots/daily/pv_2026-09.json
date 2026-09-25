@@ -18,21 +18,21 @@
     }
   },
   "_last": {
-    "val_pea": 18097,
-    "val_cto": 4299,
-    "val_crypto": 1752,
-    "val_total": 24148,
+    "val_pea": 17981,
+    "val_cto": 4339,
+    "val_crypto": 2252,
+    "val_total": 24572,
     "pv_jour": {
-      "pea": -67,
-      "cto": 67,
-      "crypto": -38,
-      "total": -38
+      "pea": -116,
+      "cto": 40,
+      "crypto": 500,
+      "total": 424
     },
     "pv_mois": {
-      "pea": 415,
-      "cto": -59,
-      "crypto": 174,
-      "total": 530
+      "pea": 299,
+      "cto": -19,
+      "crypto": 674,
+      "total": 954
     }
   },
   "_ym": "2026-09",
@@ -453,6 +453,24 @@
       "cto": -59,
       "crypto": 174,
       "total": 530
+    }
+  },
+  "2026-09-25": {
+    "val_pea": 17981,
+    "val_cto": 4339,
+    "val_crypto": 2252,
+    "val_total": 24572,
+    "pv_jour": {
+      "pea": -116,
+      "cto": 40,
+      "crypto": 500,
+      "total": 424
+    },
+    "pv_mois": {
+      "pea": 299,
+      "cto": -19,
+      "crypto": 674,
+      "total": 954
     }
   }
 }
