@@ -47,6 +47,17 @@
     {
       "date": "2026-10-01",
       "jour": "Jeudi",
+      "sport": "Natation",
+      "type": "Natation technique",
+      "duree": "1h54",
+      "zone": "-",
+      "rpe": "3",
+      "structure": "6x50 facile (108-117 bpm) | 5x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n9x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 1700m",
+      "dist_cible_m": 1700
+    },
+    {
+      "date": "2026-10-01",
+      "jour": "Jeudi",
       "sport": "Course",
       "type": "EF Z2 léger",
       "duree": "32min",
@@ -80,17 +91,6 @@
     {
       "date": "2026-10-03",
       "jour": "Samedi",
-      "sport": "Natation",
-      "type": "Natation technique",
-      "duree": "1h54",
-      "zone": "-",
-      "rpe": "3",
-      "structure": "6x50 facile (108-117 bpm) | 15x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n31x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 4450m",
-      "dist_cible_m": 4450
-    },
-    {
-      "date": "2026-10-03",
-      "jour": "Samedi",
       "sport": "Course",
       "type": "SORTIE LONGUE Z2 — 55' (8.5 km)",
       "duree": "55min",
@@ -103,11 +103,11 @@
       "date": "2026-10-04",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Sortie longue — 135' (61.8 km)",
-      "duree": "2h15",
+      "type": "Sortie longue — 175' (80 km)",
+      "duree": "2h55",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "97' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
+      "structure": "118' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
       "dist_cible": 80.0
     },
     {
@@ -118,8 +118,8 @@
       "duree": "29min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 3x300m soutenu (135-148 bpm) (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1550m",
-      "dist_cible_m": 1550
+      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1600m",
+      "dist_cible_m": 1600
     }
   ]
 }

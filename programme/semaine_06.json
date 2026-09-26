@@ -52,8 +52,8 @@
       "duree": "25min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 2x300m soutenu (135-148 bpm) (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 1400m",
-      "dist_cible_m": 1400
+      "structure": "200 EF (110-126 bpm) | 3x300m soutenu (135-148 bpm) (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 1450m",
+      "dist_cible_m": 1450
     },
     {
       "date": "2026-10-08",
@@ -64,6 +64,17 @@
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "26' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
+      "dist_cible": 3.0
+    },
+    {
+      "date": "2026-10-09",
+      "jour": "Vendredi",
+      "sport": "Course",
+      "type": "EF Z2 — court",
+      "duree": "20min",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "26' EF Z2 (127-140 bpm) — COURT\n4x20'' strides en fin",
       "dist_cible": 3.0
     },
     {
@@ -85,8 +96,8 @@
       "duree": "57min",
       "zone": "-",
       "rpe": "3",
-      "structure": "6x50 facile (108-117 bpm) | 16x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n17x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3250m",
-      "dist_cible_m": 3250
+      "structure": "6x50 facile (108-117 bpm) | 17x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n19x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3300m",
+      "dist_cible_m": 3300
     },
     {
       "date": "2026-10-10",
@@ -118,7 +129,7 @@
       "duree": "29min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 3x300m soutenu (135-148 bpm) (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1650m",
+      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1650m",
       "dist_cible_m": 1650
     }
   ]

@@ -48,11 +48,11 @@
       "date": "2027-04-15",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "Brick run — 30'",
-      "duree": "1h02",
-      "zone": "Z2-Z3",
+      "type": "EF Z2 — court",
+      "duree": "1h12",
+      "zone": "Z2",
       "rpe": "4",
-      "structure": "Transition directe après vélo — 30' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "structure": "72' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle",
       "dist_cible": 12.0
     },
     {
@@ -63,8 +63,8 @@
       "duree": "1h08",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 32x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 2100m — activation/récup (110-120 bpm)",
-      "dist_cible_m": 2100
+      "structure": "200 EF | 21x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 2300m — activation/récup (110-120 bpm)",
+      "dist_cible_m": 2300
     },
     {
       "date": "2027-04-16",
@@ -96,8 +96,8 @@
       "duree": "1h39",
       "zone": "-",
       "rpe": "3",
-      "structure": "8x50 facile (108-117 bpm) | 21x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n44x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3750m",
-      "dist_cible_m": 3750
+      "structure": "8x50 facile (108-117 bpm) | 14x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n28x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 4100m",
+      "dist_cible_m": 4100
     },
     {
       "date": "2027-04-17",
@@ -124,13 +124,24 @@
     {
       "date": "2027-04-18",
       "jour": "Dimanche",
+      "sport": "Course",
+      "type": "CAP en Brick — 30'",
+      "duree": "1h02",
+      "zone": "Z2-Z3",
+      "rpe": "4",
+      "structure": "Transition directe après vélo — 30' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "dist_cible": 12.0
+    },
+    {
+      "date": "2027-04-18",
+      "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation endurance",
       "duree": "28min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF (110-126 bpm) | 10x300m soutenu (135-148 bpm) (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2500m",
-      "dist_cible_m": 2500
+      "structure": "200 EF (110-126 bpm) | 7x300m soutenu (135-148 bpm) (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 2700m",
+      "dist_cible_m": 2700
     }
   ]
 }

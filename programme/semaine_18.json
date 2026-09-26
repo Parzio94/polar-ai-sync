@@ -74,8 +74,8 @@
       "duree": "1h30",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF (110-126 bpm) | 8x300m soutenu (135-148 bpm) (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 3600m",
-      "dist_cible_m": 3600
+      "structure": "200 EF (110-126 bpm) | 11x300m soutenu (135-148 bpm) (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 3800m",
+      "dist_cible_m": 3800
     },
     {
       "date": "2027-01-03",

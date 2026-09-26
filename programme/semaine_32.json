@@ -63,8 +63,8 @@
       "duree": "28min",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 24x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 2650m — activation/récup (110-120 bpm)",
-      "dist_cible_m": 2650
+      "structure": "200 EF | 18x100 technique (r=15'') | 50m retour\nSéance courte post-brick — accent relâchement\nVolume : 2050m — activation/récup (110-120 bpm)",
+      "dist_cible_m": 2050
     },
     {
       "date": "2027-04-09",
@@ -129,8 +129,8 @@
       "duree": "28min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF (110-126 bpm) | 10x300m soutenu (135-148 bpm) (r=20'') | 50m retour\nAllure constante + sighting\nVolume : 3200m",
-      "dist_cible_m": 3200
+      "structure": "200 EF (110-126 bpm) | 6x300m soutenu (135-148 bpm) (r=20'') + 250m | 50m retour\nAllure constante + sighting\nVolume : 2450m",
+      "dist_cible_m": 2450
     }
   ]
 }

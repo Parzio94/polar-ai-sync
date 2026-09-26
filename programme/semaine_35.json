@@ -41,8 +41,8 @@
       "duree": "20min",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF (110-126 bpm) | 2x150 très facile\nSéance très courte — relâchement complet\nVolume : 800m",
-      "dist_cible_m": 800
+      "structure": "200 EF (110-126 bpm) | 5x150 très facile\nSéance très courte — relâchement complet\nVolume : 950m",
+      "dist_cible_m": 950
     },
     {
       "date": "2027-04-29",
@@ -52,8 +52,8 @@
       "duree": "20min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF (110-126 bpm) | 1x300m soutenu (135-148 bpm) (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 1050m",
-      "dist_cible_m": 1050
+      "structure": "200 EF (110-126 bpm) | 2x300m soutenu (135-148 bpm) (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 1150m",
+      "dist_cible_m": 1150
     },
     {
       "date": "2027-04-29",
@@ -107,8 +107,8 @@
       "duree": "57min",
       "zone": "-",
       "rpe": "3",
-      "structure": "5x50 facile (108-117 bpm) | 12x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n19x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3050m",
-      "dist_cible_m": 3050
+      "structure": "5x50 facile (108-117 bpm) | 14x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n22x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3400m",
+      "dist_cible_m": 3400
     },
     {
       "date": "2027-05-02",
@@ -118,8 +118,8 @@
       "duree": "34min",
       "zone": "-",
       "rpe": "3",
-      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 1900m",
-      "dist_cible_m": 1900
+      "structure": "200 EF (110-126 bpm) | 5x300m soutenu (135-148 bpm) (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 2100m",
+      "dist_cible_m": 2100
     },
     {
       "date": "2027-05-02",

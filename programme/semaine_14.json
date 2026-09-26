@@ -52,7 +52,7 @@
       "duree": "18min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 1x300m soutenu (135-148 bpm) (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 1200m",
+      "structure": "200 EF (110-126 bpm) | 2x300m soutenu (135-148 bpm) (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 1200m",
       "dist_cible_m": 1200
     },
     {
@@ -96,8 +96,8 @@
       "duree": "53min",
       "zone": "-",
       "rpe": "3",
-      "structure": "5x50 facile (108-117 bpm) | 14x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n23x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3600m",
-      "dist_cible_m": 3600
+      "structure": "5x50 facile (108-117 bpm) | 15x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n25x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3750m",
+      "dist_cible_m": 3750
     },
     {
       "date": "2026-12-05",
@@ -129,8 +129,8 @@
       "duree": "32min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 5x300m soutenu (135-148 bpm) (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 2150m",
-      "dist_cible_m": 2150
+      "structure": "200 EF (110-126 bpm) | 6x300m soutenu (135-148 bpm) (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2300m",
+      "dist_cible_m": 2300
     }
   ]
 }

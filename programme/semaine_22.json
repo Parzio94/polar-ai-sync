@@ -52,18 +52,18 @@
       "duree": "1h12",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 16x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 1800m — activation/récup (110-120 bpm)",
-      "dist_cible_m": 1800
+      "structure": "200 EF | 8x100 technique (r=15'')\nSéance courte post-brick — accent relâchement\nVolume : 1000m — activation/récup (110-120 bpm)",
+      "dist_cible_m": 1000
     },
     {
       "date": "2027-01-28",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "Brick 15'",
-      "duree": "47min",
-      "zone": "Z2-Z3",
+      "type": "EF Z2 — court",
+      "duree": "51min",
+      "zone": "Z2",
       "rpe": "4",
-      "structure": "15' Z2-Z3 (127-140-165 bpm) — léger",
+      "structure": "51' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle",
       "dist_cible": 8.5
     },
     {
@@ -107,8 +107,8 @@
       "duree": "1h27",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 10x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n24x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3300m",
-      "dist_cible_m": 3300
+      "structure": "4x50 facile (108-117 bpm) | 5x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n12x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 1850m",
+      "dist_cible_m": 1850
     },
     {
       "date": "2027-01-31",
@@ -120,6 +120,17 @@
       "rpe": "6",
       "structure": "195' Z2 (127-140 bpm)\nCadence 85-92 rpm\nRetour de WE Paris — anniversaire\nNUTRITION : 40g glucides/h si >60'",
       "dist_cible": 70.0
+    },
+    {
+      "date": "2027-01-31",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "CAP en Brick — 15'",
+      "duree": "47min",
+      "zone": "Z2-Z3",
+      "rpe": "4",
+      "structure": "15' Z2-Z3 (127-140-165 bpm) — léger",
+      "dist_cible": 8.5
     }
   ]
 }

@@ -96,8 +96,8 @@
       "duree": "1h16",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 9x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n29x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3750m",
-      "dist_cible_m": 3750
+      "structure": "4x50 facile (108-117 bpm) | 9x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n30x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3850m",
+      "dist_cible_m": 3850
     },
     {
       "date": "2026-12-12",
@@ -129,8 +129,8 @@
       "duree": "39min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 5x300m soutenu (135-148 bpm) (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 1900m",
-      "dist_cible_m": 1900
+      "structure": "200 EF (110-126 bpm) | 5x300m soutenu (135-148 bpm) (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 2000m",
+      "dist_cible_m": 2000
     }
   ]
 }

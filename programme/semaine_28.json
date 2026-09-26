@@ -52,8 +52,8 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') + 150m\nAllure constante + sighting\nVolume : 1500m",
-      "dist_cible_m": 1500
+      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') + 50m\nAllure constante + sighting\nVolume : 1650m",
+      "dist_cible_m": 1650
     },
     {
       "date": "2027-03-11",
@@ -96,8 +96,8 @@
       "duree": "1h09",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs\nVolume : 3700m",
-      "dist_cible_m": 3700
+      "structure": "4x50 facile (108-117 bpm) | 76x50 éducatifs\nVolume : 4000m",
+      "dist_cible_m": 4000
     },
     {
       "date": "2027-03-13",
@@ -129,8 +129,8 @@
       "duree": "41min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 6x300m soutenu (135-148 bpm) (r=20'') + 200m\nAllure constante + sighting\nVolume : 2100m",
-      "dist_cible_m": 2100
+      "structure": "200 EF (110-126 bpm) | 6x300m soutenu (135-148 bpm) (r=20'') + 50m\nAllure constante + sighting\nVolume : 2250m",
+      "dist_cible_m": 2250
     }
   ]
 }

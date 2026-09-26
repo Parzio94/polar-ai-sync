@@ -47,17 +47,6 @@
     {
       "date": "2026-09-24",
       "jour": "Jeudi",
-      "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "18min",
-      "zone": "-",
-      "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 1x300m soutenu (135-148 bpm) (r=20'') + 250m | 200 retour\nAllure constante + sighting\nVolume : 1000m",
-      "dist_cible_m": 1000
-    },
-    {
-      "date": "2026-09-24",
-      "jour": "Jeudi",
       "sport": "Course",
       "type": "EF Z2 + accélérations",
       "duree": "31min",
@@ -85,8 +74,8 @@
       "duree": "51min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 11x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n19x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 2900m",
-      "dist_cible_m": 2900
+      "structure": "4x50 facile (108-117 bpm) | 12x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n20x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3050m",
+      "dist_cible_m": 3050
     },
     {
       "date": "2026-09-26",
@@ -118,8 +107,8 @@
       "duree": "30min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1750m",
-      "dist_cible_m": 1750
+      "structure": "200 EF (110-126 bpm) | 6x300m soutenu (135-148 bpm) (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1450m",
+      "dist_cible_m": 2250
     }
   ]
 }
