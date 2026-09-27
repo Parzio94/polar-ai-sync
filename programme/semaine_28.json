@@ -27,7 +27,7 @@
       "jour": "Mardi",
       "sport": "Velo",
       "type": "Vélo récupération Z2",
-      "duree": "54min",
+      "duree": "49min",
       "zone": "Z2",
       "rpe": "2",
       "structure": "40' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
@@ -114,12 +114,12 @@
       "date": "2027-03-14",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Sortie longue — 297' (144.2 km)",
-      "duree": "5h13",
+      "type": "Sortie longue — 305' (144.1 km)",
+      "duree": "5h05",
       "zone": "Z2-Z3",
       "rpe": "6",
       "structure": "200' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
-      "dist_cible": 144.2
+      "dist_cible": 144.1
     },
     {
       "date": "2027-03-14",
