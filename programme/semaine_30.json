@@ -16,121 +16,121 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Tempo léger",
-      "duree": "56min",
+      "duree": "58min",
       "zone": "Z3",
       "rpe": "4",
-      "structure": "10' EF\n\n1.1km 80% (155 fc)\n1'15 Repos\n1.1km 87% (170 fc)\n\nx5 avec 1'40 de repos entre intervalle\n\n10' EF",
-      "dist_cible": 11.5
+      "structure": "13' EF\n\n0.5km 80% (155 fc)\n1'15 Repos\n0.5km 87% (170 fc)\n\nx4 avec 1'40 de repos entre intervalle\n\n13' EF",
+      "dist_cible": 10.5
     },
     {
       "date": "2027-03-23",
       "jour": "Mardi",
       "sport": "Velo",
       "type": "Vélo récupération Z2",
-      "duree": "23min",
+      "duree": "43min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "33' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
-      "dist_cible": 11.0
+      "structure": "43' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "dist_cible": 20.0
     },
     {
       "date": "2027-03-24",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x18' @ 82% FTP — r=5'",
-      "duree": "46min",
+      "type": "Vélo clé — 2x20' @ 82% FTP — r=5'",
+      "duree": "1h34",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "20' EF Z2 (127-140 bpm) | 2x18' @ 82% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 40g glucides/h si >90'\n10' RC (127-140 bpm)",
-      "dist_cible": 22.0
-    },
-    {
-      "date": "2027-03-25",
-      "jour": "Jeudi",
-      "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "31min",
-      "zone": "-",
-      "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 1x300m soutenu (135-148 bpm) (r=20'') + 100m | 200 retour\nAllure constante + sighting\nVolume : 800m",
-      "dist_cible_m": 800
+      "structure": "39' EF Z2 (127-140 bpm) | 2x20' @ 82% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "dist_cible": 44.0
     },
     {
       "date": "2027-03-25",
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides",
-      "duree": "1h30",
+      "duree": "59min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "26' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
-      "dist_cible": 15.0
+      "structure": "59' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
+      "dist_cible": 9.5
+    },
+    {
+      "date": "2027-03-25",
+      "jour": "Jeudi",
+      "sport": "Natation",
+      "type": "Natation récupération",
+      "duree": "34min",
+      "zone": "-",
+      "rpe": "2",
+      "structure": "200 EF | 13x100 technique (r=15'') | 50m retour\nSéance récup — accent relâchement\nVolume : 1550m — activation/récup (110-120 bpm)",
+      "dist_cible_m": 1550
     },
     {
       "date": "2027-03-26",
       "jour": "Vendredi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "43min",
-      "zone": "Z2",
+      "duree": "33min",
+      "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "23' EF Z2 (127-140 bpm) — COURT\n4x20'' strides en fin",
-      "dist_cible": 6.5
+      "structure": "33' EF Z1-Z2 (120-135 bpm) — COURT\nVraie récup — pas de strides",
+      "dist_cible": 5.0
     },
     {
       "date": "2027-03-26",
       "jour": "Vendredi",
       "sport": "Velo",
-      "type": "Force spécifique",
-      "duree": "1h01",
+      "type": "Force légère",
+      "duree": "1h17",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "10' EF (127-140 bpm) | 5x4' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
-      "dist_cible": 18.7
+      "structure": "42' EF (127-140 bpm) | 4x4' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
+      "dist_cible": 36.0
     },
     {
       "date": "2027-03-27",
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique",
-      "duree": "1h11",
+      "duree": "54min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 5x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n14x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 2100m",
-      "dist_cible_m": 2100
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1200m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n5x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 2500m",
+      "dist_cible_m": 2500
     },
     {
       "date": "2027-03-27",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 119' (20.0 km)",
-      "duree": "2h11",
+      "type": "SORTIE LONGUE Z2 — 105' (17 km)",
+      "duree": "1h45",
       "zone": "Z2",
-      "rpe": "5",
-      "structure": "Z2 119' — allure conversationnelle\nFC : 127-138 bpm",
-      "dist_cible": 20.0
+      "rpe": "6",
+      "structure": "Z2 105' — allure conversationnelle\nFC : 127-138 bpm\nGel à 45' et 90'",
+      "dist_cible": 17.0
     },
     {
       "date": "2027-03-28",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Sortie longue — 123' (58.3 km)",
-      "duree": "2h03",
+      "type": "Sortie longue — 214' (100.0 km)",
+      "duree": "3h34",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "279' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 40g glucides/h si >60'",
-      "dist_cible": 58.3
+      "structure": "214' Z2 (127-140 bpm)\nCadence 85-92 rpm\nSemaine deload — volume réduit\nNUTRITION : 80g glucides/h si >60'",
+      "dist_cible": 100.0
     },
     {
       "date": "2027-03-28",
       "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation endurance",
-      "duree": "36min",
+      "duree": "38min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 1x300m soutenu (135-148 bpm) (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 900m",
-      "dist_cible_m": 900
+      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 1750m",
+      "dist_cible_m": 1750
     }
   ]
 }
