@@ -15,11 +15,11 @@
       "date": "2027-04-20",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 3x1200m @ 87%",
-      "duree": "47min",
+      "type": "Qualité — 1km lent/rapide x2 (80/87%)",
+      "duree": "52min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "14' EF\n\n1200m 87% (170 fc)\n2' Repos\n\nx3\n\n10' EF",
+      "structure": "Objectif : économie de course et relance (alternance lent / rapide)\n\n16' EF Z2 (127-140 bpm)\n\n2 x [1 km à 80% FC max (155 bpm) — 1'15 de repos — 1 km à 87% (169 bpm)]\n1'40 de repos entre chaque série\n\n10' EF Z2 (127-140 bpm)",
       "dist_cible": 8.5
     },
     {

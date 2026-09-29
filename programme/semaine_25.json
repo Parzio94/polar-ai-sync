@@ -15,11 +15,11 @@
       "date": "2027-02-16",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — Pyramide 400-300-200-100m x4",
-      "duree": "1h22",
+      "type": "Qualité — Pyramide 400-300-200-100m x5",
+      "duree": "1h30",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "16' EF\n\n400m 80% (155 fc)\n400m 87% (171 fc)\n300m 80% (155 fc)\n300m 90% (175 fc)\n200m 80% (155 fc)\n200m 92% (180 fc)\n100m 80% (155 fc)\n100m 95% (184 fc)\n\nx4 avec 3' de repos entre intervalle\n\n15' EF",
+      "structure": "Objectif : vélocité et économie de course (fractions courtes)\n\n15' EF Z2 (127-140 bpm)\n\n400m à 80% (155 bpm)\n400m à 87% (169 bpm)\n300m à 80% (155 bpm)\n300m à 90% (175 bpm)\n200m à 80% (155 bpm)\n200m à 92% (178 bpm)\n100m à 80% (155 bpm)\n100m à 95% (184 bpm)\n\nx5 avec 3' de repos entre séries\n\n10' EF Z2 (127-140 bpm)",
       "dist_cible": 15.0
     },
     {
@@ -96,18 +96,18 @@
       "duree": "1h20",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1800m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n11x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3700m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1800m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n11x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3700m",
       "dist_cible_m": 3700
     },
     {
       "date": "2027-02-20",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 148' (24 km)",
+      "type": "SORTIE LONGUE Z2 + fin Z3 — 148' (24 km)",
       "duree": "2h28",
-      "zone": "Z2",
+      "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "138' Z2 (127-140 bpm) | 8' Z3 bas (141-150 bpm) | 2' RC\nFC < 141 bpm sur 85% du temps\nNutrition : gel à 45', 90' et 135'",
+      "structure": "128' Z2 (127-140 bpm) | 15' allure IM (145-155 bpm) | 5' Z2 retour au calme\nBloc Z3 dans le dernier tiers, jambes fatiguées : c'est la fatigue qui fait le travail, pas la vitesse\nNutrition : gel à 45', 90' et 135'",
       "dist_cible": 24.0
     },
     {
@@ -129,7 +129,7 @@
       "duree": "25min",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "Transition directe après vélo — 25' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "structure": "Transition directe après vélo — 25' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
       "dist_cible": 4.5
     },
     {

@@ -15,11 +15,11 @@
       "date": "2027-03-16",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 4x9' progressif",
-      "duree": "1h20",
-      "zone": "Z3-Z4",
-      "rpe": "7",
-      "structure": "20' EF\n\n9' 78% (151 fc) — progressif\n1'30 Repos\n9' 82% (159 fc) — progressif\n1'30 Repos\n9' 86% (167 fc) — progressif\n1'30 Repos\n9' 90% (175 fc) — progressif\n\n20' EF",
+      "type": "Qualité — 30-20-10 (SV1 / SV1+ / Allure Marathon)",
+      "duree": "1h25",
+      "zone": "Z3",
+      "rpe": "6",
+      "structure": "Objectif : durabilité allure marathon (SV1 → SV1+) — répéter le ravitaillement : 30 g de glucides\n\n11' EF Z2 (127-140 bpm)\n\n30' SV1 (155-165 bpm)\n3' de repos\n20' SV1+ (165-171 bpm)\n3' de repos\n10' Allure Marathon (155-165 bpm)\n\n8' EF Z2 (127-140 bpm)",
       "dist_cible": 14.5
     },
     {
@@ -96,18 +96,18 @@
       "duree": "1h17",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 2000m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n7x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3550m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 2000m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n7x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3550m",
       "dist_cible_m": 3550
     },
     {
       "date": "2027-03-20",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 142' (23 km)",
+      "type": "SORTIE LONGUE Z2 + fin Z3 — 142' (23 km)",
       "duree": "2h22",
-      "zone": "Z2",
-      "rpe": "6",
-      "structure": "Z2 142' — allure conversationnelle\nFC : 127-138 bpm\nGel à 45' et 90'",
+      "zone": "Z2-Z3",
+      "rpe": "7",
+      "structure": "117' Z2 (127-140 bpm) | 20' allure IM (145-155 bpm) | 5' Z2 retour au calme\nBloc Z3 dans le dernier tiers, jambes fatiguées : c'est la fatigue qui fait le travail, pas la vitesse\nGel à 45' et 90'",
       "dist_cible": 23.0
     },
     {
@@ -129,7 +129,7 @@
       "duree": "20min",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "Transition directe après vélo — 20' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "structure": "Transition directe après vélo — 20' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
       "dist_cible": 3.5
     },
     {

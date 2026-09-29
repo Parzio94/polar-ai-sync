@@ -15,11 +15,11 @@
       "date": "2026-12-08",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — Pyramide 400-300-200-100m x2",
-      "duree": "52min",
+      "type": "Qualité — 2x(9' + 5') @ 83/87%",
+      "duree": "58min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "14' EF\n\n400m 80% (155 fc)\n400m 87% (171 fc)\n300m 80% (155 fc)\n300m 90% (175 fc)\n200m 80% (155 fc)\n200m 92% (180 fc)\n100m 80% (155 fc)\n100m 95% (184 fc)\n\nx2 avec 3' de repos entre intervalle\n\n14' EF",
+      "structure": "Objectif : seuil, allure marathon vers semi\n\n14' EF Z2 (127-140 bpm)\n\n2 x [9' à 83% FC max (161 bpm) — 1'30 de repos — 5' à 87% (169 bpm)]\n3'30 de repos entre séries\n\n9' EF Z2 (127-140 bpm)",
       "dist_cible": 9.5
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h15",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1100m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n15x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3450m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1100m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n15x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3450m",
       "dist_cible_m": 3450
     },
     {

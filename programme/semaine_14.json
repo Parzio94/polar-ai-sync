@@ -15,11 +15,11 @@
       "date": "2026-12-01",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 2km/1km x1",
-      "duree": "47min",
+      "type": "Qualité — 12' prog + 400m/300m x4",
+      "duree": "55min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "16' EF\n\n2km 85% (164 fc)\n1km 80% (155 fc)\n\nx1 sans récup\n\n16' EF",
+      "structure": "Objectif : VO2max et vitesse de pointe après montée progressive\n\n8' EF Z2 (127-140 bpm)\n12' progressif : EF vers Allure Marathon (155 bpm)\n3' de repos\n\n4 x 400m à 87% (169 bpm) — 1' de repos\n4 x 300m à 92% (178 bpm) — 1' de repos\n\n10' EF Z2 (127-140 bpm)",
       "dist_cible": 8.5
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h13",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1000m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n15x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3350m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1000m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n15x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3350m",
       "dist_cible_m": 3350
     },
     {

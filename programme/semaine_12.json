@@ -15,11 +15,11 @@
       "date": "2026-11-17",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — 19' continu Z3",
+      "type": "Tempo — Progressif 3x10' (80/85/90%)",
       "duree": "44min",
-      "zone": "Z3",
-      "rpe": "7",
-      "structure": "12' EF (127-140 bpm)\n10' SV1 (155-165 bpm)\n1' Repos\n6' SV1 (155-165 bpm) +\n1' Repos\n3' Allure Marathon (155-165 bpm)\n11' EF",
+      "zone": "Z3-Z4",
+      "rpe": "6",
+      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n8' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n10' à 80% FC max (155 bpm)\n10' à 85% FC max (165 bpm)\n10' à 90% FC max (175 bpm)\n(enchaînés, sans repos)\n\n6' EF Z2 (127-140 bpm)",
       "dist_cible": 8.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h10",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 900m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n15x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3250m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 900m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n15x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3250m",
       "dist_cible_m": 3250
     },
     {

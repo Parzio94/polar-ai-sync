@@ -15,11 +15,11 @@
       "date": "2027-04-06",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — 33' continu Z3",
-      "duree": "1h17",
+      "type": "Qualité — 30-20-10 (SV1 / SV1+ / Allure Marathon)",
+      "duree": "1h21",
       "zone": "Z3",
-      "rpe": "7",
-      "structure": "20' EF (127-140 bpm)\n16' SV1 (155-165 bpm)\n2' Repos\n11' SV1 (155-165 bpm) +\n2' Repos\n6' Allure Marathon (155-165 bpm)\n20' EF",
+      "rpe": "6",
+      "structure": "Objectif : durabilité allure marathon (SV1 → SV1+) — répéter le ravitaillement : 30 g de glucides\n\n9' EF Z2 (127-140 bpm)\n\n30' SV1 (155-165 bpm)\n3' de repos\n20' SV1+ (165-171 bpm)\n3' de repos\n10' Allure Marathon (155-165 bpm)\n\n6' EF Z2 (127-140 bpm)",
       "dist_cible": 14.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h05",
       "zone": "-",
       "rpe": "4",
-      "structure": "300 EF | BLOC CONTINU 2500m allure IM (135-145 bpm) — conditions course | 200 retour\nVolume : 3000m",
+      "structure": "300 EF | BLOC CONTINU 2500m allure IM (135-148 bpm) — conditions course | 200 retour\nVolume : 3000m",
       "dist_cible_m": 3000
     },
     {

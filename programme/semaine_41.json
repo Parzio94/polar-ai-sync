@@ -15,11 +15,11 @@
       "date": "2027-06-08",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo progressif — bloc IM",
-      "duree": "1h34",
-      "zone": "Z3",
-      "rpe": "5",
-      "structure": "29' EF\n2-4 strides\n12' 80% (155 fc)\n12' 85% (165 fc)\n12' 90% (175 fc)\n29' EF",
+      "type": "Qualité — 2km/1km x4 (Allure Marathon)",
+      "duree": "1h35",
+      "zone": "Z3-Z4",
+      "rpe": "7",
+      "structure": "Objectif : allure marathon spécifique Ironman, relances sans récupération — répéter le ravitaillement de course (même produits et même rythme que le jour J)\n\n18' EF Z2 (127-140 bpm)\n\n4 x [2 km à 85% FC max (165 bpm) + 1 km à 80% (155 bpm)]\nenchaînés, sans récupération\n\n12' EF Z2 (127-140 bpm)",
       "dist_cible": 17.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h33",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 3200m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n3x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 4300m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 3200m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n3x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 4300m",
       "dist_cible_m": 4300
     },
     {
@@ -129,7 +129,7 @@
       "duree": "45min",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "Transition directe après vélo — 45' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "structure": "Transition directe après vélo — 45' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
       "dist_cible": 7.5
     },
     {

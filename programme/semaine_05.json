@@ -15,11 +15,11 @@
       "date": "2026-09-29",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo léger",
-      "duree": "22min",
-      "zone": "Z3",
-      "rpe": "4",
-      "structure": "3' EF (127-140 bpm) 10' SV1 (155-165 bpm) 1' Repos 7' SV1 (155-165 bpm) + 1' Repos 3' Allure Marathon (155-165 bpm) 3' EF",
+      "type": "Tempo — Progressif 2x7' (80/85%) — décharge",
+      "duree": "35min",
+      "zone": "Z3-Z4",
+      "rpe": "6",
+      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n13' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n7' à 80% FC max (155 bpm)\n7' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n8' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
       "dist_cible": 6.0
     },
     {
@@ -85,7 +85,7 @@
       "duree": "34min",
       "zone": "Z2",
       "rpe": "5",
-      "structure": "Z2 34' — allure conversationnelle\nFC : 127-138 bpm",
+      "structure": "Z2 34' — allure conversationnelle\nFC : 127-140 bpm",
       "dist_cible": 6.0
     },
     {

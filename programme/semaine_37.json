@@ -15,11 +15,11 @@
       "date": "2027-05-11",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 4x1200m @ 86%",
-      "duree": "1h17",
+      "type": "Qualité — 3x(9' + 5') @ 83/87%",
+      "duree": "1h26",
       "zone": "Z3-Z4",
-      "rpe": "6",
-      "structure": "24' EF\n\n1200m 86% (167 fc)\n2' Repos\n\nx4\n\n23' EF",
+      "rpe": "7",
+      "structure": "Objectif : seuil, allure marathon vers semi\n\n20' EF Z2 (127-140 bpm)\n\n3 x [9' à 83% FC max (161 bpm) — 1'30 de repos — 5' à 87% (169 bpm)]\n3'30 de repos entre séries\n\n13' EF Z2 (127-140 bpm)",
       "dist_cible": 14.0
     },
     {
@@ -96,18 +96,18 @@
       "duree": "1h20",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 2500m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n4x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3700m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 2500m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n4x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3700m",
       "dist_cible_m": 3700
     },
     {
       "date": "2027-05-15",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 154' (25 km)",
+      "type": "SORTIE LONGUE Z2 + fin Z3 — 154' (25 km)",
       "duree": "2h34",
-      "zone": "Z2",
-      "rpe": "6",
-      "structure": "154' Z2 (127-140 bpm) — allure conversationnelle\nCadence régulière\nGel à 45', 90' et 135'",
+      "zone": "Z2-Z3",
+      "rpe": "7",
+      "structure": "124' Z2 (127-140 bpm) | 25' allure IM (145-155 bpm) | 5' Z2 retour au calme\nBloc Z3 dans le dernier tiers, jambes fatiguées : c'est la fatigue qui fait le travail, pas la vitesse\nGel à 45', 90' et 135'",
       "dist_cible": 25.0
     },
     {
@@ -129,7 +129,7 @@
       "duree": "25min",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "Transition directe après vélo — 25' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "structure": "Transition directe après vélo — 25' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
       "dist_cible": 4.5
     },
     {

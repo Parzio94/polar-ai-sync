@@ -15,11 +15,11 @@
       "date": "2026-10-06",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — 11' continu Z3",
-      "duree": "33min",
-      "zone": "Z3",
-      "rpe": "7",
-      "structure": "10' EF (127-140 bpm)\n6' SV1 (155-165 bpm)\n1' Repos\n4' SV1 (155-165 bpm) +\n1' Repos\n1' Allure Marathon (155-165 bpm)\n10' EF",
+      "type": "Tempo — Jog progressif 36' (version courte)",
+      "duree": "36min",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max)\n\n12' à 70-72% FC max (136-140 bpm)\n12' à 74-77% (144-149 bpm)\n12' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)",
       "dist_cible": 6.0
     },
     {
@@ -85,7 +85,7 @@
       "duree": "56min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 400m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n14x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 2600m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 400m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n14x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 2600m",
       "dist_cible_m": 2600
     },
     {

@@ -15,11 +15,11 @@
       "date": "2026-11-10",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 1x9' + 5' @ 85-86%",
-      "duree": "38min",
+      "type": "Qualité — 1x(9' + 5') @ 83/87%",
+      "duree": "42min",
       "zone": "Z3-Z4",
-      "rpe": "7",
-      "structure": "11' EF\n\n9' 85% (165 fc)\n1'30 Repos\n5' 86% (167 fc)\n\nx1 avec 3'30 de repos entre intervalle\n\n11' EF",
+      "rpe": "6",
+      "structure": "Objectif : seuil, allure marathon vers semi\n\n16' EF Z2 (127-140 bpm)\n\n1 x [9' à 83% FC max (161 bpm) — 1'30 de repos — 5' à 87% (169 bpm)]\n3'30 de repos entre séries\n\n10' EF Z2 (127-140 bpm)",
       "dist_cible": 7.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h08",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 800m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n15x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3150m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 800m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n15x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3150m",
       "dist_cible_m": 3150
     },
     {

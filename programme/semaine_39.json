@@ -15,11 +15,11 @@
       "date": "2027-05-25",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo progressif — bloc IM",
-      "duree": "1h20",
+      "type": "Qualité — 30-20-10 (SV1 / SV1+ / Allure Marathon)",
+      "duree": "1h25",
       "zone": "Z3",
-      "rpe": "5",
-      "structure": "25' EF\n2-4 strides\n10' 80% (155 fc)\n10' 85% (165 fc)\n10' 90% (175 fc)\n25' EF",
+      "rpe": "6",
+      "structure": "Objectif : durabilité allure marathon (SV1 → SV1+) — répéter le ravitaillement : 30 g de glucides\n\n11' EF Z2 (127-140 bpm)\n\n30' SV1 (155-165 bpm)\n3' de repos\n20' SV1+ (165-171 bpm)\n3' de repos\n10' Allure Marathon (155-165 bpm)\n\n8' EF Z2 (127-140 bpm)",
       "dist_cible": 14.5
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h23",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 2800m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n2x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3850m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 2800m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n2x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3850m",
       "dist_cible_m": 3850
     },
     {
@@ -129,7 +129,7 @@
       "duree": "35min",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "Transition directe après vélo — 35' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "structure": "Transition directe après vélo — 35' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
       "dist_cible": 6.0
     },
     {

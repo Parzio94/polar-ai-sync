@@ -15,11 +15,11 @@
       "date": "2027-04-13",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — Pyramide 400-300-200-100m x4",
-      "duree": "1h17",
+      "type": "Qualité — Pyramide 400-300-200-100m x5",
+      "duree": "1h24",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "13' EF\n\n400m 80% (155 fc)\n400m 87% (171 fc)\n300m 80% (155 fc)\n300m 90% (175 fc)\n200m 80% (155 fc)\n200m 92% (180 fc)\n100m 80% (155 fc)\n100m 95% (184 fc)\n\nx4 avec 3' de repos entre intervalle\n\n13' EF",
+      "structure": "Objectif : vélocité et économie de course (fractions courtes)\n\n11' EF Z2 (127-140 bpm)\n\n400m à 80% (155 bpm)\n400m à 87% (169 bpm)\n300m à 80% (155 bpm)\n300m à 90% (175 bpm)\n200m à 80% (155 bpm)\n200m à 92% (178 bpm)\n100m à 80% (155 bpm)\n100m à 95% (184 bpm)\n\nx5 avec 3' de repos entre séries\n\n8' EF Z2 (127-140 bpm)",
       "dist_cible": 14.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h15",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 2000m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n6x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3450m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 2000m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n6x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3450m",
       "dist_cible_m": 3450
     },
     {
@@ -129,7 +129,7 @@
       "duree": "30min",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "Transition directe après vélo — 30' @ Z2-Z3 (127-140-165 bpm)\nAdaptation transition vélo→CAP",
+      "structure": "Transition directe après vélo — 30' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
       "dist_cible": 5.0
     },
     {

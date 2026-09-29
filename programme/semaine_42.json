@@ -15,11 +15,11 @@
       "date": "2027-06-15",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo léger",
-      "duree": "47min",
-      "zone": "Z3",
-      "rpe": "4",
-      "structure": "12' EF\n\n0.5km 80% (155 fc)\n1'15 Repos\n0.5km 87% (170 fc)\n\nx3 avec 1'40 de repos entre intervalle\n\n11' EF",
+      "type": "Tempo — Jog progressif 51' — affûtage",
+      "duree": "51min",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max)\n\n17' à 70-72% FC max (136-140 bpm)\n17' à 74-77% (144-149 bpm)\n17' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)\n\nAffûtage : finir par 4 lignes droites de 20'' (récup complète), rester frais pour la course",
       "dist_cible": 8.5
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h05",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1500m allure IM (135-145 bpm) — sans arrêt, sighting tous les 6-8 cycles\n7x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3000m",
+      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1500m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n7x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3000m",
       "dist_cible_m": 3000
     },
     {
@@ -107,7 +107,7 @@
       "duree": "1h26",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "Z2 86' — allure conversationnelle\nFC : 127-138 bpm",
+      "structure": "Z2 86' — allure conversationnelle\nFC : 127-140 bpm",
       "dist_cible": 14.0
     },
     {

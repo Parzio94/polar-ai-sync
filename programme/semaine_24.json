@@ -15,11 +15,11 @@
       "date": "2027-02-09",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 1.5km/1km x3",
-      "duree": "1h25",
+      "type": "Qualité — 2km/1km x4 (Allure Marathon)",
+      "duree": "1h26",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "24' EF\n\n1.5km 85% (164 fc)\n1km 80% (155 fc)\n\nx3 sans récup\n\n23' EF",
+      "structure": "Objectif : allure marathon spécifique Ironman, relances sans récupération\n\n13' EF Z2 (127-140 bpm)\n\n4 x [2 km à 85% FC max (165 bpm) + 1 km à 80% (155 bpm)]\nenchaînés, sans récupération\n\n8' EF Z2 (127-140 bpm)",
       "dist_cible": 15.5
     },
     {
