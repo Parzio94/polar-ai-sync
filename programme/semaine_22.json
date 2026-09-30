@@ -60,10 +60,10 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "52min",
+      "duree": "1h11",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 21x100 technique (r=15'') + 50m | 50m retour\nSéance récup — accent relâchement\nVolume : 2400m — activation/récup (110-120 bpm)",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 21 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2400 m",
       "dist_cible_m": 2400
     },
     {
@@ -92,11 +92,11 @@
       "date": "2027-01-30",
       "jour": "Samedi",
       "sport": "Natation",
-      "type": "Natation technique",
-      "duree": "1h05",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h26",
       "zone": "-",
-      "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1000m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n12x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3000m",
+      "rpe": "5",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 1000 m à allure IM, sans arrêt (135-148 bpm, 2:11/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 12 x 100 m (135-148 bpm, 2:08/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
       "dist_cible_m": 3000
     },
     {

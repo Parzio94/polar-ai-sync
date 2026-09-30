@@ -38,10 +38,10 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "32min",
+      "duree": "46min",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 12x100 technique (r=15'') + 50m | 50m retour\nSéance récup — accent relâchement\nVolume : 1500m — activation/récup (110-120 bpm)",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 12 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1500 m",
       "dist_cible_m": 1500
     },
     {
@@ -82,10 +82,10 @@
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique",
-      "duree": "39min",
+      "duree": "59min",
       "zone": "-",
       "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\n10x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 1800m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nPull buoy : 10 x 100 m (135-148 bpm, 2:06/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 1800 m",
       "dist_cible_m": 1800
     },
     {
@@ -115,10 +115,10 @@
       "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation endurance",
-      "duree": "26min",
+      "duree": "35min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 2x300m soutenu (135-148 bpm) (r=20'') + 200m | 200 retour\nAllure constante + sighting\nVolume : 1200m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 2 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 200 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1200 m",
       "dist_cible_m": 1200
     }
   ]

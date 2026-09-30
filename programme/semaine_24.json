@@ -38,21 +38,21 @@
       "jour": "Mercredi",
       "sport": "Natation",
       "type": "Natation endurance (optionnelle)",
-      "duree": "54min",
+      "duree": "1h05",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 7x300m soutenu (135-148 bpm) (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 2500m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:25/100 m)\nSérie principale : 7 x 300 m à allure soutenue (135-148 bpm, 2:08/100 m) — repos 20 s\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2500 m",
       "dist_cible_m": 2500
     },
     {
       "date": "2027-02-10",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x32' @ 88% FTP — r=5'",
+      "type": "Vélo clé — VO2 6x4' @ 96% FTP — r=4'",
       "duree": "2h30",
-      "zone": "Z3",
-      "rpe": "7",
-      "structure": "71' EF Z2 (127-140 bpm) | 2x32' @ 88% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~171 bpm (88% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 70g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "zone": "Z5",
+      "rpe": "8",
+      "structure": "40' EF Z2 (127-140 bpm) dont 3 ouvertures de 30'' à 90% FC max | 6x4' @ 96% FTP (186 bpm en fin de répétition) — r=4' Z1 | 56' EF Z2 (127-140 bpm)\nObjectif : puissance aérobie maximale (VO2max), intervalles courts\nFC fin de répétition : 184-194 bpm (95-100% FC max) | Cadence : 90-100 rpm | RPE 8-9/10\nNUTRITION : 70g glucides/h si >90'\n10' RC (127-140 bpm)",
       "dist_cible": 70.0
     },
     {
@@ -71,10 +71,10 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "54min",
+      "duree": "1h14",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 22x100 technique (r=15'') + 50m | 50m retour\nSéance récup — accent relâchement\nVolume : 2500m — activation/récup (110-120 bpm)",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 22 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2500 m",
       "dist_cible_m": 2500
     },
     {

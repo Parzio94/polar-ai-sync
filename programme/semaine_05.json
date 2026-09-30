@@ -27,10 +27,10 @@
       "jour": "Mardi",
       "sport": "Velo",
       "type": "Vélo récupération Z2",
-      "duree": "22min",
+      "duree": "52min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "22' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "52' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 21.0
     },
     {
@@ -38,10 +38,10 @@
       "jour": "Mercredi",
       "sport": "Velo",
       "type": "Vélo clé — 2x7' @ 82% FTP — r=5'",
-      "duree": "45min",
+      "duree": "1h58",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "16' EF Z2 (127-140 bpm) | 2x7' @ 82% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 40g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "structure": "89' EF Z2 (127-140 bpm) | 2x7' @ 82% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 40g glucides/h si >90'\n10' RC (127-140 bpm)",
       "dist_cible": 55.0
     },
     {
@@ -49,10 +49,10 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation technique",
-      "duree": "30min",
+      "duree": "58min",
       "zone": "-",
       "rpe": "3",
-      "structure": "6x50 facile (108-117 bpm) | 5x50 éducatifs (catch-up/finger drag/sighting/pull buoy) 9x100 pull buoy (135-148 bpm) + 50m | 200 retour Volume : 1700m",
+      "structure": "Échauffement : 6 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 5 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nPull buoy : 9 x 100 m (135-148 bpm, 2:12/100 m) — repos 15 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 1700 m",
       "dist_cible_m": 1700
     },
     {
@@ -71,10 +71,10 @@
       "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force légère",
-      "duree": "39min",
+      "duree": "1h10",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "8' EF (127-140 bpm) | 4x3' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
+      "structure": "39' EF (127-140 bpm) | 4x3' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
       "dist_cible": 29.0
     },
     {
@@ -93,10 +93,10 @@
       "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation endurance",
-      "duree": "22min",
+      "duree": "46min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 4x300m soutenu (135-148 bpm) (r=20'') | 200 retour Allure constante + sighting Volume : 1600m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:29/100 m)\nSérie principale : 4 x 300 m à allure soutenue (135-148 bpm, 2:12/100 m) — repos 20 s\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1600 m",
       "dist_cible_m": 1600
     }
   ]

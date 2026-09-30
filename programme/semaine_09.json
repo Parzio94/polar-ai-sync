@@ -49,10 +49,10 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation endurance",
-      "duree": "26min",
+      "duree": "37min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 4x200m régulier (135-148 bpm) (r=20'') | 200 retour\nAllure constante + sighting\nVolume : 1200m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:29/100 m)\nSérie principale : 4 x 200 m à allure soutenue (135-148 bpm, 2:12/100 m) — repos 20 s\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1200 m",
       "dist_cible_m": 1200
     },
     {
@@ -81,11 +81,11 @@
       "date": "2026-10-31",
       "jour": "Samedi",
       "sport": "Natation",
-      "type": "Natation technique",
-      "duree": "42min",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h04",
       "zone": "-",
-      "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 400m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n7x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 1950m",
+      "rpe": "4",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 400 m à allure IM, sans arrêt (135-148 bpm, 2:15/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 7 x 100 m (135-148 bpm, 2:12/100 m) — repos 15 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 1950 m",
       "dist_cible_m": 1950
     },
     {
@@ -115,10 +115,10 @@
       "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation endurance",
-      "duree": "29min",
+      "duree": "40min",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 3x300m soutenu (135-148 bpm) (r=20'') + 50m | 200 retour\nAllure constante + sighting\nVolume : 1350m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:29/100 m)\nSérie principale : 3 x 300 m à allure soutenue (135-148 bpm, 2:12/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1350 m",
       "dist_cible_m": 1350
     }
   ]

@@ -26,11 +26,11 @@
       "date": "2026-12-22",
       "jour": "Mardi",
       "sport": "Natation",
-      "type": "Natation technique",
-      "duree": "1h05",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h28",
       "zone": "-",
-      "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 800m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n14x100 pull buoy (135-148 bpm) | 200 retour\nVolume : 3000m",
+      "rpe": "4",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 800 m à allure IM, sans arrêt (135-148 bpm, 2:13/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 14 x 100 m (135-148 bpm, 2:10/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
       "dist_cible_m": 3000
     },
     {

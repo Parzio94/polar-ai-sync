@@ -37,11 +37,11 @@
       "date": "2027-04-21",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x20' @ 86% FTP — r=5'",
+      "type": "Vélo clé — 2x20' @ 84% FTP — r=5'",
       "duree": "1h39",
       "zone": "Z3",
-      "rpe": "7",
-      "structure": "44' EF Z2 (127-140 bpm) | 2x20' @ 86% FTP — r=5'\nObjectif : maintenir le seuil (FTP), séance complète — pas un vrai taper\nFC bloc cible : ~167 bpm (86% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "rpe": "6",
+      "structure": "44' EF Z2 (127-140 bpm) | 2x20' @ 84% FTP — r=5'\nObjectif : maintenir le seuil (FTP), séance complète — pas un vrai taper\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm)",
       "dist_cible": 46.0
     },
     {
@@ -49,10 +49,10 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "54min",
+      "duree": "1h13",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 22x100 technique (r=15'') + 50m | 50m retour\nSéance récup — accent relâchement\nVolume : 2500m — activation/récup (110-120 bpm)",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 22 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2500 m",
       "dist_cible_m": 2500
     },
     {
@@ -93,10 +93,10 @@
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique légère — shakeout",
-      "duree": "32min",
+      "duree": "44min",
       "zone": "-",
       "rpe": "3",
-      "structure": "300 EF | 8x100 progressif (r=20'') | 4x50 allure course | 200 retour\nVolume : 1500m",
+      "structure": "Échauffement : 300 m souple (110-126 bpm, 2:23/100 m)\nSérie : 8 x 100 m progressif (du souple à l'allure course) — repos 20 s\nActivation : 4 x 50 m à allure course (135-148 bpm, 2:09/100 m) — repos 20 s\nRetour au calme : 200 m souple\nTotal : 1500 m",
       "dist_cible_m": 1500
     },
     {

@@ -37,11 +37,11 @@
       "date": "2027-01-13",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x29' @ 89% FTP — r=5'",
+      "type": "Vélo clé — Bloc allure IM 2x30' (136-146 bpm) — r=5'",
       "duree": "2h11",
-      "zone": "Z3",
-      "rpe": "7",
-      "structure": "58' EF Z2 (127-140 bpm) | 2x29' @ 89% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~173 bpm (89% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 70g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "zone": "Z2-Z3",
+      "rpe": "6",
+      "structure": "56' EF Z2 (127-140 bpm) | 2x30' allure IM (136-146 bpm, 70-75% FC max) — r=5'\nObjectif : spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\nFC bloc cible : 136-146 bpm (70-75% FC max) | Cadence : 85-92 rpm | RPE 5-6/10\nNUTRITION : 70g glucides/h si >90'\n10' RC (127-140 bpm)",
       "dist_cible": 61.0
     },
     {
@@ -60,10 +60,10 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "46min",
+      "duree": "1h03",
       "zone": "-",
       "rpe": "2",
-      "structure": "200 EF | 18x100 technique (r=15'') + 50m | 50m retour\nSéance récup — accent relâchement\nVolume : 2100m — activation/récup (110-120 bpm)",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 18 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2100 m",
       "dist_cible_m": 2100
     },
     {
@@ -92,11 +92,11 @@
       "date": "2027-01-16",
       "jour": "Samedi",
       "sport": "Natation",
-      "type": "Natation technique",
-      "duree": "1h13",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h34",
       "zone": "-",
-      "rpe": "3",
-      "structure": "4x50 facile (108-117 bpm) | 8x50 éducatifs (catch-up/finger drag/sighting/pull buoy)\nBLOC CONTINU 1400m allure IM (135-148 bpm) — sans arrêt, sighting tous les 6-8 cycles\n11x100 pull buoy (135-148 bpm) + 50m | 200 retour\nVolume : 3350m",
+      "rpe": "5",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 1400 m à allure IM, sans arrêt (135-148 bpm, 2:11/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 11 x 100 m (135-148 bpm, 2:08/100 m) — repos 15 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3350 m",
       "dist_cible_m": 3350
     },
     {
@@ -137,10 +137,10 @@
       "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation endurance",
-      "duree": "51min",
+      "duree": "1h01",
       "zone": "-",
       "rpe": "4",
-      "structure": "200 EF (110-126 bpm) | 6x300m soutenu (135-148 bpm) (r=20'') + 150m | 200 retour\nAllure constante + sighting\nVolume : 2350m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:25/100 m)\nSérie principale : 6 x 300 m à allure soutenue (135-148 bpm, 2:08/100 m) — repos 20 s + 150 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2350 m",
       "dist_cible_m": 2350
     }
   ]
