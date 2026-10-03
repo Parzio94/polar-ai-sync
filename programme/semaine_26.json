@@ -16,7 +16,7 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Qualité — 3000m progressif x4 (83→90%)",
-      "duree": "1h37",
+      "duree": "1h32",
       "zone": "Z3-Z4",
       "rpe": "7",
       "structure": "Objectif : puissance aérobie, seuil SV2 (blocs longs progressifs)\n\n13' EF Z2 (127-140 bpm) + 2-3 lignes droites\n\n3000m à 83% (161 bpm)\n3000m à 85% (165 bpm)\n3000m à 87% (169 bpm)\n3000m à 90% (175 bpm)\n\n4' de repos entre reps\n\n9' EF Z2 (127-140 bpm)",
@@ -63,7 +63,7 @@
       "duree": "1h12",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 22 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2450 m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 22 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2450 m",
       "dist_cible_m": 2450
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h43",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 2000 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 10 x 100 m (135-148 bpm, 2:06/100 m) — repos 15 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3850 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 2000 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 10 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3850 m",
       "dist_cible_m": 3850
     },
     {

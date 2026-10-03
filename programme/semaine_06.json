@@ -15,11 +15,11 @@
       "date": "2026-10-06",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — Jog progressif 36' (version courte)",
-      "duree": "36min",
+      "type": "Tempo — Jog progressif 34' (version courte)",
+      "duree": "34min",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n13' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n7' à 80% FC max (155 bpm)\n7' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n8' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
+      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max)\n\n11' à 70-72% FC max (136-140 bpm)\n11' à 74-77% (144-149 bpm)\n12' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)",
       "dist_cible": 6.0
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h20",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 400 m à allure IM, sans arrêt (135-148 bpm, 2:15/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 14 x 100 m (135-148 bpm, 2:12/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 2600 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 400 m à allure IM, sans arrêt (135-148 bpm, 2:15/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 14 x 100 m (135-148 bpm, 2:12/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 2600 m",
       "dist_cible_m": 2600
     },
     {

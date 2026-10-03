@@ -4,19 +4,20 @@
     {
       "date": "2027-05-31",
       "jour": "Lundi",
-      "sport": "Repos",
-      "type": "OFF",
-      "duree": "-",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "1h11",
       "zone": "-",
-      "rpe": "1",
-      "structure": "Repos complet"
+      "rpe": "4",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:21/100 m)\nSérie principale : 8 x 300 m à allure soutenue (135-148 bpm, 2:04/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2850 m",
+      "dist_cible_m": 2850
     },
     {
       "date": "2027-06-01",
       "jour": "Mardi",
       "sport": "Course",
       "type": "Qualité — 2km/1km x4 (Allure Marathon)",
-      "duree": "1h29",
+      "duree": "1h24",
       "zone": "Z3-Z4",
       "rpe": "7",
       "structure": "Objectif : allure marathon spécifique Ironman, relances sans récupération\n\n14' EF Z2 (127-140 bpm)\n\n4 x [2 km à 85% FC max (165 bpm) + 1 km à 80% (155 bpm)]\nenchaînés, sans récupération\n\n10' EF Z2 (127-140 bpm)",
@@ -63,7 +64,7 @@
       "duree": "1h14",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 23 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2550 m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 23 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2550 m",
       "dist_cible_m": 2550
     },
     {
@@ -96,7 +97,7 @@
       "duree": "1h46",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 3000 m à allure IM, sans arrêt (135-148 bpm, 2:07/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 3 x 100 m (135-148 bpm, 2:04/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 4100 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 3000 m à allure IM, sans arrêt (135-148 bpm, 2:07/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 3 x 100 m (135-148 bpm, 2:04/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 4100 m",
       "dist_cible_m": 4100
     },
     {
@@ -131,17 +132,6 @@
       "rpe": "4",
       "structure": "Transition directe après vélo — 40' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
       "dist_cible": 7.0
-    },
-    {
-      "date": "2027-06-06",
-      "jour": "Dimanche",
-      "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "1h11",
-      "zone": "-",
-      "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:21/100 m)\nSérie principale : 8 x 300 m à allure soutenue (135-148 bpm, 2:04/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2850 m",
-      "dist_cible_m": 2850
     }
   ]
 }

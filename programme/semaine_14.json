@@ -16,10 +16,10 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Qualité — 12' prog + 400m/300m x4",
-      "duree": "55min",
+      "duree": "52min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "Objectif : VO2max et vitesse de pointe après montée progressive\n\n8' EF Z2 (127-140 bpm)\n12' progressif : EF vers Allure Marathon (155 bpm)\n3' de repos\n\n4 x 400m à 87% (169 bpm) — 1' de repos\n4 x 300m à 92% (178 bpm) — 1' de repos\n\n10' EF Z2 (127-140 bpm)",
+      "structure": "Objectif : VO2max et vitesse de pointe après montée progressive\n\n6' EF Z2 (127-140 bpm)\n12' progressif : EF vers Allure Marathon (155 bpm)\n3' de repos\n\n4 x 400m à 87% (169 bpm) — 1' de repos\n4 x 300m à 92% (178 bpm) — 1' de repos\n\n10' EF Z2 (127-140 bpm)",
       "dist_cible": 8.5
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h36",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 1000 m à allure IM, sans arrêt (135-148 bpm, 2:13/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 15 x 100 m (135-148 bpm, 2:10/100 m) — repos 15 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3350 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1000 m à allure IM, sans arrêt (135-148 bpm, 2:13/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 15 x 100 m (135-148 bpm, 2:10/100 m) — repos 30 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3350 m",
       "dist_cible_m": 3350
     },
     {

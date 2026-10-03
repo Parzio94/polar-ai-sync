@@ -16,10 +16,10 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Qualité — 1km lent/rapide x2 (80/87%)",
-      "duree": "46min",
+      "duree": "43min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : économie de course et relance (alternance lent / rapide)\n\n12' EF Z2 (127-140 bpm)\n\n2 x [1 km à 80% FC max (155 bpm) — 1'15 de repos — 1 km à 87% (169 bpm)]\n1'40 de repos entre chaque série\n\n8' EF Z2 (127-140 bpm)",
+      "structure": "Objectif : économie de course et relance (alternance lent / rapide)\n\n11' EF Z2 (127-140 bpm)\n\n2 x [1 km à 80% FC max (155 bpm) — 1'15 de repos — 1 km à 87% (169 bpm)]\n1'40 de repos entre chaque série\n\n8' EF Z2 (127-140 bpm)",
       "dist_cible": 7.5
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h27",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 600 m à allure IM, sans arrêt (135-148 bpm, 2:15/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 15 x 100 m (135-148 bpm, 2:12/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 2900 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 600 m à allure IM, sans arrêt (135-148 bpm, 2:15/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 15 x 100 m (135-148 bpm, 2:12/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 2900 m",
       "dist_cible_m": 2900
     },
     {

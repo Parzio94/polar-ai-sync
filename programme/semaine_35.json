@@ -41,7 +41,7 @@
       "duree": "46min",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 12 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1500 m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 12 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1500 m",
       "dist_cible_m": 1500
     },
     {
@@ -85,7 +85,7 @@
       "duree": "59min",
       "zone": "-",
       "rpe": "3",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nPull buoy : 10 x 100 m (135-148 bpm, 2:06/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 1800 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nPull buoy : 10 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 1800 m",
       "dist_cible_m": 1800
     },
     {

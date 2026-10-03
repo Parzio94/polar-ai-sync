@@ -16,7 +16,7 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Qualité — Pyramide 400-300-200-100m x5",
-      "duree": "1h30",
+      "duree": "1h26",
       "zone": "Z3-Z4",
       "rpe": "7",
       "structure": "Objectif : vélocité et économie de course (fractions courtes)\n\n15' EF Z2 (127-140 bpm)\n\n400m à 80% (155 bpm)\n400m à 87% (169 bpm)\n300m à 80% (155 bpm)\n300m à 90% (175 bpm)\n200m à 80% (155 bpm)\n200m à 92% (178 bpm)\n100m à 80% (155 bpm)\n100m à 95% (184 bpm)\n\nx5 avec 3' de repos entre séries\n\n10' EF Z2 (127-140 bpm)",
@@ -63,7 +63,7 @@
       "duree": "1h08",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 20 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2300 m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 20 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2300 m",
       "dist_cible_m": 2300
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h41",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 1800 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 11 x 100 m (135-148 bpm, 2:06/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3700 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1800 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 11 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3700 m",
       "dist_cible_m": 3700
     },
     {

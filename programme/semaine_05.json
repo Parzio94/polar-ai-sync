@@ -16,10 +16,10 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Tempo — Progressif 2x7' (80/85%) — décharge",
-      "duree": "35min",
+      "duree": "33min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n13' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n7' à 80% FC max (155 bpm)\n7' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n8' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
+      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n11' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n7' à 80% FC max (155 bpm)\n7' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n8' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
       "dist_cible": 6.0
     },
     {
@@ -52,7 +52,7 @@
       "duree": "58min",
       "zone": "-",
       "rpe": "3",
-      "structure": "Échauffement : 6 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 5 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nPull buoy : 9 x 100 m (135-148 bpm, 2:12/100 m) — repos 15 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 1700 m",
+      "structure": "Échauffement : 6 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 5 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nPull buoy : 9 x 100 m (135-148 bpm, 2:12/100 m) — repos 30 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 1700 m",
       "dist_cible_m": 1700
     },
     {
@@ -60,10 +60,10 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides",
-      "duree": "22min",
+      "duree": "17min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "22' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
+      "structure": "17' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
       "dist_cible": 3.0
     },
     {

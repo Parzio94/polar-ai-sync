@@ -15,11 +15,11 @@
       "date": "2027-03-09",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — Jog progressif 68'",
-      "duree": "1h08",
+      "type": "Tempo — Jog progressif 66'",
+      "duree": "1h06",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max)\n\n23' à 70-72% FC max (136-140 bpm)\n23' à 74-77% (144-149 bpm)\n22' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)",
+      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max)\n\n22' à 70-72% FC max (136-140 bpm)\n22' à 74-77% (144-149 bpm)\n22' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)",
       "dist_cible": 11.5
     },
     {
@@ -63,7 +63,7 @@
       "duree": "57min",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 16 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1900 m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 16 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1900 m",
       "dist_cible_m": 1900
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h24",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 1500 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 7 x 100 m (135-148 bpm, 2:06/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1500 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 7 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
       "dist_cible_m": 3000
     },
     {

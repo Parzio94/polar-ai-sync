@@ -16,10 +16,10 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Qualité — 2x(9' + 5') @ 83/87%",
-      "duree": "1h04",
+      "duree": "1h",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "Objectif : seuil, allure marathon vers semi\n\n18' EF Z2 (127-140 bpm)\n\n2 x [9' à 83% FC max (161 bpm) — 1'30 de repos — 5' à 87% (169 bpm)]\n3'30 de repos entre séries\n\n12' EF Z2 (127-140 bpm)",
+      "structure": "Objectif : seuil, allure marathon vers semi\n\n16' EF Z2 (127-140 bpm)\n\n2 x [9' à 83% FC max (161 bpm) — 1'30 de repos — 5' à 87% (169 bpm)]\n3'30 de repos entre séries\n\n10' EF Z2 (127-140 bpm)",
       "dist_cible": 10.5
     },
     {
@@ -63,7 +63,7 @@
       "duree": "58min",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 16 x 100 m technique, nage relâchée (110-120 bpm) — repos 15 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1900 m",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 16 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1900 m",
       "dist_cible_m": 1900
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h26",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 15 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 15 s\nBloc continu : 1200 m à allure IM, sans arrêt (135-148 bpm, 2:11/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 10 x 100 m (135-148 bpm, 2:08/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1200 m à allure IM, sans arrêt (135-148 bpm, 2:11/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 10 x 100 m (135-148 bpm, 2:08/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
       "dist_cible_m": 3000
     },
     {
