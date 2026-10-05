@@ -15,12 +15,12 @@
       "date": "2026-10-20",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 1km lent/rapide x2 (80/87%)",
-      "duree": "43min",
+      "type": "Qualité — 1km lent/rapide x3 (80/87%)",
+      "duree": "52min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : économie de course et relance (alternance lent / rapide)\n\n11' EF Z2 (127-140 bpm)\n\n2 x [1 km à 80% FC max (155 bpm) — 1'15 de repos — 1 km à 87% (169 bpm)]\n1'40 de repos entre chaque série\n\n8' EF Z2 (127-140 bpm)",
-      "dist_cible": 7.5
+      "structure": "Objectif : économie de course et relance (alternance lent / rapide)\n\n9' EF Z2 (127-140 bpm)\n\n3 x [1 km à 80% FC max (155 bpm) — 1'15 de repos — 1 km à 87% (169 bpm)]\n1'40 de repos entre chaque série\n\n6' EF Z2 (127-140 bpm)",
+      "dist_cible": 9.0
     },
     {
       "date": "2026-10-20",
@@ -60,11 +60,11 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF Z2 + accélérations",
-      "duree": "43min",
+      "duree": "34min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "43' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
-      "dist_cible": 7.0
+      "structure": "34' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
+      "dist_cible": 5.5
     },
     {
       "date": "2026-10-23",

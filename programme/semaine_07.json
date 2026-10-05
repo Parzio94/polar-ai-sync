@@ -15,12 +15,12 @@
       "date": "2026-10-13",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — Progressif 3x8' (80/85/90%)",
-      "duree": "38min",
+      "type": "Qualité — 2x(9' + 5') @ 83/87%",
+      "duree": "58min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n8' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n8' à 80% FC max (155 bpm)\n8' à 85% FC max (165 bpm)\n8' à 90% FC max (175 bpm)\n(enchaînés, sans repos)\n\n6' EF Z2 (127-140 bpm)",
-      "dist_cible": 7.0
+      "structure": "Objectif : seuil, allure marathon vers semi\n\n14' EF Z2 (127-140 bpm)\n\n2 x [9' à 83% FC max (161 bpm) — 1'30 de repos — 5' à 87% (169 bpm)]\n3'30 de repos entre séries\n\n9' EF Z2 (127-140 bpm)",
+      "dist_cible": 10.0
     },
     {
       "date": "2026-10-13",
@@ -60,11 +60,11 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF Z2 + accélérations",
-      "duree": "37min",
+      "duree": "18min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "37' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
-      "dist_cible": 6.0
+      "structure": "18' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
+      "dist_cible": 3.0
     },
     {
       "date": "2026-10-16",

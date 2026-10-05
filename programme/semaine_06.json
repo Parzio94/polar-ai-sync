@@ -15,12 +15,12 @@
       "date": "2026-10-06",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — Jog progressif 34' (version courte)",
-      "duree": "34min",
+      "type": "Qualité — 1km lent/rapide x2 (80/87%)",
+      "duree": "46min",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max)\n\n11' à 70-72% FC max (136-140 bpm)\n11' à 74-77% (144-149 bpm)\n12' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)",
-      "dist_cible": 6.0
+      "structure": "Objectif : économie de course et relance (alternance lent / rapide)\n\n13' EF Z2 (127-140 bpm)\n\n2 x [1 km à 80% FC max (155 bpm) — 1'15 de repos — 1 km à 87% (169 bpm)]\n1'40 de repos entre chaque série\n\n9' EF Z2 (127-140 bpm)",
+      "dist_cible": 8.0
     },
     {
       "date": "2026-10-06",
@@ -60,11 +60,11 @@
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF Z2 + accélérations",
-      "duree": "37min",
+      "duree": "25min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "37' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
-      "dist_cible": 6.0
+      "structure": "25' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
+      "dist_cible": 4.0
     },
     {
       "date": "2026-10-09",
