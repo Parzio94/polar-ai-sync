@@ -6,21 +6,21 @@
       "jour": "Lundi",
       "sport": "Natation",
       "type": "Natation endurance",
-      "duree": "1h11",
+      "duree": "1h15",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:21/100 m)\nSérie principale : 8 x 300 m à allure soutenue (135-148 bpm, 2:04/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2850 m",
-      "dist_cible_m": 2850
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:21/100 m)\nSérie principale : 8 x 300 m à allure soutenue (135-148 bpm, 2:04/100 m) — repos 20 s + 250 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 3050 m",
+      "dist_cible_m": 3050
     },
     {
       "date": "2027-06-01",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 2km/1km x4 (Allure Marathon)",
+      "type": "Qualité — 2km/1km x4 (Tempo / allure IM)",
       "duree": "1h24",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "Objectif : allure marathon spécifique Ironman, relances sans récupération\n\n14' EF Z2 (127-140 bpm)\n\n4 x [2 km à 85% FC max (165 bpm) + 1 km à 80% (155 bpm)]\nenchaînés, sans récupération\n\n10' EF Z2 (127-140 bpm)",
+      "structure": "Objectif : spécificité Ironman : relances au-dessus de l'allure IM puis retour à l'allure IM (150-155 bpm), sans récupération\n\n14' EF Z2 (127-140 bpm)\n\n4 x [2 km à 85% FC max (165 bpm) + 1 km à allure IM (150-155 bpm)]\nenchaînés, sans récupération\n\n10' EF Z2 (127-140 bpm)",
       "dist_cible": 16.0
     },
     {
@@ -31,7 +31,7 @@
       "duree": "1h09",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "69' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "69' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 32.0
     },
     {
@@ -42,7 +42,7 @@
       "duree": "2h45",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "60' EF Z2 (127-140 bpm) | 2x45' allure IM (136-146 bpm, 70-75% FC max) — r=5'\nObjectif : spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\nFC bloc cible : 136-146 bpm (70-75% FC max) | Cadence : 85-92 rpm | RPE 5-6/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "structure": "60' EF Z2 (127-140 bpm / 120-140 W) | 2x45' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=5'\nObjectif : spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\nFC bloc cible : 136-146 bpm (70-75% FC max) | Cadence : 85-92 rpm | RPE 5-6/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 77.0
     },
     {
@@ -53,7 +53,7 @@
       "duree": "1h32",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "92' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle",
+      "structure": "92' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle\nNutrition : gel à 45'",
       "dist_cible": 15.0
     },
     {
@@ -61,11 +61,11 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "1h14",
+      "duree": "1h18",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 23 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2550 m",
-      "dist_cible_m": 2550
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 24 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2700 m",
+      "dist_cible_m": 2700
     },
     {
       "date": "2027-06-04",
@@ -86,7 +86,7 @@
       "duree": "2h15",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "80' EF (127-140 bpm) | 6x5' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
+      "structure": "80' EF (127-140 bpm / 120-140 W) | 6x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 63.0
     },
     {
@@ -94,11 +94,11 @@
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique + bloc IM",
-      "duree": "1h46",
+      "duree": "1h52",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 3000 m à allure IM, sans arrêt (135-148 bpm, 2:07/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 3 x 100 m (135-148 bpm, 2:04/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 4100 m",
-      "dist_cible_m": 4100
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 3000 m à allure IM, sans arrêt (135-148 bpm, 2:07/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 6 x 100 m (135-148 bpm, 2:04/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 4400 m",
+      "dist_cible_m": 4400
     },
     {
       "date": "2027-06-05",
@@ -115,11 +115,11 @@
       "date": "2027-06-06",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Sortie longue — 364' (170.0 km)",
+      "type": "Sortie longue — 364' (170.0 km) — 3x45' allure IM",
       "duree": "6h04",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "364' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 90g glucides/h si >60'",
+      "structure": "364' Z2 (127-140 bpm / 120-140 W) dont 3x45' allure IM (136-146 bpm / 140-150 W) dans la seconde moitié — r=10' Z2\nCadence 85-92 rpm\nNUTRITION : 90g glucides/h si >60'",
       "dist_cible": 170.0
     },
     {

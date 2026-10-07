@@ -30,18 +30,18 @@
       "duree": "53min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "29' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "29' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 24.5
     },
     {
       "date": "2026-09-02",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x22' @ 85% FTP — r=5'",
+      "type": "Vélo clé — 2x22' @ 91% FTP — r=5'",
       "duree": "1h47",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "20' EF Z2 | 2x22' @ 85% FTP — r=5' | 10' RC\nFC bloc cible : ~165 bpm (85% FC max) | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
+      "structure": "20' EF Z2 | 2x22' @ 91% FTP (180 W) — r=5' | 10' RC\nFC bloc cible : ~165 bpm (85% FC max) | Cadence : 87-93 rpm\nNUTRITION : 40g glucides/h si >90'",
       "dist_cible": 48.9
     },
     {
@@ -74,7 +74,7 @@
       "duree": "57min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "10' EF | 4x3' basse cadence (55-62 rpm) @ Z2 — r=3' | 10' RC\nFC : 131-155 bpm",
+      "structure": "10' EF | 4x3' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3' | 10' RC\nFC : 131-155 bpm",
       "dist_cible": 41.6
     },
     {

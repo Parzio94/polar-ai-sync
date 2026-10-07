@@ -30,19 +30,29 @@
       "duree": "59min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "59' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "59' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 27.5
+    },
+    {
+      "date": "2027-04-28",
+      "jour": "Mercredi",
+      "sport": "Repos",
+      "type": "OFF",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet"
     },
     {
       "date": "2027-04-29",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation récupération",
-      "duree": "46min",
+      "type": "Natation endurance",
+      "duree": "35min",
       "zone": "-",
-      "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 12 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1500 m",
-      "dist_cible_m": 1500
+      "rpe": "4",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 2 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 200 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1200 m",
+      "dist_cible_m": 1200
     },
     {
       "date": "2027-04-29",
@@ -74,7 +84,7 @@
       "duree": "59min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "59' Z2 facile (127-140 bpm)\nCadence souple 85-90 rpm",
+      "structure": "59' Z2 facile (127-140 bpm / 120-140 W)\nCadence souple 85-90 rpm",
       "dist_cible": 27.5
     },
     {
@@ -96,7 +106,7 @@
       "duree": "1h58",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "118' Z2 (127-140 bpm) — récupération active",
+      "structure": "118' Z2 (127-140 bpm / 100-120 W) — récupération active\nNUTRITION : 90g glucides/h si >90'",
       "dist_cible": 55.0
     },
     {
@@ -114,12 +124,12 @@
       "date": "2027-05-02",
       "jour": "Dimanche",
       "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "35min",
+      "type": "Natation récupération",
+      "duree": "46min",
       "zone": "-",
-      "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 2 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 200 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1200 m",
-      "dist_cible_m": 1200
+      "rpe": "2",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 12 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1500 m",
+      "dist_cible_m": 1500
     }
   ]
 }

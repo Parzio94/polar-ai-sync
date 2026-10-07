@@ -15,11 +15,11 @@
       "date": "2027-03-23",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 15-10-5 (SV1 / SV1+ / Allure Marathon) — décharge",
+      "type": "Qualité — 15-10-5 (SV1 / SV1+ / Allure IM) — décharge",
       "duree": "1h",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "Objectif : durabilité allure marathon (SV1 → SV1+) — répéter le ravitaillement : 30 g de glucides\n\n14' EF Z2 (127-140 bpm)\n\n15' SV1 (155-165 bpm)\n3' de repos\n10' SV1+ (165-171 bpm)\n3' de repos\n5' Allure Marathon (155-165 bpm)\n\n10' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
+      "structure": "Objectif : durabilité : finir à l'allure IM après SV1 → SV1+ — répéter le ravitaillement : 30 g de glucides\n\n14' EF Z2 (127-140 bpm)\n\n15' SV1 (155-165 bpm)\n3' de repos\n10' SV1+ (165-171 bpm)\n3' de repos\n5' Allure IM (150-155 bpm)\n\n10' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
       "dist_cible": 10.5
     },
     {
@@ -30,18 +30,18 @@
       "duree": "43min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "43' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "43' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 20.0
     },
     {
       "date": "2027-03-24",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x20' @ 82% FTP — r=5'",
+      "type": "Vélo clé — 2x20' @ 88% FTP — r=5'",
       "duree": "1h34",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "39' EF Z2 (127-140 bpm) | 2x20' @ 82% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "structure": "39' EF Z2 (127-140 bpm / 120-140 W) | 2x20' @ 88% FTP (175 W) — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 44.0
     },
     {
@@ -59,12 +59,12 @@
       "date": "2027-03-25",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation récupération",
-      "duree": "47min",
+      "type": "Natation endurance",
+      "duree": "50min",
       "zone": "-",
-      "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 13 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1550 m",
-      "dist_cible_m": 1550
+      "rpe": "4",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 5 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1900 m",
+      "dist_cible_m": 1900
     },
     {
       "date": "2027-03-26",
@@ -85,7 +85,7 @@
       "duree": "1h17",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "42' EF (127-140 bpm) | 4x4' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
+      "structure": "42' EF (127-140 bpm / 120-140 W) | 4x4' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 36.0
     },
     {
@@ -93,11 +93,11 @@
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique + bloc IM",
-      "duree": "1h13",
+      "duree": "1h17",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1200 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 5 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 2500 m",
-      "dist_cible_m": 2500
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1200 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 7 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 2700 m",
+      "dist_cible_m": 2700
     },
     {
       "date": "2027-03-27",
@@ -118,19 +118,19 @@
       "duree": "3h34",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "214' Z2 (127-140 bpm)\nCadence 85-92 rpm\nSemaine deload — volume réduit\nNUTRITION : 80g glucides/h si >60'",
+      "structure": "214' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nSemaine deload — volume réduit\nNUTRITION : 80g glucides/h si >60'",
       "dist_cible": 100.0
     },
     {
       "date": "2027-03-28",
       "jour": "Dimanche",
       "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "47min",
+      "type": "Natation récupération",
+      "duree": "51min",
       "zone": "-",
-      "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 4 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 150 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1750 m",
-      "dist_cible_m": 1750
+      "rpe": "2",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 14 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1700 m",
+      "dist_cible_m": 1700
     }
   ]
 }

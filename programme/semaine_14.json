@@ -19,7 +19,7 @@
       "duree": "52min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "Objectif : VO2max et vitesse de pointe après montée progressive\n\n6' EF Z2 (127-140 bpm)\n12' progressif : EF vers Allure Marathon (155 bpm)\n3' de repos\n\n4 x 400m à 87% (169 bpm) — 1' de repos\n4 x 300m à 92% (178 bpm) — 1' de repos\n\n10' EF Z2 (127-140 bpm)",
+      "structure": "Objectif : VO2max et vitesse de pointe après montée progressive\n\n6' EF Z2 (127-140 bpm)\n12' progressif : EF vers allure IM (150-155 bpm)\n3' de repos\n\n4 x 400m à 87% (169 bpm) — 1' de repos\n4 x 300m à 92% (178 bpm) — 1' de repos\n\n10' EF Z2 (127-140 bpm)",
       "dist_cible": 8.5
     },
     {
@@ -30,30 +30,30 @@
       "duree": "47min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "47' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "47' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 22.0
     },
     {
       "date": "2026-12-02",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x25' @ 84% FTP — r=5'",
+      "type": "Vélo clé — 2x25' @ 90% FTP — r=5'",
       "duree": "2h06",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "61' EF Z2 (127-140 bpm) | 2x25' @ 84% FTP — r=5'\nObjectif : travailler juste sous le seuil lactique (sweet spot)\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "structure": "61' EF Z2 (127-140 bpm / 120-140 W) | 2x25' @ 90% FTP (180 W) — r=5'\nObjectif : travailler juste sous le seuil lactique (sweet spot)\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 59.0
     },
     {
       "date": "2026-12-03",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "57min",
+      "type": "Natation seuil + soutenu",
+      "duree": "1h03",
       "zone": "-",
-      "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 8 x 200 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 100 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2100 m",
-      "dist_cible_m": 2100
+      "rpe": "6",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie seuil : 10 x 100 m à l'allure CSS (150-160 bpm, 2:07/100 m) — repos 15 s\nSérie soutenue : 4 x 200 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 150 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : seuil = effort dur mais régulier, même chrono sur chaque 100 m ; sighting toutes les 6-8 cycles de bras\nTotal : 2350 m",
+      "dist_cible_m": 2350
     },
     {
       "date": "2026-12-03",
@@ -82,11 +82,11 @@
       "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force spécifique",
-      "duree": "1h45",
+      "duree": "1h49",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "70' EF (127-140 bpm) | 4x4' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
-      "dist_cible": 49.0
+      "structure": "74' EF (127-140 bpm / 120-140 W) | 4x4' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "dist_cible": 51.0
     },
     {
       "date": "2026-12-05",
@@ -114,23 +114,23 @@
       "date": "2026-12-06",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Sortie longue — 268' (125.0 km)",
-      "duree": "4h28",
+      "type": "Sortie longue — 279' (130.0 km)",
+      "duree": "4h39",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "268' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 60g glucides/h si >60'",
-      "dist_cible": 125.0
+      "structure": "279' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 60g glucides/h si >60'",
+      "dist_cible": 130.0
     },
     {
       "date": "2026-12-06",
       "jour": "Dimanche",
       "sport": "Natation",
-      "type": "Natation seuil + soutenu",
-      "duree": "1h03",
+      "type": "Natation endurance",
+      "duree": "57min",
       "zone": "-",
-      "rpe": "6",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie seuil : 10 x 100 m à l'allure CSS (150-160 bpm, 2:07/100 m) — repos 15 s\nSérie soutenue : 4 x 200 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 150 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : seuil = effort dur mais régulier, même chrono sur chaque 100 m ; sighting toutes les 6-8 cycles de bras\nTotal : 2350 m",
-      "dist_cible_m": 2350
+      "rpe": "4",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 8 x 200 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 100 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2100 m",
+      "dist_cible_m": 2100
     }
   ]
 }

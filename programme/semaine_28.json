@@ -30,7 +30,7 @@
       "duree": "51min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "51' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "51' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 24.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "2h04",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "124' Z2 (127-140 bpm) — pas de bloc FTP cette semaine (reprise post-ski)\nCadence souple 85-90 rpm\nNUTRITION : 80g glucides/h si >90'",
+      "structure": "124' Z2 (127-140 bpm / 120-140 W) — pas de bloc FTP cette semaine (reprise post-ski)\nCadence souple 85-90 rpm\nNUTRITION : 80g glucides/h si >90'",
       "dist_cible": 58.0
     },
     {
@@ -59,12 +59,12 @@
       "date": "2027-03-11",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation récupération",
-      "duree": "57min",
+      "type": "Natation endurance",
+      "duree": "56min",
       "zone": "-",
-      "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 16 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1900 m",
-      "dist_cible_m": 1900
+      "rpe": "4",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 5 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 250 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2150 m",
+      "dist_cible_m": 2150
     },
     {
       "date": "2027-03-12",
@@ -85,7 +85,7 @@
       "duree": "1h43",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "103' Z2 très facile (127-140 bpm) — pas de travail de force cette semaine\nCadence souple 85-90 rpm",
+      "structure": "103' Z2 très facile (127-140 bpm / 100-120 W) — pas de travail de force cette semaine\nCadence souple 85-90 rpm\nNUTRITION : 80g glucides/h si >90'",
       "dist_cible": 48.0
     },
     {
@@ -93,11 +93,11 @@
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique + bloc IM",
-      "duree": "1h24",
+      "duree": "1h26",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1500 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 7 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
-      "dist_cible_m": 3000
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1500 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 8 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3100 m",
+      "dist_cible_m": 3100
     },
     {
       "date": "2027-03-13",
@@ -118,7 +118,7 @@
       "duree": "4h17",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "257' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 80g glucides/h si >60'",
+      "structure": "257' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 80g glucides/h si >60'",
       "dist_cible": 120.0
     },
     {
@@ -136,12 +136,12 @@
       "date": "2027-03-14",
       "jour": "Dimanche",
       "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "55min",
+      "type": "Natation récupération",
+      "duree": "58min",
       "zone": "-",
-      "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 5 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 200 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2100 m",
-      "dist_cible_m": 2100
+      "rpe": "2",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 17 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1950 m",
+      "dist_cible_m": 1950
     }
   ]
 }

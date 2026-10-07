@@ -6,21 +6,21 @@
       "jour": "Lundi",
       "sport": "Repos",
       "type": "OFF — Paris",
-      "duree": "—",
-      "zone": "",
-      "rpe": "",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
       "structure": "Repos complet"
     },
     {
       "date": "2026-12-22",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x18' @ 84% FTP — r=5'",
-      "duree": "2h16",
+      "type": "Vélo clé — 2x12' @ 90% FTP — r=5'",
+      "duree": "1h49",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "85' EF Z2 (127-140 bpm) | 2x18' @ 84% FTP — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~163 bpm (84% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm)",
-      "dist_cible": 63.5
+      "structure": "70' EF Z2 (127-140 bpm / 120-140 W) | 2x12' @ 90% FTP (180 W) — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~163 bpm (84% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "dist_cible": 51.0
     },
     {
       "date": "2026-12-22",
@@ -41,51 +41,73 @@
       "duree": "1h40",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "100' Z2 (127-140 bpm) — parcours Paris, terrain plat\nCadence souple 85-90 rpm",
+      "structure": "100' Z2 (127-140 bpm / 120-140 W) — parcours Paris, terrain plat\nCadence souple 85-90 rpm\nNUTRITION : 60g glucides/h si >90'",
       "dist_cible": 46.5
+    },
+    {
+      "date": "2026-12-23",
+      "jour": "Mercredi",
+      "sport": "Course",
+      "type": "CAP en Brick — 15'",
+      "duree": "15min",
+      "zone": "Z2-Z3",
+      "rpe": "4",
+      "structure": "Transition directe après vélo — 15' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
+      "dist_cible": 2.5
     },
     {
       "date": "2026-12-24",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "Qualité — 20-15-10 (SV1 / SV1+ / Allure Marathon)",
-      "duree": "1h05",
-      "zone": "Z3",
+      "type": "Tempo — Progressif 2x8' (80/85%) — décharge",
+      "duree": "40min",
+      "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : durabilité allure marathon (SV1 → SV1+) — répéter le ravitaillement : 30 g de glucides\n\n8' EF Z2 (127-140 bpm)\n\n20' SV1 (155-165 bpm)\n3' de repos\n15' SV1+ (165-171 bpm)\n3' de repos\n10' Allure Marathon (155-165 bpm)\n\n6' EF Z2 (127-140 bpm)",
-      "dist_cible": 11.5
+      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n14' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n8' à 80% FC max (155 bpm)\n8' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n10' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
+      "dist_cible": 6.5
     },
     {
       "date": "2026-12-25",
       "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — veille Noël / Paris",
-      "duree": "1h05",
-      "zone": "Z2",
-      "rpe": "2",
-      "structure": "65' EF Z2 (127-140 bpm) facile — parcours Paris",
-      "dist_cible": 10.5
+      "sport": "Repos",
+      "type": "OFF — Noël",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet"
     },
     {
       "date": "2026-12-26",
       "jour": "Samedi",
-      "sport": "Repos",
-      "type": "OFF — Paris",
-      "duree": "—",
-      "zone": "",
-      "rpe": "",
-      "structure": "Repos complet"
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "1h10",
+      "zone": "-",
+      "rpe": "4",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 7 x 300 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 250 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2750 m",
+      "dist_cible_m": 2750
+    },
+    {
+      "date": "2026-12-26",
+      "jour": "Samedi",
+      "sport": "Course",
+      "type": "EF + strides",
+      "duree": "50min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "50' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2 — parcours Paris",
+      "dist_cible": 8.0
     },
     {
       "date": "2026-12-27",
       "jour": "Dimanche",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 111' (18 km)",
-      "duree": "1h51",
+      "type": "SORTIE LONGUE Z2 — 80' (13 km)",
+      "duree": "1h20",
       "zone": "Z2",
-      "rpe": "6",
-      "structure": "111' Z2 stable (127-140 bpm) — parcours Paris\nGel à 45' et 90'",
-      "dist_cible": 18.0
+      "rpe": "5",
+      "structure": "80' Z2 stable (127-140 bpm) — parcours Paris\nAllure conversationnelle — cadence 170-175 spm\nSemaine deload — volume réduit",
+      "dist_cible": 13.0
     }
   ]
 }

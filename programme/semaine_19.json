@@ -30,18 +30,18 @@
       "duree": "51min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "51' Z2 très facile (127-140 bpm) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "51' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 24.0
     },
     {
       "date": "2027-01-06",
       "jour": "Mercredi",
       "sport": "Velo",
-      "type": "Vélo clé — 2x28' @ 84% FTP — r=5'",
+      "type": "Vélo clé — 2x28' @ 90% FTP — r=5'",
       "duree": "2h04",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "53' EF Z2 (127-140 bpm) | 2x28' @ 84% FTP — r=5'\nObjectif : travailler juste sous le seuil lactique (sweet spot)\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 70g glucides/h si >90'\n10' RC (127-140 bpm)",
+      "structure": "53' EF Z2 (127-140 bpm / 120-140 W) | 2x28' @ 90% FTP (180 W) — r=5'\nObjectif : travailler juste sous le seuil lactique (sweet spot)\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 70g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 58.0
     },
     {
@@ -59,12 +59,12 @@
       "date": "2027-01-07",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation récupération",
-      "duree": "58min",
+      "type": "Natation test CSS 400/200",
+      "duree": "1h13",
       "zone": "-",
-      "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 16 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1900 m",
-      "dist_cible_m": 1900
+      "rpe": "7",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:25/100 m) puis 8 x 50 m progressif (du souple au soutenu) — repos 15 s\nTest 1 : 400 m à fond, chrono à noter — puis 200 m très souple\nTest 2 : 200 m à fond, chrono à noter\nSérie soutenue : 9 x 100 m à allure soutenue (135-148 bpm, 2:08/100 m) — repos 15 s + 50 m souple\nRetour au calme : 200 m souple (110-126 bpm)\nCalcul : allure CSS /100 m = (chrono 400 m − chrono 200 m) ÷ 2 ; relève aussi ta FC moyenne sur le 400 m : c'est ta zone seuil natation réelle (à ± 5 bpm) ; CSS prévue cette semaine : 2:05/100 m\nRecalage : allure IM = CSS + 6 s ; soutenu = CSS + 3 s ; seuil = CSS ; souple = CSS + 20 s — décale les allures du fichier du même écart\nTotal : 2550 m",
+      "dist_cible_m": 2550
     },
     {
       "date": "2027-01-08",
@@ -85,7 +85,7 @@
       "duree": "1h43",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "61' EF (127-140 bpm) | 5x4' basse cadence (55-62 rpm) @ Z2 — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm)",
+      "structure": "61' EF (127-140 bpm / 120-140 W) | 5x4' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 70g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 48.0
     },
     {
@@ -93,21 +93,21 @@
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique + bloc IM",
-      "duree": "1h26",
+      "duree": "1h39",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1200 m à allure IM, sans arrêt (135-148 bpm, 2:11/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 10 x 100 m (135-148 bpm, 2:08/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
-      "dist_cible_m": 3000
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1200 m à allure IM, sans arrêt (135-148 bpm, 2:11/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 16 x 100 m (135-148 bpm, 2:08/100 m) — repos 30 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3650 m",
+      "dist_cible_m": 3650
     },
     {
       "date": "2027-01-09",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 + fin Z3 — 117' (19 km)",
+      "type": "SORTIE LONGUE Z2 + fin allure IM — 117' (19 km)",
       "duree": "1h57",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "107' Z2 (127-140 bpm) | 8' Z3 bas (141-150 bpm) | 2' RC\nFC < 141 bpm sur 85% du temps\nNutrition : gel à 45' et 90'",
+      "structure": "107' Z2 (127-140 bpm) | 8' allure IM (150-155 bpm) | 2' RC\nFC < 141 bpm sur 85% du temps\nNutrition : gel à 45' et 90'",
       "dist_cible": 19.0
     },
     {
@@ -118,7 +118,7 @@
       "duree": "4h17",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "257' Z2 (127-140 bpm)\nCadence 85-92 rpm\nNUTRITION : 70g glucides/h si >60'",
+      "structure": "257' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 70g glucides/h si >60'",
       "dist_cible": 120.0
     },
     {
@@ -136,12 +136,12 @@
       "date": "2027-01-10",
       "jour": "Dimanche",
       "sport": "Natation",
-      "type": "Natation test CSS 400/200",
-      "duree": "1h03",
+      "type": "Natation récupération",
+      "duree": "1h09",
       "zone": "-",
-      "rpe": "7",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:25/100 m) puis 8 x 50 m progressif (du souple au soutenu) — repos 15 s\nTest 1 : 400 m à fond, chrono à noter — puis 200 m très souple\nTest 2 : 200 m à fond, chrono à noter\nSérie soutenue : 5 x 100 m à allure soutenue (135-148 bpm, 2:08/100 m) — repos 15 s\nRetour au calme : 200 m souple (110-126 bpm)\nCalcul : allure CSS /100 m = (chrono 400 m − chrono 200 m) ÷ 2 ; relève aussi ta FC moyenne sur le 400 m : c'est ta zone seuil natation réelle (à ± 5 bpm) ; CSS prévue cette semaine : 2:05/100 m\nRecalage : allure IM = CSS + 6 s ; soutenu = CSS + 3 s ; seuil = CSS ; souple = CSS + 20 s — décale les allures du fichier du même écart\nTotal : 2100 m",
-      "dist_cible_m": 2100
+      "rpe": "2",
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 20 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2300 m",
+      "dist_cible_m": 2300
     }
   ]
 }

@@ -6,9 +6,9 @@
       "jour": "Lundi",
       "sport": "Repos",
       "type": "OFF",
-      "duree": "—",
-      "zone": "",
-      "rpe": "",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
       "structure": "Repos complet"
     },
     {
@@ -26,6 +26,28 @@
       "date": "2026-12-30",
       "jour": "Mercredi",
       "sport": "Course",
+      "type": "EF Z2 + accélérations",
+      "duree": "1h",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "60' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
+      "dist_cible": 10.0
+    },
+    {
+      "date": "2026-12-30",
+      "jour": "Mercredi",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "1h",
+      "zone": "-",
+      "rpe": "4",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 6 x 300 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2250 m",
+      "dist_cible_m": 2250
+    },
+    {
+      "date": "2026-12-31",
+      "jour": "Jeudi",
+      "sport": "Course",
       "type": "Tempo — Jog progressif 37' (version courte)",
       "duree": "37min",
       "zone": "Z2-Z3",
@@ -34,26 +56,25 @@
       "dist_cible": 6.5
     },
     {
-      "date": "2026-12-31",
-      "jour": "Jeudi",
-      "sport": "Course",
-      "type": "EF + côtes — 8x30''",
-      "duree": "43min",
-      "zone": "Z2",
-      "rpe": "4",
-      "structure": "22' EF (127-140 bpm) | 8x30'' côtes (r=90'' trot) | 5' RC",
-      "dist_cible": 7.0
-    },
-    {
       "date": "2027-01-01",
       "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "33min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "33' EF Z1-Z2 (120-135 bpm) — COURT\nVraie récup — pas de strides",
-      "dist_cible": 5.0
+      "sport": "Repos",
+      "type": "OFF — Nouvel An",
+      "duree": "-",
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet"
+    },
+    {
+      "date": "2027-01-02",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h39",
+      "zone": "-",
+      "rpe": "5",
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1000 m à allure IM, sans arrêt (135-148 bpm, 2:13/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 17 x 100 m (135-148 bpm, 2:10/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3500 m",
+      "dist_cible_m": 3500
     },
     {
       "date": "2027-01-02",
@@ -69,24 +90,46 @@
     {
       "date": "2027-01-02",
       "jour": "Samedi",
-      "sport": "Natation",
-      "type": "Natation technique + bloc IM",
-      "duree": "1h39",
-      "zone": "-",
-      "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1000 m à allure IM, sans arrêt (135-148 bpm, 2:13/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 17 x 100 m (135-148 bpm, 2:10/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3500 m",
-      "dist_cible_m": 3500
+      "sport": "Velo",
+      "type": "Vélo récupération Z2",
+      "duree": "1h",
+      "zone": "Z2",
+      "rpe": "2",
+      "structure": "60' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
+      "dist_cible": 28.0
     },
     {
       "date": "2027-01-03",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Vélo récup Z2 post-semaine CAP",
-      "duree": "2h30",
+      "type": "Sortie longue — 193' (90.0 km)",
+      "duree": "3h13",
+      "zone": "Z2-Z3",
+      "rpe": "6",
+      "structure": "193' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 60g glucides/h si >60'",
+      "dist_cible": 90.0
+    },
+    {
+      "date": "2027-01-03",
+      "jour": "Dimanche",
+      "sport": "Course",
+      "type": "CAP en Brick — 15'",
+      "duree": "15min",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "150' Z2 (127-140 bpm)\nCadence 85-92 rpm\nSemaine deload — volume réduit\nNUTRITION : 60g glucides/h si >60'",
-      "dist_cible": 70.0
+      "structure": "Transition directe après vélo — 15' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
+      "dist_cible": 2.5
+    },
+    {
+      "date": "2027-01-03",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "1h07",
+      "zone": "-",
+      "rpe": "4",
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 5 x 400 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 30 s + 200 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2600 m",
+      "dist_cible_m": 2600
     }
   ]
 }

@@ -19,7 +19,7 @@
       "duree": "43min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "43' Z2 très facile (127-140 bpm) — activation/vérification matériel",
+      "structure": "43' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
       "dist_cible": 19.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "37min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "37' Z2 très facile (127-140 bpm) — activation/vérification matériel",
+      "structure": "37' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
       "dist_cible": 17.0
     },
     {
@@ -63,7 +63,7 @@
       "duree": "27min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "27' Z2 très facile (127-140 bpm) — activation/vérification matériel",
+      "structure": "27' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
       "dist_cible": 12.0
     },
     {
@@ -107,7 +107,7 @@
       "duree": "17min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "17' Z2 très facile (127-140 bpm) — activation/vérification matériel",
+      "structure": "17' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
       "dist_cible": 8.0
     },
     {
