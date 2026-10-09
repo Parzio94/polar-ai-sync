@@ -15,12 +15,12 @@
       "date": "2026-10-27",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 1km lent/rapide x1 (80/87%) — décharge",
-      "duree": "28min",
-      "zone": "Z3-Z4",
-      "rpe": "6",
-      "structure": "Objectif : économie de course et relance (alternance lent / rapide)\n\n10' EF Z2 (127-140 bpm)\n\n1 x [1 km à 80% FC max (155 bpm) — 1'15 de repos — 1 km à 87% (169 bpm)]\n1'40 de repos entre chaque série\n\n7' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
-      "dist_cible": 5.0
+      "type": "Qualité — 1km lent/rapide x2 (80/87%)",
+      "duree": "46min",
+      "zone": "Z2-Z3",
+      "rpe": "5",
+      "structure": "Objectif : économie de course et relance (alternance lent / rapide)\n\n13' EF Z2 (127-140 bpm)\n\n2 x [1 km à 80% FC max (155 bpm) — 1'15 de repos — 1 km à 87% (169 bpm)]\n1'40 de repos entre chaque série\n\n9' EF Z2 (127-140 bpm)",
+      "dist_cible": 8.0
     },
     {
       "date": "2026-10-27",
@@ -52,8 +52,8 @@
       "duree": "40min",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:29/100 m)\nSérie principale : 3 x 300 m à allure soutenue (135-148 bpm, 2:12/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1350 m",
-      "dist_cible_m": 1350
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:29/100 m)\nSérie principale : 7 x 300 m à allure soutenue (135-148 bpm, 2:12/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1350 m",
+      "dist_cible_m": 2550
     },
     {
       "date": "2026-10-29",
@@ -64,7 +64,7 @@
       "zone": "Z1-Z2",
       "rpe": "2",
       "structure": "31' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
-      "dist_cible": 5.0
+      "dist_cible": 3.0
     },
     {
       "date": "2026-10-30",
@@ -97,7 +97,7 @@
       "zone": "Z2",
       "rpe": "5",
       "structure": "Z2 49' — allure conversationnelle\nFC : 127-140 bpm",
-      "dist_cible": 8.0
+      "dist_cible": 7.0
     },
     {
       "date": "2026-11-01",
@@ -109,17 +109,6 @@
       "rpe": "4",
       "structure": "167' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nSemaine deload — volume réduit\nNUTRITION : 50g glucides/h si >60'",
       "dist_cible": 78.0
-    },
-    {
-      "date": "2026-11-01",
-      "jour": "Dimanche",
-      "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "37min",
-      "zone": "-",
-      "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:29/100 m)\nSérie principale : 4 x 200 m à allure soutenue (135-148 bpm, 2:12/100 m) — repos 20 s\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1200 m",
-      "dist_cible_m": 1200
     }
   ]
 }

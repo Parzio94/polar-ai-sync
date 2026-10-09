@@ -52,8 +52,8 @@
       "duree": "43min",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 3 x 300 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 200 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1500 m",
-      "dist_cible_m": 1500
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 8 x 300 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1500 m",
+      "dist_cible_m": 2850
     },
     {
       "date": "2026-11-26",
@@ -120,17 +120,6 @@
       "rpe": "4",
       "structure": "182' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nSemaine deload — volume réduit\nNUTRITION : 60g glucides/h si >60'",
       "dist_cible": 85.0
-    },
-    {
-      "date": "2026-11-29",
-      "jour": "Dimanche",
-      "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "40min",
-      "zone": "-",
-      "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 4 x 200 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 150 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1350 m",
-      "dist_cible_m": 1350
     }
   ]
 }
