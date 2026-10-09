@@ -15,78 +15,78 @@
       "date": "2027-06-22",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Activation + vérif vélo",
-      "duree": "43min",
+      "type": "Activation — 3x5' allure IM + vérif vélo",
+      "duree": "1h",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "43' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
-      "dist_cible": 19.0
+      "structure": "36' Z2 (127-140 bpm / 120-140 W) | 3x5' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=3'\nObjectif : activation + vérification matériel (réglages, pression des pneus, ravitaillement de course)\n3' RC (127-140 bpm / 120-140 W)",
+      "dist_cible": 28.0
     },
     {
       "date": "2027-06-22",
       "jour": "Mardi",
       "sport": "Course",
       "type": "EF + strides",
-      "duree": "17min",
+      "duree": "20min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "EF + strides (127-140 bpm)",
-      "dist_cible": 2.5
+      "structure": "20' EF Z2 (127-140 bpm) | 4x20'' strides en fin\nJambes légères, aucune fatigue",
+      "dist_cible": 3.0
     },
     {
       "date": "2027-06-23",
       "jour": "Mercredi",
       "sport": "Velo",
       "type": "Check matériel + activation",
-      "duree": "37min",
+      "duree": "35min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "37' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
-      "dist_cible": 17.0
+      "structure": "35' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
+      "dist_cible": 16.0
     },
     {
       "date": "2027-06-23",
       "jour": "Mercredi",
       "sport": "Natation",
-      "type": "Activation natation — 1 session",
-      "duree": "44min",
+      "type": "Natation — 3x300 allure IM (activation)",
+      "duree": "45min",
       "zone": "Z1-Z2",
       "rpe": "3",
-      "structure": "Échauffement : 300 m souple (110-126 bpm, 2:21/100 m)\nSérie : 8 x 100 m progressif (du souple à l'allure course) — repos 20 s\nActivation : 4 x 50 m à allure course (135-148 bpm, 2:07/100 m) — repos 20 s\nRetour au calme : 200 m souple — en mer si possible\nTotal : 1500 m",
-      "dist_cible_m": 1500
+      "structure": "Échauffement : 300 m souple (110-126 bpm, 2:21/100 m)\nSérie : 3 x 300 m à allure IM (135-148 bpm, 2:07/100 m) — repos 30 s — sighting toutes les 6-8 cycles de bras\nDétente : 4 x 50 m progressif (du souple à l'allure course) — repos 20 s\nRetour au calme : 200 m souple — en mer si possible\nTotal : 1600 m",
+      "dist_cible_m": 1600
     },
     {
       "date": "2027-06-24",
       "jour": "Jeudi",
       "sport": "Velo",
-      "type": "Activation très légère",
-      "duree": "27min",
+      "type": "Activation — 3x2' allure IM",
+      "duree": "45min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "27' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
-      "dist_cible": 12.0
+      "structure": "30' Z2 (127-140 bpm / 120-140 W) | 3x2' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=2'\nObjectif : activation, retrouver les sensations de course\n5' RC (127-140 bpm / 120-140 W)",
+      "dist_cible": 21.0
     },
     {
       "date": "2027-06-24",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF + visualisation",
-      "duree": "15min",
+      "type": "EF + 3x1' allure IM + visualisation",
+      "duree": "25min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "EF + visualisation (127-140 bpm)",
-      "dist_cible": 2.5
+      "structure": "25' EF Z2 (127-140 bpm) dont 3x1' allure IM (150-155 bpm) — r=2'\nVisualisation de la course (transitions, ravitaillement)",
+      "dist_cible": 4.0
     },
     {
       "date": "2027-06-25",
       "jour": "Vendredi",
       "sport": "Natation",
-      "type": "Activation natation — courte",
-      "duree": "29min",
+      "type": "Activation natation — 1200 m",
+      "duree": "30min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:21/100 m)\nSérie : 4 x 100 m à allure course (135-148 bpm, 2:07/100 m) — repos 20 s\nDétente : 4 x 50 m souple\nRetour au calme : 200 m souple — repérage du parcours\nTotal : 1000 m",
-      "dist_cible_m": 1000
+      "structure": "Échauffement : 300 m souple (110-126 bpm, 2:21/100 m)\nSérie : 5 x 100 m à allure course (135-148 bpm, 2:07/100 m) — repos 20 s\nDétente : 4 x 50 m souple\nRetour au calme : 200 m souple — repérage du parcours\nTotal : 1200 m",
+      "dist_cible_m": 1200
     },
     {
       "date": "2027-06-25",
@@ -104,11 +104,33 @@
       "jour": "Samedi",
       "sport": "Velo",
       "type": "Activation finale — dépôt T1",
-      "duree": "17min",
+      "duree": "25min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "17' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
-      "dist_cible": 8.0
+      "structure": "25' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
+      "dist_cible": 12.0
+    },
+    {
+      "date": "2027-06-26",
+      "jour": "Samedi",
+      "sport": "Course",
+      "type": "Footing 10' + 3 accélérations",
+      "duree": "10min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "10' EF Z2 (127-140 bpm) | 3 accélérations de 15'' à allure course\nAprès le vélo d'activation",
+      "dist_cible": 1.5
+    },
+    {
+      "date": "2027-06-26",
+      "jour": "Samedi",
+      "sport": "Natation",
+      "type": "Nage 10' en eau libre",
+      "duree": "10min",
+      "zone": "Z1-Z2",
+      "rpe": "2",
+      "structure": "Nage : 400 m souple en combinaison (110-126 bpm), sur le parcours si autorisé\nConsigne : repérage des bouées et du sighting toutes les 6-8 cycles de bras\nTotal : 400 m",
+      "dist_cible_m": 400
     },
     {
       "date": "2027-06-27",

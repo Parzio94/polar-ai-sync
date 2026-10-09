@@ -38,33 +38,33 @@
       "jour": "Mercredi",
       "sport": "Velo",
       "type": "Vélo clé — Bloc allure IM 3x25' (136-146 bpm) — r=5'",
-      "duree": "2h30",
+      "duree": "2h36",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "55' EF Z2 (127-140 bpm / 120-140 W) | 3x25' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=5'\nObjectif : spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\nFC bloc cible : 136-146 bpm (70-75% FC max) | Cadence : 85-92 rpm | RPE 5-6/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
-      "dist_cible": 70.0
+      "structure": "61' EF Z2 (127-140 bpm / 120-140 W) | 3x25' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=5'\nObjectif : spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\nFC bloc cible : 136-146 bpm (70-75% FC max) | Cadence : 85-92 rpm | RPE 5-6/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "dist_cible": 73.0
     },
     {
       "date": "2027-04-01",
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "1h23",
+      "duree": "1h17",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "83' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle",
-      "dist_cible": 13.5
+      "structure": "77' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle",
+      "dist_cible": 12.5
     },
     {
       "date": "2027-04-01",
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation seuil + soutenu",
-      "duree": "1h14",
+      "duree": "1h23",
       "zone": "-",
       "rpe": "6",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie seuil : 10 x 100 m à l'allure CSS (150-160 bpm, 2:03/100 m) — repos 15 s\nSérie soutenue : 7 x 200 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 100 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : seuil = effort dur mais régulier, même chrono sur chaque 100 m ; sighting toutes les 6-8 cycles de bras\nTotal : 2900 m",
-      "dist_cible_m": 2900
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie seuil : 10 x 100 m à l'allure CSS (150-160 bpm, 2:03/100 m) — repos 15 s\nSérie soutenue : 8 x 200 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : seuil = effort dur mais régulier, même chrono sur chaque 100 m ; sighting toutes les 6-8 cycles de bras\nTotal : 3000 m",
+      "dist_cible_m": 3000
     },
     {
       "date": "2027-04-02",
@@ -82,33 +82,33 @@
       "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force spécifique",
-      "duree": "2h02",
+      "duree": "2h06",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "75' EF (127-140 bpm / 120-140 W) | 5x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
-      "dist_cible": 57.0
+      "structure": "79' EF (127-140 bpm / 120-140 W) | 5x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "dist_cible": 59.0
     },
     {
       "date": "2027-04-03",
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique + bloc IM",
-      "duree": "1h47",
+      "duree": "1h39",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 2200 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 11 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 4100 m",
-      "dist_cible_m": 4100
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 2200 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 8 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3800 m",
+      "dist_cible_m": 3800
     },
     {
       "date": "2027-04-03",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 + fin allure IM — 154' (25 km)",
-      "duree": "2h34",
+      "type": "SORTIE LONGUE Z2 + fin allure IM — 148' (24 km)",
+      "duree": "2h28",
       "zone": "Z2-Z3",
       "rpe": "7",
-      "structure": "129' Z2 (127-140 bpm) | 20' allure IM (150-155 bpm) | 5' Z2 retour au calme\nBloc allure IM dans le dernier tiers, jambes fatiguées : c'est la fatigue qui fait le travail, pas la vitesse\nNutrition : gel à 45', 90' et 135'",
-      "dist_cible": 25.0
+      "structure": "123' Z2 (127-140 bpm) | 20' allure IM (150-155 bpm) | 5' Z2 retour au calme\nBloc allure IM dans le dernier tiers, jambes fatiguées : c'est la fatigue qui fait le travail, pas la vitesse\nNutrition : gel à 45', 90' et 135'",
+      "dist_cible": 24.0
     },
     {
       "date": "2027-04-04",
@@ -137,11 +137,11 @@
       "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "1h15",
+      "duree": "1h04",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 23 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2550 m",
-      "dist_cible_m": 2550
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 19 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2200 m",
+      "dist_cible_m": 2200
     }
   ]
 }

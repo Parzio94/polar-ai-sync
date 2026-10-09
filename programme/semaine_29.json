@@ -38,22 +38,22 @@
       "jour": "Mercredi",
       "sport": "Velo",
       "type": "Vélo clé — 2x30' @ 90% FTP — r=5'",
-      "duree": "2h26",
+      "duree": "2h21",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "71' EF Z2 (127-140 bpm / 120-140 W) | 2x30' @ 90% FTP (180 W) — r=5'\nObjectif : travailler juste sous le seuil lactique (sweet spot)\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
-      "dist_cible": 68.0
+      "structure": "66' EF Z2 (127-140 bpm / 120-140 W) | 2x30' @ 90% FTP (180 W) — r=5'\nObjectif : travailler juste sous le seuil lactique (sweet spot)\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "dist_cible": 66.0
     },
     {
       "date": "2027-03-18",
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF Z2 — court",
-      "duree": "1h20",
+      "duree": "1h14",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "80' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle",
-      "dist_cible": 13.0
+      "structure": "74' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle",
+      "dist_cible": 12.0
     },
     {
       "date": "2027-03-18",
@@ -82,33 +82,33 @@
       "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force spécifique",
-      "duree": "2h",
+      "duree": "2h04",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "73' EF (127-140 bpm / 120-140 W) | 5x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
-      "dist_cible": 56.0
+      "structure": "77' EF (127-140 bpm / 120-140 W) | 5x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 80g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "dist_cible": 58.0
     },
     {
       "date": "2027-03-20",
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique + bloc IM",
-      "duree": "1h38",
+      "duree": "1h37",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 2000 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 8 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3650 m",
-      "dist_cible_m": 3650
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 2100 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 8 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3700 m",
+      "dist_cible_m": 3700
     },
     {
       "date": "2027-03-20",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 + fin allure IM — 142' (23 km)",
-      "duree": "2h22",
+      "type": "SORTIE LONGUE Z2 + fin allure IM — 135' (22 km)",
+      "duree": "2h15",
       "zone": "Z2-Z3",
       "rpe": "7",
-      "structure": "117' Z2 (127-140 bpm) | 20' allure IM (150-155 bpm) | 5' Z2 retour au calme\nBloc allure IM dans le dernier tiers, jambes fatiguées : c'est la fatigue qui fait le travail, pas la vitesse\nGel à 45' et 90'",
-      "dist_cible": 23.0
+      "structure": "110' Z2 (127-140 bpm) | 20' allure IM (150-155 bpm) | 5' Z2 retour au calme\nBloc allure IM dans le dernier tiers, jambes fatiguées : c'est la fatigue qui fait le travail, pas la vitesse\nGel à 45' et 90'",
+      "dist_cible": 22.0
     },
     {
       "date": "2027-03-21",
@@ -137,11 +137,11 @@
       "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "1h06",
+      "duree": "1h05",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 20 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2250 m",
-      "dist_cible_m": 2250
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 19 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2200 m",
+      "dist_cible_m": 2200
     }
   ]
 }

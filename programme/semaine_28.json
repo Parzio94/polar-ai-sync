@@ -15,12 +15,12 @@
       "date": "2027-03-09",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — Jog progressif 66'",
-      "duree": "1h06",
+      "type": "Tempo — Jog progressif 54'",
+      "duree": "54min",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max)\n\n22' à 70-72% FC max (136-140 bpm)\n22' à 74-77% (144-149 bpm)\n22' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)",
-      "dist_cible": 11.5
+      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max) — reprise post-ski\n\n18' à 70-72% FC max (136-140 bpm)\n18' à 74-77% (144-149 bpm)\n18' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)",
+      "dist_cible": 9.5
     },
     {
       "date": "2027-03-09",
@@ -38,11 +38,11 @@
       "jour": "Mercredi",
       "sport": "Velo",
       "type": "Vélo Z2 — reprise en douceur",
-      "duree": "2h04",
+      "duree": "2h",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "124' Z2 (127-140 bpm / 120-140 W) — pas de bloc FTP cette semaine (reprise post-ski)\nCadence souple 85-90 rpm\nNUTRITION : 80g glucides/h si >90'",
-      "dist_cible": 58.0
+      "structure": "120' Z2 (127-140 bpm / 120-140 W) — pas de bloc FTP cette semaine (reprise post-ski)\nCadence souple 85-90 rpm\nNUTRITION : 80g glucides/h si >90'",
+      "dist_cible": 56.0
     },
     {
       "date": "2027-03-11",
@@ -60,11 +60,11 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation endurance",
-      "duree": "56min",
+      "duree": "57min",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 5 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 250 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2150 m",
-      "dist_cible_m": 2150
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 6 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2250 m",
+      "dist_cible_m": 2250
     },
     {
       "date": "2027-03-12",
@@ -82,44 +82,44 @@
       "jour": "Vendredi",
       "sport": "Velo",
       "type": "Vélo Z2 — facile",
-      "duree": "1h43",
+      "duree": "1h36",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "103' Z2 très facile (127-140 bpm / 100-120 W) — pas de travail de force cette semaine\nCadence souple 85-90 rpm\nNUTRITION : 80g glucides/h si >90'",
-      "dist_cible": 48.0
+      "structure": "96' Z2 très facile (127-140 bpm / 100-120 W) — pas de travail de force cette semaine\nCadence souple 85-90 rpm\nNUTRITION : 80g glucides/h si >90'",
+      "dist_cible": 45.0
     },
     {
       "date": "2027-03-13",
       "jour": "Samedi",
       "sport": "Natation",
       "type": "Natation technique + bloc IM",
-      "duree": "1h26",
+      "duree": "1h22",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1500 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 8 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3100 m",
-      "dist_cible_m": 3100
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1500 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 7 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
+      "dist_cible_m": 3000
     },
     {
       "date": "2027-03-13",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 123' (20 km)",
-      "duree": "2h03",
+      "type": "SORTIE LONGUE Z2 — 111' (18 km)",
+      "duree": "1h51",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "123' Z2 (127-140 bpm)\nAllure conversationnelle — reprise, pas de surge Z3\nGel à 45' et 90'",
-      "dist_cible": 20.0
+      "structure": "111' Z2 (127-140 bpm)\nAllure conversationnelle — reprise, pas de surge Z3\nGel à 45' et 90'",
+      "dist_cible": 18.0
     },
     {
       "date": "2027-03-14",
       "jour": "Dimanche",
       "sport": "Velo",
-      "type": "Sortie longue — 257' (120.0 km)",
-      "duree": "4h17",
+      "type": "Sortie longue — 246' (115.0 km)",
+      "duree": "4h06",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "257' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 80g glucides/h si >60'",
-      "dist_cible": 120.0
+      "structure": "246' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 80g glucides/h si >60'",
+      "dist_cible": 115.0
     },
     {
       "date": "2027-03-14",
@@ -137,11 +137,11 @@
       "jour": "Dimanche",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "58min",
+      "duree": "52min",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 17 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1950 m",
-      "dist_cible_m": 1950
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 15 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1750 m",
+      "dist_cible_m": 1750
     }
   ]
 }

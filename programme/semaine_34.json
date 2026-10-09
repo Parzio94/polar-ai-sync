@@ -49,22 +49,22 @@
       "jour": "Jeudi",
       "sport": "Natation",
       "type": "Natation récupération",
-      "duree": "1h13",
+      "duree": "1h24",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 22 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2500 m",
-      "dist_cible_m": 2500
+      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 26 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2900 m",
+      "dist_cible_m": 2900
     },
     {
       "date": "2027-04-22",
       "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides",
-      "duree": "1h01",
+      "duree": "1h05",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "61' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
-      "dist_cible": 10.0
+      "structure": "65' EF Z2 (127-140 bpm) | 4x20'' strides\nJamais > Z2",
+      "dist_cible": 10.5
     },
     {
       "date": "2027-04-23",
@@ -118,7 +118,7 @@
       "duree": "15min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "15' Z2 très facile — vérification matériel / dépôt sac T1-T2",
+      "structure": "15' Z2 très facile (127-140 bpm / 100-120 W) — vérification matériel / dépôt sac T1-T2",
       "dist_cible": 7.0
     },
     {
