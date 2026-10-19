@@ -95,7 +95,7 @@
       "duree": "1h",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "",
+      "structure": "60' Z1 très facile (< 127 bpm / 100-110 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 28.0
     },
     {
@@ -106,7 +106,7 @@
       "duree": "3h13",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "",
+      "structure": "193' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 60g glucides/h si >60'",
       "dist_cible": 90.0
     },
     {

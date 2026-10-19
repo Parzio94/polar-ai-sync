@@ -31,7 +31,7 @@
       "duree": "1h09",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "",
+      "structure": "69' Z1 très facile (< 127 bpm / 100-110 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 32.0
     },
     {
@@ -42,7 +42,7 @@
       "duree": "2h47",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "",
+      "structure": "62' EF Z2 (127-140 bpm / 120-140 W) | 2x45' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=5'\nObjectif : spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\nFC bloc cible : 136-146 bpm (70-75% FC max) | Cadence : 85-92 rpm | RPE 5-6/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 78.0
     },
     {
@@ -86,7 +86,7 @@
       "duree": "2h19",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "",
+      "structure": "84' EF (127-140 bpm / 120-140 W) | 6x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 65.0
     },
     {
@@ -119,7 +119,7 @@
       "duree": "6h09",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "",
+      "structure": "369' Z2 (127-140 bpm / 120-140 W) dont 3x45' allure IM (136-146 bpm / 140-150 W) dans la seconde moitié — r=10' Z2\nCadence 85-92 rpm\nNUTRITION : 90g glucides/h si >60'",
       "dist_cible": 172.0
     },
     {

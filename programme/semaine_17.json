@@ -19,7 +19,7 @@
       "duree": "1h49",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "",
+      "structure": "70' EF Z2 (127-140 bpm / 120-140 W) | 2x12' @ 90% FTP (180 W) — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~163 bpm (84% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
       "dist_cible": 51.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h40",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "",
+      "structure": "100' Z2 (127-140 bpm / 120-140 W) — parcours Paris, terrain plat\nCadence souple 85-90 rpm\nNUTRITION : 60g glucides/h si >90'",
       "dist_cible": 46.5
     },
     {

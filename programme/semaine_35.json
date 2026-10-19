@@ -30,7 +30,7 @@
       "duree": "1h",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "",
+      "structure": "60' Z1 très facile (< 127 bpm / 100-110 W) — récupération active\nCadence souple 85-90 rpm",
       "dist_cible": 28.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h58",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "",
+      "structure": "118' Z2 (127-140 bpm / 120-140 W) — Z2 facile, pas de bloc FTP (reprise post-Lacanau)\nCadence souple 85-90 rpm\nNUTRITION : 90g glucides/h si >90'",
       "dist_cible": 55.0
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h15",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "",
+      "structure": "75' Z2 facile (127-140 bpm / 120-140 W)\nCadence souple 85-90 rpm",
       "dist_cible": 35.0
     },
     {
@@ -107,7 +107,7 @@
       "duree": "3h34",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "",
+      "structure": "214' Z2 (127-140 bpm / 100-120 W) — Z2 léger, reprise du volume\nNUTRITION : 90g glucides/h si >90'",
       "dist_cible": 100.0
     },
     {
