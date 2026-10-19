@@ -27,11 +27,11 @@
       "date": "2027-06-01",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Vélo récupération Z2",
+      "type": "Vélo récupération Z1",
       "duree": "1h09",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "69' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "",
       "dist_cible": 32.0
     },
     {
@@ -42,19 +42,19 @@
       "duree": "2h47",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "62' EF Z2 (127-140 bpm / 120-140 W) | 2x45' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=5'\nObjectif : spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\nFC bloc cible : 136-146 bpm (70-75% FC max) | Cadence : 85-92 rpm | RPE 5-6/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 78.0
     },
     {
       "date": "2027-06-03",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "1h20",
+      "type": "EF Z2",
+      "duree": "1h32",
       "zone": "Z2",
       "rpe": "4",
-      "structure": "80' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle\nNutrition : gel à 45'",
-      "dist_cible": 13.0
+      "structure": "92' EF Z2 (127-140 bpm)\nAllure facile, cadence naturelle\nNutrition : gel à 45'",
+      "dist_cible": 15.0
     },
     {
       "date": "2027-06-03",
@@ -86,7 +86,7 @@
       "duree": "2h19",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "84' EF (127-140 bpm / 120-140 W) | 6x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 65.0
     },
     {
@@ -104,12 +104,12 @@
       "date": "2027-06-05",
       "jour": "Samedi",
       "sport": "Course",
-      "type": "SORTIE LONGUE Z2 — 197' (32 km)",
-      "duree": "3h17",
+      "type": "SORTIE LONGUE Z2 — 185' (30 km)",
+      "duree": "3h05",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "Z2 stable (197') — bloc final IM (127-140 bpm)\nGel à 45', 90', 135' et 180'\nAllure conversationnelle",
-      "dist_cible": 32.0
+      "structure": "Z2 stable (185') — bloc final IM (127-140 bpm)\nGel à 45', 90', 135' et 180'\nAllure conversationnelle",
+      "dist_cible": 30.0
     },
     {
       "date": "2027-06-06",
@@ -119,7 +119,7 @@
       "duree": "6h09",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "369' Z2 (127-140 bpm / 120-140 W) dont 3x45' allure IM (136-146 bpm / 140-150 W) dans la seconde moitié — r=10' Z2\nCadence 85-92 rpm\nNUTRITION : 90g glucides/h si >60'",
+      "structure": "",
       "dist_cible": 172.0
     },
     {

@@ -7,9 +7,9 @@
       "sport": "Repos",
       "type": "OFF — arrivée Sables d'Olonne",
       "duree": "-",
-      "zone": "",
-      "rpe": "",
-      "structure": ""
+      "zone": "-",
+      "rpe": "1",
+      "structure": "Repos complet — voyage et installation aux Sables d'Olonne"
     },
     {
       "date": "2027-06-22",
@@ -19,7 +19,7 @@
       "duree": "1h",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "36' Z2 (127-140 bpm / 120-140 W) | 3x5' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=3'\nObjectif : activation + vérification matériel (réglages, pression des pneus, ravitaillement de course)\n3' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 28.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "35min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "35' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
+      "structure": "",
       "dist_cible": 16.0
     },
     {
@@ -63,7 +63,7 @@
       "duree": "45min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "30' Z2 (127-140 bpm / 120-140 W) | 3x2' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=2'\nObjectif : activation, retrouver les sensations de course\n5' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 21.0
     },
     {
@@ -107,7 +107,7 @@
       "duree": "25min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "25' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
+      "structure": "",
       "dist_cible": 12.0
     },
     {

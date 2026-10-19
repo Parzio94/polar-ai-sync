@@ -26,11 +26,11 @@
       "date": "2027-04-06",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Vélo récupération Z2",
+      "type": "Vélo récupération Z1",
       "duree": "1h",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "60' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "",
       "dist_cible": 28.0
     },
     {
@@ -41,14 +41,14 @@
       "duree": "2h51",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "106' EF Z2 (127-140 bpm / 120-140 W) | 2x25' @ 90% FTP (180 W) — r=5'\nObjectif : travailler juste sous le seuil lactique (sweet spot)\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 80.0
     },
     {
       "date": "2027-04-08",
       "jour": "Jeudi",
       "sport": "Course",
-      "type": "EF Z2 — court",
+      "type": "EF Z2",
       "duree": "1h32",
       "zone": "Z2",
       "rpe": "4",
@@ -85,7 +85,7 @@
       "duree": "2h13",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "86' EF (127-140 bpm / 120-140 W) | 5x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 62.0
     },
     {
@@ -118,7 +118,7 @@
       "duree": "5h43",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "343' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 90g glucides/h si >60'",
+      "structure": "",
       "dist_cible": 160.0
     },
     {

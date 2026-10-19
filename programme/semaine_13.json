@@ -16,21 +16,21 @@
       "jour": "Mardi",
       "sport": "Course",
       "type": "Tempo — Progressif 2x8' (80/85%) — décharge",
-      "duree": "30min",
+      "duree": "46min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n8' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n8' à 80% FC max (155 bpm)\n8' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n6' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
-      "dist_cible": 5.0
+      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n20' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n8' à 80% FC max (155 bpm)\n8' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n10' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
+      "dist_cible": 8.0
     },
     {
       "date": "2026-11-24",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Vélo récupération Z2",
+      "type": "Vélo récupération Z1",
       "duree": "32min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "32' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "",
       "dist_cible": 15.0
     },
     {
@@ -41,19 +41,19 @@
       "duree": "1h21",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "30' EF Z2 (127-140 bpm / 120-140 W) | 2x18' @ 88% FTP (175 W) — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 38.0
     },
     {
       "date": "2026-11-26",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "43min",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h08",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 8 x 300 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1500 m",
-      "dist_cible_m": 2850
+      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 500 m à allure IM, sans arrêt (135-148 bpm, 2:13/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 8 x 100 m (135-148 bpm, 2:10/100 m) — repos 30 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 2150 m",
+      "dist_cible_m": 2150
     },
     {
       "date": "2026-11-26",
@@ -69,35 +69,24 @@
     {
       "date": "2026-11-27",
       "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "20min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "20' EF Z1-Z2 (120-135 bpm) — COURT\nVraie récup — pas de strides",
-      "dist_cible": 3.0
-    },
-    {
-      "date": "2026-11-27",
-      "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force légère",
       "duree": "1h13",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "42' EF (127-140 bpm / 120-140 W) | 4x3' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 34.0
     },
     {
       "date": "2026-11-28",
       "jour": "Samedi",
       "sport": "Natation",
-      "type": "Natation technique + bloc IM",
-      "duree": "1h08",
+      "type": "Natation endurance",
+      "duree": "1h18",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 500 m à allure IM, sans arrêt (135-148 bpm, 2:13/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 8 x 100 m (135-148 bpm, 2:10/100 m) — repos 30 s + 50 m à la suite\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 2150 m",
-      "dist_cible_m": 2150
+      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 8 x 300 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 50 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2850 m",
+      "dist_cible_m": 2850
     },
     {
       "date": "2026-11-28",
@@ -118,7 +107,7 @@
       "duree": "3h02",
       "zone": "Z2-Z3",
       "rpe": "4",
-      "structure": "182' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nSemaine deload — volume réduit\nNUTRITION : 60g glucides/h si >60'",
+      "structure": "",
       "dist_cible": 85.0
     }
   ]

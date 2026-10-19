@@ -19,7 +19,7 @@
       "duree": "1h49",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "70' EF Z2 (127-140 bpm / 120-140 W) | 2x12' @ 90% FTP (180 W) — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~163 bpm (84% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 51.0
     },
     {
@@ -41,30 +41,19 @@
       "duree": "1h40",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "100' Z2 (127-140 bpm / 120-140 W) — parcours Paris, terrain plat\nCadence souple 85-90 rpm\nNUTRITION : 60g glucides/h si >90'",
+      "structure": "",
       "dist_cible": 46.5
-    },
-    {
-      "date": "2026-12-23",
-      "jour": "Mercredi",
-      "sport": "Course",
-      "type": "CAP en Brick — 15'",
-      "duree": "15min",
-      "zone": "Z2-Z3",
-      "rpe": "4",
-      "structure": "Transition directe après vélo — 15' @ Z2-Z3 (127-155 bpm)\nAdaptation transition vélo→CAP",
-      "dist_cible": 2.5
     },
     {
       "date": "2026-12-24",
       "jour": "Jeudi",
       "sport": "Course",
       "type": "Tempo — Progressif 2x8' (80/85%) — décharge",
-      "duree": "40min",
+      "duree": "55min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n14' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n8' à 80% FC max (155 bpm)\n8' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n10' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
-      "dist_cible": 6.5
+      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n22' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n8' à 80% FC max (155 bpm)\n8' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n17' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
+      "dist_cible": 9.0
     },
     {
       "date": "2026-12-25",

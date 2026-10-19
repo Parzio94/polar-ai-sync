@@ -15,22 +15,22 @@
       "date": "2026-11-03",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — Pyramide 400-300-200-100m x1",
-      "duree": "31min",
+      "type": "Qualité — Pyramide 400-300-200-100m x2",
+      "duree": "57min",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "Objectif : vélocité et économie de course (fractions courtes)\n\n13' EF Z2 (127-140 bpm)\n\n400m à 80% (155 bpm)\n400m à 87% (169 bpm)\n300m à 80% (155 bpm)\n300m à 90% (175 bpm)\n200m à 80% (155 bpm)\n200m à 92% (178 bpm)\n100m à 80% (155 bpm)\n100m à 95% (184 bpm)\n\nx1 avec 3' de repos entre séries\n\n8' EF Z2 (127-140 bpm)",
-      "dist_cible": 5.5
+      "structure": "Objectif : vélocité et économie de course (fractions courtes)\n\n20' EF Z2 (127-140 bpm)\n\n400m à 80% (155 bpm)\n400m à 87% (169 bpm)\n300m à 80% (155 bpm)\n300m à 90% (175 bpm)\n200m à 80% (155 bpm)\n200m à 92% (178 bpm)\n100m à 80% (155 bpm)\n100m à 95% (184 bpm)\n\nx2 avec 3' de repos entre séries\n\n13' EF Z2 (127-140 bpm)",
+      "dist_cible": 9.5
     },
     {
       "date": "2026-11-03",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Vélo récupération Z2",
+      "type": "Vélo récupération Z1",
       "duree": "43min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "43' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "",
       "dist_cible": 20.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h56",
       "zone": "Z4",
       "rpe": "9",
-      "structure": "25' EF Z2 (127-140 bpm / 120-140 W) dont 3x1' rapide (110 rpm) | 5' très facile (127-140 bpm / 100-120 W) | 20' test — effort maximal régulier\nObjectif : mesurer ta FTP (frais, après la semaine de décharge)\nDépart : 5 premières minutes @ 100% FTP (200 W), puis augmente de 5 W toutes les 5' si tu te sens bien — note la puissance moyenne des 20' et la FC moyenne des 10 dernières minutes | Cadence : 85-95 rpm | RPE 9/10\nCalcul : FTP = 0,95 × puissance moyenne des 20' — à reporter dans la case FTP de l'onglet Repères vélo\n56' EF Z2 (127-140 bpm / 120-140 W)\nNUTRITION : 50g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 54.0
     },
     {
@@ -69,23 +69,12 @@
     {
       "date": "2026-11-06",
       "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "27min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "27' EF Z1-Z2 (120-135 bpm) — COURT\nVraie récup — pas de strides",
-      "dist_cible": 4.0
-    },
-    {
-      "date": "2026-11-06",
-      "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force spécifique",
       "duree": "1h45",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "70' EF (127-140 bpm / 120-140 W) | 4x4' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 50g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 49.0
     },
     {
@@ -118,7 +107,7 @@
       "duree": "4h21",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "261' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 50g glucides/h si >60'",
+      "structure": "",
       "dist_cible": 122.0
     },
     {

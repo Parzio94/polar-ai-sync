@@ -15,22 +15,22 @@
       "date": "2026-11-17",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Tempo — Progressif 3x10' (80/85/90%)",
-      "duree": "44min",
+      "type": "Tempo — Progressif 3x13' (80/85/90%)",
+      "duree": "1h06",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n8' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n10' à 80% FC max (155 bpm)\n10' à 85% FC max (165 bpm)\n10' à 90% FC max (175 bpm)\n(enchaînés, sans repos)\n\n6' EF Z2 (127-140 bpm)",
-      "dist_cible": 8.0
+      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n15' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n13' à 80% FC max (155 bpm)\n13' à 85% FC max (165 bpm)\n13' à 90% FC max (175 bpm)\n(enchaînés, sans repos)\n\n12' EF Z2 (127-140 bpm)",
+      "dist_cible": 12.0
     },
     {
       "date": "2026-11-17",
       "jour": "Mardi",
       "sport": "Velo",
-      "type": "Vélo récupération Z2",
+      "type": "Vélo récupération Z1",
       "duree": "47min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "47' Z2 très facile (127-140 bpm / 100-120 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "",
       "dist_cible": 22.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "2h06",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "71' EF Z2 (127-140 bpm / 120-140 W) | 2x20' over-unders : 5 x (3' @ 80% (155 bpm / 185 W) + 1' @ 88% (171 bpm / 215 W)) — r=5'\nObjectif : tolérance au lactate et relances, alternance sous / au-dessus du seuil\nFC : 155 bpm (80% FC max) sous le seuil | 171 bpm (88%) au-dessus (seuil lactique 163 bpm) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 50g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 59.0
     },
     {
@@ -69,23 +69,12 @@
     {
       "date": "2026-11-20",
       "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "27min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "27' EF Z1-Z2 (120-135 bpm) — COURT\nVraie récup — pas de strides",
-      "dist_cible": 4.0
-    },
-    {
-      "date": "2026-11-20",
-      "jour": "Vendredi",
       "sport": "Velo",
       "type": "Force spécifique",
       "duree": "1h49",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "74' EF (127-140 bpm / 120-140 W) | 4x4' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 50g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "",
       "dist_cible": 51.0
     },
     {
@@ -118,7 +107,7 @@
       "duree": "4h34",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "274' Z2 (127-140 bpm / 120-140 W)\nCadence 85-92 rpm\nNUTRITION : 50g glucides/h si >60'",
+      "structure": "",
       "dist_cible": 128.0
     },
     {
