@@ -30,7 +30,7 @@
       "duree": "1h",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "60' Z1 très facile (< 127 bpm / 100-110 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "🎯 Récupération active\n\nCORPS — 60' Z1 très facile · 100-110 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 28.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h58",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "118' Z2 (127-140 bpm / 120-140 W) — Z2 facile, pas de bloc FTP (reprise post-Lacanau)\nCadence souple 85-90 rpm\nNUTRITION : 90g glucides/h si >90'",
+      "structure": "🎯 Endurance fondamentale\n\nCORPS — 118' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n📝 Z2 facile, pas de bloc FTP (reprise post-Lacanau)\n\n🍌 90 g glucides/h si > 90'\n⚠ Plafond 140 bpm ; dans les bosses, max 170 W",
       "dist_cible": 55.0
     },
     {
@@ -52,7 +52,7 @@
       "duree": "1h01",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 6 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 200 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2400 m",
+      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:23/100 m\n\nCORPS :\n  • 6 x 300 m soutenu · 6'18 par 300 (2:06/100 m) · repos 20 s\n    → départ toutes les 6'38\n  • + 200 m à la suite · 4'12\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2400 m · environ 61'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
       "dist_cible_m": 2400
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h15",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "75' Z2 facile (127-140 bpm / 120-140 W)\nCadence souple 85-90 rpm",
+      "structure": "🎯 Endurance fondamentale\n\nCORPS — 75' Z2 facile · 120-140 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Plafond 140 bpm ; dans les bosses, max 170 W",
       "dist_cible": 35.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h28",
       "zone": "-",
       "rpe": "3",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1300 m à allure IM, sans arrêt (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 11 x 100 m (135-148 bpm, 2:06/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3200 m",
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 1300 m continu allure IM · 27'57 (2:09/100 m)\n    passages : 500 m en 10'45 · 1000 m en 21'30\n    sighting toutes les 6-8 cycles de bras\n  • 11 x 100 m pull buoy · 2'06 par 100 (2:06/100 m) · repos 30 s\n    → départ toutes les 2'36\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3200 m · environ 88'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
       "dist_cible_m": 3200
     },
     {
@@ -107,7 +107,7 @@
       "duree": "3h34",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "214' Z2 (127-140 bpm / 100-120 W) — Z2 léger, reprise du volume\nNUTRITION : 90g glucides/h si >90'",
+      "structure": "🎯 Endurance fondamentale, tenir la durée\n\nCORPS — 214' (100 km) en Z2 · 100-120 W (50-60 % FTP) · <140 bpm · 85-92 rpm\n📝 Z2 léger, reprise du volume\n\n🍌 90 g glucides/h si > 90'\n⚠ Dans les bosses, plafond 170 W : on monte en Z2-Z3, jamais au seuil",
       "dist_cible": 100.0
     },
     {
@@ -129,7 +129,7 @@
       "duree": "54min",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 15 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 1800 m",
+      "structure": "🎯 Récupération : relâchement et amplitude\n\nÉCHAUFFEMENT — 200 m souple\n\nCORPS :\n  • 15 x 100 m technique, nage relâchée · FC 110-120 · repos 30 s\n  • + 50 m souple\n\nRETOUR AU CALME — 50 m souple\n\n📏 Total 1800 m · environ 54'\n⚠ Séance de récupération : relâchement, amplitude, aucune recherche de vitesse",
       "dist_cible_m": 1800
     }
   ]

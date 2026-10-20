@@ -19,7 +19,7 @@
       "duree": "57min",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "Objectif : endurance aérobie active, allure progressive (70 → 80% FC max)\n\n19' à 70-72% FC max (136-140 bpm)\n19' à 74-77% (144-149 bpm)\n19' à 78-80% (151-155 bpm)\n(un seul bloc continu, la progression se fait à la FC)\n\nAffûtage : finir par 4 lignes droites de 20'' (récup complète), rester frais pour la course",
+      "structure": "🎯 Endurance aérobie active, allure progressive (70 → 80 % FC max)\n\nCORPS — un seul bloc continu de 57' :\n  • 19' · 6'05-6'20/km · FC 136-140\n  • 19' · 5'20-5'40/km · FC 144-149\n  • 19' · 5'00-5'15/km · FC 151-155\n\n⚠ La progression se fait à la FC : si elle monte vite, reste sur l'allure basse\n\nAffûtage : finir par 4 lignes droites de 20'' (récup complète), rester frais pour la course",
       "dist_cible": 10.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "1h",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "60' Z1 très facile (< 127 bpm / 100-110 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "🎯 Récupération active\n\nCORPS — 60' Z1 très facile · 100-110 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 28.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h30",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "35' EF Z2 (127-140 bpm / 120-140 W) | 2x20' @ 88% FTP (175 W) — r=5'\nObjectif : garder du rythme pendant l'affûtage\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Garder du rythme pendant l'affûtage\n\nÉCHAUFFEMENT — 35' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 2 x :\n  • 20' à 175 W (88 % FTP) · 87-93 rpm · FC fin ≈159\n  • 5' récup Z1 · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 90 g glucides/h si > 90'\n⚠ Mode ERG. Ne pars jamais au-dessus de 175 W ; la FC qui dérive en fin de bloc est normale, ce sont les watts qui commandent",
       "dist_cible": 42.0
     },
     {
@@ -63,7 +63,7 @@
       "duree": "1h14",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 22 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2500 m",
+      "structure": "🎯 Récupération : relâchement et amplitude\n\nÉCHAUFFEMENT — 200 m souple\n\nCORPS :\n  • 22 x 100 m technique, nage relâchée · FC 110-120 · repos 30 s\n  • + 50 m souple\n\nRETOUR AU CALME — 50 m souple\n\n📏 Total 2500 m · environ 74'\n⚠ Séance de récupération : relâchement, amplitude, aucune recherche de vitesse",
       "dist_cible_m": 2500
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "35' EF (127-140 bpm / 120-140 W) | 3x3' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 35' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 3 x :\n  • 3' basse cadence · 150-170 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs · 🍌 90 g glucides/h si > 90'\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
       "dist_cible": 28.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h23",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 1500 m à allure IM, sans arrêt (135-148 bpm, 2:07/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 7 x 100 m (135-148 bpm, 2:04/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 1500 m continu allure IM · 31'45 (2:07/100 m)\n    passages : 500 m en 10'35 · 1000 m en 21'10\n    sighting toutes les 6-8 cycles de bras\n  • 7 x 100 m pull buoy · 2'04 par 100 (2:04/100 m) · repos 30 s\n    → départ toutes les 2'34\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3000 m · environ 83'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
       "dist_cible_m": 3000
     },
     {
@@ -118,7 +118,7 @@
       "duree": "2h",
       "zone": "Z2",
       "rpe": "6",
-      "structure": "120' Z2 (127-140 bpm / 120-140 W) dont 2x15' allure IM (136-146 bpm / 140-150 W) dans la seconde moitié — r=10' Z2\nCadence 85-92 rpm\nNUTRITION : 90g glucides/h si >60'",
+      "structure": "🎯 Spécificité IM : allure de course dans la fatigue\n\nCORPS — 120' (56 km) en Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  dont 2 x 15' allure IM · 140-150 W (70-75 % FTP) · FC 136-146 dans la seconde moitié — 10' Z2 entre les blocs\n  Puissance normalisée visée ≤ 145 W (IF ≤ 0,72)\n\n🍌 90 g glucides/h si > 60'\n⚠ Dans les bosses, plafond 170 W : on monte en Z2-Z3, jamais au seuil",
       "dist_cible": 56.0
     }
   ]

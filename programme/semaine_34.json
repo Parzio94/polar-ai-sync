@@ -19,7 +19,7 @@
       "duree": "1h09",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "Objectif : spécificité Ironman : relances au-dessus de l'allure IM puis retour à l'allure IM (150-155 bpm), sans récupération\n\n14' EF Z2 (127-140 bpm)\n\n3 x [2 km à 85% FC max (165 bpm) + 1 km à allure IM (150-155 bpm)]\nenchaînés, sans récupération\n\n10' EF Z2 (127-140 bpm)",
+      "structure": "🎯 Spécificité IM : relancer puis revenir à l'allure IM sans récupérer\n\nÉCHAUFFEMENT — 14' EF · 6'05-6'20/km · <140 bpm\n\nCORPS — 3 x, enchaîné sans récup :\n  • 2 km à 85 % · 4'20-4'28/km · FC ≈165\n  • 1 km allure IM · 4'55-5'10/km · FC 150-155\n\nRETOUR AU CALME — 10' EF · 6'05-6'20/km\n\n⚠ Le km allure IM se court sans s'arrêter : on récupère EN courant",
       "dist_cible": 13.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "1h",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "60' Z1 très facile (< 127 bpm / 100-110 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "🎯 Récupération active\n\nCORPS — 60' Z1 très facile · 100-110 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 28.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "2h12",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "67' EF Z2 (127-140 bpm / 120-140 W) | 2x25' @ 90% FTP (180 W) — r=5'\nObjectif : rester juste sous le seuil lactique, séance complète — Lacanau est une course en Z3, pas d'affûtage\nFC bloc cible : ~163 bpm (84% FC max = ton seuil lactique) | Cadence : 87-93 rpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Rester juste sous le seuil lactique, séance complète — Lacanau est une course en Z3, pas d'affûtage\n\nÉCHAUFFEMENT — 67' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 2 x :\n  • 25' à 180 W (90 % FTP) · 87-93 rpm · FC fin ≈163\n  • 5' récup Z1 · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · 🍌 90 g glucides/h si > 90'\n⚠ Mode ERG. Ne pars jamais au-dessus de 180 W ; la FC qui dérive en fin de bloc est normale, ce sont les watts qui commandent",
       "dist_cible": 60.0
     },
     {
@@ -52,7 +52,7 @@
       "duree": "1h24",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 26 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2900 m",
+      "structure": "🎯 Récupération : relâchement et amplitude\n\nÉCHAUFFEMENT — 200 m souple\n\nCORPS :\n  • 26 x 100 m technique, nage relâchée · FC 110-120 · repos 30 s\n  • + 50 m souple\n\nRETOUR AU CALME — 50 m souple\n\n📏 Total 2900 m · environ 84'\n⚠ Séance de récupération : relâchement, amplitude, aucune recherche de vitesse",
       "dist_cible_m": 2900
     },
     {
@@ -85,7 +85,7 @@
       "duree": "51min",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "26' EF (127-140 bpm / 120-140 W) | 3x3' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 26' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 3 x :\n  • 3' basse cadence · 150-170 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
       "dist_cible": 24.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "44min",
       "zone": "-",
       "rpe": "3",
-      "structure": "Échauffement : 300 m souple (110-126 bpm, 2:23/100 m)\nSérie : 8 x 100 m progressif (du souple à l'allure course) — repos 20 s\nActivation : 4 x 50 m à allure course (135-148 bpm, 2:09/100 m) — repos 20 s\nRetour au calme : 200 m souple\nTotal : 1500 m",
+      "structure": "🎯 Shakeout : relâcher, garder les sensations\n\nÉCHAUFFEMENT — 300 m souple · 2:23/100 m\n\nCORPS :\n  • 8 x 100 m progressif · repos 20 s\n  • 4 x 50 m allure course · 1'04 par 50 (2:09/100 m) · repos 20 s\n    → départ toutes les 1'24\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 1500 m · environ 44'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
       "dist_cible_m": 1500
     },
     {
@@ -118,7 +118,7 @@
       "duree": "15min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "15' Z2 très facile (127-140 bpm / 100-120 W) — vérification matériel / dépôt sac T1-T2",
+      "structure": "🎯 Vérification matériel / dépôt sac T1-T2\n\nCORPS — 15' Z2 très facile · 100-120 W (50-60 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Aucun effort : on vérifie le vélo, pas la forme",
       "dist_cible": 7.0
     },
     {

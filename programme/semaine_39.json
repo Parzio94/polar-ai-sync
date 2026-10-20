@@ -19,7 +19,7 @@
       "duree": "1h20",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "Objectif : durabilité : finir à l'allure IM après SV1 → SV1+ — répéter le ravitaillement : 30 g de glucides\n\n8' EF Z2 (127-140 bpm)\n\n30' SV1 (155-165 bpm)\n3' de repos\n20' SV1+ (165-171 bpm)\n3' de repos\n10' Allure IM (150-155 bpm)\n\n6' EF Z2 (127-140 bpm)",
+      "structure": "🎯 Durabilité : finir à l'allure IM après SV1 → SV1+\n\nÉCHAUFFEMENT — 8' EF · 6'05-6'20/km · <140 bpm\n\nCORPS :\n  • 30' SV1 · 4'30-4'45/km · FC 155-165\n  • 3' récup\n  • 20' SV1+ · 4'12-4'25/km · FC 165-171\n  • 3' récup\n  • 10' allure IM · 4'55-5'10/km · FC 150-155\n\nRETOUR AU CALME — 6' EF · 6'05-6'20/km\n\n🍌 Répéter le ravitaillement : 30 g de glucides\n⚠ Bloc IM final jamais sous 4'55 : c'est l'exercice de retenue du jour J",
       "dist_cible": 14.5
     },
     {
@@ -30,7 +30,7 @@
       "duree": "1h04",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "64' Z1 très facile (< 127 bpm / 100-110 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "🎯 Récupération active\n\nCORPS — 64' Z1 très facile · 100-110 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 30.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h16",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:21/100 m)\nSérie principale : 9 x 300 m à allure soutenue (135-148 bpm, 2:04/100 m) — repos 20 s\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 3100 m",
+      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:21/100 m\n\nCORPS :\n  • 9 x 300 m soutenu · 6'12 par 300 (2:04/100 m) · repos 20 s\n    → départ toutes les 6'32\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3100 m · environ 76'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
       "dist_cible_m": 3100
     },
     {
@@ -52,7 +52,7 @@
       "duree": "2h43",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "53' EF Z2 (127-140 bpm / 120-140 W) | 3x30' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=5'\nObjectif : spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\nFC bloc cible : 136-146 bpm (70-75% FC max) | Cadence : 85-92 rpm | RPE 5-6/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Spécificité Ironman : rouler à l'effort de course et répéter le ravitaillement\n\nÉCHAUFFEMENT — 53' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 3 x :\n  • 30' allure IM · 140-150 W (70-75 % FTP) · 85-92 rpm · FC 136-146\n  • 5' récup Z1 · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 5-6/10 · 🍌 90 g glucides/h si > 90'\n⚠ Position aéro tenue tout le bloc, et ravitaillement pris comme en course : c'est la répétition du jour J",
       "dist_cible": 76.0
     },
     {
@@ -74,7 +74,7 @@
       "duree": "1h21",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 25 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s + 50 m souple\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 2800 m",
+      "structure": "🎯 Récupération : relâchement et amplitude\n\nÉCHAUFFEMENT — 200 m souple\n\nCORPS :\n  • 25 x 100 m technique, nage relâchée · FC 110-120 · repos 30 s\n  • + 50 m souple\n\nRETOUR AU CALME — 50 m souple\n\n📏 Total 2800 m · environ 81'\n⚠ Séance de récupération : relâchement, amplitude, aucune recherche de vitesse",
       "dist_cible_m": 2800
     },
     {
@@ -96,7 +96,7 @@
       "duree": "2h13",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "78' EF (127-140 bpm / 120-140 W) | 6x5' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 78' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 6 x :\n  • 5' basse cadence · 150-170 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs · 🍌 90 g glucides/h si > 90'\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
       "dist_cible": 62.0
     },
     {
@@ -107,7 +107,7 @@
       "duree": "1h49",
       "zone": "-",
       "rpe": "5",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 2800 m à allure IM, sans arrêt (135-148 bpm, 2:07/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 7 x 100 m (135-148 bpm, 2:04/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 4300 m",
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 2800 m continu allure IM · 59'16 (2:07/100 m)\n    passages : 500 m en 10'35 · 1000 m en 21'10 · 1500 m en 31'45 · 2000 m en 42'20 · 2500 m en 52'55\n    sighting toutes les 6-8 cycles de bras\n  • 7 x 100 m pull buoy · 2'04 par 100 (2:04/100 m) · repos 30 s\n    → départ toutes les 2'34\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 4300 m · environ 109'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
       "dist_cible_m": 4300
     },
     {
@@ -129,7 +129,7 @@
       "duree": "5h54",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "354' Z2 (127-140 bpm / 120-140 W) dont 3x40' allure IM (136-146 bpm / 140-150 W) dans la seconde moitié — r=10' Z2\nCadence 85-92 rpm\nNUTRITION : 90g glucides/h si >60'",
+      "structure": "🎯 Spécificité IM : allure de course dans la fatigue\n\nCORPS — 354' (165 km) en Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  dont 3 x 40' allure IM · 140-150 W (70-75 % FTP) · FC 136-146 dans la seconde moitié — 10' Z2 entre les blocs\n  Puissance normalisée visée ≤ 145 W (IF ≤ 0,72)\n\n🍌 90 g glucides/h si > 60'\n⚠ Dans les bosses, plafond 170 W : on monte en Z2-Z3, jamais au seuil",
       "dist_cible": 165.0
     },
     {

@@ -19,7 +19,7 @@
       "duree": "1h49",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "70' EF Z2 (127-140 bpm / 120-140 W) | 2x12' @ 90% FTP (180 W) — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~163 bpm (84% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 60g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Développer la puissance au seuil (FTP)\n\nÉCHAUFFEMENT — 70' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 2 x :\n  • 12' à 180 W (90 % FTP) · 87-93 rpm · FC fin ≈163\n  • 5' récup Z1 · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 60 g glucides/h si > 90'\n⚠ Mode ERG. Ne pars jamais au-dessus de 180 W ; la FC qui dérive en fin de bloc est normale, ce sont les watts qui commandent",
       "dist_cible": 51.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "1h28",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 4 x 50 m facile (108-117 bpm) — repos 30 s\nÉducatifs : 8 x 50 m (catch-up, finger drag, sighting) — repos 30 s\nBloc continu : 800 m à allure IM, sans arrêt (135-148 bpm, 2:13/100 m) — sighting toutes les 6-8 cycles de bras\nPull buoy : 14 x 100 m (135-148 bpm, 2:10/100 m) — repos 30 s\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 800 m continu allure IM · 17'44 (2:13/100 m)\n    passages : 200 m en 4'26 · 400 m en 8'52 · 600 m en 13'18\n    sighting toutes les 6-8 cycles de bras\n  • 14 x 100 m pull buoy · 2'10 par 100 (2:10/100 m) · repos 30 s\n    → départ toutes les 2'40\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3000 m · environ 88'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
       "dist_cible_m": 3000
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h40",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "100' Z2 (127-140 bpm / 120-140 W) — parcours Paris, terrain plat\nCadence souple 85-90 rpm\nNUTRITION : 60g glucides/h si >90'",
+      "structure": "🎯 Endurance fondamentale\n\nCORPS — 100' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n📝 Parcours Paris, terrain plat\n\n🍌 60 g glucides/h si > 90'\n⚠ Plafond 140 bpm ; dans les bosses, max 170 W",
       "dist_cible": 46.5
     },
     {
@@ -52,7 +52,7 @@
       "duree": "55min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "Objectif : progression SV1 → SV2, endurance de seuil\n\n22' EF Z2 (127-140 bpm) + 2-4 lignes droites\n\n8' à 80% FC max (155 bpm)\n8' à 85% FC max (165 bpm)\n(enchaînés, sans repos)\n\n17' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
+      "structure": "🎯 Progression SV1 → SV2, endurance de seuil\n\nÉCHAUFFEMENT — 22' EF · 6'05-6'20/km · <140 bpm + 2-4 lignes droites\n\nCORPS — 2 paliers de 8' enchaînés, sans repos :\n  • 8' à 80 % · 4'55-5'05/km · FC ≈155\n  • 8' à 85 % · 4'20-4'28/km · FC ≈165\n\nRETOUR AU CALME — 17' EF · 6'05-6'20/km\n\n⚠ Chaque palier un cran au-dessus du précédent, sans à-coup\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
       "dist_cible": 9.0
     },
     {
@@ -73,7 +73,7 @@
       "duree": "1h10",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:27/100 m)\nSérie principale : 7 x 300 m à allure soutenue (135-148 bpm, 2:10/100 m) — repos 20 s + 250 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 2750 m",
+      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:27/100 m\n\nCORPS :\n  • 7 x 300 m soutenu · 6'30 par 300 (2:10/100 m) · repos 20 s\n    → départ toutes les 6'50\n  • + 250 m à la suite · 5'25\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2750 m · environ 70'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
       "dist_cible_m": 2750
     },
     {

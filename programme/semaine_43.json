@@ -19,7 +19,7 @@
       "duree": "1h",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "36' Z2 (127-140 bpm / 120-140 W) | 3x5' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=3'\nObjectif : activation + vérification matériel (réglages, pression des pneus, ravitaillement de course)\n3' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Activation + vérification matériel (réglages, pression des pneus, ravitaillement de course)\n\nÉCHAUFFEMENT — 36' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 3 x :\n  • 5' allure IM · 140-150 W (70-75 % FTP) · FC 136-146\n  • 3' souple · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 3' souple\n\n⚠ Sensations seulement : aucun watt au-dessus de 150 W, on garde tout pour dimanche",
       "dist_cible": 28.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "35min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "35' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
+      "structure": "🎯 Activation/vérification matériel\n\nCORPS — 35' Z2 très facile · 100-120 W (50-60 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Aucun effort : on vérifie le vélo, pas la forme",
       "dist_cible": 16.0
     },
     {
@@ -52,7 +52,7 @@
       "duree": "45min",
       "zone": "Z1-Z2",
       "rpe": "3",
-      "structure": "Échauffement : 300 m souple (110-126 bpm, 2:21/100 m)\nSérie : 3 x 300 m à allure IM (135-148 bpm, 2:07/100 m) — repos 30 s — sighting toutes les 6-8 cycles de bras\nDétente : 4 x 50 m progressif (du souple à l'allure course) — repos 20 s\nRetour au calme : 200 m souple — en mer si possible\nTotal : 1600 m",
+      "structure": "🎯 Activation : allure IM\n\nÉCHAUFFEMENT — 300 m souple · 2:21/100 m\n\nCORPS :\n  • 3 x 300 m allure IM · 6'21 par 300 (2:07/100 m) · repos 30 s\n    → départ toutes les 6'51\n    sighting toutes les 6-8 cycles de bras\n\nDÉTENTE — 4 x 50 m progressif (du souple à l'allure course) · repos 20 s\nRETOUR AU CALME — 200 m souple · en mer si possible\n\n📏 Total 1600 m · environ 45'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
       "dist_cible_m": 1600
     },
     {
@@ -63,7 +63,7 @@
       "duree": "45min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "30' Z2 (127-140 bpm / 120-140 W) | 3x2' allure IM (136-146 bpm, 70-75% FC max / 140-150 W) — r=2'\nObjectif : activation, retrouver les sensations de course\n5' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Activation, retrouver les sensations de course\n\nÉCHAUFFEMENT — 30' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 3 x :\n  • 2' allure IM · 140-150 W (70-75 % FTP) · FC 136-146\n  • 2' souple · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 5' souple\n\n⚠ Sensations seulement : aucun watt au-dessus de 150 W, on garde tout pour dimanche",
       "dist_cible": 21.0
     },
     {
@@ -85,7 +85,7 @@
       "duree": "30min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "Échauffement : 300 m souple (110-126 bpm, 2:21/100 m)\nSérie : 5 x 100 m à allure course (135-148 bpm, 2:07/100 m) — repos 20 s\nDétente : 4 x 50 m souple\nRetour au calme : 200 m souple — repérage du parcours\nTotal : 1200 m",
+      "structure": "🎯 Activation de la veille\n\nÉCHAUFFEMENT — 300 m souple · 2:21/100 m\n\nCORPS :\n  • 5 x 100 m allure course · 2'07 par 100 (2:07/100 m) · repos 20 s\n    → départ toutes les 2'27\n\nDÉTENTE — 4 x 50 m souple\nRETOUR AU CALME — 200 m souple · repérage du parcours\n\n📏 Total 1200 m · environ 30'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
       "dist_cible_m": 1200
     },
     {
@@ -107,7 +107,7 @@
       "duree": "25min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "25' Z2 très facile (127-140 bpm / 100-120 W) — activation/vérification matériel",
+      "structure": "🎯 Activation/vérification matériel\n\nCORPS — 25' Z2 très facile · 100-120 W (50-60 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Aucun effort : on vérifie le vélo, pas la forme",
       "dist_cible": 12.0
     },
     {
@@ -129,7 +129,7 @@
       "duree": "10min",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "Nage : 400 m souple en combinaison (110-126 bpm), sur le parcours si autorisé\nConsigne : repérage des bouées et du sighting toutes les 6-8 cycles de bras\nTotal : 400 m",
+      "structure": "🎯 Repérage en eau libre\n\nCORPS :\n  • 400 m souple en combinaison, sur le parcours si autorisé\n\n📏 Total 400 m · environ 10'\n⚠ Repérage des bouées et du sighting toutes les 6-8 cycles de bras",
       "dist_cible_m": 400
     },
     {

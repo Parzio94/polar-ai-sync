@@ -19,7 +19,7 @@
       "duree": "1h04",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "Objectif : seuil, allure marathon vers semi\n\n17' EF Z2 (127-140 bpm)\n\n2 x [9' à 83% FC max (161 bpm) — 1'30 de repos — 5' à 87% (169 bpm)]\n3'30 de repos entre séries\n\n12' EF Z2 (127-140 bpm)\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
+      "structure": "🎯 Seuil, allure marathon vers semi\n\nÉCHAUFFEMENT — 17' EF · 6'05-6'20/km · <140 bpm\n\nCORPS — 2 x :\n  • 9' à 83 % · 4'32-4'40/km · FC fin ≈161\n  • 1'30 récup (trot lent)\n  • 5' à 87 % · 4'10-4'18/km · FC fin ≈169\n  → 3'30 récup entre séries\n\nRETOUR AU CALME — 12' EF · 6'05-6'20/km\n\n⚠ Le 9' n'est pas couru à l'allure du 5' : garde de la marge\n\nDécharge : même type de séance que le bloc précédent, volume de qualité réduit",
       "dist_cible": 11.0
     },
     {
@@ -30,7 +30,7 @@
       "duree": "43min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "43' Z1 très facile (< 127 bpm / 100-110 W) — récupération active\nCadence souple 85-90 rpm",
+      "structure": "🎯 Récupération active\n\nCORPS — 43' Z1 très facile · 100-110 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 20.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h32",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "33' EF Z2 (127-140 bpm / 120-140 W) | 2x22' @ 88% FTP (175 W) — r=5'\nObjectif : développer la puissance au seuil (FTP)\nFC bloc cible : ~159 bpm (82% FC max) | Cadence : 87-93 rpm | RPE 7-8/10\nNUTRITION : 90g glucides/h si >90'\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Développer la puissance au seuil (FTP)\n\nÉCHAUFFEMENT — 33' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 2 x :\n  • 22' à 175 W (88 % FTP) · 87-93 rpm · FC fin ≈159\n  • 5' récup Z1 · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 90 g glucides/h si > 90'\n⚠ Mode ERG. Ne pars jamais au-dessus de 175 W ; la FC qui dérive en fin de bloc est normale, ce sont les watts qui commandent",
       "dist_cible": 43.0
     },
     {
@@ -63,7 +63,7 @@
       "duree": "48min",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 200 m souple (110-126 bpm, 2:23/100 m)\nSérie principale : 4 x 300 m à allure soutenue (135-148 bpm, 2:06/100 m) — repos 20 s + 200 m à la suite, même allure\nRetour au calme : 200 m souple (110-126 bpm)\nConsigne : allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras\nTotal : 1800 m",
+      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:23/100 m\n\nCORPS :\n  • 4 x 300 m soutenu · 6'18 par 300 (2:06/100 m) · repos 20 s\n    → départ toutes les 6'38\n  • + 200 m à la suite · 4'12\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 1800 m · environ 48'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
       "dist_cible_m": 1800
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h17",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "42' EF (127-140 bpm / 120-140 W) | 4x4' basse cadence (55-62 rpm) @ Z2 (150-170 W) — r=3'\nObjectif : force musculaire spécifique, économie de pédalage\nFC : 131-155 bpm | RPE 6-7/10\n10' RC (127-140 bpm / 120-140 W)",
+      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 42' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 4 x :\n  • 4' basse cadence · 150-170 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
       "dist_cible": 36.0
     },
     {
@@ -96,7 +96,7 @@
       "duree": "1h10",
       "zone": "-",
       "rpe": "4",
-      "structure": "Échauffement : 300 m souple (110-126 bpm, 2:23/100 m)\nBloc continu : 2500 m à allure IM, sans arrêt, conditions course (135-148 bpm, 2:09/100 m) — sighting toutes les 6-8 cycles de bras\nRetour au calme : 200 m souple (110-126 bpm)\nTotal : 3000 m",
+      "structure": "🎯 Grand Brick : répétition générale du jour J (natation, 1/3)\n\nÉCHAUFFEMENT — 300 m souple · 2:23/100 m\n\nCORPS :\n  • 2500 m continu allure IM, conditions course · 53'45 (2:09/100 m)\n    passages : 500 m en 10'45 · 1000 m en 21'30 · 1500 m en 32'15 · 2000 m en 43'00\n    sighting toutes les 6-8 cycles de bras\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3000 m · environ 70'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
       "dist_cible_m": 3000
     },
     {
@@ -107,7 +107,7 @@
       "duree": "5h",
       "zone": "Z2-Z3",
       "rpe": "7",
-      "structure": "300' Z2 (127-140 bpm / 120-140 W) dont 3x40' allure IM (136-146 bpm, 70-75% FC max / 140-150 W)\nCadence 85-92 rpm\nNUTRITION : 90g glucides/h — stratégie course complète",
+      "structure": "🎯 Grand Brick : répétition générale du jour J (vélo, 2/3)\n\nCORPS — 300' en Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  dont 3 x 40' allure IM · 140-150 W (70-75 % FTP) · FC 136-146\n  Puissance normalisée visée ≤ 145 W (IF ≤ 0,72)\n\n🍌 90 g glucides/h\n⚠ Stratégie course complète : nutrition, position, tenue et matériel du jour J",
       "dist_cible": 140.0
     },
     {
@@ -129,7 +129,7 @@
       "duree": "1h36",
       "zone": "-",
       "rpe": "2",
-      "structure": "Échauffement : 200 m souple (110-126 bpm)\nSérie : 31 x 100 m technique, nage relâchée (110-120 bpm) — repos 30 s\nRetour au calme : 50 m souple\nConsigne : séance de récupération : relâchement, amplitude, aucune recherche de vitesse\nTotal : 3350 m",
+      "structure": "🎯 Récupération : relâchement et amplitude\n\nÉCHAUFFEMENT — 200 m souple\n\nCORPS :\n  • 31 x 100 m technique, nage relâchée · FC 110-120 · repos 30 s\n\nRETOUR AU CALME — 50 m souple\n\n📏 Total 3350 m · environ 96'\n⚠ Séance de récupération : relâchement, amplitude, aucune recherche de vitesse",
       "dist_cible_m": 3350
     }
   ]
