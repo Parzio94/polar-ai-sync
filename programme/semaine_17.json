@@ -19,7 +19,7 @@
       "duree": "1h49",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "🎯 Développer la puissance au seuil (FTP)\n\nÉCHAUFFEMENT — 70' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 2 x :\n  • 12' à 180 W (90 % FTP) · 87-93 rpm · FC fin ≈163\n  • 5' récup Z1 · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 60 g glucides/h si > 90'\n⚠ Mode ERG. Ne pars jamais au-dessus de 180 W ; la FC qui dérive en fin de bloc est normale, ce sont les watts qui commandent",
+      "structure": "🎯 Développer la puissance au seuil (FTP)\n\nÉCHAUFFEMENT — 70' Z2 · 125-145 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 2 x :\n  • 12' à 190 W (90 % FTP) · 87-93 rpm · FC fin ≈163\n  • 5' récup Z1 · <115 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 125-145 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 60 g glucides/h si > 90'\n⚠ Mode ERG. Ne pars jamais au-dessus de 190 W ; la FC qui dérive en fin de bloc est normale, ce sont les watts qui commandent",
       "dist_cible": 51.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h40",
       "zone": "Z2",
       "rpe": "3",
-      "structure": "🎯 Endurance fondamentale\n\nCORPS — 100' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n📝 Parcours Paris, terrain plat\n\n🍌 60 g glucides/h si > 90'\n⚠ Plafond 140 bpm ; dans les bosses, max 170 W",
+      "structure": "🎯 Endurance fondamentale\n\nCORPS — 100' Z2 · 125-145 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n📝 Parcours Paris, terrain plat\n\n🍌 60 g glucides/h si > 90'\n⚠ Plafond 140 bpm ; dans les bosses, max 180 W",
       "dist_cible": 46.5
     },
     {

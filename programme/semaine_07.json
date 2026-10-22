@@ -30,7 +30,7 @@
       "duree": "43min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "🎯 Récupération active\n\nCORPS — 43' Z2 très facile · 100-120 W (50-60 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
+      "structure": "🎯 Récupération active\n\nCORPS — 43' Z2 très facile · 105-125 W (50-60 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 20.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h47",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "🎯 Tolérance au lactate et relances, alternance sous / au-dessus du seuil\n\nÉCHAUFFEMENT — 51' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 3 blocs de 12', chacun = 3 x (3' sous + 1' sur) enchaînés :\n  • 3' sous le seuil · 185 W (93 % FTP) · 87-93 rpm · FC ≈155\n  • 1' au-dessus · 215 W (107 % FTP) · FC ≈171\n  → 5' récup Z1 entre blocs · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 40 g glucides/h si > 90'\n⚠ Pilotage aux watts : sur le 1', la FC n'a pas le temps de suivre. Relance assise, sans à-coup",
+      "structure": "🎯 Tolérance au lactate et relances, alternance sous / au-dessus du seuil\n\nÉCHAUFFEMENT — 51' Z2 · 125-145 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 3 blocs de 12', chacun = 3 x (3' sous + 1' sur) enchaînés :\n  • 3' sous le seuil · 195 W (93 % FTP) · 87-93 rpm · FC ≈155\n  • 1' au-dessus · 225 W (107 % FTP) · FC ≈171\n  → 5' récup Z1 entre blocs · <115 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 125-145 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 40 g glucides/h si > 90'\n⚠ Pilotage aux watts : sur le 1', la FC n'a pas le temps de suivre. Relance assise, sans à-coup",
       "dist_cible": 50.0
     },
     {
@@ -74,7 +74,7 @@
       "duree": "1h32",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 61' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 4 x :\n  • 3' basse cadence · 150-170 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs · 🍌 40 g glucides/h si > 90'\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
+      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 61' Z2 · 125-145 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 4 x :\n  • 3' basse cadence · 160-180 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 125-145 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs · 🍌 40 g glucides/h si > 90'\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
       "dist_cible": 43.0
     },
     {
@@ -107,7 +107,7 @@
       "duree": "4h06",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "🎯 Endurance fondamentale, tenir la durée\n\nCORPS — 246' (115 km) en Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  Puissance normalisée visée ≤ 140 W (IF ≤ 0,70)\n\n🍌 40 g glucides/h si > 60'\n⚠ Dans les bosses, plafond 170 W : on monte en Z2-Z3, jamais au seuil",
+      "structure": "🎯 Endurance fondamentale, tenir la durée\n\nCORPS — 246' (115 km) en Z2 · 125-145 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  Puissance normalisée visée ≤ 145 W (IF ≤ 0,70)\n\n🍌 40 g glucides/h si > 60'\n⚠ Dans les bosses, plafond 180 W : on monte en Z2-Z3, jamais au seuil",
       "dist_cible": 115.0
     },
     {

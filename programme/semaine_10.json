@@ -30,7 +30,7 @@
       "duree": "43min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "🎯 Récupération active\n\nCORPS — 43' Z1 très facile · 100-110 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
+      "structure": "🎯 Récupération active\n\nCORPS — 43' Z1 très facile · 105-115 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 20.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h56",
       "zone": "Z4",
       "rpe": "9",
-      "structure": "🎯 Mesurer ta FTP (frais, après la semaine de décharge)\n\nÉCHAUFFEMENT — 25' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  dont 3 x 1' rapide à 110 rpm\n  puis 5' très facile · 100-120 W (50-60 % FTP)\n\nTEST — 20' effort maximal régulier · 85-95 rpm\n  • 5 premières minutes à 200 W (100 % FTP)\n  • puis +5 W toutes les 5' si tu te sens bien\n  • note la puissance moyenne des 20' et la FC moyenne des 10 dernières minutes\n\nAPRÈS LE TEST — 56' Z2 · 120-140 W (60-70 % FTP)\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n🧮 FTP = 0,95 × puissance moyenne des 20' → à reporter dans l'onglet Repères vélo (je recale ensuite les watts du plan)\n\n⚡ RPE 9/10 · 🍌 50 g glucides/h si > 90'\n⚠ Mode libre (pas d'ERG) : pars prudent, c'est la régularité qui fait le bon test",
+      "structure": "🎯 Mesurer ta FTP (frais, après la semaine de décharge)\n\nÉCHAUFFEMENT — 25' Z2 · 125-145 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  dont 3 x 1' rapide à 110 rpm\n  puis 5' très facile · 105-125 W (50-60 % FTP)\n\nTEST — 20' effort maximal régulier · 85-95 rpm\n  • 5 premières minutes à 210 W (100 % FTP)\n  • puis +5 W toutes les 5' si tu te sens bien\n  • note la puissance moyenne des 20' et la FC moyenne des 10 dernières minutes\n\nAPRÈS LE TEST — 56' Z2 · 125-145 W (60-70 % FTP)\nRETOUR AU CALME — 10' Z2 souple · 125-145 W (60-70 % FTP)\n\n🧮 FTP = 0,95 × puissance moyenne des 20' → à reporter dans l'onglet Repères vélo (je recale ensuite les watts du plan)\n\n⚡ RPE 9/10 · 🍌 50 g glucides/h si > 90'\n⚠ Mode libre (pas d'ERG) : pars prudent, c'est la régularité qui fait le bon test",
       "dist_cible": 54.0
     },
     {
@@ -74,7 +74,7 @@
       "duree": "1h45",
       "zone": "Z2-Z3",
       "rpe": "5",
-      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 70' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 4 x :\n  • 4' basse cadence · 150-170 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs · 🍌 50 g glucides/h si > 90'\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
+      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 70' Z2 · 125-145 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 4 x :\n  • 4' basse cadence · 160-180 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 125-145 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs · 🍌 50 g glucides/h si > 90'\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
       "dist_cible": 49.0
     },
     {
@@ -107,7 +107,7 @@
       "duree": "4h21",
       "zone": "Z2-Z3",
       "rpe": "6",
-      "structure": "🎯 Endurance fondamentale, tenir la durée\n\nCORPS — 261' (122 km) en Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  Puissance normalisée visée ≤ 140 W (IF ≤ 0,70)\n\n🍌 50 g glucides/h si > 60'\n⚠ Dans les bosses, plafond 170 W : on monte en Z2-Z3, jamais au seuil",
+      "structure": "🎯 Endurance fondamentale, tenir la durée\n\nCORPS — 261' (122 km) en Z2 · 125-145 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n  Puissance normalisée visée ≤ 145 W (IF ≤ 0,70)\n\n🍌 50 g glucides/h si > 60'\n⚠ Dans les bosses, plafond 180 W : on monte en Z2-Z3, jamais au seuil",
       "dist_cible": 122.0
     },
     {

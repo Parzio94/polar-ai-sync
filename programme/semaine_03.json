@@ -30,7 +30,7 @@
       "duree": "42min",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "🎯 Récupération active\n\nCORPS — 24' Z2 très facile · 100-120 W (50-60 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
+      "structure": "🎯 Récupération active\n\nCORPS — 24' Z2 très facile · 105-125 W (50-60 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 19.1
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h23",
       "zone": "Z3",
       "rpe": "5",
-      "structure": "🎯 Développer la puissance au seuil (FTP)\n\nÉCHAUFFEMENT — 20' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 2 x :\n  • 9' à 175 W (88 % FTP) · 87-93 rpm · FC fin ≈159\n  • 5' récup Z1 · <110 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 40 g glucides/h si > 90'\n⚠ Mode ERG. Ne pars jamais au-dessus de 175 W ; la FC qui dérive en fin de bloc est normale, ce sont les watts qui commandent",
+      "structure": "🎯 Développer la puissance au seuil (FTP)\n\nÉCHAUFFEMENT — 20' Z2 · 125-145 W (60-70 % FTP) · <140 bpm · 85-92 rpm\n\nCORPS — 2 x :\n  • 9' à 185 W (88 % FTP) · 87-93 rpm · FC fin ≈159\n  • 5' récup Z1 · <115 W (<55 % FTP)\n\nRETOUR AU CALME — 10' Z2 souple · 125-145 W (60-70 % FTP)\n\n⚡ RPE 7-8/10 · 🍌 40 g glucides/h si > 90'\n⚠ Mode ERG. Ne pars jamais au-dessus de 185 W ; la FC qui dérive en fin de bloc est normale, ce sont les watts qui commandent",
       "dist_cible": 38.3
     },
     {
@@ -74,7 +74,7 @@
       "duree": "1h05",
       "zone": "Z2-Z3",
       "rpe": "3",
-      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 10' Z2 · 120-140 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 4 x :\n  • 3' basse cadence · 150-170 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 120-140 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
+      "structure": "🎯 Force musculaire spécifique, économie de pédalage\n\nÉCHAUFFEMENT — 10' Z2 · 125-145 W (60-70 % FTP) · 85-92 rpm\n\nCORPS — 4 x :\n  • 3' basse cadence · 160-180 W (75-85 % FTP) · 55-62 rpm\n  • 3' récup Z2 souple · 90 rpm\n\nRETOUR AU CALME — 10' Z2 souple · 125-145 W (60-70 % FTP)\n\n⚡ RPE 6-7/10 · FC 131-155 normale sur les blocs\n⚠ Assis, buste immobile, genou dans l'axe : c'est la jambe qui pousse, pas le dos",
       "dist_cible": 32.6
     },
     {

@@ -30,7 +30,7 @@
       "duree": "1h",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "🎯 Récupération active\n\nCORPS — 60' Z1 très facile · 100-110 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
+      "structure": "🎯 Récupération active\n\nCORPS — 60' Z1 très facile · 105-115 W (50-55 % FTP) · <127 bpm · 85-90 rpm\n\n⚠ Zéro effort, jambes qui tournent : si tu hésites, encore plus facile",
       "dist_cible": 28.0
     },
     {
@@ -41,7 +41,7 @@
       "duree": "1h58",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "🎯 Endurance fondamentale\n\nCORPS — 118' Z2 · 120-140 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n📝 Z2 facile, pas de bloc FTP (reprise post-Lacanau)\n\n🍌 90 g glucides/h si > 90'\n⚠ Plafond 140 bpm ; dans les bosses, max 170 W",
+      "structure": "🎯 Endurance fondamentale\n\nCORPS — 118' Z2 · 125-145 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n📝 Z2 facile, pas de bloc FTP (reprise post-Lacanau)\n\n🍌 90 g glucides/h si > 90'\n⚠ Plafond 140 bpm ; dans les bosses, max 180 W",
       "dist_cible": 55.0
     },
     {
@@ -85,7 +85,7 @@
       "duree": "1h15",
       "zone": "Z2",
       "rpe": "2",
-      "structure": "🎯 Endurance fondamentale\n\nCORPS — 75' Z2 facile · 120-140 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Plafond 140 bpm ; dans les bosses, max 170 W",
+      "structure": "🎯 Endurance fondamentale\n\nCORPS — 75' Z2 facile · 125-145 W (60-70 % FTP) · <140 bpm · 85-90 rpm\n\n⚠ Plafond 140 bpm ; dans les bosses, max 180 W",
       "dist_cible": 35.0
     },
     {
@@ -107,7 +107,7 @@
       "duree": "3h34",
       "zone": "Z1-Z2",
       "rpe": "2",
-      "structure": "🎯 Endurance fondamentale, tenir la durée\n\nCORPS — 214' (100 km) en Z2 · 100-120 W (50-60 % FTP) · <140 bpm · 85-92 rpm\n📝 Z2 léger, reprise du volume\n\n🍌 90 g glucides/h si > 90'\n⚠ Dans les bosses, plafond 170 W : on monte en Z2-Z3, jamais au seuil",
+      "structure": "🎯 Endurance fondamentale, tenir la durée\n\nCORPS — 214' (100 km) en Z2 · 105-125 W (50-60 % FTP) · <140 bpm · 85-92 rpm\n📝 Z2 léger, reprise du volume\n\n🍌 90 g glucides/h si > 90'\n⚠ Dans les bosses, plafond 180 W : on monte en Z2-Z3, jamais au seuil",
       "dist_cible": 100.0
     },
     {
