@@ -47,17 +47,6 @@
     {
       "date": "2026-10-29",
       "jour": "Jeudi",
-      "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "1h10",
-      "zone": "-",
-      "rpe": "4",
-      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:29/100 m\n\nCORPS :\n  • 7 x 300 m soutenu · 6'36 par 300 (2:12/100 m) · repos 20 s\n    → départ toutes les 6'56\n  • + 50 m à la suite · 1'06\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2550 m · environ 70'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
-      "dist_cible_m": 2550
-    },
-    {
-      "date": "2026-10-29",
-      "jour": "Jeudi",
       "sport": "Course",
       "type": "EF + strides",
       "duree": "19min",
@@ -98,6 +87,17 @@
       "rpe": "5",
       "structure": "Z2 49' — allure conversationnelle\nFC : 127-140 bpm",
       "dist_cible": 7.0
+    },
+    {
+      "date": "2026-11-01",
+      "jour": "Dimanche",
+      "sport": "Natation",
+      "type": "Natation endurance",
+      "duree": "1h10",
+      "zone": "-",
+      "rpe": "4",
+      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:29/100 m\n\nCORPS :\n  • 7 x 300 m soutenu · 6'36 par 300 (2:12/100 m) · repos 20 s\n    → départ toutes les 6'56\n  • + 50 m à la suite · 1'06\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2550 m · environ 70'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
+      "dist_cible_m": 2550
     },
     {
       "date": "2026-11-01",
