@@ -226,7 +226,8 @@
 │       ├── snapshot_2026-06.json
 │       ├── snapshot_2026-07.json
 │       ├── snapshot_2026-08.json
-│       └── snapshot_2026-09.json
+│       ├── snapshot_2026-09.json
+│       └── snapshot_2026-10.json
 ├── finances_excel.py
 ├── finances_investments_ui.py
 ├── finances_module.py
@@ -335,4 +336,4 @@
 ├── xlsx_to_programme.py
 └── xlsx_to_programme.py.bak
 
-19 directories, 317 files
+19 directories, 318 files
