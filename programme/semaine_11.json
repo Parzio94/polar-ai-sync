@@ -52,8 +52,8 @@
       "duree": "1h31",
       "zone": "-",
       "rpe": "4",
-      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 800 m continu allure IM · 17'44 (2:13/100 m)\n    passages : 200 m en 4'26 · 400 m en 8'52 · 600 m en 13'18\n    sighting toutes les 6-8 cycles de bras\n  • 15 x 100 m pull buoy · 2'10 par 100 (2:10/100 m) · repos 30 s\n    → départ toutes les 2'40\n  • + 50 m à la suite · 1'05\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3150 m · environ 91'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
-      "dist_cible_m": 3150
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 800 m continu allure IM · 17'44 (2:13/100 m)\n    passages : 200 m en 4'26 · 400 m en 8'52 · 600 m en 13'18\n    sighting toutes les 6-8 cycles de bras\n  • 16 x 100 m pull buoy · 2'10 par 100 (2:10/100 m) · repos 30 s\n    → départ toutes les 2'40\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3150 m · environ 91'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
+      "dist_cible_m": 3200
     },
     {
       "date": "2026-11-12",
@@ -118,8 +118,8 @@
       "duree": "59min",
       "zone": "-",
       "rpe": "4",
-      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:27/100 m\n\nCORPS :\n  • 7 x 300 m soutenu · 6'30 par 300 (2:10/100 m) · repos 20 s\n    → départ toutes les 6'50\n     +50m\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2200 m · environ 59'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
-      "dist_cible_m": 2550
+      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:27/100 m\n\nCORPS :\n  • 7 x 300 m soutenu · 6'30 par 300 (2:10/100 m) · repos 20 s\n    → départ toutes les 6'50\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2200 m · environ 59'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
+      "dist_cible_m": 2500
     }
   ]
 }
