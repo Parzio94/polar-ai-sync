@@ -56,6 +56,17 @@
       "dist_cible": 6.5
     },
     {
+      "date": "2026-12-31",
+      "jour": "Jeudi",
+      "sport": "Natation",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h39",
+      "zone": "-",
+      "rpe": "5",
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 1000 m continu allure IM · 22'10 (2:13/100 m)\n    passages : 200 m en 4'26 · 400 m en 8'52 · 600 m en 13'18 · 800 m en 17'44\n    sighting toutes les 6-8 cycles de bras\n  • 17 x 100 m pull buoy · 2'10 par 100 (2:10/100 m) · repos 30 s\n    → départ toutes les 2'40\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3500 m · environ 99'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
+      "dist_cible_m": 3500
+    },
+    {
       "date": "2027-01-01",
       "jour": "Vendredi",
       "sport": "Repos",
@@ -64,17 +75,6 @@
       "zone": "-",
       "rpe": "1",
       "structure": "Repos complet"
-    },
-    {
-      "date": "2027-01-02",
-      "jour": "Samedi",
-      "sport": "Natation",
-      "type": "Natation technique + bloc IM",
-      "duree": "1h39",
-      "zone": "-",
-      "rpe": "5",
-      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 1000 m continu allure IM · 22'10 (2:13/100 m)\n    passages : 200 m en 4'26 · 400 m en 8'52 · 600 m en 13'18 · 800 m en 17'44\n    sighting toutes les 6-8 cycles de bras\n  • 17 x 100 m pull buoy · 2'10 par 100 (2:10/100 m) · repos 30 s\n    → départ toutes les 2'40\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3500 m · environ 99'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
-      "dist_cible_m": 3500
     },
     {
       "date": "2027-01-02",

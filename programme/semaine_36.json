@@ -59,12 +59,12 @@
       "date": "2027-05-06",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation endurance",
-      "duree": "1h10",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h42",
       "zone": "-",
-      "rpe": "4",
-      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:23/100 m\n\nCORPS :\n  • 8 x 300 m soutenu · 6'18 par 300 (2:06/100 m) · repos 20 s\n    → départ toutes les 6'38\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2800 m · environ 70'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
-      "dist_cible_m": 2800
+      "rpe": "5",
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 2300 m continu allure IM · 49'27 (2:09/100 m)\n    passages : 500 m en 10'45 · 1000 m en 21'30 · 1500 m en 32'15 · 2000 m en 43'00\n    sighting toutes les 6-8 cycles de bras\n  • 8 x 100 m pull buoy · 2'06 par 100 (2:06/100 m) · repos 30 s\n    → départ toutes les 2'36\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3900 m · environ 102'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
+      "dist_cible_m": 3900
     },
     {
       "date": "2027-05-07",
@@ -92,12 +92,12 @@
       "date": "2027-05-08",
       "jour": "Samedi",
       "sport": "Natation",
-      "type": "Natation technique + bloc IM",
-      "duree": "1h42",
+      "type": "Natation endurance",
+      "duree": "1h10",
       "zone": "-",
-      "rpe": "5",
-      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 2300 m continu allure IM · 49'27 (2:09/100 m)\n    passages : 500 m en 10'45 · 1000 m en 21'30 · 1500 m en 32'15 · 2000 m en 43'00\n    sighting toutes les 6-8 cycles de bras\n  • 8 x 100 m pull buoy · 2'06 par 100 (2:06/100 m) · repos 30 s\n    → départ toutes les 2'36\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3900 m · environ 102'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
-      "dist_cible_m": 3900
+      "rpe": "4",
+      "structure": "🎯 Endurance aérobie, allure régulière\n\nÉCHAUFFEMENT — 200 m souple · 2:23/100 m\n\nCORPS :\n  • 8 x 300 m soutenu · 6'18 par 300 (2:06/100 m) · repos 20 s\n    → départ toutes les 6'38\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2800 m · environ 70'\n⚠ Allure constante sur chaque répétition ; sighting toutes les 6-8 cycles de bras",
+      "dist_cible_m": 2800
     },
     {
       "date": "2027-05-08",

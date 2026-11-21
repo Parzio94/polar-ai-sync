@@ -60,12 +60,12 @@
       "date": "2027-06-10",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation récupération",
-      "duree": "1h27",
+      "type": "Natation technique + bloc IM",
+      "duree": "2h",
       "zone": "-",
-      "rpe": "2",
-      "structure": "🎯 Récupération : relâchement et amplitude\n\nÉCHAUFFEMENT — 200 m souple\n\nCORPS :\n  • 27 x 100 m technique, nage relâchée · FC 110-120 · repos 30 s\n  • + 50 m souple\n\nRETOUR AU CALME — 50 m souple\n\n📏 Total 3000 m · environ 87'\n⚠ Séance de récupération : relâchement, amplitude, aucune recherche de vitesse",
-      "dist_cible_m": 3000
+      "rpe": "5",
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 3200 m continu allure IM · 67'44 (2:07/100 m)\n    passages : 500 m en 10'35 · 1000 m en 21'10 · 1500 m en 31'45 · 2000 m en 42'20 · 2500 m en 52'55 · 3000 m en 63'30\n    sighting toutes les 6-8 cycles de bras\n  • 7 x 100 m pull buoy · 2'04 par 100 (2:04/100 m) · repos 30 s\n    → départ toutes les 2'34\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 4700 m · environ 120'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
+      "dist_cible_m": 4700
     },
     {
       "date": "2027-06-11",
@@ -93,12 +93,12 @@
       "date": "2027-06-12",
       "jour": "Samedi",
       "sport": "Natation",
-      "type": "Natation technique + bloc IM",
-      "duree": "2h",
+      "type": "Natation récupération",
+      "duree": "1h27",
       "zone": "-",
-      "rpe": "5",
-      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 3200 m continu allure IM · 67'44 (2:07/100 m)\n    passages : 500 m en 10'35 · 1000 m en 21'10 · 1500 m en 31'45 · 2000 m en 42'20 · 2500 m en 52'55 · 3000 m en 63'30\n    sighting toutes les 6-8 cycles de bras\n  • 7 x 100 m pull buoy · 2'04 par 100 (2:04/100 m) · repos 30 s\n    → départ toutes les 2'34\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 4700 m · environ 120'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
-      "dist_cible_m": 4700
+      "rpe": "2",
+      "structure": "🎯 Récupération : relâchement et amplitude\n\nÉCHAUFFEMENT — 200 m souple\n\nCORPS :\n  • 27 x 100 m technique, nage relâchée · FC 110-120 · repos 30 s\n  • + 50 m souple\n\nRETOUR AU CALME — 50 m souple\n\n📏 Total 3000 m · environ 87'\n⚠ Séance de récupération : relâchement, amplitude, aucune recherche de vitesse",
+      "dist_cible_m": 3000
     },
     {
       "date": "2027-06-12",

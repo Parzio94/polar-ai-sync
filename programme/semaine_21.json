@@ -59,12 +59,12 @@
       "date": "2027-01-21",
       "jour": "Jeudi",
       "sport": "Natation",
-      "type": "Natation seuil + soutenu",
-      "duree": "1h09",
+      "type": "Natation technique + bloc IM",
+      "duree": "1h42",
       "zone": "-",
-      "rpe": "6",
-      "structure": "🎯 Seuil (CSS) puis allure soutenue\n\nÉCHAUFFEMENT — 200 m souple · 2:25/100 m\n\nCORPS :\n  • 10 x 100 m seuil (CSS) · 2'05 par 100 (2:05/100 m) · repos 15 s\n    → départ toutes les 2'20\n  • 6 x 200 m soutenu · 4'16 par 200 (2:08/100 m) · repos 20 s\n    → départ toutes les 4'36\n  • + 50 m à la suite · 1'04\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2650 m · environ 69'\n⚠ Seuil = effort dur mais régulier, même chrono sur chaque 100 m ; sighting toutes les 6-8 cycles de bras",
-      "dist_cible_m": 2650
+      "rpe": "5",
+      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 1500 m continu allure IM · 32'45 (2:11/100 m)\n    passages : 500 m en 10'55 · 1000 m en 21'50\n    sighting toutes les 6-8 cycles de bras\n  • 14 x 100 m pull buoy · 2'08 par 100 (2:08/100 m) · repos 30 s\n    → départ toutes les 2'38\n  • + 50 m à la suite · 1'04\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3750 m · environ 102'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
+      "dist_cible_m": 3750
     },
     {
       "date": "2027-01-22",
@@ -92,12 +92,12 @@
       "date": "2027-01-23",
       "jour": "Samedi",
       "sport": "Natation",
-      "type": "Natation technique + bloc IM",
-      "duree": "1h42",
+      "type": "Natation seuil + soutenu",
+      "duree": "1h09",
       "zone": "-",
-      "rpe": "5",
-      "structure": "🎯 Technique, puis allure IM en continu\n\nÉCHAUFFEMENT — 4 x 50 m facile · repos 30 s\nÉDUCATIFS — 8 x 50 m (catch-up, finger drag, sighting) · repos 30 s\n\nCORPS :\n  • 1500 m continu allure IM · 32'45 (2:11/100 m)\n    passages : 500 m en 10'55 · 1000 m en 21'50\n    sighting toutes les 6-8 cycles de bras\n  • 14 x 100 m pull buoy · 2'08 par 100 (2:08/100 m) · repos 30 s\n    → départ toutes les 2'38\n  • + 50 m à la suite · 1'04\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 3750 m · environ 102'\n⚠ Pilotage à l'horloge du bassin : la FC au poignet est peu fiable dans l'eau",
-      "dist_cible_m": 3750
+      "rpe": "6",
+      "structure": "🎯 Seuil (CSS) puis allure soutenue\n\nÉCHAUFFEMENT — 200 m souple · 2:25/100 m\n\nCORPS :\n  • 10 x 100 m seuil (CSS) · 2'05 par 100 (2:05/100 m) · repos 15 s\n    → départ toutes les 2'20\n  • 6 x 200 m soutenu · 4'16 par 200 (2:08/100 m) · repos 20 s\n    → départ toutes les 4'36\n  • + 50 m à la suite · 1'04\n\nRETOUR AU CALME — 200 m souple\n\n📏 Total 2650 m · environ 69'\n⚠ Seuil = effort dur mais régulier, même chrono sur chaque 100 m ; sighting toutes les 6-8 cycles de bras",
+      "dist_cible_m": 2650
     },
     {
       "date": "2027-01-23",
