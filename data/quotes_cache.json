@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-11-23T14:00:12.009469+00:00",
+  "updated_at": "2026-11-23T14:31:06.442512+00:00",
   "quotes": {
-    "AIR.PA": 192.94,
-    "BNP.PA": 90.49,
-    "ESE.PA": 32.8447,
-    "CACC.PA": 40.69,
-    "HO.PA": 226.5,
-    "MC.PA": 384.95,
-    "PAEEM.PA": 31.525,
+    "AIR.PA": 194.34,
+    "BNP.PA": 91.74,
+    "ESE.PA": 33.4925,
+    "CACC.PA": 40.88,
+    "HO.PA": 227.5,
+    "MC.PA": 386.1,
+    "PAEEM.PA": 33.0,
     "PANQ.PA": null,
-    "SAF.PA": 298.7,
-    "SGO.PA": 72.04,
-    "SOI.PA": 97.52,
-    "SU.PA": 230.25,
-    "TTE.PA": 78.08,
-    "VU.PA": 148.2,
+    "SAF.PA": 302.2,
+    "SGO.PA": 72.56,
+    "SOI.PA": null,
+    "SU.PA": 236.75,
+    "TTE.PA": 77.83,
+    "VU.PA": null,
     "005930.KS": 177500.0,
-    "AMD": 424.39,
-    "BLK": 1101.72,
-    "CVX": 208.37,
-    "IGLN.L": 70.18,
-    "ISLN.L": 40.17,
+    "AMD": 472.35,
+    "BLK": 1145.43,
+    "CVX": 205.8,
+    "IGLN.L": 70.15,
+    "ISLN.L": 41.45,
     "MA": 625.59,
-    "MSFT": 484.52,
-    "NVDA": 125.53,
-    "ORCL": 101.19,
-    "V": 401.87,
-    "XOM": 159.99,
-    "__eurusd": 1.0934,
-    "__eurgbp": 0.8364
+    "MSFT": null,
+    "NVDA": null,
+    "ORCL": 116.1,
+    "V": null,
+    "XOM": null,
+    "__eurusd": 1.0943,
+    "__eurgbp": 0.8366
   },
   "crypto": {
     "bitcoin": {
-      "eur": 57815
+      "eur": 58818
     },
     "ethereum": {
-      "eur": 1634.86
+      "eur": 1679.03
     },
     "solana": {
-      "eur": 69.14
+      "eur": 71.43
     }
   }
 }
