@@ -15,12 +15,12 @@
       "date": "2026-12-08",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — Pyramide 400-300-200-100m x3",
-      "duree": "54min",
+      "type": "Qualité — Pyramide 400-300-200-100m x4",
+      "duree": "1h11",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "🎯 Vélocité et économie de course (fractions courtes)\n\nÉCHAUFFEMENT — 12' EF · 6'05-6'20/km · <140 bpm\n\nCORPS — 3 x (enchaîné, sans arrêt) :\n  • 400 m lent · 1'56 (4'45-4'55/km)\n  • 400 m · 1'35-1'37 (3'58-4'02/km)\n  • 300 m lent · 1'27\n  • 300 m · 69-70'' (3'50-3'54/km)\n  • 200 m lent · 58''\n  • 200 m · 44-45'' (3'42-3'45/km)\n  • 100 m lent · 29''\n  • 100 m · 21'' (3'30-3'35/km)\n  → 3' récup entre séries\n\nRETOUR AU CALME — 8' EF · 6'05-6'20/km\n\n⚠ Pilotage au chrono (piste ou portion mesurée) : ignore la FC et l'allure GPS sur les fractions courtes",
-      "dist_cible": 9.5
+      "structure": "🎯 Vélocité et économie de course (fractions courtes)\n\nÉCHAUFFEMENT — 15' EF · 6'05-6'20/km · <140 bpm\n\nCORPS — 4 x (enchaîné, sans arrêt) :\n  • 400 m lent · 1'56 (4'45-4'55/km)\n  • 400 m · 1'35-1'37 (3'58-4'02/km)\n  • 300 m lent · 1'27\n  • 300 m · 69-70'' (3'50-3'54/km)\n  • 200 m lent · 58''\n  • 200 m · 44-45'' (3'42-3'45/km)\n  • 100 m lent · 29''\n  • 100 m · 21'' (3'30-3'35/km)\n  → 3' récup (trot) entre séries\n\nRETOUR AU CALME — 12' EF · 6'05-6'20/km\n\n📏 Total ≈ 13,5 km · environ 71'\n📝 Décembre : les 4 km du footing du vendredi sont intégrés à cette séance\n⚠ Pilotage au chrono (piste ou portion mesurée) : ignore la FC et l'allure GPS sur les fractions courtes\n⚠ Si les fractions rapides de la 4e série perdent plus de 3'', arrête-toi à 3 séries (VO2 vélo demain)",
+      "dist_cible": 13.5
     },
     {
       "date": "2026-12-08",
@@ -65,17 +65,6 @@
       "rpe": "2",
       "structure": "56' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
       "dist_cible": 9.0
-    },
-    {
-      "date": "2026-12-11",
-      "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "27min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "27' EF Z1-Z2 (120-135 bpm) — COURT\nVraie récup — pas de strides",
-      "dist_cible": 4.0
     },
     {
       "date": "2026-12-11",

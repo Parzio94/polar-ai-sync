@@ -15,12 +15,12 @@
       "date": "2026-12-15",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 20-15-10 (SV1 / SV1+ / Allure IM)",
-      "duree": "1h05",
+      "type": "Qualité — 25-15-10 (SV1 / SV1+ / Allure IM)",
+      "duree": "1h18",
       "zone": "Z3",
       "rpe": "6",
-      "structure": "🎯 Durabilité : finir à l'allure IM après SV1 → SV1+\n\nÉCHAUFFEMENT — 8' EF · 6'05-6'20/km · <140 bpm\n\nCORPS :\n  • 20' SV1 · 4'30-4'45/km · FC 155-165\n  • 3' récup\n  • 15' SV1+ · 4'12-4'25/km · FC 165-171\n  • 3' récup\n  • 10' allure IM · 4'55-5'10/km · FC 150-155\n\nRETOUR AU CALME — 6' EF · 6'05-6'20/km\n\n🍌 Répéter le ravitaillement : 30 g de glucides\n⚠ Bloc IM final jamais sous 4'55 : c'est l'exercice de retenue du jour J",
-      "dist_cible": 11.0
+      "structure": "🎯 Durabilité : finir à l'allure IM après SV1 → SV1+\n\nÉCHAUFFEMENT — 12' EF · 6'05-6'20/km · <140 bpm\n\nCORPS :\n  • 25' SV1 · 4'30-4'45/km · FC 155-165\n  • 3' récup\n  • 15' SV1+ · 4'12-4'25/km · FC 165-171\n  • 3' récup\n  • 10' allure IM · 4'55-5'10/km · FC 150-155\n\nRETOUR AU CALME — 10' EF · 6'05-6'20/km\n\n📏 Total ≈ 15 km · environ 78'\n📝 Décembre : les 4 km du footing du vendredi sont intégrés à cette séance\n🍌 Répéter le ravitaillement : 30 g de glucides\n⚠ Bloc IM final jamais sous 4'55 : c'est l'exercice de retenue du jour J",
+      "dist_cible": 15.0
     },
     {
       "date": "2026-12-15",
@@ -65,17 +65,6 @@
       "rpe": "2",
       "structure": "62' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
       "dist_cible": 10.0
-    },
-    {
-      "date": "2026-12-18",
-      "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "27min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "27' EF Z1-Z2 (120-135 bpm) — COURT\nVraie récup — pas de strides",
-      "dist_cible": 4.0
     },
     {
       "date": "2026-12-18",

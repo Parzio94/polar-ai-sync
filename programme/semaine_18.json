@@ -15,12 +15,12 @@
       "date": "2026-12-29",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 1km lent/rapide x2 (80/87%)",
-      "duree": "43min",
+      "type": "Qualité — 1km lent/rapide x3 (80/87%)",
+      "duree": "51min",
       "zone": "Z3-Z4",
       "rpe": "6",
-      "structure": "🎯 Économie de course et relance\n\nÉCHAUFFEMENT — 11' EF · 6'05-6'20/km · <140 bpm\n\nCORPS — 2 x :\n  • 1 km LENT · 4'45-4'55/km · FC fin ≈155\n  • 1'15 récup (trot lent)\n  • 1 km RAPIDE · 4'08-4'15/km · FC fin ≈169\n  → 1'40 récup entre séries\n\nRETOUR AU CALME — 8' EF · 6'05-6'20/km\n\n⚠ Km lent jamais sous 4'40 : la régularité passe avant la vitesse",
-      "dist_cible": 7.5
+      "structure": "🎯 Économie de course et relance\n\nÉCHAUFFEMENT — 11' EF · 6'05-6'20/km · <140 bpm\n\nCORPS — 3 x :\n  • 1 km LENT · 4'45-4'55/km · FC fin ≈155\n  • 1'15 récup (trot lent)\n  • 1 km RAPIDE · 4'08-4'15/km · FC fin ≈169\n  → 1'40 récup entre séries\n\nRETOUR AU CALME — 6' EF · 6'05-6'20/km\n\n📏 Total ≈ 9,5 km · environ 51'\n📝 3e série ajoutée : semaine orientée course\n⚠ Km lent jamais sous 4'40 : la régularité passe avant la vitesse",
+      "dist_cible": 9.5
     },
     {
       "date": "2026-12-30",

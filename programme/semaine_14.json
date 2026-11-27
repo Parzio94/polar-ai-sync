@@ -15,12 +15,12 @@
       "date": "2026-12-01",
       "jour": "Mardi",
       "sport": "Course",
-      "type": "Qualité — 12' prog + 400m/300m x4",
-      "duree": "52min",
+      "type": "Qualité — 12' prog + 400m/300m x6",
+      "duree": "1h10",
       "zone": "Z3-Z4",
       "rpe": "7",
-      "structure": "🎯 VO2max et vitesse après montée progressive\n\nÉCHAUFFEMENT — 6' EF · 6'05-6'20/km · <140 bpm\nPROGRESSIF — 12' de 6'05-6'20/km vers 4'55-5'10/km (150-155 bpm)\n  → 3' récup\n\nCORPS :\n  • 4 x 400 m · 1'35-1'37 (allure 10 km) — 1' récup\n  • 4 x 300 m · 67-68'' (allure 5 km) — 1' récup\n\nRETOUR AU CALME — 10' EF · 6'05-6'20/km\n\n⚠ Pilotage au chrono, pas à la FC. Si la foulée se dégrade, arrête la série",
-      "dist_cible": 8.5
+      "structure": "🎯 VO2max et vitesse après montée progressive\n\nÉCHAUFFEMENT — 15' EF · 6'05-6'20/km · <140 bpm\nPROGRESSIF — 12' de 6'05-6'20/km vers 4'55-5'10/km (150-155 bpm)\n  → 3' récup\n\nCORPS :\n  • 6 x 400 m · 1'35-1'37 (allure 10 km) — 1' récup\n  → 2' récup\n  • 6 x 300 m · 67-68'' (allure 5 km) — 1' récup\n\nRETOUR AU CALME — 12' EF · 6'05-6'20/km\n\n📏 Total ≈ 12,5 km · environ 70'\n📝 Décembre : les 4 km du footing du vendredi sont intégrés à cette séance\n⚠ Pilotage au chrono, pas à la FC. Si la foulée se dégrade, arrête la série",
+      "dist_cible": 12.5
     },
     {
       "date": "2026-12-01",
@@ -65,17 +65,6 @@
       "rpe": "2",
       "structure": "46' EF Z2 (127-140 bpm)\n6x20'' accélérations en fin — allure libre\nTrès facile, aucune pression chrono",
       "dist_cible": 7.5
-    },
-    {
-      "date": "2026-12-04",
-      "jour": "Vendredi",
-      "sport": "Course",
-      "type": "EF Z2 — court",
-      "duree": "27min",
-      "zone": "Z1-Z2",
-      "rpe": "2",
-      "structure": "27' EF Z1-Z2 (120-135 bpm) — COURT\nVraie récup — pas de strides",
-      "dist_cible": 4.0
     },
     {
       "date": "2026-12-04",
